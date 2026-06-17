@@ -1,68 +1,189 @@
-# FC Mobile World Cup Reward Watcher
+# FC Mobile World Cup 2026 Reward Watcher
 
-## What is this?
+Automatically claims the free "World's Game" halftime gift in FC Mobile during
+every 2026 World Cup match — so you never miss a reward even if you're asleep
+or away.
 
-During the 2026 World Cup, EA Sports FC Mobile gives out a free "World's Game"
-halftime gift during every match — but only if you open the app and tap
-**CLAIM REWARD** while the gift is available. The gift is only claimable for a
-short window during each match, and if you miss it, it's gone.
+During each match EA gives a free gift that's only claimable for a 45-minute
+window around halftime. This bot watches the schedule, launches BlueStacks and
+FC Mobile at the right moment, taps through the full reward chain, screenshots
+what you won, then closes everything again.
 
-This tool watches the World Cup match schedule for you. When a gift becomes
-available, it automatically:
+---
 
-1. Opens BlueStacks (the Android emulator) and FC Mobile, if they aren't
-   already open.
-2. Closes any pop-ups in the way.
-3. Taps **CLAIM REWARD**, then opens the gift pack that appears, then taps
-   **CONTINUE** to reveal the prize — taking a screenshot of each prize along
-   the way.
-4. If more than one reward is waiting (not just this match's gift, but
-   anything else queued up), it keeps going until everything is claimed.
-5. Closes FC Mobile and BlueStacks again.
+## Prerequisites
 
-If you're already using FC Mobile yourself when a gift becomes available, the
-watcher notices and leaves you alone — it won't interrupt anything you're
-doing.
+| Requirement | Notes |
+|---|---|
+| **Windows 10 / 11** | macOS/Linux not supported — relies on BlueStacks for Windows and `.bat` scripts |
+| **Python 3.10+** | [python.org](https://www.python.org/downloads/) — tick "Add to PATH" during install |
+| **BlueStacks 5** | [bluestacks.com](https://www.bluestacks.com/) — install and sign in with your Google account |
+| **FC Mobile** | Install from the Play Store inside BlueStacks and log in to your EA account |
+| **Android SDK Platform Tools** | Provides `adb.exe` — download the zip from [developer.android.com/tools/releases/platform-tools](https://developer.android.com/tools/releases/platform-tools), extract anywhere |
 
-## How to start it
+---
 
-On your Desktop there's an icon called **"FC Mobile Reward Watcher"**.
+## One-time setup
 
-1. Double-click it.
-2. A black window will pop up and start printing messages like
-   `loaded 88 upcoming/scheduled matches`. That means it's working.
-3. **Leave that window open.** It needs to keep running in the background to
-   catch each match's reward window. You can minimize it, but don't close it.
+### 1. Clone the repo
 
-That's it — you don't need to do anything else. It will sit quietly until the
-next match's reward becomes available, then spring into action on its own.
+```
+git clone https://github.com/mdatikshahriar/fc-mobile.git
+cd fc-mobile
+```
 
-## How to stop it
+### 2. Install Python dependencies
 
-Double-click the same **"FC Mobile Reward Watcher"** icon again. It will
-detect that it's already running and shut itself down.
+```
+pip install -r requirements.txt
+```
 
-(You can also just close the black window directly — either way works.)
+### 3. Set BlueStacks resolution to 1600 × 900
 
-## How do I know if it's working / what did it claim?
+The button templates are captured at exactly this resolution — any other size
+will break detection.
 
-- **`rewards` folder** (in this project folder) — every time a reward is
-  successfully claimed, a screenshot of the prize is saved here, named with
-  the date/time and the two teams that played, e.g.
-  `20260617_015532_France_vs_Senegal.png`.
-- **`AUDIT_LOG.md`** (in this project folder) — a plain text diary of
-  everything the watcher has done, with timestamps, such as when a match
-  window opened, when it claimed a reward, or if something went wrong.
+In BlueStacks: **Settings → Display → Resolution → 1600 × 900**, then restart
+BlueStacks.
 
-## A few things to know
+### 4. Enable ADB in BlueStacks
 
-- **Your PC needs to be on** for this to work — if you shut down or restart,
-  just double-click the desktop icon again afterward to start the watcher.
-- **It won't interfere if you're playing FC Mobile yourself.** If the app is
-  already open when a reward window starts, the watcher just waits and checks
-  back again a little later in case you close it.
-- It only acts on **matches that are still upcoming**. Matches that have
-  already been played are skipped automatically.
-- If FIFA changes/confirms a fixture (for example, knockout-stage matchups
-  that were "TBD"), the schedule may need to be refreshed — ask whoever set
-  this up to re-run the schedule update.
+In BlueStacks: **Settings → Advanced → Android Debug Bridge → Enable**.
+
+Note the ADB port shown there (default is `5555`).
+
+### 5. Find your BlueStacks instance name
+
+Open BlueStacks Multi-Instance Manager — the instance name is shown in the
+title bar of each instance (e.g. `Pie64`, `Nougat64`, etc.).
+
+### 6. Edit `automation/adb_controller.py`
+
+Update the three constants at the top of the file to match your machine:
+
+```python
+ADB = r"C:\path\to\your\platform-tools\adb.exe"   # full path to adb.exe
+BLUESTACKS_EXE = r"C:\Program Files\BlueStacks_nxt\HD-Player.exe"  # usually unchanged
+BLUESTACKS_INSTANCE = "Pie64"                       # your instance name from step 5
+```
+
+The `DEVICE` value (`127.0.0.1:5555`) only needs changing if your BlueStacks
+ADB port differs from 5555.
+
+### 7. Verify ADB works
+
+With BlueStacks running, open a terminal and run:
+
+```
+adb connect 127.0.0.1:5555
+adb -s 127.0.0.1:5555 get-state
+```
+
+You should see `device`. If you see `offline` or an error, double-check that
+ADB is enabled in BlueStacks settings (step 4).
+
+---
+
+## Running the watcher
+
+Double-click **`automation/watcher.bat`**.
+
+A console window opens titled "FC Mobile Reward Watcher" and prints something
+like:
+
+```
+loaded 88 upcoming/scheduled matches, 0 already claimed
+```
+
+**Leave that window open.** It sleeps quietly until the next match's reward
+window opens, then springs into action automatically. You can minimize it, but
+closing it stops the watcher.
+
+Double-clicking `watcher.bat` again while it's already running will stop it.
+
+### What happens during a claim
+
+1. BlueStacks and FC Mobile are launched automatically.
+2. Any in-app pop-ups blocking the screen are dismissed.
+3. The **CLAIM REWARD** button is tapped.
+4. The gift pack is opened (**TAP TO OPEN**).
+5. All items are revealed at once (**REVEAL ALL**) — one screenshot is saved.
+6. The reward screen is dismissed (**CONTINUE**).
+7. If more rewards are queued (from other in-game events), the loop continues
+   until everything is claimed.
+8. FC Mobile and BlueStacks are closed.
+
+### If you're using FC Mobile yourself
+
+The watcher checks whether FC Mobile is already running before doing anything.
+If it is, it assumes you're playing and leaves everything alone — it retries
+automatically a little later in the same window.
+
+### Where to see results
+
+- **`rewards/`** — one screenshot per match, named by date, time, and teams
+  (e.g. `20260617_045721_Iraq_vs_Norway.png`).
+- **`AUDIT_LOG.md`** — full timestamped log of every action taken.
+
+---
+
+## Keeping the schedule up to date
+
+The fixture list (`worldcup_2026_schedule.json`) is included. Knockout-stage
+matchups start as "TBD" on the FIFA site and are confirmed as the tournament
+progresses — you'll need to refresh the file when that happens.
+
+The fixtures page is JavaScript-rendered, so it can't be fetched directly.
+Instead:
+
+1. Open the FIFA World Cup fixtures page in your browser and apply the
+   **BDT** timezone filter.
+2. Save the page: **Ctrl + S → Webpage, Complete**.
+3. Run:
+
+```
+python scripts/parse_fixtures.py "path\to\saved fixtures.html"
+```
+
+This overwrites `worldcup_2026_schedule.json` with the updated data.
+
+---
+
+## Timing
+
+| Event | Offset from kickoff |
+|---|---|
+| Reward actually unlocks | + 45 min |
+| Watcher starts acting | + 55 min (10 min safety buffer) |
+| Reward window closes | + 90 min |
+
+The watcher has 35 minutes to claim each reward. If it misses the window for
+any reason it logs the failure and moves on — it will not retry a closed
+window.
+
+---
+
+## Troubleshooting
+
+**ADB can't connect**
+- Make sure BlueStacks is fully open (not still loading).
+- Confirm ADB is enabled in BlueStacks Settings → Advanced.
+- Check the port in BlueStacks settings matches `DEVICE` in `adb_controller.py`.
+
+**Nothing is being detected / claim silently times out**
+- Confirm your BlueStacks display is set to exactly 1600 × 900.
+- Check `automation/debug/current.png` to see what the screen looks like
+  during a poll.
+
+**The watcher stops after a restart**
+- It only keeps running as long as the console window is open. Re-launch by
+  double-clicking `watcher.bat` after any restart.
+
+**Claimed set seems wrong / need a clean slate**
+- Delete or empty `automation/state.json` — it will be recreated on next
+  launch.
+
+---
+
+For a deeper technical reference (architecture, detection pipeline, known
+gotchas), see [TECHNICAL.md](TECHNICAL.md).
