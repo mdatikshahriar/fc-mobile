@@ -1,0 +1,834 @@
+[
+  {
+    "date": "Friday 12 June 2026",
+    "time_bdt": null,
+    "home": "Mexico",
+    "away": "South Africa",
+    "group": "Group A",
+    "venue": "Mexico City Stadium (Mexico City)"
+  },
+  {
+    "date": "Friday 12 June 2026",
+    "time_bdt": null,
+    "home": "Korea Republic",
+    "away": "Czechia",
+    "group": "Group A",
+    "venue": "Guadalajara Stadium (Guadalajara)"
+  },
+  {
+    "date": "Saturday 13 June 2026",
+    "time_bdt": null,
+    "home": "Canada",
+    "away": "Bosnia and Herzegovina",
+    "group": "Group B",
+    "venue": "Toronto Stadium (Toronto)"
+  },
+  {
+    "date": "Saturday 13 June 2026",
+    "time_bdt": null,
+    "home": "USA",
+    "away": "Paraguay",
+    "group": "Group D",
+    "venue": "Los Angeles Stadium (Los Angeles)"
+  },
+  {
+    "date": "Sunday 14 June 2026",
+    "time_bdt": null,
+    "home": "Qatar",
+    "away": "Switzerland",
+    "group": "Group B",
+    "venue": "San Francisco Bay Area Stadium (San Francisco Bay Area)"
+  },
+  {
+    "date": "Sunday 14 June 2026",
+    "time_bdt": null,
+    "home": "Brazil",
+    "away": "Morocco",
+    "group": "Group C",
+    "venue": "New York/New Jersey Stadium (New Jersey)"
+  },
+  {
+    "date": "Sunday 14 June 2026",
+    "time_bdt": null,
+    "home": "Haiti",
+    "away": "Scotland",
+    "group": "Group C",
+    "venue": "Boston Stadium (Boston)"
+  },
+  {
+    "date": "Sunday 14 June 2026",
+    "time_bdt": null,
+    "home": "Australia",
+    "away": "Türkiye",
+    "group": "Group D",
+    "venue": "BC Place Vancouver (Vancouver)"
+  },
+  {
+    "date": "Sunday 14 June 2026",
+    "time_bdt": null,
+    "home": "Germany",
+    "away": "Curaçao",
+    "group": "Group E",
+    "venue": "Houston Stadium (Houston)"
+  },
+  {
+    "date": "Monday 15 June 2026",
+    "time_bdt": null,
+    "home": "Netherlands",
+    "away": "Japan",
+    "group": "Group F",
+    "venue": "Dallas Stadium (Dallas)"
+  },
+  {
+    "date": "Monday 15 June 2026",
+    "time_bdt": null,
+    "home": "Côte d'Ivoire",
+    "away": "Ecuador",
+    "group": "Group E",
+    "venue": "Philadelphia Stadium (Philadelphia)"
+  },
+  {
+    "date": "Monday 15 June 2026",
+    "time_bdt": null,
+    "home": "Sweden",
+    "away": "Tunisia",
+    "group": "Group F",
+    "venue": "Monterrey Stadium (Monterrey)"
+  },
+  {
+    "date": "Monday 15 June 2026",
+    "time_bdt": null,
+    "home": "Spain",
+    "away": "Cabo Verde",
+    "group": "Group H",
+    "venue": "Atlanta Stadium (Atlanta)"
+  },
+  {
+    "date": "Tuesday 16 June 2026",
+    "time_bdt": null,
+    "home": "Belgium",
+    "away": "Egypt",
+    "group": "Group G",
+    "venue": "Seattle Stadium (Seattle)"
+  },
+  {
+    "date": "Tuesday 16 June 2026",
+    "time_bdt": null,
+    "home": "Saudi Arabia",
+    "away": "Uruguay",
+    "group": "Group H",
+    "venue": "Miami Stadium (Miami)"
+  },
+  {
+    "date": "Tuesday 16 June 2026",
+    "time_bdt": null,
+    "home": "IR Iran",
+    "away": "New Zealand",
+    "group": "Group G",
+    "venue": "Los Angeles Stadium (Los Angeles)"
+  },
+  {
+    "date": "Wednesday 17 June 2026",
+    "time_bdt": "01:00",
+    "home": "France",
+    "away": "Senegal",
+    "group": "Group I",
+    "venue": "New York/New Jersey Stadium (New Jersey)"
+  },
+  {
+    "date": "Wednesday 17 June 2026",
+    "time_bdt": "04:00",
+    "home": "Iraq",
+    "away": "Norway",
+    "group": "Group I",
+    "venue": "Boston Stadium (Boston)"
+  },
+  {
+    "date": "Wednesday 17 June 2026",
+    "time_bdt": "07:00",
+    "home": "Argentina",
+    "away": "Algeria",
+    "group": "Group J",
+    "venue": "Kansas City Stadium (Kansas City)"
+  },
+  {
+    "date": "Wednesday 17 June 2026",
+    "time_bdt": "10:00",
+    "home": "Austria",
+    "away": "Jordan",
+    "group": "Group J",
+    "venue": "San Francisco Bay Area Stadium (San Francisco Bay Area)"
+  },
+  {
+    "date": "Wednesday 17 June 2026",
+    "time_bdt": "23:00",
+    "home": "Portugal",
+    "away": "Congo DR",
+    "group": "Group K",
+    "venue": "Houston Stadium (Houston)"
+  },
+  {
+    "date": "Thursday 18 June 2026",
+    "time_bdt": "02:00",
+    "home": "England",
+    "away": "Croatia",
+    "group": "Group L",
+    "venue": "Dallas Stadium (Dallas)"
+  },
+  {
+    "date": "Thursday 18 June 2026",
+    "time_bdt": "05:00",
+    "home": "Ghana",
+    "away": "Panama",
+    "group": "Group L",
+    "venue": "Toronto Stadium (Toronto)"
+  },
+  {
+    "date": "Thursday 18 June 2026",
+    "time_bdt": "08:00",
+    "home": "Uzbekistan",
+    "away": "Colombia",
+    "group": "Group K",
+    "venue": "Mexico City Stadium (Mexico City)"
+  },
+  {
+    "date": "Thursday 18 June 2026",
+    "time_bdt": "22:00",
+    "home": "Czechia",
+    "away": "South Africa",
+    "group": "Group A",
+    "venue": "Atlanta Stadium (Atlanta)"
+  },
+  {
+    "date": "Friday 19 June 2026",
+    "time_bdt": "01:00",
+    "home": "Switzerland",
+    "away": "Bosnia and Herzegovina",
+    "group": "Group B",
+    "venue": "Los Angeles Stadium (Los Angeles)"
+  },
+  {
+    "date": "Friday 19 June 2026",
+    "time_bdt": "04:00",
+    "home": "Canada",
+    "away": "Qatar",
+    "group": "Group B",
+    "venue": "BC Place Vancouver (Vancouver)"
+  },
+  {
+    "date": "Friday 19 June 2026",
+    "time_bdt": "07:00",
+    "home": "Mexico",
+    "away": "Korea Republic",
+    "group": "Group A",
+    "venue": "Guadalajara Stadium (Guadalajara)"
+  },
+  {
+    "date": "Saturday 20 June 2026",
+    "time_bdt": "01:00",
+    "home": "USA",
+    "away": "Australia",
+    "group": "Group D",
+    "venue": "Seattle Stadium (Seattle)"
+  },
+  {
+    "date": "Saturday 20 June 2026",
+    "time_bdt": "04:00",
+    "home": "Scotland",
+    "away": "Morocco",
+    "group": "Group C",
+    "venue": "Boston Stadium (Boston)"
+  },
+  {
+    "date": "Saturday 20 June 2026",
+    "time_bdt": "06:30",
+    "home": "Brazil",
+    "away": "Haiti",
+    "group": "Group C",
+    "venue": "Philadelphia Stadium (Philadelphia)"
+  },
+  {
+    "date": "Saturday 20 June 2026",
+    "time_bdt": "09:00",
+    "home": "Türkiye",
+    "away": "Paraguay",
+    "group": "Group D",
+    "venue": "San Francisco Bay Area Stadium (San Francisco Bay Area)"
+  },
+  {
+    "date": "Saturday 20 June 2026",
+    "time_bdt": "23:00",
+    "home": "Netherlands",
+    "away": "Sweden",
+    "group": "Group F",
+    "venue": "Houston Stadium (Houston)"
+  },
+  {
+    "date": "Sunday 21 June 2026",
+    "time_bdt": "02:00",
+    "home": "Germany",
+    "away": "Côte d'Ivoire",
+    "group": "Group E",
+    "venue": "Toronto Stadium (Toronto)"
+  },
+  {
+    "date": "Sunday 21 June 2026",
+    "time_bdt": "06:00",
+    "home": "Ecuador",
+    "away": "Curaçao",
+    "group": "Group E",
+    "venue": "Kansas City Stadium (Kansas City)"
+  },
+  {
+    "date": "Sunday 21 June 2026",
+    "time_bdt": "10:00",
+    "home": "Tunisia",
+    "away": "Japan",
+    "group": "Group F",
+    "venue": "Monterrey Stadium (Monterrey)"
+  },
+  {
+    "date": "Sunday 21 June 2026",
+    "time_bdt": "22:00",
+    "home": "Spain",
+    "away": "Saudi Arabia",
+    "group": "Group H",
+    "venue": "Atlanta Stadium (Atlanta)"
+  },
+  {
+    "date": "Monday 22 June 2026",
+    "time_bdt": "01:00",
+    "home": "Belgium",
+    "away": "IR Iran",
+    "group": "Group G",
+    "venue": "Los Angeles Stadium (Los Angeles)"
+  },
+  {
+    "date": "Monday 22 June 2026",
+    "time_bdt": "04:00",
+    "home": "Uruguay",
+    "away": "Cabo Verde",
+    "group": "Group H",
+    "venue": "Miami Stadium (Miami)"
+  },
+  {
+    "date": "Monday 22 June 2026",
+    "time_bdt": "07:00",
+    "home": "New Zealand",
+    "away": "Egypt",
+    "group": "Group G",
+    "venue": "BC Place Vancouver (Vancouver)"
+  },
+  {
+    "date": "Monday 22 June 2026",
+    "time_bdt": "23:00",
+    "home": "Argentina",
+    "away": "Austria",
+    "group": "Group J",
+    "venue": "Dallas Stadium (Dallas)"
+  },
+  {
+    "date": "Tuesday 23 June 2026",
+    "time_bdt": "03:00",
+    "home": "France",
+    "away": "Iraq",
+    "group": "Group I",
+    "venue": "Philadelphia Stadium (Philadelphia)"
+  },
+  {
+    "date": "Tuesday 23 June 2026",
+    "time_bdt": "06:00",
+    "home": "Norway",
+    "away": "Senegal",
+    "group": "Group I",
+    "venue": "New York/New Jersey Stadium (New Jersey)"
+  },
+  {
+    "date": "Tuesday 23 June 2026",
+    "time_bdt": "09:00",
+    "home": "Jordan",
+    "away": "Algeria",
+    "group": "Group J",
+    "venue": "San Francisco Bay Area Stadium (San Francisco Bay Area)"
+  },
+  {
+    "date": "Tuesday 23 June 2026",
+    "time_bdt": "23:00",
+    "home": "Portugal",
+    "away": "Uzbekistan",
+    "group": "Group K",
+    "venue": "Houston Stadium (Houston)"
+  },
+  {
+    "date": "Wednesday 24 June 2026",
+    "time_bdt": "02:00",
+    "home": "England",
+    "away": "Ghana",
+    "group": "Group L",
+    "venue": "Boston Stadium (Boston)"
+  },
+  {
+    "date": "Wednesday 24 June 2026",
+    "time_bdt": "05:00",
+    "home": "Panama",
+    "away": "Croatia",
+    "group": "Group L",
+    "venue": "Toronto Stadium (Toronto)"
+  },
+  {
+    "date": "Wednesday 24 June 2026",
+    "time_bdt": "08:00",
+    "home": "Colombia",
+    "away": "Congo DR",
+    "group": "Group K",
+    "venue": "Guadalajara Stadium (Guadalajara)"
+  },
+  {
+    "date": "Thursday 25 June 2026",
+    "time_bdt": "01:00",
+    "home": "Switzerland",
+    "away": "Canada",
+    "group": "Group B",
+    "venue": "BC Place Vancouver (Vancouver)"
+  },
+  {
+    "date": "Thursday 25 June 2026",
+    "time_bdt": "01:00",
+    "home": "Bosnia and Herzegovina",
+    "away": "Qatar",
+    "group": "Group B",
+    "venue": "Seattle Stadium (Seattle)"
+  },
+  {
+    "date": "Thursday 25 June 2026",
+    "time_bdt": "04:00",
+    "home": "Scotland",
+    "away": "Brazil",
+    "group": "Group C",
+    "venue": "Miami Stadium (Miami)"
+  },
+  {
+    "date": "Thursday 25 June 2026",
+    "time_bdt": "04:00",
+    "home": "Morocco",
+    "away": "Haiti",
+    "group": "Group C",
+    "venue": "Atlanta Stadium (Atlanta)"
+  },
+  {
+    "date": "Thursday 25 June 2026",
+    "time_bdt": "07:00",
+    "home": "Czechia",
+    "away": "Mexico",
+    "group": "Group A",
+    "venue": "Mexico City Stadium (Mexico City)"
+  },
+  {
+    "date": "Thursday 25 June 2026",
+    "time_bdt": "07:00",
+    "home": "South Africa",
+    "away": "Korea Republic",
+    "group": "Group A",
+    "venue": "Monterrey Stadium (Monterrey)"
+  },
+  {
+    "date": "Friday 26 June 2026",
+    "time_bdt": "02:00",
+    "home": "Curaçao",
+    "away": "Côte d'Ivoire",
+    "group": "Group E",
+    "venue": "Philadelphia Stadium (Philadelphia)"
+  },
+  {
+    "date": "Friday 26 June 2026",
+    "time_bdt": "02:00",
+    "home": "Ecuador",
+    "away": "Germany",
+    "group": "Group E",
+    "venue": "New York/New Jersey Stadium (New Jersey)"
+  },
+  {
+    "date": "Friday 26 June 2026",
+    "time_bdt": "05:00",
+    "home": "Japan",
+    "away": "Sweden",
+    "group": "Group F",
+    "venue": "Dallas Stadium (Dallas)"
+  },
+  {
+    "date": "Friday 26 June 2026",
+    "time_bdt": "05:00",
+    "home": "Tunisia",
+    "away": "Netherlands",
+    "group": "Group F",
+    "venue": "Kansas City Stadium (Kansas City)"
+  },
+  {
+    "date": "Friday 26 June 2026",
+    "time_bdt": "08:00",
+    "home": "Türkiye",
+    "away": "USA",
+    "group": "Group D",
+    "venue": "Los Angeles Stadium (Los Angeles)"
+  },
+  {
+    "date": "Friday 26 June 2026",
+    "time_bdt": "08:00",
+    "home": "Paraguay",
+    "away": "Australia",
+    "group": "Group D",
+    "venue": "San Francisco Bay Area Stadium (San Francisco Bay Area)"
+  },
+  {
+    "date": "Saturday 27 June 2026",
+    "time_bdt": "01:00",
+    "home": "Norway",
+    "away": "France",
+    "group": "Group I",
+    "venue": "Boston Stadium (Boston)"
+  },
+  {
+    "date": "Saturday 27 June 2026",
+    "time_bdt": "01:00",
+    "home": "Senegal",
+    "away": "Iraq",
+    "group": "Group I",
+    "venue": "Toronto Stadium (Toronto)"
+  },
+  {
+    "date": "Saturday 27 June 2026",
+    "time_bdt": "06:00",
+    "home": "Cabo Verde",
+    "away": "Saudi Arabia",
+    "group": "Group H",
+    "venue": "Houston Stadium (Houston)"
+  },
+  {
+    "date": "Saturday 27 June 2026",
+    "time_bdt": "06:00",
+    "home": "Uruguay",
+    "away": "Spain",
+    "group": "Group H",
+    "venue": "Guadalajara Stadium (Guadalajara)"
+  },
+  {
+    "date": "Saturday 27 June 2026",
+    "time_bdt": "09:00",
+    "home": "Egypt",
+    "away": "IR Iran",
+    "group": "Group G",
+    "venue": "Seattle Stadium (Seattle)"
+  },
+  {
+    "date": "Saturday 27 June 2026",
+    "time_bdt": "09:00",
+    "home": "New Zealand",
+    "away": "Belgium",
+    "group": "Group G",
+    "venue": "BC Place Vancouver (Vancouver)"
+  },
+  {
+    "date": "Sunday 28 June 2026",
+    "time_bdt": "03:00",
+    "home": "Panama",
+    "away": "England",
+    "group": "Group L",
+    "venue": "New York/New Jersey Stadium (New Jersey)"
+  },
+  {
+    "date": "Sunday 28 June 2026",
+    "time_bdt": "03:00",
+    "home": "Croatia",
+    "away": "Ghana",
+    "group": "Group L",
+    "venue": "Philadelphia Stadium (Philadelphia)"
+  },
+  {
+    "date": "Sunday 28 June 2026",
+    "time_bdt": "05:30",
+    "home": "Colombia",
+    "away": "Portugal",
+    "group": "Group K",
+    "venue": "Miami Stadium (Miami)"
+  },
+  {
+    "date": "Sunday 28 June 2026",
+    "time_bdt": "05:30",
+    "home": "Congo DR",
+    "away": "Uzbekistan",
+    "group": "Group K",
+    "venue": "Atlanta Stadium (Atlanta)"
+  },
+  {
+    "date": "Sunday 28 June 2026",
+    "time_bdt": "08:00",
+    "home": "Algeria",
+    "away": "Austria",
+    "group": "Group J",
+    "venue": "Kansas City Stadium (Kansas City)"
+  },
+  {
+    "date": "Sunday 28 June 2026",
+    "time_bdt": "08:00",
+    "home": "Jordan",
+    "away": "Argentina",
+    "group": "Group J",
+    "venue": "Dallas Stadium (Dallas)"
+  },
+  {
+    "date": "Monday 29 June 2026",
+    "time_bdt": "01:00",
+    "home": "2A",
+    "away": "2B",
+    "group": null,
+    "venue": "Los Angeles Stadium (Los Angeles)"
+  },
+  {
+    "date": "Monday 29 June 2026",
+    "time_bdt": "23:00",
+    "home": "1C",
+    "away": "2F",
+    "group": null,
+    "venue": "Houston Stadium (Houston)"
+  },
+  {
+    "date": "Tuesday 30 June 2026",
+    "time_bdt": "02:30",
+    "home": "1E",
+    "away": "3ABCDF",
+    "group": null,
+    "venue": "Boston Stadium (Boston)"
+  },
+  {
+    "date": "Tuesday 30 June 2026",
+    "time_bdt": "07:00",
+    "home": "1F",
+    "away": "2C",
+    "group": null,
+    "venue": "Monterrey Stadium (Monterrey)"
+  },
+  {
+    "date": "Tuesday 30 June 2026",
+    "time_bdt": "23:00",
+    "home": "2E",
+    "away": "2I",
+    "group": null,
+    "venue": "Dallas Stadium (Dallas)"
+  },
+  {
+    "date": "Wednesday 01 July 2026",
+    "time_bdt": "03:00",
+    "home": "1I",
+    "away": "3CDFGH",
+    "group": null,
+    "venue": "New York/New Jersey Stadium (New Jersey)"
+  },
+  {
+    "date": "Wednesday 01 July 2026",
+    "time_bdt": "07:00",
+    "home": "1A",
+    "away": "3CEFHI",
+    "group": null,
+    "venue": "Mexico City Stadium (Mexico City)"
+  },
+  {
+    "date": "Wednesday 01 July 2026",
+    "time_bdt": "22:00",
+    "home": "1L",
+    "away": "3EHIJK",
+    "group": null,
+    "venue": "Atlanta Stadium (Atlanta)"
+  },
+  {
+    "date": "Thursday 02 July 2026",
+    "time_bdt": "02:00",
+    "home": "1G",
+    "away": "3AEHIJ",
+    "group": null,
+    "venue": "Seattle Stadium (Seattle)"
+  },
+  {
+    "date": "Thursday 02 July 2026",
+    "time_bdt": "06:00",
+    "home": "1D",
+    "away": "3BEFIJ",
+    "group": null,
+    "venue": "San Francisco Bay Area Stadium (San Francisco Bay Area)"
+  },
+  {
+    "date": "Friday 03 July 2026",
+    "time_bdt": "01:00",
+    "home": "1H",
+    "away": "2J",
+    "group": null,
+    "venue": "Los Angeles Stadium (Los Angeles)"
+  },
+  {
+    "date": "Friday 03 July 2026",
+    "time_bdt": "05:00",
+    "home": "2K",
+    "away": "2L",
+    "group": null,
+    "venue": "Toronto Stadium (Toronto)"
+  },
+  {
+    "date": "Friday 03 July 2026",
+    "time_bdt": "09:00",
+    "home": "1B",
+    "away": "3EFGIJ",
+    "group": null,
+    "venue": "BC Place Vancouver (Vancouver)"
+  },
+  {
+    "date": "Saturday 04 July 2026",
+    "time_bdt": "00:00",
+    "home": "2D",
+    "away": "2G",
+    "group": null,
+    "venue": "Dallas Stadium (Dallas)"
+  },
+  {
+    "date": "Saturday 04 July 2026",
+    "time_bdt": "04:00",
+    "home": "1J",
+    "away": "2H",
+    "group": null,
+    "venue": "Miami Stadium (Miami)"
+  },
+  {
+    "date": "Saturday 04 July 2026",
+    "time_bdt": "07:30",
+    "home": "1K",
+    "away": "3DEIJL",
+    "group": null,
+    "venue": "Kansas City Stadium (Kansas City)"
+  },
+  {
+    "date": "Saturday 04 July 2026",
+    "time_bdt": "23:00",
+    "home": "W73",
+    "away": "W75",
+    "group": null,
+    "venue": "Houston Stadium (Houston)"
+  },
+  {
+    "date": "Sunday 05 July 2026",
+    "time_bdt": "03:00",
+    "home": "W74",
+    "away": "W77",
+    "group": null,
+    "venue": "Philadelphia Stadium (Philadelphia)"
+  },
+  {
+    "date": "Monday 06 July 2026",
+    "time_bdt": "02:00",
+    "home": "W76",
+    "away": "W78",
+    "group": null,
+    "venue": "New York/New Jersey Stadium (New Jersey)"
+  },
+  {
+    "date": "Monday 06 July 2026",
+    "time_bdt": "06:00",
+    "home": "W79",
+    "away": "W80",
+    "group": null,
+    "venue": "Mexico City Stadium (Mexico City)"
+  },
+  {
+    "date": "Tuesday 07 July 2026",
+    "time_bdt": "01:00",
+    "home": "W83",
+    "away": "W84",
+    "group": null,
+    "venue": "Dallas Stadium (Dallas)"
+  },
+  {
+    "date": "Tuesday 07 July 2026",
+    "time_bdt": "06:00",
+    "home": "W81",
+    "away": "W82",
+    "group": null,
+    "venue": "Seattle Stadium (Seattle)"
+  },
+  {
+    "date": "Tuesday 07 July 2026",
+    "time_bdt": "22:00",
+    "home": "W86",
+    "away": "W88",
+    "group": null,
+    "venue": "Atlanta Stadium (Atlanta)"
+  },
+  {
+    "date": "Wednesday 08 July 2026",
+    "time_bdt": "02:00",
+    "home": "W85",
+    "away": "W87",
+    "group": null,
+    "venue": "BC Place Vancouver (Vancouver)"
+  },
+  {
+    "date": "Friday 10 July 2026",
+    "time_bdt": "02:00",
+    "home": "W89",
+    "away": "W90",
+    "group": null,
+    "venue": "Boston Stadium (Boston)"
+  },
+  {
+    "date": "Saturday 11 July 2026",
+    "time_bdt": "01:00",
+    "home": "W93",
+    "away": "W94",
+    "group": null,
+    "venue": "Los Angeles Stadium (Los Angeles)"
+  },
+  {
+    "date": "Sunday 12 July 2026",
+    "time_bdt": "03:00",
+    "home": "W91",
+    "away": "W92",
+    "group": null,
+    "venue": "Miami Stadium (Miami)"
+  },
+  {
+    "date": "Sunday 12 July 2026",
+    "time_bdt": "07:00",
+    "home": "W95",
+    "away": "W96",
+    "group": null,
+    "venue": "Kansas City Stadium (Kansas City)"
+  },
+  {
+    "date": "Wednesday 15 July 2026",
+    "time_bdt": "01:00",
+    "home": "W97",
+    "away": "W98",
+    "group": null,
+    "venue": "Dallas Stadium (Dallas)"
+  },
+  {
+    "date": "Thursday 16 July 2026",
+    "time_bdt": "01:00",
+    "home": "W99",
+    "away": "W100",
+    "group": null,
+    "venue": "Atlanta Stadium (Atlanta)"
+  },
+  {
+    "date": "Sunday 19 July 2026",
+    "time_bdt": "03:00",
+    "home": "RU101",
+    "away": "RU102",
+    "group": null,
+    "venue": "Miami Stadium (Miami)"
+  },
+  {
+    "date": "Monday 20 July 2026",
+    "time_bdt": "01:00",
+    "home": "W101",
+    "away": "W102",
+    "group": null,
+    "venue": "New York/New Jersey Stadium (New Jersey)"
+  }
+]

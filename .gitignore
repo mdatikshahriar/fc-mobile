@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Scratch output — regenerated automatically, not worth tracking
+automation/debug/
+rewards/
+
+# Claude Code session data
+.claude/

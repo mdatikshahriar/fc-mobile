@@ -1,0 +1,54 @@
+# FC Mobile Reward Automation - Audit Log
+
+- [2026-06-17 02:36:32] loaded 88 upcoming/scheduled matches, 0 already claimed
+- [2026-06-17 04:55:00] claim window OPEN: Iraq vs Norway (kickoff 2026-06-17 04:00:00, ends 2026-06-17 05:30:00)
+- [2026-06-17 04:55:00] BlueStacks is closed, starting it...
+- [2026-06-17 04:55:10] BlueStacks is up and adb is connected
+- [2026-06-17 04:55:10] launching FC Mobile...
+- [2026-06-17 04:55:33] attempt 1: nothing recognized, waiting
+- [2026-06-17 04:55:38] attempt 2: nothing recognized, waiting
+- [2026-06-17 04:55:44] attempt 3: nothing recognized, waiting
+- [2026-06-17 04:55:49] attempt 4: nothing recognized, waiting
+- [2026-06-17 04:55:54] attempt 5: nothing recognized, waiting
+- [2026-06-17 04:56:00] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-17 04:56:20] attempt 6: tapping (800, 827)
+- [2026-06-17 04:56:41] attempt 6: button gone after tap, claimed
+- [2026-06-17 04:56:41] saved screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260617_045641_Iraq_vs_Norway_1.png
+- [2026-06-17 04:56:41] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-17 04:57:01] attempt 7: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-17 04:57:22] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260617_045721_Iraq_vs_Norway_2.png
+- [2026-06-17 04:57:22] attempt 8: nothing recognized, waiting
+- [2026-06-17 04:57:28] no more pending rewards detected, wrapping up
+- [2026-06-17 04:57:28] waiting 60s before closing...
+- [2026-06-17 04:58:28] closing FC Mobile and BlueStacks...
+- [2026-06-17 04:58:28] marked claimed: Iraq vs Norway
+- [2026-06-17 05:04:24] loaded 88 upcoming/scheduled matches, 1 already claimed
+- [2026-06-17 07:43:17] loaded 88 upcoming/scheduled matches, 1 already claimed
+- [2026-06-17 07:55:00] claim window OPEN: Argentina vs Algeria (kickoff 2026-06-17 07:00:00, ends 2026-06-17 08:30:00)
+- [2026-06-17 07:55:00] BlueStacks is closed, starting it...
+- [2026-06-17 07:55:10] BlueStacks is up and adb is connected
+- [2026-06-17 07:55:10] launching FC Mobile...
+- [2026-06-17 07:55:32] attempt 1: nothing recognized, waiting
+- [2026-06-17 07:55:38] attempt 2: nothing recognized, waiting
+- [2026-06-17 07:55:43] attempt 3: nothing recognized, waiting
+- [2026-06-17 07:55:48] attempt 4: nothing recognized, waiting
+- [2026-06-17 07:55:54] attempt 5: nothing recognized, waiting
+- [2026-06-17 07:55:59] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-17 07:56:19] attempt 6: tapping (800, 827)
+- [2026-06-17 07:56:40] attempt 6: button gone after tap, claimed
+- [2026-06-17 07:56:40] saved screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260617_075640_Argentina_vs_Algeria_1.png
+- [2026-06-17 07:56:40] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-17 07:57:01] attempt 7: dismissing popup (conf=1.00) at (1320, 83)
+- [2026-06-17 07:57:22] attempt 8: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-17 07:57:42] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260617_075742_Argentina_vs_Algeria_2.png
+- [2026-06-17 07:57:43] attempt 9: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-17 07:57:53] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260617_075753_Argentina_vs_Algeria_3.png
+- [2026-06-17 07:57:55] attempt 10: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-17 07:58:15] attempt 11: dismissing popup (conf=0.86) at (1537, 85)
+- [2026-06-17 07:58:36] attempt 12: dismissing popup (conf=0.87) at (1537, 85)
+- [2026-06-17 07:58:57] attempt 13: nothing recognized, waiting
+- [2026-06-17 07:59:03] no more pending rewards detected, wrapping up
+- [2026-06-17 07:59:03] waiting 60s before closing...
+- [2026-06-17 08:00:03] closing FC Mobile and BlueStacks...
+- [2026-06-17 08:00:03] marked claimed: Argentina vs Algeria
+- [2026-06-17 08:09:55] loaded 88 upcoming/scheduled matches, 2 already claimed
