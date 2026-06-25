@@ -48,11 +48,11 @@ def load_match_windows(path: Path = SCHEDULE_PATH) -> list[MatchWindow]:
     return windows
 
 
-def active_window(windows: list[MatchWindow], now: datetime) -> MatchWindow | None:
-    for w in windows:
-        if w.claim_start <= now <= w.claim_end:
-            return w
-    return None
+def active_windows(windows: list[MatchWindow], now: datetime) -> list[MatchWindow]:
+    """Returns every window currently open - multiple matches can kick off at
+    the exact same time (e.g. final group-stage matchday), so callers must not
+    assume there's only ever one."""
+    return [w for w in windows if w.claim_start <= now <= w.claim_end]
 
 
 def next_claim_start(windows: list[MatchWindow], now: datetime) -> datetime | None:

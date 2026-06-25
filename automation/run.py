@@ -11,7 +11,7 @@ from datetime import datetime, timedelta
 from pathlib import Path
 
 from claim_reward import claim_reward
-from schedule import active_window, load_match_windows, next_claim_start
+from schedule import active_windows, load_match_windows, next_claim_start
 
 STATE_PATH = Path(__file__).resolve().parent / "state.json"
 AUDIT_LOG_PATH = Path(__file__).resolve().parent.parent / "AUDIT_LOG.md"
@@ -44,27 +44,43 @@ def main():
 
     while True:
         now = datetime.now()
-        w = active_window(windows, now)
+        # Multiple matches can share the exact same kickoff (e.g. final
+        # group-stage matchday). Opening FC Mobile once surfaces every pending
+        # reward regardless of which match it came from - claim_reward()'s
+        # poll loop already drains a queue of several rewards back to back.
+        # So batch every currently-open, unclaimed window into a single
+        # BlueStacks/FC Mobile session instead of launching it once per match.
+        due = [w for w in active_windows(windows, now) if w.key not in claimed]
 
-        if w and w.key not in claimed:
-            log(f"claim window OPEN: {w.home} vs {w.away} (kickoff {w.kickoff}, ends {w.claim_end})")
+        if due:
+            labels = ", ".join(f"{w.home} vs {w.away}" for w in due)
+            deadline = max(w.claim_end for w in due)
+            batch_note = f" - {len(due)} simultaneous matches, claiming together" if len(due) > 1 else ""
+            log(f"claim window OPEN: {labels} (ends {deadline}){batch_note}")
+            match_label = "_and_".join(f"{w.home}_vs_{w.away}" for w in due)
             try:
-                success = claim_reward(deadline=w.claim_end, log=log, match_label=f"{w.home}_vs_{w.away}")
+                success = claim_reward(deadline=deadline, log=log, match_label=match_label)
             except Exception as e:
-                log(f"ERROR during claim attempt for {w.home} vs {w.away}: {e!r} - will retry shortly")
-                time.sleep(min(IDLE_POLL_SECONDS, max((w.claim_end - datetime.now()).total_seconds(), 1)))
+                log(f"ERROR during claim attempt for {labels}: {e!r} - will retry shortly")
+                time.sleep(min(IDLE_POLL_SECONDS, max((deadline - datetime.now()).total_seconds(), 1)))
                 continue
             if success is True:
-                claimed.add(w.key)
+                for w in due:
+                    claimed.add(w.key)
                 _save_state(claimed)
-                log(f"marked claimed: {w.home} vs {w.away}")
+                log(f"marked claimed: {labels}")
             elif success is None:
-                log(f"app already open for {w.home} vs {w.away}, will check again shortly")
-                time.sleep(min(IDLE_POLL_SECONDS, max((w.claim_end - datetime.now()).total_seconds(), 1)))
+                log(f"app already open for {labels}, will check again shortly")
+                time.sleep(min(IDLE_POLL_SECONDS, max((deadline - datetime.now()).total_seconds(), 1)))
             else:
-                log(f"did not claim {w.home} vs {w.away} before window closed, will not retry")
-                claimed.add(w.key)  # window is over either way, no point retrying
-                _save_state(claimed)
+                if datetime.now() >= deadline:
+                    log(f"did not claim {labels} before window closed, will not retry")
+                    for w in due:
+                        claimed.add(w.key)  # window is over either way, no point retrying
+                    _save_state(claimed)
+                else:
+                    log(f"did not claim {labels} yet, {(deadline - datetime.now()).total_seconds():.0f}s left in window - retrying")
+                    time.sleep(min(IDLE_POLL_SECONDS, max((deadline - datetime.now()).total_seconds(), 1)))
             continue
 
         nxt = next_claim_start(windows, now)

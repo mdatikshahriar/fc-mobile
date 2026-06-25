@@ -83,6 +83,8 @@ def _ensure_bluestacks_running(deadline: datetime, log) -> bool:
             log("BlueStacks is up and adb is connected")
             return True
         time.sleep(3)
+    log(f"BlueStacks did not come up within {BLUESTACKS_BOOT_WAIT_SECONDS}s, killing it so the next retry starts clean")
+    adb.close_bluestacks()
     return False
 
 
