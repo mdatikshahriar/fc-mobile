@@ -52,3 +52,1382 @@
 - [2026-06-17 08:00:03] closing FC Mobile and BlueStacks...
 - [2026-06-17 08:00:03] marked claimed: Argentina vs Algeria
 - [2026-06-17 08:09:55] loaded 88 upcoming/scheduled matches, 2 already claimed
+- [2026-06-18 01:04:01] loaded 88 upcoming/scheduled matches, 2 already claimed
+- [2026-06-18 02:55:00] claim window OPEN: England vs Croatia (kickoff 2026-06-18 02:00:00, ends 2026-06-18 03:30:00)
+- [2026-06-18 02:55:00] BlueStacks is closed, starting it...
+- [2026-06-18 02:55:09] BlueStacks is up and adb is connected
+- [2026-06-18 02:55:10] launching FC Mobile...
+- [2026-06-18 02:55:30] ERROR during claim attempt for England vs Croatia: AdbError('error: device offline') - will retry shortly
+- [2026-06-18 02:56:30] claim window OPEN: England vs Croatia (kickoff 2026-06-18 02:00:00, ends 2026-06-18 03:30:00)
+- [2026-06-18 02:56:30] BlueStacks is closed, starting it...
+- [2026-06-18 02:56:40] BlueStacks is up and adb is connected
+- [2026-06-18 02:56:40] launching FC Mobile...
+- [2026-06-18 02:57:02] attempt 1: nothing recognized, waiting
+- [2026-06-18 02:57:08] attempt 2: nothing recognized, waiting
+- [2026-06-18 02:57:13] attempt 3: nothing recognized, waiting
+- [2026-06-18 02:57:18] attempt 4: nothing recognized, waiting
+- [2026-06-18 02:57:24] attempt 5: nothing recognized, waiting
+- [2026-06-18 02:57:29] attempt 6: nothing recognized, waiting
+- [2026-06-18 02:57:34] attempt 7: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-18 02:57:55] attempt 7: tapping (800, 827)
+- [2026-06-18 02:58:15] attempt 7: button gone after tap, claimed
+- [2026-06-18 02:58:15] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-18 02:58:35] attempt 8: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-18 02:58:56] attempt 9: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-18 02:59:07] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260618_025906_England_vs_Croatia_1.png
+- [2026-06-18 02:59:08] attempt 10: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-18 02:59:29] attempt 11: nothing recognized, waiting
+- [2026-06-18 02:59:34] no more pending rewards detected, wrapping up
+- [2026-06-18 02:59:34] waiting 60s before closing...
+- [2026-06-18 03:00:34] closing FC Mobile and BlueStacks...
+- [2026-06-18 03:00:35] marked claimed: England vs Croatia
+- [2026-06-18 05:55:00] claim window OPEN: Ghana vs Panama (kickoff 2026-06-18 05:00:00, ends 2026-06-18 06:30:00)
+- [2026-06-18 05:55:00] BlueStacks is closed, starting it...
+- [2026-06-18 05:55:10] BlueStacks is up and adb is connected
+- [2026-06-18 05:55:10] launching FC Mobile...
+- [2026-06-18 05:55:32] attempt 1: nothing recognized, waiting
+- [2026-06-18 05:55:38] attempt 2: nothing recognized, waiting
+- [2026-06-18 05:55:43] attempt 3: nothing recognized, waiting
+- [2026-06-18 05:55:48] attempt 4: nothing recognized, waiting
+- [2026-06-18 05:55:54] attempt 5: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-18 05:56:14] attempt 5: tapping (800, 827)
+- [2026-06-18 05:56:34] attempt 5: button gone after tap, claimed
+- [2026-06-18 05:56:34] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-18 05:56:55] attempt 6: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-18 05:57:15] attempt 7: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-18 05:57:26] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260618_055725_Ghana_vs_Panama_1.png
+- [2026-06-18 05:57:27] attempt 8: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-18 05:57:48] attempt 9: dismissing popup (conf=0.87) at (1537, 85)
+- [2026-06-18 05:58:09] attempt 10: nothing recognized, waiting
+- [2026-06-18 05:58:15] no more pending rewards detected, wrapping up
+- [2026-06-18 05:58:15] waiting 60s before closing...
+- [2026-06-18 05:59:15] closing FC Mobile and BlueStacks...
+- [2026-06-18 05:59:15] marked claimed: Ghana vs Panama
+- [2026-06-19 00:38:53] loaded 88 upcoming/scheduled matches, 4 already claimed
+- [2026-06-19 01:55:00] claim window OPEN: Switzerland vs Bosnia and Herzegovina (kickoff 2026-06-19 01:00:00, ends 2026-06-19 02:30:00)
+- [2026-06-19 01:55:00] BlueStacks is closed, starting it...
+- [2026-06-19 01:55:09] BlueStacks is up and adb is connected
+- [2026-06-19 01:55:09] launching FC Mobile...
+- [2026-06-19 01:55:31] attempt 1: nothing recognized, waiting
+- [2026-06-19 01:55:37] attempt 2: nothing recognized, waiting
+- [2026-06-19 01:55:43] attempt 3: nothing recognized, waiting
+- [2026-06-19 01:55:48] attempt 4: nothing recognized, waiting
+- [2026-06-19 01:55:53] attempt 5: nothing recognized, waiting
+- [2026-06-19 01:55:59] attempt 6: nothing recognized, waiting
+- [2026-06-19 01:56:04] attempt 7: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-19 01:56:24] attempt 7: tapping (800, 827)
+- [2026-06-19 01:56:45] attempt 7: button gone after tap, claimed
+- [2026-06-19 01:56:45] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-19 01:57:06] attempt 8: dismissing popup (conf=1.00) at (1320, 83)
+- [2026-06-19 01:57:26] attempt 9: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-19 01:57:47] attempt 10: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-19 01:57:57] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260619_015757_Switzerland_vs_Bosnia_and_Herzegovina_1.png
+- [2026-06-19 01:57:58] attempt 11: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-19 01:58:19] attempt 12: dismissing popup (conf=0.86) at (1537, 85)
+- [2026-06-19 01:58:40] attempt 13: dismissing popup (conf=0.81) at (1537, 85)
+- [2026-06-19 01:59:01] attempt 14: dismissing popup (conf=0.82) at (1537, 85)
+- [2026-06-19 01:59:22] attempt 15: dismissing popup (conf=0.87) at (1537, 85)
+- [2026-06-19 01:59:42] attempt 16: nothing recognized, waiting
+- [2026-06-19 01:59:48] no more pending rewards detected, wrapping up
+- [2026-06-19 01:59:48] waiting 60s before closing...
+- [2026-06-19 02:00:48] closing FC Mobile and BlueStacks...
+- [2026-06-19 02:00:48] marked claimed: Switzerland vs Bosnia and Herzegovina
+- [2026-06-19 04:55:00] claim window OPEN: Canada vs Qatar (kickoff 2026-06-19 04:00:00, ends 2026-06-19 05:30:00)
+- [2026-06-19 04:55:00] BlueStacks is closed, starting it...
+- [2026-06-19 04:55:08] BlueStacks is up and adb is connected
+- [2026-06-19 04:55:08] launching FC Mobile...
+- [2026-06-19 04:55:30] attempt 1: nothing recognized, waiting
+- [2026-06-19 04:55:36] attempt 2: nothing recognized, waiting
+- [2026-06-19 04:55:41] attempt 3: nothing recognized, waiting
+- [2026-06-19 04:55:46] attempt 4: nothing recognized, waiting
+- [2026-06-19 04:55:52] attempt 5: nothing recognized, waiting
+- [2026-06-19 04:55:57] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-19 04:56:17] attempt 6: tapping (800, 827)
+- [2026-06-19 04:56:38] attempt 6: button gone after tap, claimed
+- [2026-06-19 04:56:38] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-19 04:56:59] attempt 7: dismissing popup (conf=1.00) at (1320, 83)
+- [2026-06-19 04:57:19] attempt 8: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-19 04:57:40] attempt 9: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-19 04:57:50] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260619_045750_Canada_vs_Qatar_1.png
+- [2026-06-19 04:57:52] attempt 10: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-19 04:58:12] attempt 11: nothing recognized, waiting
+- [2026-06-19 04:58:18] no more pending rewards detected, wrapping up
+- [2026-06-19 04:58:18] waiting 60s before closing...
+- [2026-06-19 04:59:18] closing FC Mobile and BlueStacks...
+- [2026-06-19 04:59:18] marked claimed: Canada vs Qatar
+- [2026-06-19 07:55:00] claim window OPEN: Mexico vs Korea Republic (kickoff 2026-06-19 07:00:00, ends 2026-06-19 08:30:00)
+- [2026-06-19 07:55:00] BlueStacks is closed, starting it...
+- [2026-06-19 07:55:10] BlueStacks is up and adb is connected
+- [2026-06-19 07:55:10] launching FC Mobile...
+- [2026-06-19 07:55:31] attempt 1: nothing recognized, waiting
+- [2026-06-19 07:55:37] attempt 2: nothing recognized, waiting
+- [2026-06-19 07:55:43] attempt 3: nothing recognized, waiting
+- [2026-06-19 07:55:48] attempt 4: nothing recognized, waiting
+- [2026-06-19 07:55:53] attempt 5: nothing recognized, waiting
+- [2026-06-19 07:55:59] attempt 6: nothing recognized, waiting
+- [2026-06-19 07:56:04] attempt 7: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-19 07:56:24] attempt 7: tapping (800, 827)
+- [2026-06-19 07:56:45] attempt 7: button gone after tap, claimed
+- [2026-06-19 07:56:45] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-19 07:57:06] attempt 8: dismissing popup (conf=1.00) at (1320, 83)
+- [2026-06-19 07:57:26] attempt 9: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-19 07:57:47] attempt 10: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-19 07:57:57] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260619_075757_Mexico_vs_Korea_Republic_1.png
+- [2026-06-19 07:57:59] attempt 11: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-19 07:58:19] attempt 12: dismissing popup (conf=0.85) at (1537, 85)
+- [2026-06-19 07:58:40] attempt 13: dismissing popup (conf=0.87) at (1537, 85)
+- [2026-06-19 07:59:01] attempt 14: nothing recognized, waiting
+- [2026-06-19 07:59:07] no more pending rewards detected, wrapping up
+- [2026-06-19 07:59:07] waiting 60s before closing...
+- [2026-06-19 08:00:07] closing FC Mobile and BlueStacks...
+- [2026-06-19 08:00:07] marked claimed: Mexico vs Korea Republic
+- [2026-06-19 23:26:14] loaded 88 upcoming/scheduled matches, 7 already claimed
+- [2026-06-20 01:55:00] claim window OPEN: USA vs Australia (kickoff 2026-06-20 01:00:00, ends 2026-06-20 02:30:00)
+- [2026-06-20 01:55:00] BlueStacks is closed, starting it...
+- [2026-06-20 01:55:10] BlueStacks is up and adb is connected
+- [2026-06-20 01:55:10] launching FC Mobile...
+- [2026-06-20 01:55:30] ERROR during claim attempt for USA vs Australia: AdbError('error: device offline') - will retry shortly
+- [2026-06-20 01:56:30] claim window OPEN: USA vs Australia (kickoff 2026-06-20 01:00:00, ends 2026-06-20 02:30:00)
+- [2026-06-20 01:56:30] BlueStacks is closed, starting it...
+- [2026-06-20 01:56:40] BlueStacks is up and adb is connected
+- [2026-06-20 01:56:41] launching FC Mobile...
+- [2026-06-20 01:57:02] attempt 1: nothing recognized, waiting
+- [2026-06-20 01:57:08] attempt 2: nothing recognized, waiting
+- [2026-06-20 01:57:14] attempt 3: nothing recognized, waiting
+- [2026-06-20 01:57:20] attempt 4: nothing recognized, waiting
+- [2026-06-20 01:57:25] attempt 5: nothing recognized, waiting
+- [2026-06-20 01:57:30] attempt 6: nothing recognized, waiting
+- [2026-06-20 01:57:36] attempt 7: nothing recognized, waiting
+- [2026-06-20 01:57:41] attempt 8: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-20 01:58:02] attempt 8: tapping (800, 827)
+- [2026-06-20 01:58:22] attempt 8: button gone after tap, claimed
+- [2026-06-20 01:58:22] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-20 01:58:43] attempt 9: dismissing popup (conf=1.00) at (1320, 83)
+- [2026-06-20 01:59:03] attempt 10: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-20 01:59:24] attempt 11: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-20 01:59:34] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260620_015934_USA_vs_Australia_1.png
+- [2026-06-20 01:59:36] attempt 12: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-20 01:59:57] attempt 13: dismissing popup (conf=0.83) at (1537, 85)
+- [2026-06-20 02:00:17] attempt 14: dismissing popup (conf=0.87) at (1537, 85)
+- [2026-06-20 02:00:38] attempt 15: nothing recognized, waiting
+- [2026-06-20 02:00:44] no more pending rewards detected, wrapping up
+- [2026-06-20 02:00:44] waiting 60s before closing...
+- [2026-06-20 02:01:44] closing FC Mobile and BlueStacks...
+- [2026-06-20 02:01:44] marked claimed: USA vs Australia
+- [2026-06-20 04:55:00] claim window OPEN: Scotland vs Morocco (kickoff 2026-06-20 04:00:00, ends 2026-06-20 05:30:00)
+- [2026-06-20 04:55:00] BlueStacks is closed, starting it...
+- [2026-06-20 04:55:10] BlueStacks is up and adb is connected
+- [2026-06-20 04:55:10] launching FC Mobile...
+- [2026-06-20 04:55:32] attempt 1: nothing recognized, waiting
+- [2026-06-20 04:55:38] attempt 2: nothing recognized, waiting
+- [2026-06-20 04:55:43] attempt 3: nothing recognized, waiting
+- [2026-06-20 04:55:48] attempt 4: nothing recognized, waiting
+- [2026-06-20 04:55:53] attempt 5: nothing recognized, waiting
+- [2026-06-20 04:55:59] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-20 04:56:19] attempt 6: tapping (800, 827)
+- [2026-06-20 04:56:40] attempt 6: button gone after tap, claimed
+- [2026-06-20 04:56:40] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-20 04:57:00] attempt 7: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-20 04:57:21] attempt 8: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-20 04:57:31] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260620_045731_Scotland_vs_Morocco_1.png
+- [2026-06-20 04:57:33] attempt 9: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-20 04:57:53] attempt 10: nothing recognized, waiting
+- [2026-06-20 04:57:59] no more pending rewards detected, wrapping up
+- [2026-06-20 04:57:59] waiting 60s before closing...
+- [2026-06-20 04:58:59] closing FC Mobile and BlueStacks...
+- [2026-06-20 04:58:59] marked claimed: Scotland vs Morocco
+- [2026-06-20 08:42:17] loaded 88 upcoming/scheduled matches, 9 already claimed
+- [2026-06-20 09:55:00] claim window OPEN: Türkiye vs Paraguay (kickoff 2026-06-20 09:00:00, ends 2026-06-20 10:30:00)
+- [2026-06-20 09:55:00] BlueStacks is closed, starting it...
+- [2026-06-20 09:55:10] BlueStacks is up and adb is connected
+- [2026-06-20 09:55:10] launching FC Mobile...
+- [2026-06-20 09:55:32] attempt 1: nothing recognized, waiting
+- [2026-06-20 09:55:37] attempt 2: nothing recognized, waiting
+- [2026-06-20 09:55:43] attempt 3: nothing recognized, waiting
+- [2026-06-20 09:55:48] attempt 4: nothing recognized, waiting
+- [2026-06-20 09:55:53] attempt 5: nothing recognized, waiting
+- [2026-06-20 09:55:59] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-20 09:56:19] attempt 6: tapping (800, 827)
+- [2026-06-20 09:56:40] attempt 6: button gone after tap, claimed
+- [2026-06-20 09:56:40] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-20 09:57:00] attempt 7: dismissing popup (conf=1.00) at (1320, 83)
+- [2026-06-20 09:57:21] attempt 8: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-20 09:57:41] attempt 9: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-20 09:57:52] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260620_095751_T_rkiye_vs_Paraguay_1.png
+- [2026-06-20 09:57:53] attempt 10: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-20 09:58:14] attempt 11: dismissing popup (conf=0.86) at (1537, 85)
+- [2026-06-20 09:58:35] attempt 12: dismissing popup (conf=0.85) at (1537, 85)
+- [2026-06-20 09:58:56] attempt 13: dismissing popup (conf=0.81) at (1537, 85)
+- [2026-06-20 09:59:16] attempt 14: dismissing popup (conf=0.87) at (1537, 85)
+- [2026-06-20 09:59:37] attempt 15: nothing recognized, waiting
+- [2026-06-20 09:59:43] no more pending rewards detected, wrapping up
+- [2026-06-20 09:59:43] waiting 60s before closing...
+- [2026-06-20 10:00:43] closing FC Mobile and BlueStacks...
+- [2026-06-20 10:00:43] marked claimed: Türkiye vs Paraguay
+- [2026-06-21 00:29:54] loaded 88 upcoming/scheduled matches, 10 already claimed
+- [2026-06-21 00:29:54] claim window OPEN: Netherlands vs Sweden (kickoff 2026-06-20 23:00:00, ends 2026-06-21 00:30:00)
+- [2026-06-21 00:29:54] BlueStacks is closed, starting it...
+- [2026-06-21 00:30:04] BlueStacks is up and adb is connected
+- [2026-06-21 00:30:04] launching FC Mobile...
+- [2026-06-21 00:50:46] loaded 88 upcoming/scheduled matches, 10 already claimed
+- [2026-06-21 02:55:00] claim window OPEN: Germany vs Côte d'Ivoire (kickoff 2026-06-21 02:00:00, ends 2026-06-21 03:30:00)
+- [2026-06-21 02:55:00] BlueStacks is closed, starting it...
+- [2026-06-21 02:55:08] BlueStacks is up and adb is connected
+- [2026-06-21 02:55:09] launching FC Mobile...
+- [2026-06-21 02:55:30] attempt 1: nothing recognized, waiting
+- [2026-06-21 02:55:36] attempt 2: nothing recognized, waiting
+- [2026-06-21 02:55:41] attempt 3: nothing recognized, waiting
+- [2026-06-21 02:55:46] attempt 4: nothing recognized, waiting
+- [2026-06-21 02:55:52] attempt 5: nothing recognized, waiting
+- [2026-06-21 02:55:57] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-21 02:56:17] attempt 6: tapping (800, 827)
+- [2026-06-21 02:56:38] attempt 6: button gone after tap, claimed
+- [2026-06-21 02:56:38] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-21 02:56:58] attempt 7: dismissing popup (conf=1.00) at (1320, 83)
+- [2026-06-21 02:57:19] attempt 8: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-21 02:57:39] attempt 9: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-21 02:57:50] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260621_025750_Germany_vs_C_te_d_Ivoire_1.png
+- [2026-06-21 02:57:51] attempt 10: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-21 02:58:12] attempt 11: dismissing popup (conf=0.87) at (1537, 85)
+- [2026-06-21 02:58:33] attempt 12: nothing recognized, waiting
+- [2026-06-21 02:58:39] no more pending rewards detected, wrapping up
+- [2026-06-21 02:58:39] waiting 60s before closing...
+- [2026-06-21 02:59:39] closing FC Mobile and BlueStacks...
+- [2026-06-21 02:59:39] marked claimed: Germany vs Côte d'Ivoire
+- [2026-06-21 06:55:00] claim window OPEN: Ecuador vs Curaçao (kickoff 2026-06-21 06:00:00, ends 2026-06-21 07:30:00)
+- [2026-06-21 06:55:00] BlueStacks is closed, starting it...
+- [2026-06-21 06:55:10] BlueStacks is up and adb is connected
+- [2026-06-21 06:55:10] launching FC Mobile...
+- [2026-06-21 06:55:32] attempt 1: nothing recognized, waiting
+- [2026-06-21 06:55:38] attempt 2: nothing recognized, waiting
+- [2026-06-21 06:55:43] attempt 3: nothing recognized, waiting
+- [2026-06-21 06:55:48] attempt 4: nothing recognized, waiting
+- [2026-06-21 06:55:54] attempt 5: nothing recognized, waiting
+- [2026-06-21 06:55:59] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-21 06:56:19] attempt 6: tapping (800, 827)
+- [2026-06-21 06:56:40] attempt 6: button gone after tap, claimed
+- [2026-06-21 06:56:40] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-21 06:57:00] attempt 7: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-21 06:57:21] attempt 8: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-21 06:57:31] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260621_065731_Ecuador_vs_Cura_ao_1.png
+- [2026-06-21 06:57:33] attempt 9: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-21 06:57:54] attempt 10: nothing recognized, waiting
+- [2026-06-21 06:57:59] no more pending rewards detected, wrapping up
+- [2026-06-21 06:57:59] waiting 60s before closing...
+- [2026-06-21 06:58:59] closing FC Mobile and BlueStacks...
+- [2026-06-21 06:59:00] marked claimed: Ecuador vs Curaçao
+- [2026-06-22 01:33:34] loaded 88 upcoming/scheduled matches, 12 already claimed
+- [2026-06-22 01:55:00] claim window OPEN: Belgium vs IR Iran (kickoff 2026-06-22 01:00:00, ends 2026-06-22 02:30:00)
+- [2026-06-22 01:55:00] BlueStacks is closed, starting it...
+- [2026-06-22 01:55:09] BlueStacks is up and adb is connected
+- [2026-06-22 01:55:09] launching FC Mobile...
+- [2026-06-22 01:55:31] attempt 1: nothing recognized, waiting
+- [2026-06-22 01:55:36] attempt 2: nothing recognized, waiting
+- [2026-06-22 01:55:42] attempt 3: nothing recognized, waiting
+- [2026-06-22 01:55:47] attempt 4: nothing recognized, waiting
+- [2026-06-22 01:55:52] attempt 5: nothing recognized, waiting
+- [2026-06-22 01:55:58] attempt 6: nothing recognized, waiting
+- [2026-06-22 01:56:03] attempt 7: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-22 01:56:23] attempt 7: tapping (800, 827)
+- [2026-06-22 01:56:44] attempt 7: button gone after tap, claimed
+- [2026-06-22 01:56:44] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-22 01:57:04] attempt 8: dismissing popup (conf=1.00) at (1320, 83)
+- [2026-06-22 01:57:25] attempt 9: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-22 01:57:46] attempt 10: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-22 01:57:56] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260622_015756_Belgium_vs_IR_Iran_1.png
+- [2026-06-22 01:57:57] attempt 11: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-22 01:58:18] attempt 12: nothing recognized, waiting
+- [2026-06-22 01:58:24] no more pending rewards detected, wrapping up
+- [2026-06-22 01:58:24] waiting 60s before closing...
+- [2026-06-22 01:59:24] closing FC Mobile and BlueStacks...
+- [2026-06-22 01:59:24] marked claimed: Belgium vs IR Iran
+- [2026-06-22 04:55:00] claim window OPEN: Uruguay vs Cabo Verde (kickoff 2026-06-22 04:00:00, ends 2026-06-22 05:30:00)
+- [2026-06-22 04:55:00] BlueStacks is closed, starting it...
+- [2026-06-22 04:55:10] BlueStacks is up and adb is connected
+- [2026-06-22 04:55:10] launching FC Mobile...
+- [2026-06-22 04:55:31] attempt 1: nothing recognized, waiting
+- [2026-06-22 04:55:37] attempt 2: nothing recognized, waiting
+- [2026-06-22 04:55:43] attempt 3: nothing recognized, waiting
+- [2026-06-22 04:55:48] attempt 4: nothing recognized, waiting
+- [2026-06-22 04:55:53] attempt 5: nothing recognized, waiting
+- [2026-06-22 04:55:58] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-22 04:56:19] attempt 6: tapping (800, 827)
+- [2026-06-22 04:56:39] attempt 6: button gone after tap, claimed
+- [2026-06-22 04:56:39] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-22 04:57:00] attempt 7: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-22 04:57:20] attempt 8: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-22 04:57:31] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260622_045730_Uruguay_vs_Cabo_Verde_1.png
+- [2026-06-22 04:57:32] attempt 9: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-22 04:57:53] attempt 10: dismissing popup (conf=0.87) at (1537, 85)
+- [2026-06-22 04:58:14] attempt 11: nothing recognized, waiting
+- [2026-06-22 04:58:19] no more pending rewards detected, wrapping up
+- [2026-06-22 04:58:19] waiting 60s before closing...
+- [2026-06-22 04:59:19] closing FC Mobile and BlueStacks...
+- [2026-06-22 04:59:20] marked claimed: Uruguay vs Cabo Verde
+- [2026-06-23 01:06:16] loaded 88 upcoming/scheduled matches, 14 already claimed
+- [2026-06-23 03:55:00] claim window OPEN: France vs Iraq (kickoff 2026-06-23 03:00:00, ends 2026-06-23 04:30:00)
+- [2026-06-23 03:55:00] BlueStacks is closed, starting it...
+- [2026-06-23 03:55:08] BlueStacks is up and adb is connected
+- [2026-06-23 03:55:09] launching FC Mobile...
+- [2026-06-23 03:55:30] attempt 1: nothing recognized, waiting
+- [2026-06-23 03:55:36] attempt 2: nothing recognized, waiting
+- [2026-06-23 03:55:42] attempt 3: nothing recognized, waiting
+- [2026-06-23 03:55:47] attempt 4: nothing recognized, waiting
+- [2026-06-23 03:55:53] attempt 5: nothing recognized, waiting
+- [2026-06-23 03:55:58] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-23 03:56:18] attempt 6: tapping (800, 827)
+- [2026-06-23 03:56:39] attempt 6: button gone after tap, claimed
+- [2026-06-23 03:56:39] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-23 03:56:59] attempt 7: dismissing popup (conf=1.00) at (1320, 83)
+- [2026-06-23 03:57:20] attempt 8: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-23 03:57:40] attempt 9: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-23 03:57:51] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260623_035751_France_vs_Iraq_1.png
+- [2026-06-23 03:57:52] attempt 10: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-23 03:58:13] attempt 11: dismissing popup (conf=0.86) at (1537, 85)
+- [2026-06-23 03:58:34] attempt 12: dismissing popup (conf=0.87) at (1537, 85)
+- [2026-06-23 03:58:55] attempt 13: nothing recognized, waiting
+- [2026-06-23 03:59:00] no more pending rewards detected, wrapping up
+- [2026-06-23 03:59:00] waiting 60s before closing...
+- [2026-06-23 04:00:00] closing FC Mobile and BlueStacks...
+- [2026-06-23 04:00:01] marked claimed: France vs Iraq
+- [2026-06-23 06:55:00] claim window OPEN: Norway vs Senegal (kickoff 2026-06-23 06:00:00, ends 2026-06-23 07:30:00)
+- [2026-06-23 06:55:00] BlueStacks is closed, starting it...
+- [2026-06-23 06:55:10] BlueStacks is up and adb is connected
+- [2026-06-23 06:55:10] launching FC Mobile...
+- [2026-06-23 06:55:32] attempt 1: nothing recognized, waiting
+- [2026-06-23 06:55:37] attempt 2: nothing recognized, waiting
+- [2026-06-23 06:55:43] attempt 3: nothing recognized, waiting
+- [2026-06-23 06:55:48] attempt 4: nothing recognized, waiting
+- [2026-06-23 06:55:53] attempt 5: nothing recognized, waiting
+- [2026-06-23 06:55:59] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-23 06:56:19] attempt 6: tapping (800, 827)
+- [2026-06-23 06:56:39] attempt 6: button gone after tap, claimed
+- [2026-06-23 06:56:39] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-23 06:57:00] attempt 7: dismissing popup (conf=1.00) at (1320, 83)
+- [2026-06-23 06:57:20] attempt 8: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-23 06:57:41] attempt 9: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-23 06:57:51] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260623_065751_Norway_vs_Senegal_1.png
+- [2026-06-23 06:57:53] attempt 10: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-23 06:58:13] attempt 11: dismissing popup (conf=0.87) at (1537, 85)
+- [2026-06-23 06:58:34] attempt 12: nothing recognized, waiting
+- [2026-06-23 06:58:40] no more pending rewards detected, wrapping up
+- [2026-06-23 06:58:40] waiting 60s before closing...
+- [2026-06-23 06:59:40] closing FC Mobile and BlueStacks...
+- [2026-06-23 06:59:40] marked claimed: Norway vs Senegal
+- [2026-06-24 01:01:28] loaded 88 upcoming/scheduled matches, 16 already claimed
+- [2026-06-24 02:55:00] claim window OPEN: England vs Ghana (kickoff 2026-06-24 02:00:00, ends 2026-06-24 03:30:00)
+- [2026-06-24 02:55:00] BlueStacks is closed, starting it...
+- [2026-06-24 02:55:09] BlueStacks is up and adb is connected
+- [2026-06-24 02:55:09] launching FC Mobile...
+- [2026-06-24 02:55:31] attempt 1: nothing recognized, waiting
+- [2026-06-24 02:55:36] attempt 2: nothing recognized, waiting
+- [2026-06-24 02:55:42] attempt 3: nothing recognized, waiting
+- [2026-06-24 02:55:47] attempt 4: nothing recognized, waiting
+- [2026-06-24 02:55:52] attempt 5: nothing recognized, waiting
+- [2026-06-24 02:55:58] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-24 02:56:18] attempt 6: tapping (800, 827)
+- [2026-06-24 02:56:39] attempt 6: button gone after tap, claimed
+- [2026-06-24 02:56:39] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-24 02:56:59] attempt 7: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-24 02:57:20] attempt 8: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-24 02:57:30] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260624_025730_England_vs_Ghana_1.png
+- [2026-06-24 02:57:32] attempt 9: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-24 02:57:52] attempt 10: nothing recognized, waiting
+- [2026-06-24 02:57:58] no more pending rewards detected, wrapping up
+- [2026-06-24 02:57:58] waiting 60s before closing...
+- [2026-06-24 02:58:58] closing FC Mobile and BlueStacks...
+- [2026-06-24 02:58:58] marked claimed: England vs Ghana
+- [2026-06-24 05:55:00] claim window OPEN: Panama vs Croatia (kickoff 2026-06-24 05:00:00, ends 2026-06-24 06:30:00)
+- [2026-06-24 05:55:00] BlueStacks is closed, starting it...
+- [2026-06-24 05:55:10] BlueStacks is up and adb is connected
+- [2026-06-24 05:55:10] launching FC Mobile...
+- [2026-06-24 05:55:32] attempt 1: nothing recognized, waiting
+- [2026-06-24 05:55:38] attempt 2: nothing recognized, waiting
+- [2026-06-24 05:55:43] attempt 3: nothing recognized, waiting
+- [2026-06-24 05:55:48] attempt 4: nothing recognized, waiting
+- [2026-06-24 05:55:54] attempt 5: nothing recognized, waiting
+- [2026-06-24 05:55:59] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-24 05:56:19] attempt 6: tapping (800, 827)
+- [2026-06-24 05:56:40] attempt 6: button gone after tap, claimed
+- [2026-06-24 05:56:40] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-24 05:57:00] attempt 7: dismissing popup (conf=1.00) at (1320, 83)
+- [2026-06-24 05:57:21] attempt 8: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-24 05:57:42] attempt 9: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-24 05:57:52] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260624_055752_Panama_vs_Croatia_1.png
+- [2026-06-24 05:57:53] attempt 10: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-24 05:58:14] attempt 11: dismissing popup (conf=0.87) at (1537, 85)
+- [2026-06-24 05:58:35] attempt 12: nothing recognized, waiting
+- [2026-06-24 05:58:41] no more pending rewards detected, wrapping up
+- [2026-06-24 05:58:41] waiting 60s before closing...
+- [2026-06-24 05:59:41] closing FC Mobile and BlueStacks...
+- [2026-06-24 05:59:41] marked claimed: Panama vs Croatia
+- [2026-06-24 23:21:02] loaded 88 upcoming/scheduled matches, 18 already claimed
+- [2026-06-25 01:55:00] claim window OPEN: Switzerland vs Canada (kickoff 2026-06-25 01:00:00, ends 2026-06-25 02:30:00)
+- [2026-06-25 01:55:00] BlueStacks is closed, starting it...
+- [2026-06-25 01:55:09] BlueStacks is up and adb is connected
+- [2026-06-25 01:55:10] launching FC Mobile...
+- [2026-06-25 01:55:31] attempt 1: nothing recognized, waiting
+- [2026-06-25 01:55:37] attempt 2: nothing recognized, waiting
+- [2026-06-25 01:55:43] attempt 3: nothing recognized, waiting
+- [2026-06-25 01:55:48] attempt 4: nothing recognized, waiting
+- [2026-06-25 01:55:54] attempt 5: nothing recognized, waiting
+- [2026-06-25 01:55:59] attempt 6: nothing recognized, waiting
+- [2026-06-25 01:56:04] attempt 7: nothing recognized, waiting
+- [2026-06-25 01:56:10] attempt 8: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-25 01:56:30] attempt 8: tapping (800, 827)
+- [2026-06-25 01:56:50] attempt 8: button still visible after tap - tap likely didn't register, retrying
+- [2026-06-25 01:56:51] attempt 9: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-25 01:57:11] attempt 9: tapping (800, 827)
+- [2026-06-25 01:57:32] attempt 9: button gone after tap, claimed
+- [2026-06-25 01:57:32] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-25 01:57:52] attempt 10: dismissing popup (conf=1.00) at (1320, 83)
+- [2026-06-25 01:58:13] attempt 11: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-25 01:58:33] attempt 12: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-25 01:58:44] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260625_015843_Switzerland_vs_Canada_1.png
+- [2026-06-25 01:58:45] attempt 13: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-25 01:59:05] attempt 14: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-25 01:59:26] attempt 15: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-25 01:59:36] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260625_015936_Switzerland_vs_Canada_2.png
+- [2026-06-25 01:59:38] attempt 16: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-25 01:59:59] attempt 17: dismissing popup (conf=0.87) at (1537, 85)
+- [2026-06-25 02:00:19] attempt 18: nothing recognized, waiting
+- [2026-06-25 02:00:25] no more pending rewards detected, wrapping up
+- [2026-06-25 02:00:25] waiting 60s before closing...
+- [2026-06-25 02:01:25] closing FC Mobile and BlueStacks...
+- [2026-06-25 02:01:25] marked claimed: Switzerland vs Canada
+- [2026-06-25 06:10:07] loaded 88 upcoming/scheduled matches, 19 already claimed
+- [2026-06-25 07:55:00] claim window OPEN: Czechia vs Mexico (kickoff 2026-06-25 07:00:00, ends 2026-06-25 08:30:00)
+- [2026-06-25 07:55:00] BlueStacks is closed, starting it...
+- [2026-06-25 07:57:03] BlueStacks did not come up in time
+- [2026-06-25 07:57:03] did not claim Czechia vs Mexico before window closed, will not retry
+- [2026-06-25 22:35:12] loaded 88 upcoming/scheduled matches, 20 already claimed
+- [2026-06-25 22:42:24] loaded 88 upcoming/scheduled matches, 20 already claimed
+- [2026-06-25 22:48:47] loaded 88 upcoming/scheduled matches, 20 already claimed
+- [2026-06-26 02:55:00] claim window OPEN: Curaçao vs Côte d'Ivoire, Ecuador vs Germany (ends 2026-06-26 03:30:00) - 2 simultaneous matches, claiming together
+- [2026-06-26 02:55:00] BlueStacks is closed, starting it...
+- [2026-06-26 02:55:12] BlueStacks is up and adb is connected
+- [2026-06-26 02:55:13] launching FC Mobile...
+- [2026-06-26 02:55:34] attempt 1: nothing recognized, waiting
+- [2026-06-26 02:55:40] attempt 2: nothing recognized, waiting
+- [2026-06-26 02:55:46] attempt 3: nothing recognized, waiting
+- [2026-06-26 02:55:51] attempt 4: nothing recognized, waiting
+- [2026-06-26 02:55:57] attempt 5: nothing recognized, waiting
+- [2026-06-26 02:56:02] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-26 02:56:22] attempt 6: tapping (800, 827)
+- [2026-06-26 02:56:43] attempt 6: button still visible after tap - tap likely didn't register, retrying
+- [2026-06-26 02:56:43] attempt 7: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-26 02:57:04] attempt 7: tapping (800, 827)
+- [2026-06-26 02:57:24] attempt 7: button gone after tap, claimed
+- [2026-06-26 02:57:24] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-26 02:57:45] attempt 8: dismissing popup (conf=1.00) at (1320, 83)
+- [2026-06-26 02:58:05] attempt 9: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-26 02:58:26] attempt 10: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-26 02:58:36] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260626_025836_Cura_ao_vs_C_te_d_Ivoire_and_Ecuador_vs_Germany_1.png
+- [2026-06-26 02:58:38] attempt 11: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-26 02:58:58] attempt 12: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-26 02:59:19] attempt 13: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-26 02:59:29] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260626_025929_Cura_ao_vs_C_te_d_Ivoire_and_Ecuador_vs_Germany_2.png
+- [2026-06-26 02:59:31] attempt 14: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-26 02:59:52] attempt 15: dismissing popup (conf=0.82) at (1537, 85)
+- [2026-06-26 03:00:13] attempt 16: dismissing popup (conf=0.86) at (1537, 85)
+- [2026-06-26 03:00:33] attempt 17: dismissing popup (conf=0.81) at (1537, 85)
+- [2026-06-26 03:00:54] attempt 18: dismissing popup (conf=0.87) at (1537, 85)
+- [2026-06-26 03:01:15] attempt 19: dismissing popup (conf=0.87) at (1537, 85)
+- [2026-06-26 03:01:36] attempt 20: dismissing popup (conf=0.87) at (1537, 85)
+- [2026-06-26 03:01:56] attempt 21: nothing recognized, waiting
+- [2026-06-26 03:02:02] no more pending rewards detected, wrapping up
+- [2026-06-26 03:02:02] waiting 60s before closing...
+- [2026-06-26 03:03:02] closing FC Mobile and BlueStacks...
+- [2026-06-26 03:03:02] marked claimed: Curaçao vs Côte d'Ivoire, Ecuador vs Germany
+- [2026-06-26 05:55:00] claim window OPEN: Japan vs Sweden, Tunisia vs Netherlands (ends 2026-06-26 06:30:00) - 2 simultaneous matches, claiming together
+- [2026-06-26 05:55:00] BlueStacks is closed, starting it...
+- [2026-06-26 05:55:10] BlueStacks is up and adb is connected
+- [2026-06-26 05:55:10] launching FC Mobile...
+- [2026-06-26 05:55:32] attempt 1: nothing recognized, waiting
+- [2026-06-26 05:55:38] attempt 2: nothing recognized, waiting
+- [2026-06-26 05:55:43] attempt 3: nothing recognized, waiting
+- [2026-06-26 05:55:48] attempt 4: nothing recognized, waiting
+- [2026-06-26 05:55:54] attempt 5: nothing recognized, waiting
+- [2026-06-26 05:55:59] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-26 05:56:19] attempt 6: tapping (800, 827)
+- [2026-06-26 05:56:40] attempt 6: button still visible after tap - tap likely didn't register, retrying
+- [2026-06-26 05:56:40] attempt 7: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-26 05:57:01] attempt 7: tapping (800, 827)
+- [2026-06-26 05:57:21] attempt 7: button gone after tap, claimed
+- [2026-06-26 05:57:21] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-26 05:57:42] attempt 8: dismissing popup (conf=1.00) at (1320, 83)
+- [2026-06-26 05:58:02] attempt 9: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-26 05:58:23] attempt 10: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-26 05:58:33] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260626_055833_Japan_vs_Sweden_and_Tunisia_vs_Netherlands_1.png
+- [2026-06-26 05:58:35] attempt 11: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-26 05:58:55] attempt 12: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-26 05:59:16] attempt 13: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-26 05:59:26] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260626_055926_Japan_vs_Sweden_and_Tunisia_vs_Netherlands_2.png
+- [2026-06-26 05:59:28] attempt 14: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-26 05:59:49] attempt 15: nothing recognized, waiting
+- [2026-06-26 05:59:54] no more pending rewards detected, wrapping up
+- [2026-06-26 05:59:54] waiting 60s before closing...
+- [2026-06-26 06:00:54] closing FC Mobile and BlueStacks...
+- [2026-06-26 06:00:54] marked claimed: Japan vs Sweden, Tunisia vs Netherlands
+- [2026-06-27 00:18:25] loaded 88 upcoming/scheduled matches, 24 already claimed
+- [2026-06-27 01:55:00] claim window OPEN: Norway vs France, Senegal vs Iraq (ends 2026-06-27 02:30:00) - 2 simultaneous matches, claiming together
+- [2026-06-27 01:55:00] BlueStacks is closed, starting it...
+- [2026-06-27 01:55:09] BlueStacks is up and adb is connected
+- [2026-06-27 01:55:09] launching FC Mobile...
+- [2026-06-27 01:55:31] attempt 1: nothing recognized, waiting
+- [2026-06-27 01:55:37] attempt 2: nothing recognized, waiting
+- [2026-06-27 01:55:43] attempt 3: nothing recognized, waiting
+- [2026-06-27 01:55:48] attempt 4: nothing recognized, waiting
+- [2026-06-27 01:55:54] attempt 5: nothing recognized, waiting
+- [2026-06-27 01:55:59] attempt 6: nothing recognized, waiting
+- [2026-06-27 01:56:04] attempt 7: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-27 01:56:25] attempt 7: tapping (800, 827)
+- [2026-06-27 01:56:45] attempt 7: button still visible after tap - tap likely didn't register, retrying
+- [2026-06-27 01:56:46] attempt 8: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-27 01:57:06] attempt 8: tapping (800, 827)
+- [2026-06-27 01:57:27] attempt 8: button gone after tap, claimed
+- [2026-06-27 01:57:27] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-27 01:57:47] attempt 9: dismissing popup (conf=1.00) at (1320, 83)
+- [2026-06-27 01:58:08] attempt 10: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-27 01:58:28] attempt 11: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-27 01:58:39] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260627_015839_Norway_vs_France_and_Senegal_vs_Iraq_1.png
+- [2026-06-27 01:58:40] attempt 12: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-27 01:59:01] attempt 13: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-27 01:59:21] attempt 14: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-27 01:59:32] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260627_015931_Norway_vs_France_and_Senegal_vs_Iraq_2.png
+- [2026-06-27 01:59:33] attempt 15: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-27 01:59:54] attempt 16: dismissing popup (conf=0.82) at (1537, 85)
+- [2026-06-27 02:00:15] attempt 17: dismissing popup (conf=0.83) at (1537, 85)
+- [2026-06-27 02:00:36] attempt 18: nothing recognized, waiting
+- [2026-06-27 02:00:42] no more pending rewards detected, wrapping up
+- [2026-06-27 02:00:42] waiting 60s before closing...
+- [2026-06-27 02:01:42] closing FC Mobile and BlueStacks...
+- [2026-06-27 02:01:42] marked claimed: Norway vs France, Senegal vs Iraq
+- [2026-06-27 06:55:00] claim window OPEN: Cabo Verde vs Saudi Arabia, Uruguay vs Spain (ends 2026-06-27 07:30:00) - 2 simultaneous matches, claiming together
+- [2026-06-27 06:55:00] BlueStacks is closed, starting it...
+- [2026-06-27 06:55:10] BlueStacks is up and adb is connected
+- [2026-06-27 06:55:10] launching FC Mobile...
+- [2026-06-27 06:55:32] attempt 1: nothing recognized, waiting
+- [2026-06-27 06:55:38] attempt 2: nothing recognized, waiting
+- [2026-06-27 06:55:43] attempt 3: nothing recognized, waiting
+- [2026-06-27 06:55:48] attempt 4: nothing recognized, waiting
+- [2026-06-27 06:55:54] attempt 5: nothing recognized, waiting
+- [2026-06-27 06:55:59] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-27 06:56:19] attempt 6: tapping (800, 827)
+- [2026-06-27 06:56:40] attempt 6: button still visible after tap - tap likely didn't register, retrying
+- [2026-06-27 06:56:40] attempt 7: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-27 06:57:00] attempt 7: tapping (800, 827)
+- [2026-06-27 06:57:21] attempt 7: button still visible after tap - tap likely didn't register, retrying
+- [2026-06-27 06:57:21] attempt 8: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-27 06:57:41] attempt 8: tapping (800, 827)
+- [2026-06-27 06:58:02] attempt 8: button gone after tap, claimed
+- [2026-06-27 06:58:02] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-27 06:58:22] attempt 9: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-27 06:58:43] attempt 10: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-27 06:58:53] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260627_065853_Cabo_Verde_vs_Saudi_Arabia_and_Uruguay_vs_Spain_1.png
+- [2026-06-27 06:58:55] attempt 11: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-27 06:59:15] attempt 12: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-27 06:59:36] attempt 13: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-27 06:59:46] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260627_065946_Cabo_Verde_vs_Saudi_Arabia_and_Uruguay_vs_Spain_2.png
+- [2026-06-27 06:59:48] attempt 14: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-27 07:00:08] attempt 15: dismissing popup (conf=0.87) at (1537, 85)
+- [2026-06-27 07:00:29] attempt 16: dismissing popup (conf=0.87) at (1537, 85)
+- [2026-06-27 07:00:50] attempt 17: dismissing popup (conf=1.00) at (1320, 83)
+- [2026-06-27 07:01:10] attempt 18: nothing recognized, waiting
+- [2026-06-27 07:01:16] no more pending rewards detected, wrapping up
+- [2026-06-27 07:01:16] waiting 60s before closing...
+- [2026-06-27 07:02:16] closing FC Mobile and BlueStacks...
+- [2026-06-27 07:02:16] marked claimed: Cabo Verde vs Saudi Arabia, Uruguay vs Spain
+- [2026-06-28 00:44:49] loaded 88 upcoming/scheduled matches, 28 already claimed
+- [2026-06-28 03:55:00] claim window OPEN: Panama vs England, Croatia vs Ghana (ends 2026-06-28 04:30:00) - 2 simultaneous matches, claiming together
+- [2026-06-28 03:55:00] BlueStacks is closed, starting it...
+- [2026-06-28 03:55:09] BlueStacks is up and adb is connected
+- [2026-06-28 03:55:09] launching FC Mobile...
+- [2026-06-28 03:55:31] attempt 1: nothing recognized, waiting
+- [2026-06-28 03:55:36] attempt 2: nothing recognized, waiting
+- [2026-06-28 03:55:42] attempt 3: nothing recognized, waiting
+- [2026-06-28 03:55:47] attempt 4: nothing recognized, waiting
+- [2026-06-28 03:55:52] attempt 5: nothing recognized, waiting
+- [2026-06-28 03:55:58] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-28 03:56:18] attempt 6: tapping (800, 827)
+- [2026-06-28 03:56:38] attempt 6: button still visible after tap - tap likely didn't register, retrying
+- [2026-06-28 03:56:39] attempt 7: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-28 03:56:59] attempt 7: tapping (800, 827)
+- [2026-06-28 03:57:20] attempt 7: button gone after tap, claimed
+- [2026-06-28 03:57:20] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-28 03:57:40] attempt 8: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-28 03:58:01] attempt 9: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-28 03:58:11] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260628_035811_Panama_vs_England_and_Croatia_vs_Ghana_1.png
+- [2026-06-28 03:58:13] attempt 10: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-28 03:58:33] attempt 11: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-28 03:58:54] attempt 12: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-28 03:59:04] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260628_035904_Panama_vs_England_and_Croatia_vs_Ghana_2.png
+- [2026-06-28 03:59:05] attempt 13: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-28 03:59:26] attempt 14: nothing recognized, waiting
+- [2026-06-28 03:59:32] no more pending rewards detected, wrapping up
+- [2026-06-28 03:59:32] waiting 60s before closing...
+- [2026-06-28 04:00:32] closing FC Mobile and BlueStacks...
+- [2026-06-28 04:00:32] marked claimed: Panama vs England, Croatia vs Ghana
+- [2026-06-28 06:25:00] claim window OPEN: Colombia vs Portugal, Congo DR vs Uzbekistan (ends 2026-06-28 07:00:00) - 2 simultaneous matches, claiming together
+- [2026-06-28 06:25:00] BlueStacks is closed, starting it...
+- [2026-06-28 06:25:10] BlueStacks is up and adb is connected
+- [2026-06-28 06:25:10] launching FC Mobile...
+- [2026-06-28 06:25:32] attempt 1: nothing recognized, waiting
+- [2026-06-28 06:25:37] attempt 2: nothing recognized, waiting
+- [2026-06-28 06:25:43] attempt 3: nothing recognized, waiting
+- [2026-06-28 06:25:48] attempt 4: nothing recognized, waiting
+- [2026-06-28 06:25:53] attempt 5: nothing recognized, waiting
+- [2026-06-28 06:25:59] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-28 06:26:19] attempt 6: tapping (800, 827)
+- [2026-06-28 06:26:40] attempt 6: button still visible after tap - tap likely didn't register, retrying
+- [2026-06-28 06:26:40] attempt 7: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-06-28 06:27:01] attempt 7: tapping (800, 827)
+- [2026-06-28 06:27:21] attempt 7: button gone after tap, claimed
+- [2026-06-28 06:27:21] waiting 20s in case a TAP TO OPEN step follows
+- [2026-06-28 06:27:41] attempt 8: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-28 06:28:02] attempt 9: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-28 06:28:12] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260628_062812_Colombia_vs_Portugal_and_Congo_DR_vs_Uzbekistan_1.png
+- [2026-06-28 06:28:14] attempt 10: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-28 06:28:34] attempt 11: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-06-28 06:28:55] attempt 12: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-06-28 06:29:05] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260628_062905_Colombia_vs_Portugal_and_Congo_DR_vs_Uzbekistan_2.png
+- [2026-06-28 06:29:07] attempt 13: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-06-28 06:29:28] attempt 14: nothing recognized, waiting
+- [2026-06-28 06:29:34] no more pending rewards detected, wrapping up
+- [2026-06-28 06:29:34] waiting 60s before closing...
+- [2026-06-28 06:30:34] closing FC Mobile and BlueStacks...
+- [2026-06-28 06:30:34] marked claimed: Colombia vs Portugal, Congo DR vs Uzbekistan
+- [2026-06-28 23:57:04] loaded 32 upcoming/scheduled matches, 32 already claimed
+- [2026-06-29 00:50:03] loaded 32 upcoming/scheduled matches, 32 already claimed
+- [2026-06-29 01:55:00] claim window OPEN: South Africa vs Canada (ends 2026-06-29 02:30:00)
+- [2026-06-29 01:55:00] BlueStacks is closed, starting it...
+- [2026-06-29 01:55:09] BlueStacks is up and adb is connected
+- [2026-06-29 01:55:09] launching FC Mobile...
+- [2026-06-29 01:55:30] attempt 1: nothing recognized, waiting
+- [2026-06-29 01:55:36] attempt 2: nothing recognized, waiting
+- [2026-06-29 01:55:41] attempt 3: nothing recognized, waiting
+- [2026-06-29 01:55:47] attempt 4: nothing recognized, waiting
+- [2026-06-29 01:55:52] attempt 5: nothing recognized, waiting
+- [2026-06-29 01:55:58] attempt 6: nothing recognized, waiting
+- [2026-06-29 01:56:03] attempt 7: dismissing popup (conf=1.00) at (1320, 83)
+- [2026-06-29 01:56:24] attempt 8: nothing recognized, waiting
+- [2026-06-29 01:56:30] attempt 9: nothing recognized, waiting
+- [2026-06-29 01:56:36] attempt 10: nothing recognized, waiting
+- [2026-06-29 01:56:41] attempt 11: nothing recognized, waiting
+- [2026-06-29 01:56:47] attempt 12: nothing recognized, waiting
+- [2026-06-29 01:56:53] attempt 13: nothing recognized, waiting
+- [2026-06-29 01:56:59] attempt 14: nothing recognized, waiting
+- [2026-06-29 01:57:04] attempt 15: nothing recognized, waiting
+- [2026-06-29 01:57:10] attempt 16: nothing recognized, waiting
+- [2026-06-29 01:57:16] attempt 17: nothing recognized, waiting
+- [2026-06-29 01:57:22] attempt 18: nothing recognized, waiting
+- [2026-06-29 01:57:27] attempt 19: nothing recognized, waiting
+- [2026-06-29 01:57:33] attempt 20: nothing recognized, waiting
+- [2026-06-29 01:57:39] attempt 21: nothing recognized, waiting
+- [2026-06-29 01:57:45] attempt 22: nothing recognized, waiting
+- [2026-06-29 01:57:50] attempt 23: nothing recognized, waiting
+- [2026-06-29 01:57:56] attempt 24: nothing recognized, waiting
+- [2026-06-29 01:58:02] attempt 25: nothing recognized, waiting
+- [2026-06-29 01:58:08] attempt 26: nothing recognized, waiting
+- [2026-06-29 01:58:13] attempt 27: nothing recognized, waiting
+- [2026-06-29 01:58:19] attempt 28: nothing recognized, waiting
+- [2026-06-29 01:58:25] attempt 29: nothing recognized, waiting
+- [2026-06-29 01:58:31] attempt 30: nothing recognized, waiting
+- [2026-06-29 01:58:36] attempt 31: nothing recognized, waiting
+- [2026-06-29 01:58:42] attempt 32: nothing recognized, waiting
+- [2026-06-29 01:58:48] attempt 33: nothing recognized, waiting
+- [2026-06-29 01:58:54] attempt 34: nothing recognized, waiting
+- [2026-06-29 01:58:59] attempt 35: nothing recognized, waiting
+- [2026-06-29 01:59:05] attempt 36: nothing recognized, waiting
+- [2026-06-29 01:59:11] attempt 37: nothing recognized, waiting
+- [2026-06-29 01:59:16] attempt 38: nothing recognized, waiting
+- [2026-06-29 01:59:22] attempt 39: nothing recognized, waiting
+- [2026-06-29 01:59:28] attempt 40: nothing recognized, waiting
+- [2026-06-29 01:59:34] attempt 41: nothing recognized, waiting
+- [2026-06-29 01:59:39] attempt 42: nothing recognized, waiting
+- [2026-06-29 01:59:45] attempt 43: nothing recognized, waiting
+- [2026-06-29 01:59:51] attempt 44: nothing recognized, waiting
+- [2026-06-29 01:59:57] attempt 45: nothing recognized, waiting
+- [2026-06-29 02:00:02] attempt 46: nothing recognized, waiting
+- [2026-06-29 02:00:08] attempt 47: nothing recognized, waiting
+- [2026-06-29 02:00:14] attempt 48: nothing recognized, waiting
+- [2026-06-29 02:00:20] attempt 49: nothing recognized, waiting
+- [2026-06-29 02:00:25] attempt 50: nothing recognized, waiting
+- [2026-06-29 02:00:31] attempt 51: nothing recognized, waiting
+- [2026-06-29 02:00:37] attempt 52: nothing recognized, waiting
+- [2026-06-29 02:00:43] attempt 53: nothing recognized, waiting
+- [2026-06-29 02:00:48] attempt 54: nothing recognized, waiting
+- [2026-06-29 02:00:54] attempt 55: nothing recognized, waiting
+- [2026-06-29 02:01:00] attempt 56: nothing recognized, waiting
+- [2026-06-29 02:01:06] attempt 57: nothing recognized, waiting
+- [2026-06-29 02:01:11] attempt 58: nothing recognized, waiting
+- [2026-06-29 02:01:17] attempt 59: nothing recognized, waiting
+- [2026-06-29 02:01:23] attempt 60: nothing recognized, waiting
+- [2026-06-29 02:01:28] attempt 61: nothing recognized, waiting
+- [2026-06-29 02:01:34] attempt 62: nothing recognized, waiting
+- [2026-06-29 02:01:40] attempt 63: nothing recognized, waiting
+- [2026-06-29 02:01:46] attempt 64: nothing recognized, waiting
+- [2026-06-29 02:01:51] attempt 65: nothing recognized, waiting
+- [2026-06-29 02:01:57] attempt 66: nothing recognized, waiting
+- [2026-06-29 02:02:03] attempt 67: nothing recognized, waiting
+- [2026-06-29 02:02:09] attempt 68: nothing recognized, waiting
+- [2026-06-29 02:02:14] attempt 69: nothing recognized, waiting
+- [2026-06-29 02:02:20] attempt 70: nothing recognized, waiting
+- [2026-06-29 02:02:26] attempt 71: nothing recognized, waiting
+- [2026-06-29 02:02:32] attempt 72: nothing recognized, waiting
+- [2026-06-29 02:02:37] attempt 73: nothing recognized, waiting
+- [2026-06-29 02:02:43] attempt 74: nothing recognized, waiting
+- [2026-06-29 02:02:49] attempt 75: nothing recognized, waiting
+- [2026-06-29 02:02:55] attempt 76: nothing recognized, waiting
+- [2026-06-29 02:03:00] attempt 77: nothing recognized, waiting
+- [2026-06-29 02:03:06] attempt 78: nothing recognized, waiting
+- [2026-06-29 02:03:12] attempt 79: nothing recognized, waiting
+- [2026-06-29 02:03:18] attempt 80: nothing recognized, waiting
+- [2026-06-29 02:03:23] attempt 81: nothing recognized, waiting
+- [2026-06-29 02:03:29] attempt 82: nothing recognized, waiting
+- [2026-06-29 02:03:35] attempt 83: nothing recognized, waiting
+- [2026-06-29 02:03:41] attempt 84: nothing recognized, waiting
+- [2026-06-29 02:03:47] attempt 85: nothing recognized, waiting
+- [2026-06-29 02:03:52] attempt 86: nothing recognized, waiting
+- [2026-06-29 02:03:58] attempt 87: nothing recognized, waiting
+- [2026-06-29 02:04:04] attempt 88: nothing recognized, waiting
+- [2026-06-29 02:04:09] attempt 89: nothing recognized, waiting
+- [2026-06-29 02:04:15] attempt 90: nothing recognized, waiting
+- [2026-06-29 02:04:21] attempt 91: nothing recognized, waiting
+- [2026-06-29 02:04:27] attempt 92: nothing recognized, waiting
+- [2026-06-29 02:04:32] attempt 93: nothing recognized, waiting
+- [2026-06-29 02:04:38] attempt 94: nothing recognized, waiting
+- [2026-06-29 02:04:44] attempt 95: nothing recognized, waiting
+- [2026-06-29 02:04:50] attempt 96: nothing recognized, waiting
+- [2026-06-29 02:04:55] attempt 97: nothing recognized, waiting
+- [2026-06-29 02:05:01] attempt 98: nothing recognized, waiting
+- [2026-06-29 02:05:07] attempt 99: nothing recognized, waiting
+- [2026-06-29 02:05:13] attempt 100: nothing recognized, waiting
+- [2026-06-29 02:05:18] attempt 101: nothing recognized, waiting
+- [2026-06-29 02:05:24] attempt 102: nothing recognized, waiting
+- [2026-06-29 02:05:30] attempt 103: nothing recognized, waiting
+- [2026-06-29 02:05:36] attempt 104: nothing recognized, waiting
+- [2026-06-29 02:05:41] attempt 105: nothing recognized, waiting
+- [2026-06-29 02:05:47] attempt 106: nothing recognized, waiting
+- [2026-06-29 02:05:53] attempt 107: nothing recognized, waiting
+- [2026-06-29 02:05:59] attempt 108: nothing recognized, waiting
+- [2026-06-29 02:06:04] attempt 109: nothing recognized, waiting
+- [2026-06-29 02:06:10] attempt 110: nothing recognized, waiting
+- [2026-06-29 02:06:16] attempt 111: nothing recognized, waiting
+- [2026-06-29 02:06:21] attempt 112: nothing recognized, waiting
+- [2026-06-29 02:06:27] attempt 113: nothing recognized, waiting
+- [2026-06-29 02:06:33] attempt 114: nothing recognized, waiting
+- [2026-06-29 02:06:39] attempt 115: nothing recognized, waiting
+- [2026-06-29 02:06:44] attempt 116: nothing recognized, waiting
+- [2026-06-29 02:06:50] attempt 117: nothing recognized, waiting
+- [2026-06-29 02:06:56] attempt 118: nothing recognized, waiting
+- [2026-06-29 02:07:02] attempt 119: nothing recognized, waiting
+- [2026-06-29 02:07:07] attempt 120: nothing recognized, waiting
+- [2026-06-29 02:07:13] attempt 121: nothing recognized, waiting
+- [2026-06-29 02:07:19] attempt 122: nothing recognized, waiting
+- [2026-06-29 02:07:25] attempt 123: nothing recognized, waiting
+- [2026-06-29 02:07:30] attempt 124: nothing recognized, waiting
+- [2026-06-29 02:07:36] attempt 125: nothing recognized, waiting
+- [2026-06-29 02:07:42] attempt 126: nothing recognized, waiting
+- [2026-06-29 02:07:47] attempt 127: nothing recognized, waiting
+- [2026-06-29 02:07:53] attempt 128: nothing recognized, waiting
+- [2026-06-29 02:07:59] attempt 129: nothing recognized, waiting
+- [2026-06-29 02:08:05] attempt 130: nothing recognized, waiting
+- [2026-06-29 02:08:11] attempt 131: nothing recognized, waiting
+- [2026-06-29 02:08:16] attempt 132: nothing recognized, waiting
+- [2026-06-29 02:08:22] attempt 133: nothing recognized, waiting
+- [2026-06-29 02:08:28] attempt 134: nothing recognized, waiting
+- [2026-06-29 02:08:33] attempt 135: nothing recognized, waiting
+- [2026-06-29 02:08:39] attempt 136: nothing recognized, waiting
+- [2026-06-29 02:08:45] attempt 137: nothing recognized, waiting
+- [2026-06-29 02:08:51] attempt 138: nothing recognized, waiting
+- [2026-06-29 02:08:56] attempt 139: nothing recognized, waiting
+- [2026-06-29 02:09:02] attempt 140: nothing recognized, waiting
+- [2026-06-29 02:09:08] attempt 141: nothing recognized, waiting
+- [2026-06-29 02:09:14] attempt 142: nothing recognized, waiting
+- [2026-06-29 02:09:19] attempt 143: nothing recognized, waiting
+- [2026-06-29 02:09:25] attempt 144: nothing recognized, waiting
+- [2026-06-29 02:09:31] attempt 145: nothing recognized, waiting
+- [2026-06-29 02:09:37] attempt 146: nothing recognized, waiting
+- [2026-06-29 02:09:42] attempt 147: nothing recognized, waiting
+- [2026-06-29 02:09:48] attempt 148: nothing recognized, waiting
+- [2026-06-29 02:09:54] attempt 149: nothing recognized, waiting
+- [2026-06-29 02:09:59] attempt 150: nothing recognized, waiting
+- [2026-06-29 02:10:05] attempt 151: nothing recognized, waiting
+- [2026-06-29 02:10:11] attempt 152: nothing recognized, waiting
+- [2026-06-29 02:10:17] attempt 153: nothing recognized, waiting
+- [2026-06-29 02:10:22] attempt 154: nothing recognized, waiting
+- [2026-06-29 02:10:28] attempt 155: nothing recognized, waiting
+- [2026-06-29 02:10:34] attempt 156: nothing recognized, waiting
+- [2026-06-29 02:10:40] attempt 157: nothing recognized, waiting
+- [2026-06-29 02:10:45] attempt 158: nothing recognized, waiting
+- [2026-06-29 02:10:51] attempt 159: nothing recognized, waiting
+- [2026-06-29 02:10:57] attempt 160: nothing recognized, waiting
+- [2026-06-29 02:11:03] attempt 161: nothing recognized, waiting
+- [2026-06-29 02:11:08] attempt 162: nothing recognized, waiting
+- [2026-06-29 02:11:14] attempt 163: nothing recognized, waiting
+- [2026-06-29 02:11:20] attempt 164: nothing recognized, waiting
+- [2026-06-29 02:11:26] attempt 165: nothing recognized, waiting
+- [2026-06-29 02:11:31] attempt 166: nothing recognized, waiting
+- [2026-06-29 02:11:37] attempt 167: nothing recognized, waiting
+- [2026-06-29 02:11:43] attempt 168: nothing recognized, waiting
+- [2026-06-29 02:11:49] attempt 169: nothing recognized, waiting
+- [2026-06-29 02:11:54] attempt 170: nothing recognized, waiting
+- [2026-06-29 02:12:00] attempt 171: nothing recognized, waiting
+- [2026-06-29 02:12:06] attempt 172: nothing recognized, waiting
+- [2026-06-29 02:12:12] attempt 173: nothing recognized, waiting
+- [2026-06-29 02:12:17] attempt 174: nothing recognized, waiting
+- [2026-06-29 02:12:23] attempt 175: nothing recognized, waiting
+- [2026-06-29 02:12:29] attempt 176: nothing recognized, waiting
+- [2026-06-29 02:12:35] attempt 177: nothing recognized, waiting
+- [2026-06-29 02:12:40] attempt 178: nothing recognized, waiting
+- [2026-06-29 02:12:46] attempt 179: nothing recognized, waiting
+- [2026-06-29 02:12:52] attempt 180: nothing recognized, waiting
+- [2026-06-29 02:12:58] attempt 181: nothing recognized, waiting
+- [2026-06-29 02:13:03] attempt 182: nothing recognized, waiting
+- [2026-06-29 02:13:09] attempt 183: nothing recognized, waiting
+- [2026-06-29 02:13:15] attempt 184: nothing recognized, waiting
+- [2026-06-29 02:13:20] attempt 185: nothing recognized, waiting
+- [2026-06-29 02:13:26] attempt 186: nothing recognized, waiting
+- [2026-06-29 02:13:32] attempt 187: nothing recognized, waiting
+- [2026-06-29 02:13:38] attempt 188: nothing recognized, waiting
+- [2026-06-29 02:13:43] attempt 189: nothing recognized, waiting
+- [2026-06-29 02:13:49] attempt 190: nothing recognized, waiting
+- [2026-06-29 02:13:55] attempt 191: nothing recognized, waiting
+- [2026-06-29 02:14:01] attempt 192: nothing recognized, waiting
+- [2026-06-29 02:14:06] attempt 193: nothing recognized, waiting
+- [2026-06-29 02:14:12] attempt 194: nothing recognized, waiting
+- [2026-06-29 02:14:18] attempt 195: nothing recognized, waiting
+- [2026-06-29 02:14:24] attempt 196: nothing recognized, waiting
+- [2026-06-29 02:14:29] attempt 197: nothing recognized, waiting
+- [2026-06-29 02:14:35] attempt 198: nothing recognized, waiting
+- [2026-06-29 02:14:41] attempt 199: nothing recognized, waiting
+- [2026-06-29 02:14:47] attempt 200: nothing recognized, waiting
+- [2026-06-29 02:14:52] attempt 201: nothing recognized, waiting
+- [2026-06-29 02:14:58] attempt 202: nothing recognized, waiting
+- [2026-06-29 02:15:04] attempt 203: nothing recognized, waiting
+- [2026-06-29 02:15:10] attempt 204: nothing recognized, waiting
+- [2026-06-29 02:15:15] attempt 205: nothing recognized, waiting
+- [2026-06-29 02:15:21] attempt 206: nothing recognized, waiting
+- [2026-06-29 02:15:27] attempt 207: nothing recognized, waiting
+- [2026-06-29 02:15:33] attempt 208: nothing recognized, waiting
+- [2026-06-29 02:15:38] attempt 209: nothing recognized, waiting
+- [2026-06-29 02:15:44] attempt 210: nothing recognized, waiting
+- [2026-06-29 02:15:50] attempt 211: nothing recognized, waiting
+- [2026-06-29 02:15:55] attempt 212: nothing recognized, waiting
+- [2026-06-29 02:16:01] attempt 213: nothing recognized, waiting
+- [2026-06-29 02:16:07] attempt 214: nothing recognized, waiting
+- [2026-06-29 02:16:13] attempt 215: nothing recognized, waiting
+- [2026-06-29 02:16:18] attempt 216: nothing recognized, waiting
+- [2026-06-29 02:16:24] attempt 217: nothing recognized, waiting
+- [2026-06-29 02:16:30] attempt 218: nothing recognized, waiting
+- [2026-06-29 02:16:36] attempt 219: nothing recognized, waiting
+- [2026-06-29 02:16:41] attempt 220: nothing recognized, waiting
+- [2026-06-29 02:16:47] attempt 221: nothing recognized, waiting
+- [2026-06-29 02:16:53] attempt 222: nothing recognized, waiting
+- [2026-06-29 02:16:59] attempt 223: nothing recognized, waiting
+- [2026-06-29 02:17:04] attempt 224: nothing recognized, waiting
+- [2026-06-29 02:17:10] attempt 225: nothing recognized, waiting
+- [2026-06-29 02:17:16] attempt 226: nothing recognized, waiting
+- [2026-06-29 02:17:22] attempt 227: nothing recognized, waiting
+- [2026-06-29 02:17:27] attempt 228: nothing recognized, waiting
+- [2026-06-29 02:17:33] attempt 229: nothing recognized, waiting
+- [2026-06-29 02:17:39] attempt 230: nothing recognized, waiting
+- [2026-06-29 02:17:45] attempt 231: nothing recognized, waiting
+- [2026-06-29 02:17:50] attempt 232: nothing recognized, waiting
+- [2026-06-29 02:17:56] attempt 233: nothing recognized, waiting
+- [2026-06-29 02:18:02] attempt 234: nothing recognized, waiting
+- [2026-06-29 02:18:08] attempt 235: nothing recognized, waiting
+- [2026-06-29 02:18:13] attempt 236: nothing recognized, waiting
+- [2026-06-29 02:18:19] attempt 237: nothing recognized, waiting
+- [2026-06-29 02:18:25] attempt 238: nothing recognized, waiting
+- [2026-06-29 02:18:31] attempt 239: nothing recognized, waiting
+- [2026-06-29 02:18:36] attempt 240: nothing recognized, waiting
+- [2026-06-29 02:18:42] attempt 241: nothing recognized, waiting
+- [2026-06-29 02:18:48] attempt 242: nothing recognized, waiting
+- [2026-06-29 02:18:54] attempt 243: nothing recognized, waiting
+- [2026-06-29 02:18:59] attempt 244: nothing recognized, waiting
+- [2026-06-29 02:19:05] attempt 245: nothing recognized, waiting
+- [2026-06-29 02:19:11] attempt 246: nothing recognized, waiting
+- [2026-06-29 02:19:17] attempt 247: nothing recognized, waiting
+- [2026-06-29 02:19:22] attempt 248: nothing recognized, waiting
+- [2026-06-29 02:19:28] attempt 249: nothing recognized, waiting
+- [2026-06-29 02:19:34] attempt 250: nothing recognized, waiting
+- [2026-06-29 02:19:40] attempt 251: nothing recognized, waiting
+- [2026-06-29 02:19:45] attempt 252: nothing recognized, waiting
+- [2026-06-29 02:19:51] attempt 253: nothing recognized, waiting
+- [2026-06-29 02:19:57] attempt 254: nothing recognized, waiting
+- [2026-06-29 02:20:02] attempt 255: nothing recognized, waiting
+- [2026-06-29 02:20:08] attempt 256: nothing recognized, waiting
+- [2026-06-29 02:20:14] attempt 257: nothing recognized, waiting
+- [2026-06-29 02:20:20] attempt 258: nothing recognized, waiting
+- [2026-06-29 02:20:25] attempt 259: nothing recognized, waiting
+- [2026-06-29 02:20:31] attempt 260: nothing recognized, waiting
+- [2026-06-29 02:20:37] attempt 261: nothing recognized, waiting
+- [2026-06-29 02:20:43] attempt 262: nothing recognized, waiting
+- [2026-06-29 02:20:48] attempt 263: nothing recognized, waiting
+- [2026-06-29 02:20:54] attempt 264: nothing recognized, waiting
+- [2026-06-29 02:21:00] attempt 265: nothing recognized, waiting
+- [2026-06-29 02:21:06] attempt 266: nothing recognized, waiting
+- [2026-06-29 02:21:11] attempt 267: nothing recognized, waiting
+- [2026-06-29 02:21:17] attempt 268: nothing recognized, waiting
+- [2026-06-29 02:21:23] attempt 269: nothing recognized, waiting
+- [2026-06-29 02:21:28] attempt 270: nothing recognized, waiting
+- [2026-06-29 02:21:34] attempt 271: nothing recognized, waiting
+- [2026-06-29 02:21:40] attempt 272: nothing recognized, waiting
+- [2026-06-29 02:21:46] attempt 273: nothing recognized, waiting
+- [2026-06-29 02:21:51] attempt 274: nothing recognized, waiting
+- [2026-06-29 02:21:57] attempt 275: nothing recognized, waiting
+- [2026-06-29 02:22:03] attempt 276: nothing recognized, waiting
+- [2026-06-29 02:22:09] attempt 277: nothing recognized, waiting
+- [2026-06-29 02:22:14] attempt 278: nothing recognized, waiting
+- [2026-06-29 02:22:20] attempt 279: nothing recognized, waiting
+- [2026-06-29 02:22:26] attempt 280: nothing recognized, waiting
+- [2026-06-29 02:22:32] attempt 281: nothing recognized, waiting
+- [2026-06-29 02:22:37] attempt 282: nothing recognized, waiting
+- [2026-06-29 02:22:43] attempt 283: nothing recognized, waiting
+- [2026-06-29 02:22:49] attempt 284: nothing recognized, waiting
+- [2026-06-29 02:22:54] attempt 285: nothing recognized, waiting
+- [2026-06-29 02:23:00] attempt 286: nothing recognized, waiting
+- [2026-06-29 02:23:06] attempt 287: nothing recognized, waiting
+- [2026-06-29 02:23:12] attempt 288: nothing recognized, waiting
+- [2026-06-29 02:23:17] attempt 289: nothing recognized, waiting
+- [2026-06-29 02:23:23] attempt 290: nothing recognized, waiting
+- [2026-06-29 02:23:29] attempt 291: nothing recognized, waiting
+- [2026-06-29 02:23:35] attempt 292: nothing recognized, waiting
+- [2026-06-29 02:23:40] attempt 293: nothing recognized, waiting
+- [2026-06-29 02:23:46] attempt 294: nothing recognized, waiting
+- [2026-06-29 02:23:52] attempt 295: nothing recognized, waiting
+- [2026-06-29 02:23:58] attempt 296: nothing recognized, waiting
+- [2026-06-29 02:24:03] attempt 297: nothing recognized, waiting
+- [2026-06-29 02:24:09] attempt 298: nothing recognized, waiting
+- [2026-06-29 02:24:15] attempt 299: nothing recognized, waiting
+- [2026-06-29 02:24:21] attempt 300: nothing recognized, waiting
+- [2026-06-29 02:24:26] attempt 301: nothing recognized, waiting
+- [2026-06-29 02:24:32] attempt 302: nothing recognized, waiting
+- [2026-06-29 02:24:38] attempt 303: nothing recognized, waiting
+- [2026-06-29 02:24:44] attempt 304: nothing recognized, waiting
+- [2026-06-29 02:24:49] attempt 305: nothing recognized, waiting
+- [2026-06-29 02:24:55] attempt 306: nothing recognized, waiting
+- [2026-06-29 02:25:01] attempt 307: nothing recognized, waiting
+- [2026-06-29 02:25:07] attempt 308: nothing recognized, waiting
+- [2026-06-29 02:25:12] attempt 309: nothing recognized, waiting
+- [2026-06-29 02:25:18] attempt 310: nothing recognized, waiting
+- [2026-06-29 02:25:24] attempt 311: nothing recognized, waiting
+- [2026-06-29 02:25:30] attempt 312: nothing recognized, waiting
+- [2026-06-29 02:25:36] attempt 313: nothing recognized, waiting
+- [2026-06-29 02:25:41] attempt 314: nothing recognized, waiting
+- [2026-06-29 02:25:47] attempt 315: nothing recognized, waiting
+- [2026-06-29 02:25:53] attempt 316: nothing recognized, waiting
+- [2026-06-29 02:25:59] attempt 317: nothing recognized, waiting
+- [2026-06-29 02:26:04] attempt 318: nothing recognized, waiting
+- [2026-06-29 02:26:10] attempt 319: nothing recognized, waiting
+- [2026-06-29 02:26:16] attempt 320: nothing recognized, waiting
+- [2026-06-29 02:26:21] attempt 321: nothing recognized, waiting
+- [2026-06-29 02:26:27] attempt 322: nothing recognized, waiting
+- [2026-06-29 02:26:33] attempt 323: nothing recognized, waiting
+- [2026-06-29 02:26:39] attempt 324: nothing recognized, waiting
+- [2026-06-29 02:26:44] attempt 325: nothing recognized, waiting
+- [2026-06-29 02:26:50] attempt 326: nothing recognized, waiting
+- [2026-06-29 02:26:56] attempt 327: nothing recognized, waiting
+- [2026-06-29 02:27:02] attempt 328: nothing recognized, waiting
+- [2026-06-29 02:27:07] attempt 329: nothing recognized, waiting
+- [2026-06-29 02:27:13] attempt 330: nothing recognized, waiting
+- [2026-06-29 02:27:19] attempt 331: nothing recognized, waiting
+- [2026-06-29 02:27:25] attempt 332: nothing recognized, waiting
+- [2026-06-29 02:27:30] attempt 333: nothing recognized, waiting
+- [2026-06-29 02:27:36] attempt 334: nothing recognized, waiting
+- [2026-06-29 02:27:42] attempt 335: nothing recognized, waiting
+- [2026-06-29 02:27:48] attempt 336: nothing recognized, waiting
+- [2026-06-29 02:27:53] attempt 337: nothing recognized, waiting
+- [2026-06-29 02:27:59] attempt 338: nothing recognized, waiting
+- [2026-06-29 02:28:05] attempt 339: nothing recognized, waiting
+- [2026-06-29 02:28:10] attempt 340: nothing recognized, waiting
+- [2026-06-29 02:28:16] attempt 341: nothing recognized, waiting
+- [2026-06-29 02:28:22] attempt 342: nothing recognized, waiting
+- [2026-06-29 02:28:28] attempt 343: nothing recognized, waiting
+- [2026-06-29 02:28:33] attempt 344: nothing recognized, waiting
+- [2026-06-29 02:28:39] attempt 345: nothing recognized, waiting
+- [2026-06-29 02:28:45] attempt 346: nothing recognized, waiting
+- [2026-06-29 02:28:51] attempt 347: nothing recognized, waiting
+- [2026-06-29 02:28:56] attempt 348: nothing recognized, waiting
+- [2026-06-29 02:29:02] attempt 349: nothing recognized, waiting
+- [2026-06-29 02:29:08] attempt 350: nothing recognized, waiting
+- [2026-06-29 02:29:13] attempt 351: nothing recognized, waiting
+- [2026-06-29 02:29:19] attempt 352: nothing recognized, waiting
+- [2026-06-29 02:29:25] attempt 353: nothing recognized, waiting
+- [2026-06-29 02:29:31] attempt 354: nothing recognized, waiting
+- [2026-06-29 02:29:36] attempt 355: nothing recognized, waiting
+- [2026-06-29 02:29:42] attempt 356: nothing recognized, waiting
+- [2026-06-29 02:29:48] attempt 357: nothing recognized, waiting
+- [2026-06-29 02:29:53] attempt 358: nothing recognized, waiting
+- [2026-06-29 02:29:59] attempt 359: nothing recognized, waiting
+- [2026-06-29 02:30:04] deadline reached without claiming anything
+- [2026-06-29 02:30:04] did not claim South Africa vs Canada before window closed, will not retry
+- [2026-06-29 02:30:04] next claim window opens in 21:24:55.317246 (more than 6:00:00) - shutting down the PC to save power; turn it back on and restart the watcher before 2026-06-29 23:55:00
+- [2026-07-01 01:27:44] loaded 32 upcoming/scheduled matches, 33 already claimed
+- [2026-07-01 03:55:00] claim window OPEN: France vs Sweden (ends 2026-07-01 04:30:00)
+- [2026-07-01 03:55:00] BlueStacks is closed, starting it...
+- [2026-07-01 03:55:09] BlueStacks is up and adb is connected
+- [2026-07-01 03:55:09] launching FC Mobile...
+- [2026-07-01 03:55:31] attempt 1: nothing recognized, waiting
+- [2026-07-01 03:55:36] attempt 2: nothing recognized, waiting
+- [2026-07-01 03:55:42] attempt 3: nothing recognized, waiting
+- [2026-07-01 03:55:47] attempt 4: nothing recognized, waiting
+- [2026-07-01 03:55:52] attempt 5: nothing recognized, waiting
+- [2026-07-01 03:55:58] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-07-01 03:56:18] attempt 6: tapping (800, 827)
+- [2026-07-01 03:56:38] attempt 6: button gone after tap, claimed
+- [2026-07-01 03:56:38] waiting 20s in case a TAP TO OPEN step follows
+- [2026-07-01 03:56:59] attempt 7: dismissing popup (conf=1.00) at (1320, 83)
+- [2026-07-01 03:57:19] attempt 8: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-07-01 03:57:40] attempt 9: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-07-01 03:57:50] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260701_035750_France_vs_Sweden_1.png
+- [2026-07-01 03:57:52] attempt 10: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-07-01 03:58:13] attempt 11: nothing recognized, waiting
+- [2026-07-01 03:58:18] no more pending rewards detected, wrapping up
+- [2026-07-01 03:58:18] waiting 60s before closing...
+- [2026-07-01 03:59:18] closing FC Mobile and BlueStacks...
+- [2026-07-01 03:59:19] marked claimed: France vs Sweden
+- [2026-07-01 07:55:00] claim window OPEN: Mexico vs Ecuador (ends 2026-07-01 08:30:00)
+- [2026-07-01 07:55:00] BlueStacks is closed, starting it...
+- [2026-07-01 07:55:10] BlueStacks is up and adb is connected
+- [2026-07-01 07:55:10] launching FC Mobile...
+- [2026-07-01 07:55:32] attempt 1: nothing recognized, waiting
+- [2026-07-01 07:55:37] attempt 2: nothing recognized, waiting
+- [2026-07-01 07:55:43] attempt 3: nothing recognized, waiting
+- [2026-07-01 07:55:48] attempt 4: nothing recognized, waiting
+- [2026-07-01 07:55:53] attempt 5: nothing recognized, waiting
+- [2026-07-01 07:55:59] attempt 6: dismissing popup (conf=1.00) at (1320, 83)
+- [2026-07-01 07:56:19] attempt 7: nothing recognized, waiting
+- [2026-07-01 07:56:25] attempt 8: nothing recognized, waiting
+- [2026-07-01 07:56:30] attempt 9: nothing recognized, waiting
+- [2026-07-01 07:56:36] attempt 10: nothing recognized, waiting
+- [2026-07-01 07:56:41] attempt 11: nothing recognized, waiting
+- [2026-07-01 07:56:47] attempt 12: nothing recognized, waiting
+- [2026-07-01 07:56:52] attempt 13: nothing recognized, waiting
+- [2026-07-01 07:56:58] attempt 14: nothing recognized, waiting
+- [2026-07-01 07:57:03] attempt 15: nothing recognized, waiting
+- [2026-07-01 07:57:09] attempt 16: nothing recognized, waiting
+- [2026-07-01 07:57:14] attempt 17: nothing recognized, waiting
+- [2026-07-01 07:57:20] attempt 18: nothing recognized, waiting
+- [2026-07-01 07:57:25] attempt 19: nothing recognized, waiting
+- [2026-07-01 07:57:31] attempt 20: nothing recognized, waiting
+- [2026-07-01 07:57:36] attempt 21: nothing recognized, waiting
+- [2026-07-01 07:57:42] attempt 22: nothing recognized, waiting
+- [2026-07-01 07:57:47] attempt 23: nothing recognized, waiting
+- [2026-07-01 07:57:53] attempt 24: nothing recognized, waiting
+- [2026-07-01 07:57:58] attempt 25: nothing recognized, waiting
+- [2026-07-01 07:58:04] attempt 26: nothing recognized, waiting
+- [2026-07-01 07:58:09] attempt 27: nothing recognized, waiting
+- [2026-07-01 07:58:15] attempt 28: nothing recognized, waiting
+- [2026-07-01 07:58:20] attempt 29: nothing recognized, waiting
+- [2026-07-01 07:58:26] attempt 30: nothing recognized, waiting
+- [2026-07-01 07:58:31] attempt 31: nothing recognized, waiting
+- [2026-07-01 07:58:37] attempt 32: nothing recognized, waiting
+- [2026-07-01 07:58:42] attempt 33: nothing recognized, waiting
+- [2026-07-01 07:58:48] attempt 34: nothing recognized, waiting
+- [2026-07-01 07:58:53] attempt 35: nothing recognized, waiting
+- [2026-07-01 07:58:59] attempt 36: nothing recognized, waiting
+- [2026-07-01 07:59:04] attempt 37: nothing recognized, waiting
+- [2026-07-01 07:59:10] attempt 38: nothing recognized, waiting
+- [2026-07-01 07:59:15] attempt 39: nothing recognized, waiting
+- [2026-07-01 07:59:21] attempt 40: nothing recognized, waiting
+- [2026-07-01 07:59:26] attempt 41: nothing recognized, waiting
+- [2026-07-01 07:59:31] attempt 42: nothing recognized, waiting
+- [2026-07-01 07:59:37] attempt 43: nothing recognized, waiting
+- [2026-07-01 07:59:42] attempt 44: nothing recognized, waiting
+- [2026-07-01 07:59:48] attempt 45: nothing recognized, waiting
+- [2026-07-01 07:59:53] attempt 46: nothing recognized, waiting
+- [2026-07-01 07:59:59] attempt 47: nothing recognized, waiting
+- [2026-07-01 08:00:04] attempt 48: nothing recognized, waiting
+- [2026-07-01 08:00:10] attempt 49: nothing recognized, waiting
+- [2026-07-01 08:00:15] attempt 50: nothing recognized, waiting
+- [2026-07-01 08:00:21] attempt 51: nothing recognized, waiting
+- [2026-07-01 08:00:26] attempt 52: nothing recognized, waiting
+- [2026-07-01 08:00:32] attempt 53: nothing recognized, waiting
+- [2026-07-01 08:00:37] attempt 54: nothing recognized, waiting
+- [2026-07-01 08:00:43] attempt 55: nothing recognized, waiting
+- [2026-07-01 08:00:48] attempt 56: nothing recognized, waiting
+- [2026-07-01 08:00:54] attempt 57: nothing recognized, waiting
+- [2026-07-01 08:00:59] attempt 58: nothing recognized, waiting
+- [2026-07-01 08:01:05] attempt 59: nothing recognized, waiting
+- [2026-07-01 08:01:10] attempt 60: nothing recognized, waiting
+- [2026-07-01 08:01:16] attempt 61: nothing recognized, waiting
+- [2026-07-01 08:01:21] attempt 62: nothing recognized, waiting
+- [2026-07-01 08:01:27] attempt 63: nothing recognized, waiting
+- [2026-07-01 08:01:32] attempt 64: nothing recognized, waiting
+- [2026-07-01 08:01:38] attempt 65: nothing recognized, waiting
+- [2026-07-01 08:01:43] attempt 66: nothing recognized, waiting
+- [2026-07-01 08:01:49] attempt 67: nothing recognized, waiting
+- [2026-07-01 08:01:54] attempt 68: nothing recognized, waiting
+- [2026-07-01 08:02:00] attempt 69: nothing recognized, waiting
+- [2026-07-01 08:02:05] attempt 70: nothing recognized, waiting
+- [2026-07-01 08:02:11] attempt 71: nothing recognized, waiting
+- [2026-07-01 08:02:16] attempt 72: nothing recognized, waiting
+- [2026-07-01 08:02:22] attempt 73: nothing recognized, waiting
+- [2026-07-01 08:02:27] attempt 74: nothing recognized, waiting
+- [2026-07-01 08:02:33] attempt 75: nothing recognized, waiting
+- [2026-07-01 08:02:38] attempt 76: nothing recognized, waiting
+- [2026-07-01 08:02:44] attempt 77: nothing recognized, waiting
+- [2026-07-01 08:02:49] attempt 78: nothing recognized, waiting
+- [2026-07-01 08:02:55] attempt 79: nothing recognized, waiting
+- [2026-07-01 08:03:00] attempt 80: nothing recognized, waiting
+- [2026-07-01 08:03:06] attempt 81: nothing recognized, waiting
+- [2026-07-01 08:03:11] attempt 82: nothing recognized, waiting
+- [2026-07-01 08:03:16] attempt 83: nothing recognized, waiting
+- [2026-07-01 08:03:22] attempt 84: nothing recognized, waiting
+- [2026-07-01 08:03:27] attempt 85: nothing recognized, waiting
+- [2026-07-01 08:03:33] attempt 86: nothing recognized, waiting
+- [2026-07-01 08:03:38] attempt 87: nothing recognized, waiting
+- [2026-07-01 08:03:44] attempt 88: nothing recognized, waiting
+- [2026-07-01 08:03:49] attempt 89: nothing recognized, waiting
+- [2026-07-01 08:03:55] attempt 90: nothing recognized, waiting
+- [2026-07-01 08:04:00] attempt 91: nothing recognized, waiting
+- [2026-07-01 08:04:06] attempt 92: nothing recognized, waiting
+- [2026-07-01 08:04:11] attempt 93: nothing recognized, waiting
+- [2026-07-01 08:04:17] attempt 94: nothing recognized, waiting
+- [2026-07-01 08:04:22] attempt 95: nothing recognized, waiting
+- [2026-07-01 08:04:28] attempt 96: nothing recognized, waiting
+- [2026-07-01 08:04:33] attempt 97: nothing recognized, waiting
+- [2026-07-01 08:04:39] attempt 98: nothing recognized, waiting
+- [2026-07-01 08:04:44] attempt 99: nothing recognized, waiting
+- [2026-07-01 08:04:50] attempt 100: nothing recognized, waiting
+- [2026-07-01 08:04:55] attempt 101: nothing recognized, waiting
+- [2026-07-01 08:05:01] attempt 102: nothing recognized, waiting
+- [2026-07-01 08:05:06] attempt 103: nothing recognized, waiting
+- [2026-07-01 08:05:12] attempt 104: nothing recognized, waiting
+- [2026-07-01 08:05:17] attempt 105: nothing recognized, waiting
+- [2026-07-01 08:05:23] attempt 106: nothing recognized, waiting
+- [2026-07-01 08:05:28] attempt 107: nothing recognized, waiting
+- [2026-07-01 08:05:34] attempt 108: nothing recognized, waiting
+- [2026-07-01 08:05:39] attempt 109: nothing recognized, waiting
+- [2026-07-01 08:05:45] attempt 110: nothing recognized, waiting
+- [2026-07-01 08:05:50] attempt 111: nothing recognized, waiting
+- [2026-07-01 08:05:56] attempt 112: nothing recognized, waiting
+- [2026-07-01 08:06:01] attempt 113: nothing recognized, waiting
+- [2026-07-01 08:06:07] attempt 114: nothing recognized, waiting
+- [2026-07-01 08:06:12] attempt 115: nothing recognized, waiting
+- [2026-07-01 08:06:18] attempt 116: nothing recognized, waiting
+- [2026-07-01 08:06:23] attempt 117: nothing recognized, waiting
+- [2026-07-01 08:06:29] attempt 118: nothing recognized, waiting
+- [2026-07-01 08:06:34] attempt 119: nothing recognized, waiting
+- [2026-07-01 08:06:40] attempt 120: nothing recognized, waiting
+- [2026-07-01 08:06:45] ERROR during claim attempt for Mexico vs Ecuador: AdbError('error: device offline') - will retry shortly
+- [2026-07-02 03:48:34] loaded 32 upcoming/scheduled matches, 34 already claimed
+- [2026-07-02 06:55:00] claim window OPEN: USA vs Bosnia and Herzegovina (ends 2026-07-02 07:30:00)
+- [2026-07-02 06:55:00] BlueStacks is closed, starting it...
+- [2026-07-02 06:55:09] BlueStacks is up and adb is connected
+- [2026-07-02 06:55:09] launching FC Mobile...
+- [2026-07-02 06:55:31] attempt 1: nothing recognized, waiting
+- [2026-07-02 06:55:37] attempt 2: nothing recognized, waiting
+- [2026-07-02 06:55:43] attempt 3: nothing recognized, waiting
+- [2026-07-02 06:55:48] attempt 4: nothing recognized, waiting
+- [2026-07-02 06:55:53] attempt 5: nothing recognized, waiting
+- [2026-07-02 06:55:59] attempt 6: nothing recognized, waiting
+- [2026-07-02 06:56:04] attempt 7: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-07-02 06:56:24] attempt 7: tapping (800, 827)
+- [2026-07-02 06:56:45] attempt 7: button gone after tap, claimed
+- [2026-07-02 06:56:45] waiting 20s in case a TAP TO OPEN step follows
+- [2026-07-02 06:57:05] attempt 8: dismissing popup (conf=1.00) at (1320, 83)
+- [2026-07-02 06:57:26] attempt 9: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-07-02 06:57:46] attempt 10: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-07-02 06:57:57] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260702_065757_USA_vs_Bosnia_and_Herzegovina_1.png
+- [2026-07-02 06:57:58] attempt 11: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-07-02 06:58:19] attempt 12: dismissing popup (conf=0.86) at (1537, 85)
+- [2026-07-02 06:58:40] attempt 13: nothing recognized, waiting
+- [2026-07-02 06:58:45] no more pending rewards detected, wrapping up
+- [2026-07-02 06:58:45] waiting 60s before closing...
+- [2026-07-02 06:59:46] closing FC Mobile and BlueStacks...
+- [2026-07-02 06:59:46] marked claimed: USA vs Bosnia and Herzegovina
+- [2026-07-02 06:59:46] next claim window opens in 18:55:13.796810 (more than 6:00:00) - shutting down the PC to save power; turn it back on and restart the watcher before 2026-07-03 01:55:00
+- [2026-07-03 00:51:06] loaded 32 upcoming/scheduled matches, 35 already claimed
+- [2026-07-03 01:55:00] claim window OPEN: Spain vs Austria (ends 2026-07-03 02:30:00)
+- [2026-07-03 01:55:00] BlueStacks is closed, starting it...
+- [2026-07-03 01:55:09] BlueStacks is up and adb is connected
+- [2026-07-03 01:55:09] launching FC Mobile...
+- [2026-07-03 01:55:30] attempt 1: nothing recognized, waiting
+- [2026-07-03 01:55:36] attempt 2: nothing recognized, waiting
+- [2026-07-03 01:55:42] attempt 3: nothing recognized, waiting
+- [2026-07-03 01:55:48] attempt 4: nothing recognized, waiting
+- [2026-07-03 01:55:53] attempt 5: nothing recognized, waiting
+- [2026-07-03 01:55:58] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-07-03 01:56:19] attempt 6: tapping (800, 827)
+- [2026-07-03 01:56:39] attempt 6: button gone after tap, claimed
+- [2026-07-03 01:56:39] waiting 20s in case a TAP TO OPEN step follows
+- [2026-07-03 01:57:00] attempt 7: dismissing popup (conf=1.00) at (1320, 83)
+- [2026-07-03 01:57:20] attempt 8: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-07-03 01:57:41] attempt 9: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-07-03 01:57:51] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260703_015751_Spain_vs_Austria_1.png
+- [2026-07-03 01:57:52] attempt 10: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-07-03 01:58:13] attempt 11: nothing recognized, waiting
+- [2026-07-03 01:58:19] no more pending rewards detected, wrapping up
+- [2026-07-03 01:58:19] waiting 60s before closing...
+- [2026-07-03 01:59:19] closing FC Mobile and BlueStacks...
+- [2026-07-03 01:59:19] marked claimed: Spain vs Austria
+- [2026-07-04 01:26:19] loaded 32 upcoming/scheduled matches, 36 already claimed
+- [2026-07-04 01:26:19] claim window OPEN: Australia vs Egypt (ends 2026-07-04 01:30:00)
+- [2026-07-04 01:26:19] BlueStacks is closed, starting it...
+- [2026-07-04 01:26:29] BlueStacks is up and adb is connected
+- [2026-07-04 01:26:30] launching FC Mobile...
+- [2026-07-04 01:26:51] attempt 1: nothing recognized, waiting
+- [2026-07-04 01:26:57] attempt 2: nothing recognized, waiting
+- [2026-07-04 01:27:02] attempt 3: nothing recognized, waiting
+- [2026-07-04 01:27:08] attempt 4: nothing recognized, waiting
+- [2026-07-04 01:27:13] attempt 5: nothing recognized, waiting
+- [2026-07-04 01:27:18] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-07-04 01:27:38] attempt 6: tapping (800, 827)
+- [2026-07-04 01:27:59] attempt 6: button gone after tap, claimed
+- [2026-07-04 01:27:59] waiting 20s in case a TAP TO OPEN step follows
+- [2026-07-04 01:28:19] attempt 7: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-07-04 01:28:40] attempt 8: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-07-04 01:28:50] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260704_012850_Australia_vs_Egypt_1.png
+- [2026-07-04 01:28:52] attempt 9: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-07-04 01:29:13] attempt 10: nothing recognized, waiting
+- [2026-07-04 01:29:18] no more pending rewards detected, wrapping up
+- [2026-07-04 01:29:18] waiting 60s before closing...
+- [2026-07-04 01:30:18] closing FC Mobile and BlueStacks...
+- [2026-07-04 01:30:18] marked claimed: Australia vs Egypt
+- [2026-07-04 04:55:00] claim window OPEN: Argentina vs Cabo Verde (ends 2026-07-04 05:30:00)
+- [2026-07-04 04:55:00] BlueStacks is closed, starting it...
+- [2026-07-04 04:55:10] BlueStacks is up and adb is connected
+- [2026-07-04 04:55:10] launching FC Mobile...
+- [2026-07-04 04:55:33] attempt 1: nothing recognized, waiting
+- [2026-07-04 04:55:39] attempt 2: nothing recognized, waiting
+- [2026-07-04 04:55:44] attempt 3: nothing recognized, waiting
+- [2026-07-04 04:55:49] attempt 4: nothing recognized, waiting
+- [2026-07-04 04:55:55] attempt 5: nothing recognized, waiting
+- [2026-07-04 04:56:00] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-07-04 04:56:20] attempt 6: tapping (800, 827)
+- [2026-07-04 04:56:41] attempt 6: button gone after tap, claimed
+- [2026-07-04 04:56:41] waiting 20s in case a TAP TO OPEN step follows
+- [2026-07-04 04:57:01] attempt 7: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-07-04 04:57:22] attempt 8: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-07-04 04:57:32] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260704_045732_Argentina_vs_Cabo_Verde_1.png
+- [2026-07-04 04:57:34] attempt 9: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-07-04 04:57:54] attempt 10: nothing recognized, waiting
+- [2026-07-04 04:58:00] no more pending rewards detected, wrapping up
+- [2026-07-04 04:58:00] waiting 60s before closing...
+- [2026-07-04 04:59:00] closing FC Mobile and BlueStacks...
+- [2026-07-04 04:59:00] marked claimed: Argentina vs Cabo Verde
+- [2026-07-04 08:25:00] claim window OPEN: Colombia vs Ghana (ends 2026-07-04 09:00:00)
+- [2026-07-04 08:25:00] BlueStacks is closed, starting it...
+- [2026-07-04 08:25:10] BlueStacks is up and adb is connected
+- [2026-07-04 08:25:10] launching FC Mobile...
+- [2026-07-04 08:25:32] attempt 1: nothing recognized, waiting
+- [2026-07-04 08:25:38] attempt 2: nothing recognized, waiting
+- [2026-07-04 08:25:43] attempt 3: nothing recognized, waiting
+- [2026-07-04 08:25:48] attempt 4: nothing recognized, waiting
+- [2026-07-04 08:25:54] attempt 5: nothing recognized, waiting
+- [2026-07-04 08:25:59] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-07-04 08:26:19] attempt 6: tapping (800, 827)
+- [2026-07-04 08:26:40] attempt 6: button gone after tap, claimed
+- [2026-07-04 08:26:40] waiting 20s in case a TAP TO OPEN step follows
+- [2026-07-04 08:27:00] attempt 7: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-07-04 08:27:21] attempt 8: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-07-04 08:27:31] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260704_082731_Colombia_vs_Ghana_1.png
+- [2026-07-04 08:27:33] attempt 9: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-07-04 08:27:53] attempt 10: dismissing popup (conf=0.86) at (1537, 85)
+- [2026-07-04 08:28:14] attempt 11: nothing recognized, waiting
+- [2026-07-04 08:28:20] no more pending rewards detected, wrapping up
+- [2026-07-04 08:28:20] waiting 60s before closing...
+- [2026-07-04 08:29:20] closing FC Mobile and BlueStacks...
+- [2026-07-04 08:29:20] marked claimed: Colombia vs Ghana
+- [2026-07-04 08:29:20] next claim window opens in 15:25:39.372425 (more than 6:00:00) - shutting down the PC to save power; turn it back on and restart the watcher before 2026-07-04 23:55:00
+- [2026-07-05 00:23:14] loaded 32 upcoming/scheduled matches, 39 already claimed
+- [2026-07-05 00:23:14] claim window OPEN: W73 vs W75 (ends 2026-07-05 00:30:00)
+- [2026-07-05 00:23:16] FC Mobile is already open - assuming you're using it, leaving it alone
+- [2026-07-05 00:23:16] app already open for W73 vs W75, will check again shortly
+- [2026-07-05 00:24:16] claim window OPEN: W73 vs W75 (ends 2026-07-05 00:30:00)
+- [2026-07-05 00:24:17] FC Mobile is already open - assuming you're using it, leaving it alone
+- [2026-07-05 00:24:17] app already open for W73 vs W75, will check again shortly
+- [2026-07-05 00:25:17] claim window OPEN: W73 vs W75 (ends 2026-07-05 00:30:00)
+- [2026-07-05 00:25:17] FC Mobile is already open - assuming you're using it, leaving it alone
+- [2026-07-05 00:25:17] app already open for W73 vs W75, will check again shortly
+- [2026-07-05 00:26:17] claim window OPEN: W73 vs W75 (ends 2026-07-05 00:30:00)
+- [2026-07-05 00:26:17] FC Mobile is already open - assuming you're using it, leaving it alone
+- [2026-07-05 00:26:17] app already open for W73 vs W75, will check again shortly
+- [2026-07-05 00:27:17] claim window OPEN: W73 vs W75 (ends 2026-07-05 00:30:00)
+- [2026-07-05 00:27:17] FC Mobile is already open - assuming you're using it, leaving it alone
+- [2026-07-05 00:27:17] app already open for W73 vs W75, will check again shortly
+- [2026-07-05 00:28:17] claim window OPEN: W73 vs W75 (ends 2026-07-05 00:30:00)
+- [2026-07-05 00:28:17] FC Mobile is already open - assuming you're using it, leaving it alone
+- [2026-07-05 00:28:17] app already open for W73 vs W75, will check again shortly
+- [2026-07-05 00:29:17] claim window OPEN: W73 vs W75 (ends 2026-07-05 00:30:00)
+- [2026-07-05 00:29:17] FC Mobile is already open - assuming you're using it, leaving it alone
+- [2026-07-05 00:29:17] app already open for W73 vs W75, will check again shortly
+- [2026-07-05 01:04:18] loaded 32 upcoming/scheduled matches, 39 already claimed
+- [2026-07-05 03:55:00] claim window OPEN: W74 vs W77 (ends 2026-07-05 04:30:00)
+- [2026-07-05 03:55:00] BlueStacks is closed, starting it...
+- [2026-07-05 03:55:10] BlueStacks is up and adb is connected
+- [2026-07-05 03:55:10] launching FC Mobile...
+- [2026-07-05 03:55:32] attempt 1: nothing recognized, waiting
+- [2026-07-05 03:55:37] attempt 2: nothing recognized, waiting
+- [2026-07-05 03:55:43] attempt 3: nothing recognized, waiting
+- [2026-07-05 03:55:48] attempt 4: nothing recognized, waiting
+- [2026-07-05 03:55:53] attempt 5: nothing recognized, waiting
+- [2026-07-05 03:55:59] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-07-05 03:56:19] attempt 6: tapping (800, 827)
+- [2026-07-05 03:56:39] attempt 6: button gone after tap, claimed
+- [2026-07-05 03:56:39] waiting 20s in case a TAP TO OPEN step follows
+- [2026-07-05 03:57:00] attempt 7: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-07-05 03:57:20] attempt 8: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-07-05 03:57:31] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260705_035731_W74_vs_W77_1.png
+- [2026-07-05 03:57:32] attempt 9: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-07-05 03:57:53] attempt 10: dismissing popup (conf=0.86) at (1537, 85)
+- [2026-07-05 03:58:14] attempt 11: dismissing popup (conf=0.87) at (1537, 85)
+- [2026-07-05 03:58:35] attempt 12: nothing recognized, waiting
+- [2026-07-05 03:58:40] no more pending rewards detected, wrapping up
+- [2026-07-05 03:58:40] waiting 60s before closing...
+- [2026-07-05 03:59:40] closing FC Mobile and BlueStacks...
+- [2026-07-05 03:59:40] marked claimed: W74 vs W77
+- [2026-07-05 03:59:40] next claim window opens in 22:55:19.090823 (more than 6:00:00) - shutting down the PC to save power; turn it back on and restart the watcher before 2026-07-06 02:55:00
+- [2026-07-06 04:11:08] loaded 32 upcoming/scheduled matches, 40 already claimed
+- [2026-07-06 06:55:00] claim window OPEN: W79 vs W80 (ends 2026-07-06 07:30:00)
+- [2026-07-06 06:55:00] BlueStacks is closed, starting it...
+- [2026-07-06 06:55:09] BlueStacks is up and adb is connected
+- [2026-07-06 06:55:09] launching FC Mobile...
+- [2026-07-06 06:55:31] attempt 1: nothing recognized, waiting
+- [2026-07-06 06:55:37] attempt 2: nothing recognized, waiting
+- [2026-07-06 06:55:42] attempt 3: nothing recognized, waiting
+- [2026-07-06 06:55:47] attempt 4: nothing recognized, waiting
+- [2026-07-06 06:55:53] attempt 5: nothing recognized, waiting
+- [2026-07-06 06:55:58] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-07-06 06:56:18] attempt 6: tapping (800, 827)
+- [2026-07-06 06:56:39] attempt 6: button gone after tap, claimed
+- [2026-07-06 06:56:39] waiting 20s in case a TAP TO OPEN step follows
+- [2026-07-06 06:56:59] attempt 7: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-07-06 06:57:20] attempt 8: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-07-06 06:57:30] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260706_065730_W79_vs_W80_1.png
+- [2026-07-06 06:57:32] attempt 9: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-07-06 06:57:53] attempt 10: dismissing popup (conf=0.87) at (1537, 85)
+- [2026-07-06 06:58:13] attempt 11: nothing recognized, waiting
+- [2026-07-06 06:58:19] no more pending rewards detected, wrapping up
+- [2026-07-06 06:58:19] waiting 60s before closing...
+- [2026-07-06 06:59:19] closing FC Mobile and BlueStacks...
+- [2026-07-06 06:59:19] marked claimed: W79 vs W80
+- [2026-07-06 06:59:19] next claim window opens in 18:55:40.273941 (more than 6:00:00) - shutting down the PC to save power; turn it back on and restart the watcher before 2026-07-07 01:55:00
+- [2026-07-07 03:02:55] loaded 32 upcoming/scheduled matches, 41 already claimed
+- [2026-07-07 06:55:00] claim window OPEN: W81 vs W82 (ends 2026-07-07 07:30:00)
+- [2026-07-07 06:55:00] BlueStacks is closed, starting it...
+- [2026-07-07 06:55:09] BlueStacks is up and adb is connected
+- [2026-07-07 06:55:09] launching FC Mobile...
+- [2026-07-07 06:55:31] attempt 1: nothing recognized, waiting
+- [2026-07-07 06:55:37] attempt 2: nothing recognized, waiting
+- [2026-07-07 06:55:42] attempt 3: nothing recognized, waiting
+- [2026-07-07 06:55:47] attempt 4: nothing recognized, waiting
+- [2026-07-07 06:55:53] attempt 5: nothing recognized, waiting
+- [2026-07-07 06:55:58] attempt 6: found CLAIM REWARD button (conf=1.00), waiting 20s for it to settle before tapping
+- [2026-07-07 06:56:18] attempt 6: tapping (800, 827)
+- [2026-07-07 06:56:39] attempt 6: button gone after tap, claimed
+- [2026-07-07 06:56:39] waiting 20s in case a TAP TO OPEN step follows
+- [2026-07-07 06:56:59] attempt 7: found TAP TO OPEN button (conf=1.00), tapping (800, 782)
+- [2026-07-07 06:57:20] attempt 8: found REVEAL ALL button (conf=1.00), tapping (1396, 854)
+- [2026-07-07 06:57:30] saved reward screenshot to C:\Users\mdati\Projects\Personal\fc-mobile\rewards\20260707_065730_W81_vs_W82_1.png
+- [2026-07-07 06:57:32] attempt 9: found CONTINUE button (conf=1.00), tapping (1396, 854) to dismiss reveal / check for more rewards
+- [2026-07-07 06:57:53] attempt 10: nothing recognized, waiting
+- [2026-07-07 06:57:58] no more pending rewards detected, wrapping up
+- [2026-07-07 06:57:58] waiting 60s before closing...
+- [2026-07-07 06:58:58] closing FC Mobile and BlueStacks...
+- [2026-07-07 06:58:58] marked claimed: W81 vs W82
+- [2026-07-07 06:58:58] next claim window opens in 15:56:01.023857 (more than 6:00:00) - shutting down the PC to save power; turn it back on and restart the watcher before 2026-07-07 22:55:00

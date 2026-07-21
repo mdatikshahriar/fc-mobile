@@ -6,6 +6,7 @@ Usage:
     python run.py
 """
 import json
+import subprocess
 import time
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -16,6 +17,8 @@ from schedule import active_windows, load_match_windows, next_claim_start
 STATE_PATH = Path(__file__).resolve().parent / "state.json"
 AUDIT_LOG_PATH = Path(__file__).resolve().parent.parent / "AUDIT_LOG.md"
 IDLE_POLL_SECONDS = 60
+LONG_GAP_THRESHOLD = timedelta(hours=6)  # no point keeping the PC on this long between windows
+SHUTDOWN_GRACE_SECONDS = 120  # window to cancel (run `shutdown /a`) if someone's at the PC
 
 
 def _load_state():
@@ -86,6 +89,14 @@ def main():
         nxt = next_claim_start(windows, now)
         if nxt is None:
             log("no more upcoming matches in schedule, exiting")
+            break
+
+        gap = nxt - now
+        if gap > LONG_GAP_THRESHOLD:
+            log(f"next claim window opens in {gap} (more than {LONG_GAP_THRESHOLD}) - "
+                f"shutting down the PC to save power; turn it back on and restart the watcher "
+                f"before {nxt}")
+            subprocess.run(["shutdown", "/s", "/t", str(SHUTDOWN_GRACE_SECONDS)])
             break
 
         sleep_for = min((nxt - now).total_seconds(), IDLE_POLL_SECONDS)

@@ -129,7 +129,7 @@
   },
   {
     "date": "Wednesday 17 June 2026",
-    "time_bdt": "01:00",
+    "time_bdt": null,
     "home": "France",
     "away": "Senegal",
     "group": "Group I",
@@ -137,7 +137,7 @@
   },
   {
     "date": "Wednesday 17 June 2026",
-    "time_bdt": "04:00",
+    "time_bdt": null,
     "home": "Iraq",
     "away": "Norway",
     "group": "Group I",
@@ -145,7 +145,7 @@
   },
   {
     "date": "Wednesday 17 June 2026",
-    "time_bdt": "07:00",
+    "time_bdt": null,
     "home": "Argentina",
     "away": "Algeria",
     "group": "Group J",
@@ -153,7 +153,7 @@
   },
   {
     "date": "Wednesday 17 June 2026",
-    "time_bdt": "10:00",
+    "time_bdt": null,
     "home": "Austria",
     "away": "Jordan",
     "group": "Group J",
@@ -161,7 +161,7 @@
   },
   {
     "date": "Wednesday 17 June 2026",
-    "time_bdt": "23:00",
+    "time_bdt": null,
     "home": "Portugal",
     "away": "Congo DR",
     "group": "Group K",
@@ -169,7 +169,7 @@
   },
   {
     "date": "Thursday 18 June 2026",
-    "time_bdt": "02:00",
+    "time_bdt": null,
     "home": "England",
     "away": "Croatia",
     "group": "Group L",
@@ -177,7 +177,7 @@
   },
   {
     "date": "Thursday 18 June 2026",
-    "time_bdt": "05:00",
+    "time_bdt": null,
     "home": "Ghana",
     "away": "Panama",
     "group": "Group L",
@@ -185,7 +185,7 @@
   },
   {
     "date": "Thursday 18 June 2026",
-    "time_bdt": "08:00",
+    "time_bdt": null,
     "home": "Uzbekistan",
     "away": "Colombia",
     "group": "Group K",
@@ -193,7 +193,7 @@
   },
   {
     "date": "Thursday 18 June 2026",
-    "time_bdt": "22:00",
+    "time_bdt": null,
     "home": "Czechia",
     "away": "South Africa",
     "group": "Group A",
@@ -201,7 +201,7 @@
   },
   {
     "date": "Friday 19 June 2026",
-    "time_bdt": "01:00",
+    "time_bdt": null,
     "home": "Switzerland",
     "away": "Bosnia and Herzegovina",
     "group": "Group B",
@@ -209,7 +209,7 @@
   },
   {
     "date": "Friday 19 June 2026",
-    "time_bdt": "04:00",
+    "time_bdt": null,
     "home": "Canada",
     "away": "Qatar",
     "group": "Group B",
@@ -217,7 +217,7 @@
   },
   {
     "date": "Friday 19 June 2026",
-    "time_bdt": "07:00",
+    "time_bdt": null,
     "home": "Mexico",
     "away": "Korea Republic",
     "group": "Group A",
@@ -225,7 +225,7 @@
   },
   {
     "date": "Saturday 20 June 2026",
-    "time_bdt": "01:00",
+    "time_bdt": null,
     "home": "USA",
     "away": "Australia",
     "group": "Group D",
@@ -233,7 +233,7 @@
   },
   {
     "date": "Saturday 20 June 2026",
-    "time_bdt": "04:00",
+    "time_bdt": null,
     "home": "Scotland",
     "away": "Morocco",
     "group": "Group C",
@@ -241,7 +241,7 @@
   },
   {
     "date": "Saturday 20 June 2026",
-    "time_bdt": "06:30",
+    "time_bdt": null,
     "home": "Brazil",
     "away": "Haiti",
     "group": "Group C",
@@ -249,7 +249,7 @@
   },
   {
     "date": "Saturday 20 June 2026",
-    "time_bdt": "09:00",
+    "time_bdt": null,
     "home": "Türkiye",
     "away": "Paraguay",
     "group": "Group D",
@@ -257,7 +257,7 @@
   },
   {
     "date": "Saturday 20 June 2026",
-    "time_bdt": "23:00",
+    "time_bdt": null,
     "home": "Netherlands",
     "away": "Sweden",
     "group": "Group F",
@@ -265,7 +265,7 @@
   },
   {
     "date": "Sunday 21 June 2026",
-    "time_bdt": "02:00",
+    "time_bdt": null,
     "home": "Germany",
     "away": "Côte d'Ivoire",
     "group": "Group E",
@@ -273,7 +273,7 @@
   },
   {
     "date": "Sunday 21 June 2026",
-    "time_bdt": "06:00",
+    "time_bdt": null,
     "home": "Ecuador",
     "away": "Curaçao",
     "group": "Group E",
@@ -281,7 +281,7 @@
   },
   {
     "date": "Sunday 21 June 2026",
-    "time_bdt": "10:00",
+    "time_bdt": null,
     "home": "Tunisia",
     "away": "Japan",
     "group": "Group F",
@@ -289,7 +289,7 @@
   },
   {
     "date": "Sunday 21 June 2026",
-    "time_bdt": "22:00",
+    "time_bdt": null,
     "home": "Spain",
     "away": "Saudi Arabia",
     "group": "Group H",
@@ -297,7 +297,7 @@
   },
   {
     "date": "Monday 22 June 2026",
-    "time_bdt": "01:00",
+    "time_bdt": null,
     "home": "Belgium",
     "away": "IR Iran",
     "group": "Group G",
@@ -305,7 +305,7 @@
   },
   {
     "date": "Monday 22 June 2026",
-    "time_bdt": "04:00",
+    "time_bdt": null,
     "home": "Uruguay",
     "away": "Cabo Verde",
     "group": "Group H",
@@ -313,7 +313,7 @@
   },
   {
     "date": "Monday 22 June 2026",
-    "time_bdt": "07:00",
+    "time_bdt": null,
     "home": "New Zealand",
     "away": "Egypt",
     "group": "Group G",
@@ -321,7 +321,7 @@
   },
   {
     "date": "Monday 22 June 2026",
-    "time_bdt": "23:00",
+    "time_bdt": null,
     "home": "Argentina",
     "away": "Austria",
     "group": "Group J",
@@ -329,7 +329,7 @@
   },
   {
     "date": "Tuesday 23 June 2026",
-    "time_bdt": "03:00",
+    "time_bdt": null,
     "home": "France",
     "away": "Iraq",
     "group": "Group I",
@@ -337,7 +337,7 @@
   },
   {
     "date": "Tuesday 23 June 2026",
-    "time_bdt": "06:00",
+    "time_bdt": null,
     "home": "Norway",
     "away": "Senegal",
     "group": "Group I",
@@ -345,7 +345,7 @@
   },
   {
     "date": "Tuesday 23 June 2026",
-    "time_bdt": "09:00",
+    "time_bdt": null,
     "home": "Jordan",
     "away": "Algeria",
     "group": "Group J",
@@ -353,7 +353,7 @@
   },
   {
     "date": "Tuesday 23 June 2026",
-    "time_bdt": "23:00",
+    "time_bdt": null,
     "home": "Portugal",
     "away": "Uzbekistan",
     "group": "Group K",
@@ -361,7 +361,7 @@
   },
   {
     "date": "Wednesday 24 June 2026",
-    "time_bdt": "02:00",
+    "time_bdt": null,
     "home": "England",
     "away": "Ghana",
     "group": "Group L",
@@ -369,7 +369,7 @@
   },
   {
     "date": "Wednesday 24 June 2026",
-    "time_bdt": "05:00",
+    "time_bdt": null,
     "home": "Panama",
     "away": "Croatia",
     "group": "Group L",
@@ -377,7 +377,7 @@
   },
   {
     "date": "Wednesday 24 June 2026",
-    "time_bdt": "08:00",
+    "time_bdt": null,
     "home": "Colombia",
     "away": "Congo DR",
     "group": "Group K",
@@ -385,7 +385,7 @@
   },
   {
     "date": "Thursday 25 June 2026",
-    "time_bdt": "01:00",
+    "time_bdt": null,
     "home": "Switzerland",
     "away": "Canada",
     "group": "Group B",
@@ -393,7 +393,7 @@
   },
   {
     "date": "Thursday 25 June 2026",
-    "time_bdt": "01:00",
+    "time_bdt": null,
     "home": "Bosnia and Herzegovina",
     "away": "Qatar",
     "group": "Group B",
@@ -401,7 +401,7 @@
   },
   {
     "date": "Thursday 25 June 2026",
-    "time_bdt": "04:00",
+    "time_bdt": null,
     "home": "Scotland",
     "away": "Brazil",
     "group": "Group C",
@@ -409,7 +409,7 @@
   },
   {
     "date": "Thursday 25 June 2026",
-    "time_bdt": "04:00",
+    "time_bdt": null,
     "home": "Morocco",
     "away": "Haiti",
     "group": "Group C",
@@ -417,7 +417,7 @@
   },
   {
     "date": "Thursday 25 June 2026",
-    "time_bdt": "07:00",
+    "time_bdt": null,
     "home": "Czechia",
     "away": "Mexico",
     "group": "Group A",
@@ -425,7 +425,7 @@
   },
   {
     "date": "Thursday 25 June 2026",
-    "time_bdt": "07:00",
+    "time_bdt": null,
     "home": "South Africa",
     "away": "Korea Republic",
     "group": "Group A",
@@ -433,7 +433,7 @@
   },
   {
     "date": "Friday 26 June 2026",
-    "time_bdt": "02:00",
+    "time_bdt": null,
     "home": "Curaçao",
     "away": "Côte d'Ivoire",
     "group": "Group E",
@@ -441,7 +441,7 @@
   },
   {
     "date": "Friday 26 June 2026",
-    "time_bdt": "02:00",
+    "time_bdt": null,
     "home": "Ecuador",
     "away": "Germany",
     "group": "Group E",
@@ -449,7 +449,7 @@
   },
   {
     "date": "Friday 26 June 2026",
-    "time_bdt": "05:00",
+    "time_bdt": null,
     "home": "Japan",
     "away": "Sweden",
     "group": "Group F",
@@ -457,7 +457,7 @@
   },
   {
     "date": "Friday 26 June 2026",
-    "time_bdt": "05:00",
+    "time_bdt": null,
     "home": "Tunisia",
     "away": "Netherlands",
     "group": "Group F",
@@ -465,7 +465,7 @@
   },
   {
     "date": "Friday 26 June 2026",
-    "time_bdt": "08:00",
+    "time_bdt": null,
     "home": "Türkiye",
     "away": "USA",
     "group": "Group D",
@@ -473,7 +473,7 @@
   },
   {
     "date": "Friday 26 June 2026",
-    "time_bdt": "08:00",
+    "time_bdt": null,
     "home": "Paraguay",
     "away": "Australia",
     "group": "Group D",
@@ -481,7 +481,7 @@
   },
   {
     "date": "Saturday 27 June 2026",
-    "time_bdt": "01:00",
+    "time_bdt": null,
     "home": "Norway",
     "away": "France",
     "group": "Group I",
@@ -489,7 +489,7 @@
   },
   {
     "date": "Saturday 27 June 2026",
-    "time_bdt": "01:00",
+    "time_bdt": null,
     "home": "Senegal",
     "away": "Iraq",
     "group": "Group I",
@@ -497,7 +497,7 @@
   },
   {
     "date": "Saturday 27 June 2026",
-    "time_bdt": "06:00",
+    "time_bdt": null,
     "home": "Cabo Verde",
     "away": "Saudi Arabia",
     "group": "Group H",
@@ -505,7 +505,7 @@
   },
   {
     "date": "Saturday 27 June 2026",
-    "time_bdt": "06:00",
+    "time_bdt": null,
     "home": "Uruguay",
     "away": "Spain",
     "group": "Group H",
@@ -513,7 +513,7 @@
   },
   {
     "date": "Saturday 27 June 2026",
-    "time_bdt": "09:00",
+    "time_bdt": null,
     "home": "Egypt",
     "away": "IR Iran",
     "group": "Group G",
@@ -521,7 +521,7 @@
   },
   {
     "date": "Saturday 27 June 2026",
-    "time_bdt": "09:00",
+    "time_bdt": null,
     "home": "New Zealand",
     "away": "Belgium",
     "group": "Group G",
@@ -529,7 +529,7 @@
   },
   {
     "date": "Sunday 28 June 2026",
-    "time_bdt": "03:00",
+    "time_bdt": null,
     "home": "Panama",
     "away": "England",
     "group": "Group L",
@@ -537,7 +537,7 @@
   },
   {
     "date": "Sunday 28 June 2026",
-    "time_bdt": "03:00",
+    "time_bdt": null,
     "home": "Croatia",
     "away": "Ghana",
     "group": "Group L",
@@ -545,7 +545,7 @@
   },
   {
     "date": "Sunday 28 June 2026",
-    "time_bdt": "05:30",
+    "time_bdt": null,
     "home": "Colombia",
     "away": "Portugal",
     "group": "Group K",
@@ -553,7 +553,7 @@
   },
   {
     "date": "Sunday 28 June 2026",
-    "time_bdt": "05:30",
+    "time_bdt": null,
     "home": "Congo DR",
     "away": "Uzbekistan",
     "group": "Group K",
@@ -561,7 +561,7 @@
   },
   {
     "date": "Sunday 28 June 2026",
-    "time_bdt": "08:00",
+    "time_bdt": null,
     "home": "Algeria",
     "away": "Austria",
     "group": "Group J",
@@ -569,7 +569,7 @@
   },
   {
     "date": "Sunday 28 June 2026",
-    "time_bdt": "08:00",
+    "time_bdt": null,
     "home": "Jordan",
     "away": "Argentina",
     "group": "Group J",
@@ -578,128 +578,128 @@
   {
     "date": "Monday 29 June 2026",
     "time_bdt": "01:00",
-    "home": "2A",
-    "away": "2B",
+    "home": "South Africa",
+    "away": "Canada",
     "group": null,
     "venue": "Los Angeles Stadium (Los Angeles)"
   },
   {
     "date": "Monday 29 June 2026",
     "time_bdt": "23:00",
-    "home": "1C",
-    "away": "2F",
+    "home": "Brazil",
+    "away": "Japan",
     "group": null,
     "venue": "Houston Stadium (Houston)"
   },
   {
     "date": "Tuesday 30 June 2026",
     "time_bdt": "02:30",
-    "home": "1E",
-    "away": "3ABCDF",
+    "home": "Germany",
+    "away": "Paraguay",
     "group": null,
     "venue": "Boston Stadium (Boston)"
   },
   {
     "date": "Tuesday 30 June 2026",
     "time_bdt": "07:00",
-    "home": "1F",
-    "away": "2C",
+    "home": "Netherlands",
+    "away": "Morocco",
     "group": null,
     "venue": "Monterrey Stadium (Monterrey)"
   },
   {
     "date": "Tuesday 30 June 2026",
     "time_bdt": "23:00",
-    "home": "2E",
-    "away": "2I",
+    "home": "Côte d'Ivoire",
+    "away": "Norway",
     "group": null,
     "venue": "Dallas Stadium (Dallas)"
   },
   {
     "date": "Wednesday 01 July 2026",
     "time_bdt": "03:00",
-    "home": "1I",
-    "away": "3CDFGH",
+    "home": "France",
+    "away": "Sweden",
     "group": null,
     "venue": "New York/New Jersey Stadium (New Jersey)"
   },
   {
     "date": "Wednesday 01 July 2026",
     "time_bdt": "07:00",
-    "home": "1A",
-    "away": "3CEFHI",
+    "home": "Mexico",
+    "away": "Ecuador",
     "group": null,
     "venue": "Mexico City Stadium (Mexico City)"
   },
   {
     "date": "Wednesday 01 July 2026",
     "time_bdt": "22:00",
-    "home": "1L",
-    "away": "3EHIJK",
+    "home": "England",
+    "away": "Congo DR",
     "group": null,
     "venue": "Atlanta Stadium (Atlanta)"
   },
   {
     "date": "Thursday 02 July 2026",
     "time_bdt": "02:00",
-    "home": "1G",
-    "away": "3AEHIJ",
+    "home": "Belgium",
+    "away": "Senegal",
     "group": null,
     "venue": "Seattle Stadium (Seattle)"
   },
   {
     "date": "Thursday 02 July 2026",
     "time_bdt": "06:00",
-    "home": "1D",
-    "away": "3BEFIJ",
+    "home": "USA",
+    "away": "Bosnia and Herzegovina",
     "group": null,
     "venue": "San Francisco Bay Area Stadium (San Francisco Bay Area)"
   },
   {
     "date": "Friday 03 July 2026",
     "time_bdt": "01:00",
-    "home": "1H",
-    "away": "2J",
+    "home": "Spain",
+    "away": "Austria",
     "group": null,
     "venue": "Los Angeles Stadium (Los Angeles)"
   },
   {
     "date": "Friday 03 July 2026",
     "time_bdt": "05:00",
-    "home": "2K",
-    "away": "2L",
+    "home": "Portugal",
+    "away": "Croatia",
     "group": null,
     "venue": "Toronto Stadium (Toronto)"
   },
   {
     "date": "Friday 03 July 2026",
     "time_bdt": "09:00",
-    "home": "1B",
-    "away": "3EFGIJ",
+    "home": "Switzerland",
+    "away": "Algeria",
     "group": null,
     "venue": "BC Place Vancouver (Vancouver)"
   },
   {
     "date": "Saturday 04 July 2026",
     "time_bdt": "00:00",
-    "home": "2D",
-    "away": "2G",
+    "home": "Australia",
+    "away": "Egypt",
     "group": null,
     "venue": "Dallas Stadium (Dallas)"
   },
   {
     "date": "Saturday 04 July 2026",
     "time_bdt": "04:00",
-    "home": "1J",
-    "away": "2H",
+    "home": "Argentina",
+    "away": "Cabo Verde",
     "group": null,
     "venue": "Miami Stadium (Miami)"
   },
   {
     "date": "Saturday 04 July 2026",
     "time_bdt": "07:30",
-    "home": "1K",
-    "away": "3DEIJL",
+    "home": "Colombia",
+    "away": "Ghana",
     "group": null,
     "venue": "Kansas City Stadium (Kansas City)"
   },
