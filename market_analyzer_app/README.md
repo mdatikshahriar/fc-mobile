@@ -34,10 +34,29 @@ Linux users can run the bot interactively or as a background service:
   python3 market_analyzer_app/market_analyzer.py
   ```
 - **Run Permanently via Systemd (Survives Reboots):**
-  A service file has been created. You can manage it using standard systemctl commands:
+  To install the background service on a **new machine**, follow these steps:
+  
+  1. Open `fc-market-analyzer.service` and change `WorkingDirectory=/home/atik/Projects/Personal/fc-mobile` to the absolute path of this project on your new machine.
+  2. Create the systemd user directory if it doesn't exist:
+     ```bash
+     mkdir -p ~/.config/systemd/user/
+     ```
+  3. Copy the service file into the systemd directory:
+     ```bash
+     cp market_analyzer_app/fc-market-analyzer.service ~/.config/systemd/user/
+     ```
+  4. Reload systemd and enable the service to start automatically on boot:
+     ```bash
+     systemctl --user daemon-reload
+     systemctl --user enable fc-market-analyzer.service
+     systemctl --user start fc-market-analyzer.service
+     ```
+
+  Once installed, you can manage the bot anytime using standard commands:
   - Start: `systemctl --user start fc-market-analyzer.service`
   - Stop: `systemctl --user stop fc-market-analyzer.service`
   - Logs: `journalctl --user -u fc-market-analyzer.service -f`
+  - Check Status: `systemctl --user status fc-market-analyzer.service`
 
 *(Note: The bot requires at least 3 historical data points to make an investment decision. It will skip analysis for the first two runs while it gathers history!)*
 

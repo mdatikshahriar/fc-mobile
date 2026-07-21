@@ -1,0 +1,13 @@
+[Unit]
+Description=FC Mobile Market Analyzer Background Service
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/atik/Projects/Personal/fc-mobile
+ExecStart=/usr/bin/python3 -u market_analyzer_app/market_analyzer.py
+Restart=always
+RestartSec=60
+
+[Install]
+WantedBy=default.target

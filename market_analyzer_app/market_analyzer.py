@@ -18,37 +18,42 @@ def load_config(config_path):
         return json.load(f)
 
 def load_history(history_path):
-    if os.path.exists(history_path):
-        with open(history_path, "r") as f:
-            return json.load(f)
+    if os.path.exists(history_path) and os.path.getsize(history_path) > 0:
+        try:
+            with open(history_path, "r") as f:
+                return json.load(f)
+        except json.JSONDecodeError:
+            pass
     return {}
 
 def save_history(history_path, history):
     with open(history_path, "w") as f:
         json.dump(history, f, indent=2)
 
-def analyze_player_profitability(player_name, history_prices, api_key):
-    """Query Gemini 2.5 Flash to evaluate if a player is a profitable market investment."""
+def analyze_players_bulk(players_data, api_key):
+    """Query Gemini 2.5 Flash to evaluate multiple players at once for profitable market investments."""
+    if not players_data:
+        return ""
+        
     client = genai.Client(api_key=api_key)
     prompt = f"""
 You are an expert FC Mobile market trader with a strict, no-loss business mindset.
-Your ONLY job is to identify players that are GUARANTEED profitable to invest in.
-If there is ANY doubt, risk, or insufficient trend data, you MUST output NO.
+Your ONLY job is to identify players that are GUARANTEED profitable to invest in from the provided list.
+If there is ANY doubt, risk, or insufficient trend data for a player, DO NOT recommend them.
 
-Player Name: {player_name}
-
-Historical Price Data:
-{json.dumps(history_prices, indent=2)}
+List of players with dropped prices and their historical data:
+{json.dumps(players_data, indent=2)}
 
 Rules:
 - EA FC Mobile charges a 10% market tax on ALL sales. Net received = sell_price * 0.90.
 - A trade is ONLY profitable if: (sell_price * 0.90) > buy_price.
+- IMPORTANT: A trade MUST yield an EXPECTED PROFIT of at least 50,000,000 (50M) coins after tax to be considered profitable. If the profit is less than 50M coins, DO NOT recommend the player.
 - Look for: clear upward price recovery trends, or structural buy-low/sell-high arbitrage.
-- If prices are flat, declining, or too volatile — output NO.
-- If there are fewer than 3 data points or no clear trend — output NO.
+- If prices are flat, declining continuously with no bottom, or too volatile — ignore them.
+- If there are fewer than 3 data points or no clear trend — ignore them.
 
-OUTPUT FORMAT (strict):
-If profitable: first line must be exactly "YES", then:
+OUTPUT FORMAT:
+For EACH profitable player you identify, output exactly in this format separated by "---":
 ---
 Target Player: [Name] ([OVR] OVR)
 Buy Price Target: [e.g. 35.0M]
@@ -58,8 +63,7 @@ Confidence: [High | Very High]
 Reasoning: [1-2 sentences on the trend/arbitrage rationale]
 ---
 
-If NOT profitable: first line must be exactly "NO".
-Output nothing else.
+If NO players are profitable, output EXACTLY "NO PROFITABLE INVESTMENTS FOUND".
 """
     try:
         response = client.models.generate_content(
@@ -69,7 +73,7 @@ Output nothing else.
         return response.text
     except Exception as e:
         print(f"Error querying LLM: {e}")
-        return "NO\nError connecting to LLM."
+        return ""
 
 def format_price(price_coins):
     if price_coins >= 1_000_000_000:
@@ -219,28 +223,47 @@ def run_analyzer(test_run=False):
                 # Keep only last 10 entries to avoid bloating
                 history[pid]["prices"] = history[pid]["prices"][-10:]
                 
-                # We only analyze if we have enough historical data points
-                if len(history[pid]["prices"]) < MIN_HISTORY_POINTS:
-                    print(f"Skipping {name} ({ovr}) - gathering history ({len(history[pid]['prices'])}/{MIN_HISTORY_POINTS})...")
-                    continue
-                
-                # Analyze using LLM
-                print(f"Analyzing {name} ({ovr}) with {len(history[pid]['prices'])} historical data points...")
-                analysis = analyze_player_profitability(name, history[pid]["prices"], api_key)
-                
-                if analysis.strip().upper().startswith("YES"):
-                    print(f"*** PROFITABLE INVESTMENT FOUND: {name} ***")
-                    
-                    # Remove the "YES" line from the analysis text
-                    analysis_text = "\n".join(analysis.split("\n")[1:]).strip()
-                    
-                    with open(output_file, "a") as f:
-                        f.write(f"\n[{time.strftime('%Y-%m-%d %H:%M:%S')}] MARKET OPPORTUNITY DETECTED\n")
-                        f.write(analysis_text + "\n")
-                        f.write("=" * 60 + "\n")
-                        
-            # Save history
+            # Save history right after updating it
             save_history(history_file, history)
+            
+            # Precheck: Find players whose price just dropped
+            dropped_players = {}
+            for pid, pdata in history.items():
+                prices = pdata.get("prices", [])
+                name = pdata.get("name", "Unknown")
+                ovr = pdata.get("ovr", 0)
+                
+                if len(prices) < MIN_HISTORY_POINTS:
+                    print(f"Skipping {name} ({ovr}) - gathering history ({len(prices)}/{MIN_HISTORY_POINTS})...")
+                    continue
+                    
+                current_price = prices[-1]["price"]
+                previous_price = prices[-2]["price"]
+                
+                if current_price < previous_price:
+                    # Price dropped, add to analysis batch
+                    dropped_players[pid] = {
+                        "name": name,
+                        "ovr": ovr,
+                        "history_prices": prices
+                    }
+                    
+            if dropped_players:
+                print(f"Precheck found {len(dropped_players)} players with recently dropped prices.")
+                print(f"Analyzing batch with LLM in a single request...")
+                
+                analysis = analyze_players_bulk(list(dropped_players.values()), api_key)
+                
+                if analysis and "NO PROFITABLE INVESTMENTS FOUND" not in analysis.upper():
+                    print(f"*** PROFITABLE INVESTMENTS FOUND! ***")
+                    with open(output_file, "a") as f:
+                        f.write(f"\n[{time.strftime('%Y-%m-%d %H:%M:%S')}] BULK MARKET OPPORTUNITY DETECTED\n")
+                        f.write(analysis.strip() + "\n")
+                        f.write("=" * 60 + "\n")
+                else:
+                    print("LLM found no guaranteed profitable investments in this batch.")
+            else:
+                print("No players had price drops in this cycle. Skipping LLM analysis.")
             
         except Exception as e:
             print(f"Error during execution: {e}")
