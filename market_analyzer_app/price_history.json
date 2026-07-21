@@ -1,0 +1,2298 @@
+{
+  "30903812": {
+    "name": "Ronaldinho",
+    "ovr": 109,
+    "position": "CAM",
+    "total_stats": 2993,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 500000000
+      }
+    ]
+  },
+  "30904451": {
+    "name": "Shevchenko",
+    "ovr": 112,
+    "position": "ST",
+    "total_stats": 3013,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 473000000
+      }
+    ]
+  },
+  "30904968": {
+    "name": "Ferdinand",
+    "ovr": 112,
+    "position": "CB",
+    "total_stats": 2862,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30904907": {
+    "name": "Lineker",
+    "ovr": 112,
+    "position": "ST",
+    "total_stats": 2914,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 352000000
+      }
+    ]
+  },
+  "30907135": {
+    "name": "Keane",
+    "ovr": 114,
+    "position": "CDM",
+    "total_stats": 3137,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 828000000
+      }
+    ]
+  },
+  "30906052": {
+    "name": "Guti",
+    "ovr": 113,
+    "position": "CM",
+    "total_stats": 3183,
+    "foot": "3\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30904927": {
+    "name": "King",
+    "ovr": 112,
+    "position": "CB",
+    "total_stats": 2893,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 994000000
+      }
+    ]
+  },
+  "30904466": {
+    "name": "\u0160uker",
+    "ovr": 112,
+    "position": "ST",
+    "total_stats": 3013,
+    "foot": "4\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 302000000
+      }
+    ]
+  },
+  "30904301": {
+    "name": "Maldini",
+    "ovr": 111,
+    "position": "CB",
+    "total_stats": 2814,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30904201": {
+    "name": "Ferdinand",
+    "ovr": 111,
+    "position": "CB",
+    "total_stats": 2796,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 788000000
+      }
+    ]
+  },
+  "30904462": {
+    "name": "Roberto Carlos",
+    "ovr": 112,
+    "position": "LB",
+    "total_stats": 3323,
+    "foot": "3\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30904300": {
+    "name": "Cruyff",
+    "ovr": 111,
+    "position": "ST",
+    "total_stats": 3067,
+    "foot": "5\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30904209": {
+    "name": "Fernando Torres",
+    "ovr": 111,
+    "position": "ST",
+    "total_stats": 2959,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 872000000
+      }
+    ]
+  },
+  "30903776": {
+    "name": "Beckenbauer",
+    "ovr": 109,
+    "position": "CDM",
+    "total_stats": 3001,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 106000000
+      }
+    ]
+  },
+  "30903901": {
+    "name": "Pel\u00e9",
+    "ovr": 109,
+    "position": "ST",
+    "total_stats": 3078,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 353000000
+      }
+    ]
+  },
+  "30906034": {
+    "name": "Morientes",
+    "ovr": 114,
+    "position": "ST",
+    "total_stats": 3103,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 777000000
+      }
+    ]
+  },
+  "30903787": {
+    "name": "Maldini",
+    "ovr": 109,
+    "position": "LB",
+    "total_stats": 2785,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 500000000
+      }
+    ]
+  },
+  "30907119": {
+    "name": "Cole",
+    "ovr": 113,
+    "position": "RM",
+    "total_stats": 3210,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 846000000
+      }
+    ]
+  },
+  "30904006": {
+    "name": "Cole",
+    "ovr": 109,
+    "position": "LB",
+    "total_stats": 2980,
+    "foot": "3\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 341000000
+      }
+    ]
+  },
+  "30904200": {
+    "name": "Owen",
+    "ovr": 110,
+    "position": "ST",
+    "total_stats": 2795,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 206000000
+      }
+    ]
+  },
+  "30904311": {
+    "name": "Bale",
+    "ovr": 111,
+    "position": "RW",
+    "total_stats": 3195,
+    "foot": "4\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30904925": {
+    "name": "Mand\u017euki\u0107",
+    "ovr": 111,
+    "position": "ST",
+    "total_stats": 3006,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 214000000
+      }
+    ]
+  },
+  "30903764": {
+    "name": "Beckham",
+    "ovr": 109,
+    "position": "RM",
+    "total_stats": 3138,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 209000000
+      }
+    ]
+  },
+  "30904810": {
+    "name": "T\u00e9vez",
+    "ovr": 111,
+    "position": "ST",
+    "total_stats": 3007,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30903900": {
+    "name": "Maradona",
+    "ovr": 109,
+    "position": "RW",
+    "total_stats": 2977,
+    "foot": "4\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 315000000
+      }
+    ]
+  },
+  "30903736": {
+    "name": "Thuram",
+    "ovr": 109,
+    "position": "RB",
+    "total_stats": 2858,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 398000000
+      }
+    ]
+  },
+  "30903902": {
+    "name": "Cafu",
+    "ovr": 109,
+    "position": "RB",
+    "total_stats": 2925,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 480000000
+      }
+    ]
+  },
+  "30904116": {
+    "name": "King",
+    "ovr": 110,
+    "position": "CB",
+    "total_stats": 2767,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 307000000
+      }
+    ]
+  },
+  "30904126": {
+    "name": "Lampard",
+    "ovr": 110,
+    "position": "CM",
+    "total_stats": 3077,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 256000000
+      }
+    ]
+  },
+  "30904111": {
+    "name": "Garrincha",
+    "ovr": 111,
+    "position": "RW",
+    "total_stats": 2940,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 496000000
+      }
+    ]
+  },
+  "30904208": {
+    "name": "Kompany",
+    "ovr": 111,
+    "position": "CB",
+    "total_stats": 2868,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 546000000
+      }
+    ]
+  },
+  "30904302": {
+    "name": "Buffon",
+    "ovr": 111,
+    "position": "GK",
+    "total_stats": 2349,
+    "foot": "2\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30903506": {
+    "name": "Casillas",
+    "ovr": 107,
+    "position": "GK",
+    "total_stats": 2385,
+    "foot": "3\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 326000000
+      }
+    ]
+  },
+  "30903905": {
+    "name": "van der Sar",
+    "ovr": 109,
+    "position": "GK",
+    "total_stats": 2150,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 500000000
+      }
+    ]
+  },
+  "30903119": {
+    "name": "Cruyff",
+    "ovr": 107,
+    "position": "ST",
+    "total_stats": 2848,
+    "foot": "5\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 129000000
+      }
+    ]
+  },
+  "30903107": {
+    "name": "Maldini",
+    "ovr": 107,
+    "position": "CB",
+    "total_stats": 2656,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 213000000
+      }
+    ]
+  },
+  "30903602": {
+    "name": "Schmeichel",
+    "ovr": 107,
+    "position": "GK",
+    "total_stats": 2329,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 271000000
+      }
+    ]
+  },
+  "30904928": {
+    "name": "Kanu",
+    "ovr": 111,
+    "position": "CAM",
+    "total_stats": 2960,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 172000000
+      }
+    ]
+  },
+  "30904967": {
+    "name": "Koller",
+    "ovr": 111,
+    "position": "GK",
+    "total_stats": 2186,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30904971": {
+    "name": "Crespo",
+    "ovr": 111,
+    "position": "ST",
+    "total_stats": 2983,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 226000000
+      }
+    ]
+  },
+  "30906040": {
+    "name": "Vialli",
+    "ovr": 114,
+    "position": "ST",
+    "total_stats": 2948,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 626000000
+      }
+    ]
+  },
+  "30904109": {
+    "name": "Best",
+    "ovr": 111,
+    "position": "LW",
+    "total_stats": 3022,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 522000000
+      }
+    ]
+  },
+  "30906053": {
+    "name": "Di Natale",
+    "ovr": 113,
+    "position": "ST",
+    "total_stats": 3137,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 513000000
+      }
+    ]
+  },
+  "30906050": {
+    "name": "Kewell",
+    "ovr": 113,
+    "position": "LW",
+    "total_stats": 3092,
+    "foot": "3\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 570000000
+      }
+    ]
+  },
+  "30903910": {
+    "name": "Bale",
+    "ovr": 109,
+    "position": "ST",
+    "total_stats": 3075,
+    "foot": "4\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 323000000
+      }
+    ]
+  },
+  "30904002": {
+    "name": "Del Piero",
+    "ovr": 109,
+    "position": "CAM",
+    "total_stats": 2916,
+    "foot": "5\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 124000000
+      }
+    ]
+  },
+  "30904112": {
+    "name": "Ginola",
+    "ovr": 111,
+    "position": "ST",
+    "total_stats": 3062,
+    "foot": "5\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 925000000
+      }
+    ]
+  },
+  "30904114": {
+    "name": "Drogba",
+    "ovr": 111,
+    "position": "ST",
+    "total_stats": 2939,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 449000000
+      }
+    ]
+  },
+  "30904266": {
+    "name": "Dudek",
+    "ovr": 110,
+    "position": "GK",
+    "total_stats": 2339,
+    "foot": "3\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 500000000
+      }
+    ]
+  },
+  "30904931": {
+    "name": "Crouch",
+    "ovr": 111,
+    "position": "CB",
+    "total_stats": 2809,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 521000000
+      }
+    ]
+  },
+  "30904304": {
+    "name": "Zanetti",
+    "ovr": 111,
+    "position": "RB",
+    "total_stats": 3036,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30904268": {
+    "name": "Cahill",
+    "ovr": 109,
+    "position": "ST",
+    "total_stats": 3035,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 334000000
+      }
+    ]
+  },
+  "30904308": {
+    "name": "Kuyt",
+    "ovr": 110,
+    "position": "RW",
+    "total_stats": 3098,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 177000000
+      }
+    ]
+  },
+  "30904317": {
+    "name": "Ver\u00f3n",
+    "ovr": 110,
+    "position": "CM",
+    "total_stats": 3073,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 147000000
+      }
+    ]
+  },
+  "30904204": {
+    "name": "\u010cech",
+    "ovr": 111,
+    "position": "GK",
+    "total_stats": 2359,
+    "foot": "3\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30904263": {
+    "name": "Marcelo",
+    "ovr": 111,
+    "position": "LB",
+    "total_stats": 3136,
+    "foot": "4\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30903334": {
+    "name": "\u010cech",
+    "ovr": 107,
+    "position": "GK",
+    "total_stats": 2163,
+    "foot": "3\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 262000000
+      }
+    ]
+  },
+  "30904465": {
+    "name": "Rivaldo",
+    "ovr": 112,
+    "position": "LW",
+    "total_stats": 3037,
+    "foot": "4\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 402000000
+      }
+    ]
+  },
+  "30904807": {
+    "name": "Francescoli",
+    "ovr": 112,
+    "position": "CAM",
+    "total_stats": 3006,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 973000000
+      }
+    ]
+  },
+  "30904923": {
+    "name": "Berbatov",
+    "ovr": 111,
+    "position": "ST",
+    "total_stats": 2907,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 191000000
+      }
+    ]
+  },
+  "30903341": {
+    "name": "Maradona",
+    "ovr": 107,
+    "position": "CAM",
+    "total_stats": 2907,
+    "foot": "4\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 109000000
+      }
+    ]
+  },
+  "30904305": {
+    "name": "Lahm",
+    "ovr": 111,
+    "position": "LB",
+    "total_stats": 3117,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30904113": {
+    "name": "Bergkamp",
+    "ovr": 111,
+    "position": "CAM",
+    "total_stats": 2917,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 405000000
+      }
+    ]
+  },
+  "30903113": {
+    "name": "Buffon",
+    "ovr": 107,
+    "position": "GK",
+    "total_stats": 2175,
+    "foot": "2\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 450000000
+      }
+    ]
+  },
+  "30903112": {
+    "name": "Bale",
+    "ovr": 107,
+    "position": "RW",
+    "total_stats": 2909,
+    "foot": "4\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 203000000
+      }
+    ]
+  },
+  "30904453": {
+    "name": "Lu\u00eds Figo",
+    "ovr": 112,
+    "position": "RW",
+    "total_stats": 3006,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 950000000
+      }
+    ]
+  },
+  "30904463": {
+    "name": "Rib\u00e9ry",
+    "ovr": 111,
+    "position": "LW",
+    "total_stats": 2927,
+    "foot": "5\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 250000000
+      }
+    ]
+  },
+  "30906032": {
+    "name": "Crouch",
+    "ovr": 114,
+    "position": "ST",
+    "total_stats": 3063,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 861000000
+      }
+    ]
+  },
+  "30904715": {
+    "name": "Petit",
+    "ovr": 112,
+    "position": "CDM",
+    "total_stats": 3157,
+    "foot": "3\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 727000000
+      }
+    ]
+  },
+  "30907167": {
+    "name": "Fellaini",
+    "ovr": 113,
+    "position": "CM",
+    "total_stats": 3366,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 725000000
+      }
+    ]
+  },
+  "30904808": {
+    "name": "Milito",
+    "ovr": 112,
+    "position": "ST",
+    "total_stats": 2964,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 947000000
+      }
+    ]
+  },
+  "30904914": {
+    "name": "Laudrup",
+    "ovr": 112,
+    "position": "RB",
+    "total_stats": 3043,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30904716": {
+    "name": "Cha Bum Kun",
+    "ovr": 112,
+    "position": "RW",
+    "total_stats": 3108,
+    "foot": "5\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 950000000
+      }
+    ]
+  },
+  "30904806": {
+    "name": "Mascherano",
+    "ovr": 112,
+    "position": "CB",
+    "total_stats": 2974,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30904926": {
+    "name": "Matuidi",
+    "ovr": 112,
+    "position": "CDM",
+    "total_stats": 3095,
+    "foot": "3\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 672000000
+      }
+    ]
+  },
+  "30907011": {
+    "name": "Beasley",
+    "ovr": 113,
+    "position": "LM",
+    "total_stats": 3170,
+    "foot": "4\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 989000000
+      }
+    ]
+  },
+  "30904922": {
+    "name": "C\u00f3rdoba",
+    "ovr": 112,
+    "position": "CB",
+    "total_stats": 3014,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30907153": {
+    "name": "T\u00e9vez",
+    "ovr": 113,
+    "position": "ST",
+    "total_stats": 3111,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 454000000
+      }
+    ]
+  },
+  "30903813": {
+    "name": "Fernando Hierro",
+    "ovr": 109,
+    "position": "CB",
+    "total_stats": 2904,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 222000000
+      }
+    ]
+  },
+  "30904929": {
+    "name": "Riise",
+    "ovr": 112,
+    "position": "LB",
+    "total_stats": 3305,
+    "foot": "3\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30904104": {
+    "name": "Charlton",
+    "ovr": 111,
+    "position": "CAM",
+    "total_stats": 3058,
+    "foot": "5\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 606000000
+      }
+    ]
+  },
+  "30904719": {
+    "name": "Pir\u00e8s",
+    "ovr": 112,
+    "position": "LM",
+    "total_stats": 2977,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 878000000
+      }
+    ]
+  },
+  "30904717": {
+    "name": "S\u00f3crates",
+    "ovr": 112,
+    "position": "CM",
+    "total_stats": 3250,
+    "foot": "5\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 941000000
+      }
+    ]
+  },
+  "30904265": {
+    "name": "Wright",
+    "ovr": 110,
+    "position": "ST",
+    "total_stats": 2841,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 494000000
+      }
+    ]
+  },
+  "30906051": {
+    "name": "Owen",
+    "ovr": 113,
+    "position": "ST",
+    "total_stats": 2937,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 749000000
+      }
+    ]
+  },
+  "30906031": {
+    "name": "Mascherano",
+    "ovr": 114,
+    "position": "CDM",
+    "total_stats": 3134,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 803000000
+      }
+    ]
+  },
+  "30907169": {
+    "name": "Cahill",
+    "ovr": 112,
+    "position": "CM",
+    "total_stats": 3324,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 290000000
+      }
+    ]
+  },
+  "30904207": {
+    "name": "Bierhoff",
+    "ovr": 110,
+    "position": "ST",
+    "total_stats": 2756,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 151000000
+      }
+    ]
+  },
+  "30904262": {
+    "name": "Z\u00e9 Roberto",
+    "ovr": 111,
+    "position": "LM",
+    "total_stats": 3238,
+    "foot": "4\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30904119": {
+    "name": "Lizarazu",
+    "ovr": 110,
+    "position": "LB",
+    "total_stats": 2936,
+    "foot": "3\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 469000000
+      }
+    ]
+  },
+  "30904110": {
+    "name": "Carlos Alberto",
+    "ovr": 111,
+    "position": "RB",
+    "total_stats": 2976,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30907125": {
+    "name": "Rosick\u00fd",
+    "ovr": 113,
+    "position": "CAM",
+    "total_stats": 3068,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 627000000
+      }
+    ]
+  },
+  "30904458": {
+    "name": "Best",
+    "ovr": 112,
+    "position": "RW",
+    "total_stats": 3125,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 877000000
+      }
+    ]
+  },
+  "30904930": {
+    "name": "Gervinho",
+    "ovr": 111,
+    "position": "LW",
+    "total_stats": 2858,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 339000000
+      }
+    ]
+  },
+  "30903927": {
+    "name": "Cannavaro",
+    "ovr": 109,
+    "position": "CB",
+    "total_stats": 2649,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 245000000
+      }
+    ]
+  },
+  "30903100": {
+    "name": "Ronaldinho",
+    "ovr": 107,
+    "position": "CAM",
+    "total_stats": 2816,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 301000000
+      }
+    ]
+  },
+  "30903769": {
+    "name": "Jairzinho",
+    "ovr": 109,
+    "position": "RW",
+    "total_stats": 2918,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 186000000
+      }
+    ]
+  },
+  "30903909": {
+    "name": "Lu\u00eds Figo",
+    "ovr": 109,
+    "position": "RW",
+    "total_stats": 2841,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 129000000
+      }
+    ]
+  },
+  "30904108": {
+    "name": "Yashin",
+    "ovr": 111,
+    "position": "GK",
+    "total_stats": 2506,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30904124": {
+    "name": "Guti",
+    "ovr": 109,
+    "position": "CM",
+    "total_stats": 3003,
+    "foot": "3\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 127000000
+      }
+    ]
+  },
+  "30904151": {
+    "name": "Cambiasso",
+    "ovr": 110,
+    "position": "CDM",
+    "total_stats": 3055,
+    "foot": "4\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 109000000
+      }
+    ]
+  },
+  "30904314": {
+    "name": "M\u00e1rquez",
+    "ovr": 111,
+    "position": "CB",
+    "total_stats": 3096,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 590000000
+      }
+    ]
+  },
+  "30904105": {
+    "name": "Blanc",
+    "ovr": 111,
+    "position": "CB",
+    "total_stats": 2997,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 767000000
+      }
+    ]
+  },
+  "30904260": {
+    "name": "Papin",
+    "ovr": 111,
+    "position": "ST",
+    "total_stats": 2976,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 890000000
+      }
+    ]
+  },
+  "30904306": {
+    "name": "Gerrard",
+    "ovr": 111,
+    "position": "CM",
+    "total_stats": 3221,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30903814": {
+    "name": "Casillas",
+    "ovr": 109,
+    "position": "GK",
+    "total_stats": 2380,
+    "foot": "3\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 500000000
+      }
+    ]
+  },
+  "30903254": {
+    "name": "Roberto Carlos",
+    "ovr": 107,
+    "position": "LB",
+    "total_stats": 3005,
+    "foot": "3\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 366000000
+      }
+    ]
+  },
+  "30903752": {
+    "name": "van Basten",
+    "ovr": 109,
+    "position": "ST",
+    "total_stats": 2783,
+    "foot": "5\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 209000000
+      }
+    ]
+  },
+  "30904721": {
+    "name": "Ljungberg",
+    "ovr": 111,
+    "position": "RM",
+    "total_stats": 2901,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 400000000
+      }
+    ]
+  },
+  "30904120": {
+    "name": "Nedv\u011bd",
+    "ovr": 111,
+    "position": "LM",
+    "total_stats": 3034,
+    "foot": "5\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 917000000
+      }
+    ]
+  },
+  "30904973": {
+    "name": "Gattuso",
+    "ovr": 111,
+    "position": "CDM",
+    "total_stats": 2927,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 259000000
+      }
+    ]
+  },
+  "30903788": {
+    "name": "Zambrotta",
+    "ovr": 108,
+    "position": "RB",
+    "total_stats": 2927,
+    "foot": "5\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 200000000
+      }
+    ]
+  },
+  "30903735": {
+    "name": "Henry",
+    "ovr": 109,
+    "position": "LW",
+    "total_stats": 2941,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 193000000
+      }
+    ]
+  },
+  "30907157": {
+    "name": "Rush",
+    "ovr": 114,
+    "position": "ST",
+    "total_stats": 3019,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 673000000
+      }
+    ]
+  },
+  "30904121": {
+    "name": "Hagi",
+    "ovr": 110,
+    "position": "RM",
+    "total_stats": 2918,
+    "foot": "4\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 186000000
+      }
+    ]
+  },
+  "30904918": {
+    "name": "McManaman",
+    "ovr": 112,
+    "position": "RM",
+    "total_stats": 3031,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 745000000
+      }
+    ]
+  },
+  "30904122": {
+    "name": "V\u00f6ller",
+    "ovr": 110,
+    "position": "ST",
+    "total_stats": 2931,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 118000000
+      }
+    ]
+  },
+  "30903118": {
+    "name": "Carlos Alberto",
+    "ovr": 107,
+    "position": "RB",
+    "total_stats": 2785,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 202000000
+      }
+    ]
+  },
+  "30903618": {
+    "name": "Lahm",
+    "ovr": 107,
+    "position": "RB",
+    "total_stats": 2878,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 102000000
+      }
+    ]
+  },
+  "30903601": {
+    "name": "Zidane",
+    "ovr": 107,
+    "position": "CM",
+    "total_stats": 3050,
+    "foot": "5\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 111000000
+      }
+    ]
+  },
+  "30903779": {
+    "name": "Rib\u00e9ry",
+    "ovr": 109,
+    "position": "LW",
+    "total_stats": 2815,
+    "foot": "5\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 134000000
+      }
+    ]
+  },
+  "30903765": {
+    "name": "Gullit",
+    "ovr": 109,
+    "position": "CM",
+    "total_stats": 3120,
+    "foot": "5\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 422000000
+      }
+    ]
+  },
+  "30903786": {
+    "name": "Ronaldo",
+    "ovr": 109,
+    "position": "ST",
+    "total_stats": 2900,
+    "foot": "5\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 500000000
+      }
+    ]
+  },
+  "30903777": {
+    "name": "L\u00facio",
+    "ovr": 109,
+    "position": "CB",
+    "total_stats": 2981,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 283000000
+      }
+    ]
+  },
+  "30903904": {
+    "name": "Rivaldo",
+    "ovr": 109,
+    "position": "LW",
+    "total_stats": 2876,
+    "foot": "4\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 173000000
+      }
+    ]
+  },
+  "30903903": {
+    "name": "Eus\u00e9bio",
+    "ovr": 109,
+    "position": "ST",
+    "total_stats": 2930,
+    "foot": "5\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 184000000
+      }
+    ]
+  },
+  "30903907": {
+    "name": "Vidi\u0107",
+    "ovr": 109,
+    "position": "CB",
+    "total_stats": 2635,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 188000000
+      }
+    ]
+  },
+  "30903912": {
+    "name": "Riise",
+    "ovr": 108,
+    "position": "LB",
+    "total_stats": 3078,
+    "foot": "3\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 154000000
+      }
+    ]
+  },
+  "30903920": {
+    "name": "Hazard",
+    "ovr": 108,
+    "position": "LW",
+    "total_stats": 2815,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 101000000
+      }
+    ]
+  },
+  "30904107": {
+    "name": "Zidane",
+    "ovr": 111,
+    "position": "CM",
+    "total_stats": 3296,
+    "foot": "5\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30904106": {
+    "name": "Tour\u00e9",
+    "ovr": 111,
+    "position": "CDM",
+    "total_stats": 3162,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 593000000
+      }
+    ]
+  },
+  "30904003": {
+    "name": "Carles Puyol",
+    "ovr": 108,
+    "position": "CB",
+    "total_stats": 2665,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 104000000
+      }
+    ]
+  },
+  "30904115": {
+    "name": "Mascherano",
+    "ovr": 110,
+    "position": "CDM",
+    "total_stats": 2881,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 131000000
+      }
+    ]
+  },
+  "30904117": {
+    "name": "Keane",
+    "ovr": 110,
+    "position": "CDM",
+    "total_stats": 2994,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 113000000
+      }
+    ]
+  },
+  "30904118": {
+    "name": "Schweinsteiger",
+    "ovr": 110,
+    "position": "CM",
+    "total_stats": 3114,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 265000000
+      }
+    ]
+  },
+  "30904203": {
+    "name": "Fellaini",
+    "ovr": 110,
+    "position": "CM",
+    "total_stats": 3066,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 273000000
+      }
+    ]
+  },
+  "30904211": {
+    "name": "Maicon",
+    "ovr": 111,
+    "position": "RB",
+    "total_stats": 3117,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 997000000
+      }
+    ]
+  },
+  "30904205": {
+    "name": "Capdevila",
+    "ovr": 111,
+    "position": "LB",
+    "total_stats": 3089,
+    "foot": "3\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30904264": {
+    "name": "Di Natale",
+    "ovr": 110,
+    "position": "LW",
+    "total_stats": 3006,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 500000000
+      }
+    ]
+  },
+  "30904307": {
+    "name": "Forl\u00e1n",
+    "ovr": 111,
+    "position": "ST",
+    "total_stats": 3028,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 515000000
+      }
+    ]
+  },
+  "30904222": {
+    "name": "Ibrahimovi\u0107",
+    "ovr": 111,
+    "position": "ST",
+    "total_stats": 2979,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 611000000
+      }
+    ]
+  },
+  "30904261": {
+    "name": "Klose",
+    "ovr": 111,
+    "position": "ST",
+    "total_stats": 2884,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30904313": {
+    "name": "Dunga",
+    "ovr": 111,
+    "position": "CDM",
+    "total_stats": 3121,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 401000000
+      }
+    ]
+  },
+  "30904450": {
+    "name": "Kak\u00e1",
+    "ovr": 112,
+    "position": "CAM",
+    "total_stats": 3079,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30904310": {
+    "name": "Kahn",
+    "ovr": 111,
+    "position": "GK",
+    "total_stats": 2327,
+    "foot": "2\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30904315": {
+    "name": "Park Ji Sung",
+    "ovr": 110,
+    "position": "CM",
+    "total_stats": 3174,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 234000000
+      }
+    ]
+  },
+  "30904464": {
+    "name": "Rijkaard",
+    "ovr": 111,
+    "position": "CDM",
+    "total_stats": 3131,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 112000000
+      }
+    ]
+  },
+  "30904718": {
+    "name": "Carles Puyol",
+    "ovr": 112,
+    "position": "CB",
+    "total_stats": 2803,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 996000000
+      }
+    ]
+  },
+  "30904805": {
+    "name": "Z\u00e9 Roberto",
+    "ovr": 112,
+    "position": "LM",
+    "total_stats": 3227,
+    "foot": "4\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 922000000
+      }
+    ]
+  },
+  "30904720": {
+    "name": "Cole",
+    "ovr": 111,
+    "position": "CAM",
+    "total_stats": 3071,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 398000000
+      }
+    ]
+  },
+  "30904916": {
+    "name": "van Persie",
+    "ovr": 112,
+    "position": "ST",
+    "total_stats": 3041,
+    "foot": "4\u2605 WF / Left",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 994000000
+      }
+    ]
+  },
+  "30904809": {
+    "name": "Ramires",
+    "ovr": 111,
+    "position": "CDM",
+    "total_stats": 3096,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 997000000
+      }
+    ]
+  },
+  "30904921": {
+    "name": "Mak\u00e9l\u00e9l\u00e9",
+    "ovr": 113,
+    "position": "CDM",
+    "total_stats": 2991,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 991000000
+      }
+    ]
+  },
+  "30904917": {
+    "name": "Cesc F\u00e0bregas",
+    "ovr": 112,
+    "position": "CM",
+    "total_stats": 3195,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 742000000
+      }
+    ]
+  },
+  "30904919": {
+    "name": "Lampard",
+    "ovr": 111,
+    "position": "CM",
+    "total_stats": 3193,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 639000000
+      }
+    ]
+  },
+  "30904933": {
+    "name": "Fellaini",
+    "ovr": 112,
+    "position": "CM",
+    "total_stats": 3207,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 899000000
+      }
+    ]
+  },
+  "30904969": {
+    "name": "Gattuso",
+    "ovr": 111,
+    "position": "CDM",
+    "total_stats": 2927,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 266000000
+      }
+    ]
+  },
+  "30904972": {
+    "name": "Ferdinand",
+    "ovr": 112,
+    "position": "CB",
+    "total_stats": 2862,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30904975": {
+    "name": "Crespo",
+    "ovr": 111,
+    "position": "ST",
+    "total_stats": 2983,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 275000000
+      }
+    ]
+  },
+  "30906036": {
+    "name": "Pizarro",
+    "ovr": 114,
+    "position": "ST",
+    "total_stats": 3096,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 891000000
+      }
+    ]
+  },
+  "30907133": {
+    "name": "Carrick",
+    "ovr": 113,
+    "position": "CDM",
+    "total_stats": 3211,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 471000000
+      }
+    ]
+  },
+  "30907141": {
+    "name": "Campbell",
+    "ovr": 113,
+    "position": "CB",
+    "total_stats": 2780,
+    "foot": "3\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  },
+  "30907155": {
+    "name": "Dempsey",
+    "ovr": 112,
+    "position": "CAM",
+    "total_stats": 3059,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 334000000
+      }
+    ]
+  },
+  "30904303": {
+    "name": "Matth\u00e4us",
+    "ovr": 111,
+    "position": "CDM",
+    "total_stats": 3143,
+    "foot": "4\u2605 WF / Right",
+    "prices": [
+      {
+        "timestamp": 1784646941.7235239,
+        "date": "2026-07-21 21:15:41",
+        "price": 1000000000
+      }
+    ]
+  }
+}
