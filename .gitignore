@@ -8,3 +8,4 @@ rewards/
 
 # Claude Code session data
 .claude/
+.env

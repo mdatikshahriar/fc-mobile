@@ -1,0 +1,19 @@
+{
+  "filters": {
+    "min_rating": 106,
+    "max_rating": 114,
+    "auctionable_only": true,
+    "sort_type": "priceRank0",
+    "sort_direction": "ASC",
+    "programs": [
+      "PROGRAM_ICONS",
+      "PROGRAM_HEROS8"
+    ],
+    "position": null,
+    "min_price": 100000000,
+    "max_price": 1000000000
+  },
+  "interval_hours": 6,
+  "output_file": "profitable_investments.txt",
+  "history_file": "price_history.json"
+}

@@ -3,3 +3,5 @@ pillow
 numpy
 beautifulsoup4
 lxml
+google-genai
+python-dotenv
