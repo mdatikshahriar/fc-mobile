@@ -8,6 +8,9 @@ WORKING ENDPOINTS:
   POST /api/players/filter       → player search with filters
   GET  /api/filter/filter-data/{name}?seasonId=  → filter options
   GET  /api/card-generator/search-images?year=23&query=  → player image search
+  GET  /api/player/market/{id}   → per-player market detail (current value/trend,
+                                    market low/high, real buy/sell prices) —
+                                    confirmed via browser network capture
 
 SEASON IDs:
   23  = FC 24/25 (current as of May 2026)
@@ -21,6 +24,7 @@ SORT TYPES (legacyId):
 """
 
 import urllib.request
+import urllib.error
 import json
 import time
 from typing import Optional
@@ -36,6 +40,25 @@ HEADERS = {
     "Origin": "https://renderz.app",
     "Accept-Encoding": "identity",
 }
+
+
+def _request_json(req, timeout=15, retries=3, backoff=1.5):
+    """
+    RenderZ's backend times out on roughly 1 in 5 requests at random (observed
+    empirically, not tied to any specific endpoint). With ~140 sequential requests
+    per pagination cycle and zero retries, a full cycle was virtually guaranteed to
+    hit at least one timeout and abort entirely. Retry with backoff before giving up.
+    """
+    last_exc = None
+    for attempt in range(retries + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return json.loads(r.read().decode())
+        except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as e:
+            last_exc = e
+            if attempt < retries:
+                time.sleep(backoff * (attempt + 1))
+    raise last_exc
 
 
 def search_players(
@@ -105,8 +128,41 @@ def search_players(
         headers=HEADERS,
         method="POST",
     )
-    with urllib.request.urlopen(req, timeout=15) as r:
-        return json.loads(r.read().decode())
+    return _request_json(req)
+
+
+def get_player_market(player_id, rank: int = 0) -> Optional[dict]:
+    """
+    Fetch the per-player market detail panel (the one shown on a player's own
+    renderz.app page): current value + trend, market low/high range, and real
+    executable buy/sell prices.
+
+    Endpoint confirmed via a browser network capture (GET /api/player/market/{id}),
+    not discovered through bulk crawling of the site's JS bundles.
+
+    Returns the entry for `rank` (default 0, matching the unupgraded card the
+    bulk /api/players/filter search already targets), or None if unavailable.
+    Fields of note:
+      - basePrice / previousBasePrice / basePricePercentageChange:
+            RenderZ's own smoothed "current value" and short-term trend,
+            refreshed independently of our own polling (see nextRefreshTime).
+      - lowPrice / highPrice: the recent market range for this card.
+      - marketLowestBuyPrice: the real price to buy right now (ask).
+      - marketLowestSellPrice: the real price to sell right now (bid). A value
+            of 0 means there is currently NO instant-sell liquidity at all —
+            i.e. after buying, you may have to list and wait for a buyer
+            rather than exit immediately.
+    """
+    # This endpoint 404s unless Referer matches the specific player's own page
+    # (not the generic /24/players list page used elsewhere in this module).
+    headers = {**HEADERS, "Referer": f"{BASE}/24/player/{player_id}"}
+    url = f"{BASE}/api/player/market/{player_id}"
+    req = urllib.request.Request(url, headers=headers)
+    try:
+        data = _request_json(req)
+    except (urllib.error.URLError, TimeoutError, json.JSONDecodeError):
+        return None
+    return data.get(str(rank))
 
 
 def get_filter_options(filter_name: str, season_id: int = SEASON_ID) -> list:
@@ -117,8 +173,7 @@ def get_filter_options(filter_name: str, season_id: int = SEASON_ID) -> list:
     """
     url = f"{BASE}/api/filter/filter-data/{filter_name}?seasonId={season_id}"
     req = urllib.request.Request(url, headers=HEADERS)
-    with urllib.request.urlopen(req, timeout=15) as r:
-        return json.loads(r.read().decode())
+    return _request_json(req)
 
 
 def format_price(price_coins: int) -> str:

@@ -3,13 +3,26 @@
     "name": "Ronaldinho",
     "ovr": 109,
     "position": "CAM",
-    "total_stats": 2993,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 500000000
+        "date": "2026-07-22 01:16:55",
+        "price": 500000000,
+        "current_value": 500000000,
+        "value_change_pct": 0,
+        "range_low": 490000000,
+        "range_high": 510000000,
+        "buy_now_price": 510000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:30:52",
+        "price": 500000000,
+        "current_value": 500000000,
+        "value_change_pct": 0,
+        "range_low": 490000000,
+        "range_high": 510000000,
+        "buy_now_price": 510000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -17,13 +30,26 @@
     "name": "Shevchenko",
     "ovr": 112,
     "position": "ST",
-    "total_stats": 3013,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 473000000
+        "date": "2026-07-22 01:16:56",
+        "price": 473000000,
+        "current_value": 211000000,
+        "value_change_pct": 0.48,
+        "range_low": 206000000,
+        "range_high": 215000000,
+        "buy_now_price": 215000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:30:53",
+        "price": 473000000,
+        "current_value": 211000000,
+        "value_change_pct": 0.48,
+        "range_low": 206000000,
+        "range_high": 215000000,
+        "buy_now_price": 215000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -31,13 +57,26 @@
     "name": "Ferdinand",
     "ovr": 112,
     "position": "CB",
-    "total_stats": 2862,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:16:57",
+        "price": 1000000000,
+        "current_value": 436000000,
+        "value_change_pct": 0,
+        "range_low": 427000000,
+        "range_high": 444000000,
+        "buy_now_price": 436000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:30:54",
+        "price": 1000000000,
+        "current_value": 436000000,
+        "value_change_pct": 0,
+        "range_low": 427000000,
+        "range_high": 444000000,
+        "buy_now_price": 436000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -45,13 +84,26 @@
     "name": "Lineker",
     "ovr": 112,
     "position": "ST",
-    "total_stats": 2914,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 352000000
+        "date": "2026-07-22 01:16:57",
+        "price": 352000000,
+        "current_value": 493000000,
+        "value_change_pct": 0,
+        "range_low": 483000000,
+        "range_high": 502000000,
+        "buy_now_price": 493000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:30:54",
+        "price": 352000000,
+        "current_value": 493000000,
+        "value_change_pct": 0,
+        "range_low": 483000000,
+        "range_high": 502000000,
+        "buy_now_price": 493000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -59,13 +111,26 @@
     "name": "Keane",
     "ovr": 114,
     "position": "CDM",
-    "total_stats": 3137,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 828000000
+        "date": "2026-07-22 01:16:58",
+        "price": 828000000,
+        "current_value": 483000000,
+        "value_change_pct": 0,
+        "range_low": 473000000,
+        "range_high": 492000000,
+        "buy_now_price": 0,
+        "sell_now_price": 476000000
+      },
+      {
+        "date": "2026-07-22 01:30:55",
+        "price": 828000000,
+        "current_value": 483000000,
+        "value_change_pct": 0,
+        "range_low": 473000000,
+        "range_high": 492000000,
+        "buy_now_price": 0,
+        "sell_now_price": 476000000
       }
     ]
   },
@@ -73,13 +138,26 @@
     "name": "Guti",
     "ovr": 113,
     "position": "CM",
-    "total_stats": 3183,
-    "foot": "3\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:16:59",
+        "price": 1000000000,
+        "current_value": 668000000,
+        "value_change_pct": 0,
+        "range_low": 654000000,
+        "range_high": 681000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:30:56",
+        "price": 1000000000,
+        "current_value": 668000000,
+        "value_change_pct": 0,
+        "range_low": 654000000,
+        "range_high": 681000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -87,13 +165,26 @@
     "name": "King",
     "ovr": 112,
     "position": "CB",
-    "total_stats": 2893,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 994000000
+        "date": "2026-07-22 01:16:59",
+        "price": 994000000,
+        "current_value": 474000000,
+        "value_change_pct": 0,
+        "range_low": 464000000,
+        "range_high": 483000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:30:56",
+        "price": 994000000,
+        "current_value": 474000000,
+        "value_change_pct": 0,
+        "range_low": 464000000,
+        "range_high": 483000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -101,13 +192,26 @@
     "name": "\u0160uker",
     "ovr": 112,
     "position": "ST",
-    "total_stats": 3013,
-    "foot": "4\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 302000000
+        "date": "2026-07-22 01:17:00",
+        "price": 302000000,
+        "current_value": 227000000,
+        "value_change_pct": -2.16,
+        "range_low": 222000000,
+        "range_high": 231000000,
+        "buy_now_price": 234000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:30:58",
+        "price": 302000000,
+        "current_value": 227000000,
+        "value_change_pct": -2.16,
+        "range_low": 222000000,
+        "range_high": 231000000,
+        "buy_now_price": 234000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -115,13 +219,26 @@
     "name": "Maldini",
     "ovr": 111,
     "position": "CB",
-    "total_stats": 2814,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:17:01",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:30:58",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -129,13 +246,26 @@
     "name": "Ferdinand",
     "ovr": 111,
     "position": "CB",
-    "total_stats": 2796,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 788000000
+        "date": "2026-07-22 01:17:02",
+        "price": 788000000,
+        "current_value": 329000000,
+        "value_change_pct": 0,
+        "range_low": 322000000,
+        "range_high": 335000000,
+        "buy_now_price": 323000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:30:59",
+        "price": 788000000,
+        "current_value": 329000000,
+        "value_change_pct": 0,
+        "range_low": 322000000,
+        "range_high": 335000000,
+        "buy_now_price": 323000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -143,13 +273,26 @@
     "name": "Roberto Carlos",
     "ovr": 112,
     "position": "LB",
-    "total_stats": 3323,
-    "foot": "3\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:17:02",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:00",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -157,13 +300,26 @@
     "name": "Cruyff",
     "ovr": 111,
     "position": "ST",
-    "total_stats": 3067,
-    "foot": "5\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:17:03",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:01",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -171,13 +327,26 @@
     "name": "Fernando Torres",
     "ovr": 111,
     "position": "ST",
-    "total_stats": 2959,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 872000000
+        "date": "2026-07-22 01:17:04",
+        "price": 872000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:01",
+        "price": 872000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -185,13 +354,26 @@
     "name": "Beckenbauer",
     "ovr": 109,
     "position": "CDM",
-    "total_stats": 3001,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 106000000
+        "date": "2026-07-22 01:17:04",
+        "price": 106000000,
+        "current_value": 64500000,
+        "value_change_pct": -0.77,
+        "range_low": 63200000,
+        "range_high": 65700000,
+        "buy_now_price": 65700000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:02",
+        "price": 106000000,
+        "current_value": 64500000,
+        "value_change_pct": -0.77,
+        "range_low": 63200000,
+        "range_high": 65700000,
+        "buy_now_price": 65700000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -199,13 +381,26 @@
     "name": "Pel\u00e9",
     "ovr": 109,
     "position": "ST",
-    "total_stats": 3078,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 353000000
+        "date": "2026-07-22 01:17:05",
+        "price": 353000000,
+        "current_value": 370000000,
+        "value_change_pct": -2.12,
+        "range_low": 362000000,
+        "range_high": 377000000,
+        "buy_now_price": 0,
+        "sell_now_price": 362000000
+      },
+      {
+        "date": "2026-07-22 01:31:03",
+        "price": 353000000,
+        "current_value": 370000000,
+        "value_change_pct": -2.12,
+        "range_low": 362000000,
+        "range_high": 377000000,
+        "buy_now_price": 0,
+        "sell_now_price": 362000000
       }
     ]
   },
@@ -213,13 +408,26 @@
     "name": "Morientes",
     "ovr": 114,
     "position": "ST",
-    "total_stats": 3103,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 777000000
+        "date": "2026-07-22 01:17:06",
+        "price": 777000000,
+        "current_value": 925000000,
+        "value_change_pct": 0,
+        "range_low": 906000000,
+        "range_high": 943000000,
+        "buy_now_price": 0,
+        "sell_now_price": 943000000
+      },
+      {
+        "date": "2026-07-22 01:31:03",
+        "price": 777000000,
+        "current_value": 925000000,
+        "value_change_pct": 0,
+        "range_low": 906000000,
+        "range_high": 943000000,
+        "buy_now_price": 0,
+        "sell_now_price": 943000000
       }
     ]
   },
@@ -227,13 +435,26 @@
     "name": "Maldini",
     "ovr": 109,
     "position": "LB",
-    "total_stats": 2785,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 500000000
+        "date": "2026-07-22 01:17:07",
+        "price": 500000000,
+        "current_value": 209000000,
+        "value_change_pct": 0.48,
+        "range_low": 204000000,
+        "range_high": 213000000,
+        "buy_now_price": 0,
+        "sell_now_price": 204000000
+      },
+      {
+        "date": "2026-07-22 01:31:04",
+        "price": 500000000,
+        "current_value": 209000000,
+        "value_change_pct": 0.48,
+        "range_low": 204000000,
+        "range_high": 213000000,
+        "buy_now_price": 0,
+        "sell_now_price": 204000000
       }
     ]
   },
@@ -241,13 +462,26 @@
     "name": "Cole",
     "ovr": 113,
     "position": "RM",
-    "total_stats": 3210,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 846000000
+        "date": "2026-07-22 01:17:07",
+        "price": 846000000,
+        "current_value": 397000000,
+        "value_change_pct": 0,
+        "range_low": 389000000,
+        "range_high": 404000000,
+        "buy_now_price": 0,
+        "sell_now_price": 394000000
+      },
+      {
+        "date": "2026-07-22 01:31:05",
+        "price": 846000000,
+        "current_value": 397000000,
+        "value_change_pct": 0,
+        "range_low": 389000000,
+        "range_high": 404000000,
+        "buy_now_price": 0,
+        "sell_now_price": 394000000
       }
     ]
   },
@@ -255,13 +489,26 @@
     "name": "Cole",
     "ovr": 109,
     "position": "LB",
-    "total_stats": 2980,
-    "foot": "3\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 341000000
+        "date": "2026-07-22 01:17:08",
+        "price": 341000000,
+        "current_value": 58300000,
+        "value_change_pct": 1.92,
+        "range_low": 57100000,
+        "range_high": 59400000,
+        "buy_now_price": 0,
+        "sell_now_price": 57100000
+      },
+      {
+        "date": "2026-07-22 01:31:06",
+        "price": 341000000,
+        "current_value": 58300000,
+        "value_change_pct": 1.92,
+        "range_low": 57100000,
+        "range_high": 59400000,
+        "buy_now_price": 0,
+        "sell_now_price": 57100000
       }
     ]
   },
@@ -269,13 +516,26 @@
     "name": "Owen",
     "ovr": 110,
     "position": "ST",
-    "total_stats": 2795,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 206000000
+        "date": "2026-07-22 01:17:09",
+        "price": 206000000,
+        "current_value": 402000000,
+        "value_change_pct": 0,
+        "range_low": 393000000,
+        "range_high": 410000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:06",
+        "price": 206000000,
+        "current_value": 402000000,
+        "value_change_pct": 0,
+        "range_low": 393000000,
+        "range_high": 410000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -283,13 +543,26 @@
     "name": "Bale",
     "ovr": 111,
     "position": "RW",
-    "total_stats": 3195,
-    "foot": "4\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:17:09",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:07",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -297,13 +570,26 @@
     "name": "Mand\u017euki\u0107",
     "ovr": 111,
     "position": "ST",
-    "total_stats": 3006,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 214000000
+        "date": "2026-07-22 01:17:10",
+        "price": 214000000,
+        "current_value": 191000000,
+        "value_change_pct": 0,
+        "range_low": 187000000,
+        "range_high": 194000000,
+        "buy_now_price": 0,
+        "sell_now_price": 189000000
+      },
+      {
+        "date": "2026-07-22 01:31:08",
+        "price": 214000000,
+        "current_value": 191000000,
+        "value_change_pct": 0,
+        "range_low": 187000000,
+        "range_high": 194000000,
+        "buy_now_price": 0,
+        "sell_now_price": 189000000
       }
     ]
   },
@@ -311,13 +597,26 @@
     "name": "Beckham",
     "ovr": 109,
     "position": "RM",
-    "total_stats": 3138,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 209000000
+        "date": "2026-07-22 01:17:11",
+        "price": 209000000,
+        "current_value": 132000000,
+        "value_change_pct": -0.75,
+        "range_low": 129000000,
+        "range_high": 134000000,
+        "buy_now_price": 134000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:09",
+        "price": 209000000,
+        "current_value": 132000000,
+        "value_change_pct": -0.75,
+        "range_low": 129000000,
+        "range_high": 134000000,
+        "buy_now_price": 134000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -325,13 +624,26 @@
     "name": "T\u00e9vez",
     "ovr": 111,
     "position": "ST",
-    "total_stats": 3007,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:17:11",
+        "price": 1000000000,
+        "current_value": 986000000,
+        "value_change_pct": 0,
+        "range_low": 966000000,
+        "range_high": 1000000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:09",
+        "price": 1000000000,
+        "current_value": 986000000,
+        "value_change_pct": 0,
+        "range_low": 966000000,
+        "range_high": 1000000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -339,13 +651,26 @@
     "name": "Maradona",
     "ovr": 109,
     "position": "RW",
-    "total_stats": 2977,
-    "foot": "4\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 315000000
+        "date": "2026-07-22 01:17:12",
+        "price": 315000000,
+        "current_value": 353000000,
+        "value_change_pct": 1.73,
+        "range_low": 345000000,
+        "range_high": 360000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:10",
+        "price": 315000000,
+        "current_value": 353000000,
+        "value_change_pct": 1.73,
+        "range_low": 345000000,
+        "range_high": 360000000,
+        "buy_now_price": 360000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -353,13 +678,26 @@
     "name": "Thuram",
     "ovr": 109,
     "position": "RB",
-    "total_stats": 2858,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 398000000
+        "date": "2026-07-22 01:17:13",
+        "price": 398000000,
+        "current_value": 101000000,
+        "value_change_pct": 1.2,
+        "range_low": 98900000,
+        "range_high": 103000000,
+        "buy_now_price": 0,
+        "sell_now_price": 98900000
+      },
+      {
+        "date": "2026-07-22 01:31:11",
+        "price": 398000000,
+        "current_value": 101000000,
+        "value_change_pct": 1.2,
+        "range_low": 98900000,
+        "range_high": 103000000,
+        "buy_now_price": 0,
+        "sell_now_price": 100000000
       }
     ]
   },
@@ -367,13 +705,26 @@
     "name": "Cafu",
     "ovr": 109,
     "position": "RB",
-    "total_stats": 2925,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 480000000
+        "date": "2026-07-22 01:17:14",
+        "price": 480000000,
+        "current_value": 155000000,
+        "value_change_pct": -0.64,
+        "range_low": 151000000,
+        "range_high": 158000000,
+        "buy_now_price": 151000000,
+        "sell_now_price": 158000000
+      },
+      {
+        "date": "2026-07-22 01:31:11",
+        "price": 480000000,
+        "current_value": 155000000,
+        "value_change_pct": -0.64,
+        "range_low": 151000000,
+        "range_high": 158000000,
+        "buy_now_price": 0,
+        "sell_now_price": 158000000
       }
     ]
   },
@@ -381,13 +732,26 @@
     "name": "King",
     "ovr": 110,
     "position": "CB",
-    "total_stats": 2767,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 307000000
+        "date": "2026-07-22 01:17:14",
+        "price": 307000000,
+        "current_value": 196000000,
+        "value_change_pct": 0,
+        "range_low": 192000000,
+        "range_high": 199000000,
+        "buy_now_price": 0,
+        "sell_now_price": 196000000
+      },
+      {
+        "date": "2026-07-22 01:31:12",
+        "price": 307000000,
+        "current_value": 196000000,
+        "value_change_pct": 0,
+        "range_low": 192000000,
+        "range_high": 199000000,
+        "buy_now_price": 0,
+        "sell_now_price": 196000000
       }
     ]
   },
@@ -395,13 +759,26 @@
     "name": "Lampard",
     "ovr": 110,
     "position": "CM",
-    "total_stats": 3077,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 256000000
+        "date": "2026-07-22 01:17:15",
+        "price": 256000000,
+        "current_value": 372000000,
+        "value_change_pct": 0,
+        "range_low": 364000000,
+        "range_high": 379000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:13",
+        "price": 256000000,
+        "current_value": 372000000,
+        "value_change_pct": 0,
+        "range_low": 364000000,
+        "range_high": 379000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -409,13 +786,26 @@
     "name": "Garrincha",
     "ovr": 111,
     "position": "RW",
-    "total_stats": 2940,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 496000000
+        "date": "2026-07-22 01:17:16",
+        "price": 496000000,
+        "current_value": 822000000,
+        "value_change_pct": 0,
+        "range_low": 805000000,
+        "range_high": 838000000,
+        "buy_now_price": 0,
+        "sell_now_price": 810000000
+      },
+      {
+        "date": "2026-07-22 01:31:14",
+        "price": 496000000,
+        "current_value": 822000000,
+        "value_change_pct": 0,
+        "range_low": 805000000,
+        "range_high": 838000000,
+        "buy_now_price": 0,
+        "sell_now_price": 810000000
       }
     ]
   },
@@ -423,13 +813,26 @@
     "name": "Kompany",
     "ovr": 111,
     "position": "CB",
-    "total_stats": 2868,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 546000000
+        "date": "2026-07-22 01:17:16",
+        "price": 546000000,
+        "current_value": 297000000,
+        "value_change_pct": 1.71,
+        "range_low": 291000000,
+        "range_high": 302000000,
+        "buy_now_price": 287000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:14",
+        "price": 546000000,
+        "current_value": 297000000,
+        "value_change_pct": 1.71,
+        "range_low": 291000000,
+        "range_high": 302000000,
+        "buy_now_price": 287000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -437,13 +840,26 @@
     "name": "Buffon",
     "ovr": 111,
     "position": "GK",
-    "total_stats": 2349,
-    "foot": "2\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:17:17",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:15",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -451,13 +867,26 @@
     "name": "Casillas",
     "ovr": 107,
     "position": "GK",
-    "total_stats": 2385,
-    "foot": "3\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 326000000
+        "date": "2026-07-22 01:17:18",
+        "price": 326000000,
+        "current_value": 150000000,
+        "value_change_pct": 1.35,
+        "range_low": 147000000,
+        "range_high": 153000000,
+        "buy_now_price": 153000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:16",
+        "price": 326000000,
+        "current_value": 150000000,
+        "value_change_pct": 1.35,
+        "range_low": 147000000,
+        "range_high": 153000000,
+        "buy_now_price": 153000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -465,13 +894,26 @@
     "name": "van der Sar",
     "ovr": 109,
     "position": "GK",
-    "total_stats": 2150,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 500000000
+        "date": "2026-07-22 01:17:19",
+        "price": 500000000,
+        "current_value": 344000000,
+        "value_change_pct": 1.78,
+        "range_low": 337000000,
+        "range_high": 350000000,
+        "buy_now_price": 344000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:16",
+        "price": 500000000,
+        "current_value": 344000000,
+        "value_change_pct": 1.78,
+        "range_low": 337000000,
+        "range_high": 350000000,
+        "buy_now_price": 344000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -479,13 +921,26 @@
     "name": "Cruyff",
     "ovr": 107,
     "position": "ST",
-    "total_stats": 2848,
-    "foot": "5\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 129000000
+        "date": "2026-07-22 01:17:19",
+        "price": 129000000,
+        "current_value": 123000000,
+        "value_change_pct": -0.81,
+        "range_low": 120000000,
+        "range_high": 125000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:17",
+        "price": 129000000,
+        "current_value": 123000000,
+        "value_change_pct": -0.81,
+        "range_low": 120000000,
+        "range_high": 125000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -493,13 +948,26 @@
     "name": "Maldini",
     "ovr": 107,
     "position": "CB",
-    "total_stats": 2656,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 213000000
+        "date": "2026-07-22 01:17:20",
+        "price": 213000000,
+        "current_value": 157000000,
+        "value_change_pct": -2.48,
+        "range_low": 153000000,
+        "range_high": 160000000,
+        "buy_now_price": 0,
+        "sell_now_price": 153000000
+      },
+      {
+        "date": "2026-07-22 01:31:18",
+        "price": 213000000,
+        "current_value": 157000000,
+        "value_change_pct": -2.48,
+        "range_low": 153000000,
+        "range_high": 160000000,
+        "buy_now_price": 153000000,
+        "sell_now_price": 155000000
       }
     ]
   },
@@ -507,13 +975,26 @@
     "name": "Schmeichel",
     "ovr": 107,
     "position": "GK",
-    "total_stats": 2329,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 271000000
+        "date": "2026-07-22 01:17:21",
+        "price": 271000000,
+        "current_value": 107000000,
+        "value_change_pct": 1.9,
+        "range_low": 104000000,
+        "range_high": 109000000,
+        "buy_now_price": 109000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:19",
+        "price": 271000000,
+        "current_value": 107000000,
+        "value_change_pct": 1.9,
+        "range_low": 104000000,
+        "range_high": 109000000,
+        "buy_now_price": 109000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -521,13 +1002,26 @@
     "name": "Kanu",
     "ovr": 111,
     "position": "CAM",
-    "total_stats": 2960,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 172000000
+        "date": "2026-07-22 01:17:21",
+        "price": 172000000,
+        "current_value": 92300000,
+        "value_change_pct": 0,
+        "range_low": 90400000,
+        "range_high": 94100000,
+        "buy_now_price": 0,
+        "sell_now_price": 90400000
+      },
+      {
+        "date": "2026-07-22 01:31:19",
+        "price": 172000000,
+        "current_value": 92300000,
+        "value_change_pct": 0,
+        "range_low": 90400000,
+        "range_high": 94100000,
+        "buy_now_price": 0,
+        "sell_now_price": 90400000
       }
     ]
   },
@@ -535,13 +1029,26 @@
     "name": "Koller",
     "ovr": 111,
     "position": "GK",
-    "total_stats": 2186,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:17:22",
+        "price": 1000000000,
+        "current_value": 816000000,
+        "value_change_pct": 0,
+        "range_low": 799000000,
+        "range_high": 832000000,
+        "buy_now_price": 0,
+        "sell_now_price": 804000000
+      },
+      {
+        "date": "2026-07-22 01:31:20",
+        "price": 1000000000,
+        "current_value": 816000000,
+        "value_change_pct": 0,
+        "range_low": 799000000,
+        "range_high": 832000000,
+        "buy_now_price": 0,
+        "sell_now_price": 804000000
       }
     ]
   },
@@ -549,13 +1056,26 @@
     "name": "Crespo",
     "ovr": 111,
     "position": "ST",
-    "total_stats": 2983,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 226000000
+        "date": "2026-07-22 01:17:23",
+        "price": 226000000,
+        "current_value": 332000000,
+        "value_change_pct": 1.84,
+        "range_low": 325000000,
+        "range_high": 338000000,
+        "buy_now_price": 332000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:21",
+        "price": 226000000,
+        "current_value": 332000000,
+        "value_change_pct": 1.84,
+        "range_low": 325000000,
+        "range_high": 338000000,
+        "buy_now_price": 332000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -563,13 +1083,26 @@
     "name": "Vialli",
     "ovr": 114,
     "position": "ST",
-    "total_stats": 2948,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 626000000
+        "date": "2026-07-22 01:17:24",
+        "price": 626000000,
+        "current_value": 569000000,
+        "value_change_pct": 0,
+        "range_low": 557000000,
+        "range_high": 580000000,
+        "buy_now_price": 0,
+        "sell_now_price": 561000000
+      },
+      {
+        "date": "2026-07-22 01:31:21",
+        "price": 626000000,
+        "current_value": 569000000,
+        "value_change_pct": 0,
+        "range_low": 557000000,
+        "range_high": 580000000,
+        "buy_now_price": 0,
+        "sell_now_price": 561000000
       }
     ]
   },
@@ -577,13 +1110,26 @@
     "name": "Best",
     "ovr": 111,
     "position": "LW",
-    "total_stats": 3022,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 522000000
+        "date": "2026-07-22 01:17:24",
+        "price": 522000000,
+        "current_value": 561000000,
+        "value_change_pct": 2,
+        "range_low": 549000000,
+        "range_high": 572000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:22",
+        "price": 522000000,
+        "current_value": 561000000,
+        "value_change_pct": 2,
+        "range_low": 549000000,
+        "range_high": 572000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -591,13 +1137,26 @@
     "name": "Di Natale",
     "ovr": 113,
     "position": "ST",
-    "total_stats": 3137,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 513000000
+        "date": "2026-07-22 01:17:25",
+        "price": 513000000,
+        "current_value": 476000000,
+        "value_change_pct": 0,
+        "range_low": 466000000,
+        "range_high": 485000000,
+        "buy_now_price": 0,
+        "sell_now_price": 485000000
+      },
+      {
+        "date": "2026-07-22 01:31:23",
+        "price": 513000000,
+        "current_value": 476000000,
+        "value_change_pct": 0,
+        "range_low": 466000000,
+        "range_high": 485000000,
+        "buy_now_price": 0,
+        "sell_now_price": 485000000
       }
     ]
   },
@@ -605,13 +1164,26 @@
     "name": "Kewell",
     "ovr": 113,
     "position": "LW",
-    "total_stats": 3092,
-    "foot": "3\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 570000000
+        "date": "2026-07-22 01:17:26",
+        "price": 570000000,
+        "current_value": 395000000,
+        "value_change_pct": 0,
+        "range_low": 387000000,
+        "range_high": 402000000,
+        "buy_now_price": 395000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:24",
+        "price": 570000000,
+        "current_value": 395000000,
+        "value_change_pct": 0,
+        "range_low": 387000000,
+        "range_high": 402000000,
+        "buy_now_price": 395000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -619,13 +1191,26 @@
     "name": "Bale",
     "ovr": 109,
     "position": "ST",
-    "total_stats": 3075,
-    "foot": "4\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 323000000
+        "date": "2026-07-22 01:17:27",
+        "price": 323000000,
+        "current_value": 250000000,
+        "value_change_pct": 1.63,
+        "range_low": 245000000,
+        "range_high": 255000000,
+        "buy_now_price": 250000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:24",
+        "price": 323000000,
+        "current_value": 250000000,
+        "value_change_pct": 1.63,
+        "range_low": 245000000,
+        "range_high": 255000000,
+        "buy_now_price": 250000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -633,13 +1218,26 @@
     "name": "Del Piero",
     "ovr": 109,
     "position": "CAM",
-    "total_stats": 2916,
-    "foot": "5\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 124000000
+        "date": "2026-07-22 01:17:27",
+        "price": 124000000,
+        "current_value": 51600000,
+        "value_change_pct": 1.98,
+        "range_low": 50500000,
+        "range_high": 52600000,
+        "buy_now_price": 52600000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:25",
+        "price": 124000000,
+        "current_value": 51600000,
+        "value_change_pct": 1.98,
+        "range_low": 50500000,
+        "range_high": 52600000,
+        "buy_now_price": 52600000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -647,13 +1245,26 @@
     "name": "Ginola",
     "ovr": 111,
     "position": "ST",
-    "total_stats": 3062,
-    "foot": "5\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 925000000
+        "date": "2026-07-22 01:17:28",
+        "price": 925000000,
+        "current_value": 990000000,
+        "value_change_pct": 0,
+        "range_low": 970000000,
+        "range_high": 1000000000,
+        "buy_now_price": 990000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:26",
+        "price": 925000000,
+        "current_value": 990000000,
+        "value_change_pct": 0,
+        "range_low": 970000000,
+        "range_high": 1000000000,
+        "buy_now_price": 990000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -661,13 +1272,26 @@
     "name": "Drogba",
     "ovr": 111,
     "position": "ST",
-    "total_stats": 2939,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 449000000
+        "date": "2026-07-22 01:17:29",
+        "price": 449000000,
+        "current_value": 580000000,
+        "value_change_pct": 1.93,
+        "range_low": 568000000,
+        "range_high": 591000000,
+        "buy_now_price": 569000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:26",
+        "price": 449000000,
+        "current_value": 580000000,
+        "value_change_pct": 1.93,
+        "range_low": 568000000,
+        "range_high": 591000000,
+        "buy_now_price": 569000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -675,13 +1299,26 @@
     "name": "Dudek",
     "ovr": 110,
     "position": "GK",
-    "total_stats": 2339,
-    "foot": "3\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 500000000
+        "date": "2026-07-22 01:17:29",
+        "price": 500000000,
+        "current_value": 500000000,
+        "value_change_pct": 0,
+        "range_low": 490000000,
+        "range_high": 510000000,
+        "buy_now_price": 510000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:27",
+        "price": 500000000,
+        "current_value": 500000000,
+        "value_change_pct": 0,
+        "range_low": 490000000,
+        "range_high": 510000000,
+        "buy_now_price": 510000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -689,13 +1326,26 @@
     "name": "Crouch",
     "ovr": 111,
     "position": "CB",
-    "total_stats": 2809,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 521000000
+        "date": "2026-07-22 01:17:30",
+        "price": 521000000,
+        "current_value": 316000000,
+        "value_change_pct": 1.94,
+        "range_low": 309000000,
+        "range_high": 322000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:28",
+        "price": 521000000,
+        "current_value": 316000000,
+        "value_change_pct": 1.94,
+        "range_low": 309000000,
+        "range_high": 322000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -703,13 +1353,26 @@
     "name": "Zanetti",
     "ovr": 111,
     "position": "RB",
-    "total_stats": 3036,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:17:31",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:29",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -717,13 +1380,26 @@
     "name": "Cahill",
     "ovr": 109,
     "position": "ST",
-    "total_stats": 3035,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 334000000
+        "date": "2026-07-22 01:17:32",
+        "price": 334000000,
+        "current_value": 308000000,
+        "value_change_pct": 0,
+        "range_low": 301000000,
+        "range_high": 314000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:29",
+        "price": 334000000,
+        "current_value": 308000000,
+        "value_change_pct": 0,
+        "range_low": 301000000,
+        "range_high": 314000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -731,13 +1407,26 @@
     "name": "Kuyt",
     "ovr": 110,
     "position": "RW",
-    "total_stats": 3098,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 177000000
+        "date": "2026-07-22 01:17:32",
+        "price": 177000000,
+        "current_value": 294000000,
+        "value_change_pct": 0,
+        "range_low": 288000000,
+        "range_high": 299000000,
+        "buy_now_price": 294000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:30",
+        "price": 177000000,
+        "current_value": 294000000,
+        "value_change_pct": 0,
+        "range_low": 288000000,
+        "range_high": 299000000,
+        "buy_now_price": 294000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -745,13 +1434,26 @@
     "name": "Ver\u00f3n",
     "ovr": 110,
     "position": "CM",
-    "total_stats": 3073,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 147000000
+        "date": "2026-07-22 01:17:33",
+        "price": 147000000,
+        "current_value": 167000000,
+        "value_change_pct": 0,
+        "range_low": 163000000,
+        "range_high": 170000000,
+        "buy_now_price": 161000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:31",
+        "price": 147000000,
+        "current_value": 167000000,
+        "value_change_pct": 0,
+        "range_low": 163000000,
+        "range_high": 170000000,
+        "buy_now_price": 161000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -759,13 +1461,26 @@
     "name": "\u010cech",
     "ovr": 111,
     "position": "GK",
-    "total_stats": 2359,
-    "foot": "3\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:17:34",
+        "price": 1000000000,
+        "current_value": 782000000,
+        "value_change_pct": 0,
+        "range_low": 766000000,
+        "range_high": 797000000,
+        "buy_now_price": 767000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:32",
+        "price": 1000000000,
+        "current_value": 782000000,
+        "value_change_pct": 0,
+        "range_low": 766000000,
+        "range_high": 797000000,
+        "buy_now_price": 767000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -773,13 +1488,26 @@
     "name": "Marcelo",
     "ovr": 111,
     "position": "LB",
-    "total_stats": 3136,
-    "foot": "4\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:17:34",
+        "price": 1000000000,
+        "current_value": 980000000,
+        "value_change_pct": -2,
+        "range_low": 960000000,
+        "range_high": 999000000,
+        "buy_now_price": 999000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:32",
+        "price": 1000000000,
+        "current_value": 980000000,
+        "value_change_pct": -2,
+        "range_low": 960000000,
+        "range_high": 999000000,
+        "buy_now_price": 999000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -787,13 +1515,26 @@
     "name": "\u010cech",
     "ovr": 107,
     "position": "GK",
-    "total_stats": 2163,
-    "foot": "3\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 262000000
+        "date": "2026-07-22 01:17:35",
+        "price": 262000000,
+        "current_value": 100000000,
+        "value_change_pct": 0,
+        "range_low": 98000000,
+        "range_high": 102000000,
+        "buy_now_price": 0,
+        "sell_now_price": 98000000
+      },
+      {
+        "date": "2026-07-22 01:31:33",
+        "price": 262000000,
+        "current_value": 100000000,
+        "value_change_pct": 0,
+        "range_low": 98000000,
+        "range_high": 102000000,
+        "buy_now_price": 0,
+        "sell_now_price": 98000000
       }
     ]
   },
@@ -801,13 +1542,26 @@
     "name": "Rivaldo",
     "ovr": 112,
     "position": "LW",
-    "total_stats": 3037,
-    "foot": "4\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 402000000
+        "date": "2026-07-22 01:17:36",
+        "price": 402000000,
+        "current_value": 285000000,
+        "value_change_pct": -2.06,
+        "range_low": 279000000,
+        "range_high": 290000000,
+        "buy_now_price": 0,
+        "sell_now_price": 279000000
+      },
+      {
+        "date": "2026-07-22 01:31:34",
+        "price": 402000000,
+        "current_value": 285000000,
+        "value_change_pct": -2.06,
+        "range_low": 279000000,
+        "range_high": 290000000,
+        "buy_now_price": 0,
+        "sell_now_price": 284000000
       }
     ]
   },
@@ -815,13 +1569,26 @@
     "name": "Francescoli",
     "ovr": 112,
     "position": "CAM",
-    "total_stats": 3006,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 973000000
+        "date": "2026-07-22 01:17:37",
+        "price": 973000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:34",
+        "price": 973000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -829,13 +1596,26 @@
     "name": "Berbatov",
     "ovr": 111,
     "position": "ST",
-    "total_stats": 2907,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 191000000
+        "date": "2026-07-22 01:17:37",
+        "price": 191000000,
+        "current_value": 137000000,
+        "value_change_pct": 0,
+        "range_low": 134000000,
+        "range_high": 139000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:35",
+        "price": 191000000,
+        "current_value": 137000000,
+        "value_change_pct": 0,
+        "range_low": 134000000,
+        "range_high": 139000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -843,13 +1623,26 @@
     "name": "Maradona",
     "ovr": 107,
     "position": "CAM",
-    "total_stats": 2907,
-    "foot": "4\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 109000000
+        "date": "2026-07-22 01:17:38",
+        "price": 109000000,
+        "current_value": 180000000,
+        "value_change_pct": 1.69,
+        "range_low": 176000000,
+        "range_high": 183000000,
+        "buy_now_price": 183000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:36",
+        "price": 109000000,
+        "current_value": 180000000,
+        "value_change_pct": 1.69,
+        "range_low": 176000000,
+        "range_high": 183000000,
+        "buy_now_price": 183000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -857,13 +1650,26 @@
     "name": "Lahm",
     "ovr": 111,
     "position": "LB",
-    "total_stats": 3117,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:17:39",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:37",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -871,13 +1677,26 @@
     "name": "Bergkamp",
     "ovr": 111,
     "position": "CAM",
-    "total_stats": 2917,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 405000000
+        "date": "2026-07-22 01:17:39",
+        "price": 405000000,
+        "current_value": 449000000,
+        "value_change_pct": 0,
+        "range_low": 440000000,
+        "range_high": 457000000,
+        "buy_now_price": 441000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:37",
+        "price": 405000000,
+        "current_value": 449000000,
+        "value_change_pct": 0,
+        "range_low": 440000000,
+        "range_high": 457000000,
+        "buy_now_price": 441000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -885,13 +1704,26 @@
     "name": "Buffon",
     "ovr": 107,
     "position": "GK",
-    "total_stats": 2175,
-    "foot": "2\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 450000000
+        "date": "2026-07-22 01:17:40",
+        "price": 450000000,
+        "current_value": 303000000,
+        "value_change_pct": 0.33,
+        "range_low": 296000000,
+        "range_high": 309000000,
+        "buy_now_price": 309000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:38",
+        "price": 450000000,
+        "current_value": 303000000,
+        "value_change_pct": 0.33,
+        "range_low": 296000000,
+        "range_high": 309000000,
+        "buy_now_price": 309000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -899,13 +1731,26 @@
     "name": "Bale",
     "ovr": 107,
     "position": "RW",
-    "total_stats": 2909,
-    "foot": "4\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 203000000
+        "date": "2026-07-22 01:17:41",
+        "price": 203000000,
+        "current_value": 188000000,
+        "value_change_pct": 1.62,
+        "range_low": 184000000,
+        "range_high": 191000000,
+        "buy_now_price": 188000000,
+        "sell_now_price": 189000000
+      },
+      {
+        "date": "2026-07-22 01:31:39",
+        "price": 203000000,
+        "current_value": 188000000,
+        "value_change_pct": 1.62,
+        "range_low": 184000000,
+        "range_high": 191000000,
+        "buy_now_price": 188000000,
+        "sell_now_price": 189000000
       }
     ]
   },
@@ -913,13 +1758,26 @@
     "name": "Lu\u00eds Figo",
     "ovr": 112,
     "position": "RW",
-    "total_stats": 3006,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 950000000
+        "date": "2026-07-22 01:17:42",
+        "price": 950000000,
+        "current_value": 965000000,
+        "value_change_pct": 1.26,
+        "range_low": 945000000,
+        "range_high": 984000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:39",
+        "price": 950000000,
+        "current_value": 965000000,
+        "value_change_pct": 1.26,
+        "range_low": 945000000,
+        "range_high": 984000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -927,13 +1785,26 @@
     "name": "Rib\u00e9ry",
     "ovr": 111,
     "position": "LW",
-    "total_stats": 2927,
-    "foot": "5\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 250000000
+        "date": "2026-07-22 01:17:42",
+        "price": 250000000,
+        "current_value": 146000000,
+        "value_change_pct": 1.39,
+        "range_low": 143000000,
+        "range_high": 148000000,
+        "buy_now_price": 146000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:40",
+        "price": 250000000,
+        "current_value": 146000000,
+        "value_change_pct": 1.39,
+        "range_low": 143000000,
+        "range_high": 148000000,
+        "buy_now_price": 146000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -941,13 +1812,26 @@
     "name": "Crouch",
     "ovr": 114,
     "position": "ST",
-    "total_stats": 3063,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 861000000
+        "date": "2026-07-22 01:17:43",
+        "price": 861000000,
+        "current_value": 1110000000,
+        "value_change_pct": -0.89,
+        "range_low": 1080000000,
+        "range_high": 1130000000,
+        "buy_now_price": 0,
+        "sell_now_price": 1090000000
+      },
+      {
+        "date": "2026-07-22 01:31:41",
+        "price": 861000000,
+        "current_value": 1110000000,
+        "value_change_pct": -0.89,
+        "range_low": 1080000000,
+        "range_high": 1130000000,
+        "buy_now_price": 0,
+        "sell_now_price": 1080000000
       }
     ]
   },
@@ -955,13 +1839,26 @@
     "name": "Petit",
     "ovr": 112,
     "position": "CDM",
-    "total_stats": 3157,
-    "foot": "3\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 727000000
+        "date": "2026-07-22 01:17:44",
+        "price": 727000000,
+        "current_value": 391000000,
+        "value_change_pct": 0,
+        "range_low": 383000000,
+        "range_high": 398000000,
+        "buy_now_price": 390000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:41",
+        "price": 727000000,
+        "current_value": 391000000,
+        "value_change_pct": 0,
+        "range_low": 383000000,
+        "range_high": 398000000,
+        "buy_now_price": 390000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -969,13 +1866,26 @@
     "name": "Fellaini",
     "ovr": 113,
     "position": "CM",
-    "total_stats": 3366,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 725000000
+        "date": "2026-07-22 01:17:44",
+        "price": 725000000,
+        "current_value": 452000000,
+        "value_change_pct": 0,
+        "range_low": 442000000,
+        "range_high": 461000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:42",
+        "price": 725000000,
+        "current_value": 452000000,
+        "value_change_pct": 0,
+        "range_low": 442000000,
+        "range_high": 461000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -983,13 +1893,26 @@
     "name": "Milito",
     "ovr": 112,
     "position": "ST",
-    "total_stats": 2964,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 947000000
+        "date": "2026-07-22 01:17:45",
+        "price": 947000000,
+        "current_value": 980000000,
+        "value_change_pct": -2,
+        "range_low": 960000000,
+        "range_high": 999000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:43",
+        "price": 947000000,
+        "current_value": 980000000,
+        "value_change_pct": -2,
+        "range_low": 960000000,
+        "range_high": 999000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -997,13 +1920,26 @@
     "name": "Laudrup",
     "ovr": 112,
     "position": "RB",
-    "total_stats": 3043,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:17:46",
+        "price": 1000000000,
+        "current_value": 662000000,
+        "value_change_pct": 0,
+        "range_low": 648000000,
+        "range_high": 675000000,
+        "buy_now_price": 0,
+        "sell_now_price": 652000000
+      },
+      {
+        "date": "2026-07-22 01:31:44",
+        "price": 1000000000,
+        "current_value": 662000000,
+        "value_change_pct": 0,
+        "range_low": 648000000,
+        "range_high": 675000000,
+        "buy_now_price": 0,
+        "sell_now_price": 652000000
       }
     ]
   },
@@ -1011,13 +1947,26 @@
     "name": "Cha Bum Kun",
     "ovr": 112,
     "position": "RW",
-    "total_stats": 3108,
-    "foot": "5\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 950000000
+        "date": "2026-07-22 01:17:47",
+        "price": 950000000,
+        "current_value": 774000000,
+        "value_change_pct": 0,
+        "range_low": 758000000,
+        "range_high": 789000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:44",
+        "price": 950000000,
+        "current_value": 774000000,
+        "value_change_pct": 0,
+        "range_low": 758000000,
+        "range_high": 789000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1025,13 +1974,26 @@
     "name": "Mascherano",
     "ovr": 112,
     "position": "CB",
-    "total_stats": 2974,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:17:47",
+        "price": 1000000000,
+        "current_value": 933000000,
+        "value_change_pct": 0,
+        "range_low": 914000000,
+        "range_high": 951000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:45",
+        "price": 1000000000,
+        "current_value": 933000000,
+        "value_change_pct": 0,
+        "range_low": 914000000,
+        "range_high": 951000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1039,13 +2001,26 @@
     "name": "Matuidi",
     "ovr": 112,
     "position": "CDM",
-    "total_stats": 3095,
-    "foot": "3\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 672000000
+        "date": "2026-07-22 01:17:48",
+        "price": 672000000,
+        "current_value": 446000000,
+        "value_change_pct": 0,
+        "range_low": 437000000,
+        "range_high": 454000000,
+        "buy_now_price": 0,
+        "sell_now_price": 440000000
+      },
+      {
+        "date": "2026-07-22 01:31:46",
+        "price": 672000000,
+        "current_value": 446000000,
+        "value_change_pct": 0,
+        "range_low": 437000000,
+        "range_high": 454000000,
+        "buy_now_price": 0,
+        "sell_now_price": 440000000
       }
     ]
   },
@@ -1053,13 +2028,26 @@
     "name": "Beasley",
     "ovr": 113,
     "position": "LM",
-    "total_stats": 3170,
-    "foot": "4\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 989000000
+        "date": "2026-07-22 01:17:49",
+        "price": 989000000,
+        "current_value": 765000000,
+        "value_change_pct": 0,
+        "range_low": 749000000,
+        "range_high": 780000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:46",
+        "price": 989000000,
+        "current_value": 765000000,
+        "value_change_pct": 0,
+        "range_low": 749000000,
+        "range_high": 780000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1067,13 +2055,26 @@
     "name": "C\u00f3rdoba",
     "ovr": 112,
     "position": "CB",
-    "total_stats": 3014,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:17:49",
+        "price": 1000000000,
+        "current_value": 391000000,
+        "value_change_pct": 0,
+        "range_low": 383000000,
+        "range_high": 398000000,
+        "buy_now_price": 0,
+        "sell_now_price": 386000000
+      },
+      {
+        "date": "2026-07-22 01:31:47",
+        "price": 1000000000,
+        "current_value": 391000000,
+        "value_change_pct": 0,
+        "range_low": 383000000,
+        "range_high": 398000000,
+        "buy_now_price": 0,
+        "sell_now_price": 386000000
       }
     ]
   },
@@ -1081,13 +2082,26 @@
     "name": "T\u00e9vez",
     "ovr": 113,
     "position": "ST",
-    "total_stats": 3111,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 454000000
+        "date": "2026-07-22 01:17:50",
+        "price": 454000000,
+        "current_value": 504000000,
+        "value_change_pct": -2.14,
+        "range_low": 493000000,
+        "range_high": 514000000,
+        "buy_now_price": 497000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:48",
+        "price": 454000000,
+        "current_value": 500000000,
+        "value_change_pct": -0.79,
+        "range_low": 490000000,
+        "range_high": 510000000,
+        "buy_now_price": 497000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1095,13 +2109,26 @@
     "name": "Fernando Hierro",
     "ovr": 109,
     "position": "CB",
-    "total_stats": 2904,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 222000000
+        "date": "2026-07-22 01:17:51",
+        "price": 222000000,
+        "current_value": 53100000,
+        "value_change_pct": -0.19,
+        "range_low": 52000000,
+        "range_high": 54100000,
+        "buy_now_price": 0,
+        "sell_now_price": 54100000
+      },
+      {
+        "date": "2026-07-22 01:31:48",
+        "price": 222000000,
+        "current_value": 53100000,
+        "value_change_pct": -0.19,
+        "range_low": 52000000,
+        "range_high": 54100000,
+        "buy_now_price": 0,
+        "sell_now_price": 54100000
       }
     ]
   },
@@ -1109,13 +2136,26 @@
     "name": "Riise",
     "ovr": 112,
     "position": "LB",
-    "total_stats": 3305,
-    "foot": "3\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:17:52",
+        "price": 1000000000,
+        "current_value": 656000000,
+        "value_change_pct": 0,
+        "range_low": 642000000,
+        "range_high": 669000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:49",
+        "price": 1000000000,
+        "current_value": 656000000,
+        "value_change_pct": 0,
+        "range_low": 642000000,
+        "range_high": 669000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1123,13 +2163,26 @@
     "name": "Charlton",
     "ovr": 111,
     "position": "CAM",
-    "total_stats": 3058,
-    "foot": "5\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 606000000
+        "date": "2026-07-22 01:17:52",
+        "price": 606000000,
+        "current_value": 504000000,
+        "value_change_pct": 0,
+        "range_low": 493000000,
+        "range_high": 514000000,
+        "buy_now_price": 0,
+        "sell_now_price": 496000000
+      },
+      {
+        "date": "2026-07-22 01:31:50",
+        "price": 606000000,
+        "current_value": 504000000,
+        "value_change_pct": 0,
+        "range_low": 493000000,
+        "range_high": 514000000,
+        "buy_now_price": 0,
+        "sell_now_price": 496000000
       }
     ]
   },
@@ -1137,13 +2190,26 @@
     "name": "Pir\u00e8s",
     "ovr": 112,
     "position": "LM",
-    "total_stats": 2977,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 878000000
+        "date": "2026-07-22 01:17:53",
+        "price": 878000000,
+        "current_value": 489000000,
+        "value_change_pct": 0,
+        "range_low": 479000000,
+        "range_high": 498000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:51",
+        "price": 878000000,
+        "current_value": 489000000,
+        "value_change_pct": 0,
+        "range_low": 479000000,
+        "range_high": 498000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1151,13 +2217,26 @@
     "name": "S\u00f3crates",
     "ovr": 112,
     "position": "CM",
-    "total_stats": 3250,
-    "foot": "5\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 941000000
+        "date": "2026-07-22 01:17:54",
+        "price": 941000000,
+        "current_value": 729000000,
+        "value_change_pct": 0,
+        "range_low": 714000000,
+        "range_high": 743000000,
+        "buy_now_price": 0,
+        "sell_now_price": 719000000
+      },
+      {
+        "date": "2026-07-22 01:31:51",
+        "price": 941000000,
+        "current_value": 729000000,
+        "value_change_pct": 0,
+        "range_low": 714000000,
+        "range_high": 743000000,
+        "buy_now_price": 0,
+        "sell_now_price": 719000000
       }
     ]
   },
@@ -1165,13 +2244,26 @@
     "name": "Wright",
     "ovr": 110,
     "position": "ST",
-    "total_stats": 2841,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 494000000
+        "date": "2026-07-22 01:17:54",
+        "price": 494000000,
+        "current_value": 470000000,
+        "value_change_pct": 0,
+        "range_low": 460000000,
+        "range_high": 479000000,
+        "buy_now_price": 480000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:52",
+        "price": 494000000,
+        "current_value": 470000000,
+        "value_change_pct": 0,
+        "range_low": 460000000,
+        "range_high": 479000000,
+        "buy_now_price": 480000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1179,13 +2271,26 @@
     "name": "Owen",
     "ovr": 113,
     "position": "ST",
-    "total_stats": 2937,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 749000000
+        "date": "2026-07-22 01:17:55",
+        "price": 749000000,
+        "current_value": 735000000,
+        "value_change_pct": 0,
+        "range_low": 720000000,
+        "range_high": 749000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:53",
+        "price": 749000000,
+        "current_value": 735000000,
+        "value_change_pct": 0,
+        "range_low": 720000000,
+        "range_high": 749000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1193,13 +2298,26 @@
     "name": "Mascherano",
     "ovr": 114,
     "position": "CDM",
-    "total_stats": 3134,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 803000000
+        "date": "2026-07-22 01:17:56",
+        "price": 803000000,
+        "current_value": 672000000,
+        "value_change_pct": 0,
+        "range_low": 658000000,
+        "range_high": 685000000,
+        "buy_now_price": 672000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:53",
+        "price": 803000000,
+        "current_value": 672000000,
+        "value_change_pct": 0,
+        "range_low": 658000000,
+        "range_high": 685000000,
+        "buy_now_price": 672000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1207,13 +2325,26 @@
     "name": "Cahill",
     "ovr": 112,
     "position": "CM",
-    "total_stats": 3324,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 290000000
+        "date": "2026-07-22 01:17:56",
+        "price": 290000000,
+        "current_value": 168000000,
+        "value_change_pct": -2.33,
+        "range_low": 164000000,
+        "range_high": 171000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:54",
+        "price": 290000000,
+        "current_value": 169000000,
+        "value_change_pct": 0.6,
+        "range_low": 165000000,
+        "range_high": 172000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1221,13 +2352,26 @@
     "name": "Bierhoff",
     "ovr": 110,
     "position": "ST",
-    "total_stats": 2756,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 151000000
+        "date": "2026-07-22 01:17:57",
+        "price": 151000000,
+        "current_value": 474000000,
+        "value_change_pct": -0.63,
+        "range_low": 464000000,
+        "range_high": 483000000,
+        "buy_now_price": 0,
+        "sell_now_price": 467000000
+      },
+      {
+        "date": "2026-07-22 01:31:55",
+        "price": 151000000,
+        "current_value": 474000000,
+        "value_change_pct": -0.63,
+        "range_low": 464000000,
+        "range_high": 483000000,
+        "buy_now_price": 0,
+        "sell_now_price": 467000000
       }
     ]
   },
@@ -1235,13 +2379,26 @@
     "name": "Z\u00e9 Roberto",
     "ovr": 111,
     "position": "LM",
-    "total_stats": 3238,
-    "foot": "4\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:17:58",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:56",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1249,13 +2406,26 @@
     "name": "Lizarazu",
     "ovr": 110,
     "position": "LB",
-    "total_stats": 2936,
-    "foot": "3\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 469000000
+        "date": "2026-07-22 01:17:59",
+        "price": 469000000,
+        "current_value": 207000000,
+        "value_change_pct": 0,
+        "range_low": 202000000,
+        "range_high": 211000000,
+        "buy_now_price": 0,
+        "sell_now_price": 205000000
+      },
+      {
+        "date": "2026-07-22 01:31:56",
+        "price": 469000000,
+        "current_value": 207000000,
+        "value_change_pct": 0,
+        "range_low": 202000000,
+        "range_high": 211000000,
+        "buy_now_price": 0,
+        "sell_now_price": 205000000
       }
     ]
   },
@@ -1263,13 +2433,26 @@
     "name": "Carlos Alberto",
     "ovr": 111,
     "position": "RB",
-    "total_stats": 2976,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:17:59",
+        "price": 1000000000,
+        "current_value": 516000000,
+        "value_change_pct": 0,
+        "range_low": 505000000,
+        "range_high": 526000000,
+        "buy_now_price": 516000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:57",
+        "price": 1000000000,
+        "current_value": 516000000,
+        "value_change_pct": 0,
+        "range_low": 505000000,
+        "range_high": 526000000,
+        "buy_now_price": 516000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1277,13 +2460,26 @@
     "name": "Rosick\u00fd",
     "ovr": 113,
     "position": "CAM",
-    "total_stats": 3068,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 627000000
+        "date": "2026-07-22 01:18:00",
+        "price": 627000000,
+        "current_value": 294000000,
+        "value_change_pct": 0,
+        "range_low": 288000000,
+        "range_high": 299000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:58",
+        "price": 627000000,
+        "current_value": 294000000,
+        "value_change_pct": 0,
+        "range_low": 288000000,
+        "range_high": 299000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1291,13 +2487,26 @@
     "name": "Best",
     "ovr": 112,
     "position": "RW",
-    "total_stats": 3125,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 877000000
+        "date": "2026-07-22 01:18:01",
+        "price": 877000000,
+        "current_value": 714000000,
+        "value_change_pct": 0,
+        "range_low": 699000000,
+        "range_high": 728000000,
+        "buy_now_price": 695000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:58",
+        "price": 877000000,
+        "current_value": 714000000,
+        "value_change_pct": 0,
+        "range_low": 699000000,
+        "range_high": 728000000,
+        "buy_now_price": 695000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1305,13 +2514,26 @@
     "name": "Gervinho",
     "ovr": 111,
     "position": "LW",
-    "total_stats": 2858,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 339000000
+        "date": "2026-07-22 01:18:01",
+        "price": 339000000,
+        "current_value": 294000000,
+        "value_change_pct": 0,
+        "range_low": 288000000,
+        "range_high": 299000000,
+        "buy_now_price": 294000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:31:59",
+        "price": 339000000,
+        "current_value": 294000000,
+        "value_change_pct": 0,
+        "range_low": 288000000,
+        "range_high": 299000000,
+        "buy_now_price": 294000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1319,13 +2541,26 @@
     "name": "Cannavaro",
     "ovr": 109,
     "position": "CB",
-    "total_stats": 2649,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 245000000
+        "date": "2026-07-22 01:18:02",
+        "price": 245000000,
+        "current_value": 71100000,
+        "value_change_pct": 1.28,
+        "range_low": 69600000,
+        "range_high": 72500000,
+        "buy_now_price": 0,
+        "sell_now_price": 71600000
+      },
+      {
+        "date": "2026-07-22 01:32:00",
+        "price": 245000000,
+        "current_value": 71100000,
+        "value_change_pct": 1.28,
+        "range_low": 69600000,
+        "range_high": 72500000,
+        "buy_now_price": 0,
+        "sell_now_price": 69600000
       }
     ]
   },
@@ -1333,13 +2568,26 @@
     "name": "Ronaldinho",
     "ovr": 107,
     "position": "CAM",
-    "total_stats": 2816,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 301000000
+        "date": "2026-07-22 01:18:03",
+        "price": 301000000,
+        "current_value": 415000000,
+        "value_change_pct": -2.12,
+        "range_low": 406000000,
+        "range_high": 423000000,
+        "buy_now_price": 0,
+        "sell_now_price": 432000000
+      },
+      {
+        "date": "2026-07-22 01:32:00",
+        "price": 301000000,
+        "current_value": 415000000,
+        "value_change_pct": -2.12,
+        "range_low": 406000000,
+        "range_high": 423000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1347,13 +2595,26 @@
     "name": "Jairzinho",
     "ovr": 109,
     "position": "RW",
-    "total_stats": 2918,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 186000000
+        "date": "2026-07-22 01:18:04",
+        "price": 186000000,
+        "current_value": 126000000,
+        "value_change_pct": 1.61,
+        "range_low": 123000000,
+        "range_high": 128000000,
+        "buy_now_price": 126000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:01",
+        "price": 186000000,
+        "current_value": 126000000,
+        "value_change_pct": 1.61,
+        "range_low": 123000000,
+        "range_high": 128000000,
+        "buy_now_price": 124000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1361,13 +2622,26 @@
     "name": "Lu\u00eds Figo",
     "ovr": 109,
     "position": "RW",
-    "total_stats": 2841,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 129000000
+        "date": "2026-07-22 01:18:04",
+        "price": 129000000,
+        "current_value": 124000000,
+        "value_change_pct": 0,
+        "range_low": 121000000,
+        "range_high": 126000000,
+        "buy_now_price": 126000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:02",
+        "price": 129000000,
+        "current_value": 124000000,
+        "value_change_pct": 0,
+        "range_low": 121000000,
+        "range_high": 126000000,
+        "buy_now_price": 126000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1375,13 +2649,26 @@
     "name": "Yashin",
     "ovr": 111,
     "position": "GK",
-    "total_stats": 2506,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:18:05",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:03",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1389,13 +2676,26 @@
     "name": "Guti",
     "ovr": 109,
     "position": "CM",
-    "total_stats": 3003,
-    "foot": "3\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 127000000
+        "date": "2026-07-22 01:18:06",
+        "price": 127000000,
+        "current_value": 51400000,
+        "value_change_pct": 1.38,
+        "range_low": 50300000,
+        "range_high": 52400000,
+        "buy_now_price": 52400000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:03",
+        "price": 127000000,
+        "current_value": 51400000,
+        "value_change_pct": 1.38,
+        "range_low": 50300000,
+        "range_high": 52400000,
+        "buy_now_price": 52400000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1403,13 +2703,26 @@
     "name": "Cambiasso",
     "ovr": 110,
     "position": "CDM",
-    "total_stats": 3055,
-    "foot": "4\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 109000000
+        "date": "2026-07-22 01:18:07",
+        "price": 109000000,
+        "current_value": 153000000,
+        "value_change_pct": 2,
+        "range_low": 149000000,
+        "range_high": 156000000,
+        "buy_now_price": 153000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:04",
+        "price": 109000000,
+        "current_value": 153000000,
+        "value_change_pct": 2,
+        "range_low": 149000000,
+        "range_high": 156000000,
+        "buy_now_price": 153000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1417,13 +2730,26 @@
     "name": "M\u00e1rquez",
     "ovr": 111,
     "position": "CB",
-    "total_stats": 3096,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 590000000
+        "date": "2026-07-22 01:18:07",
+        "price": 590000000,
+        "current_value": 590000000,
+        "value_change_pct": 0,
+        "range_low": 578000000,
+        "range_high": 601000000,
+        "buy_now_price": 587000000,
+        "sell_now_price": 600000000
+      },
+      {
+        "date": "2026-07-22 01:32:05",
+        "price": 590000000,
+        "current_value": 590000000,
+        "value_change_pct": 0,
+        "range_low": 578000000,
+        "range_high": 601000000,
+        "buy_now_price": 587000000,
+        "sell_now_price": 600000000
       }
     ]
   },
@@ -1431,13 +2757,26 @@
     "name": "Blanc",
     "ovr": 111,
     "position": "CB",
-    "total_stats": 2997,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 767000000
+        "date": "2026-07-22 01:18:08",
+        "price": 767000000,
+        "current_value": 536000000,
+        "value_change_pct": 0,
+        "range_low": 525000000,
+        "range_high": 546000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:05",
+        "price": 767000000,
+        "current_value": 536000000,
+        "value_change_pct": 0,
+        "range_low": 525000000,
+        "range_high": 546000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1445,13 +2784,26 @@
     "name": "Papin",
     "ovr": 111,
     "position": "ST",
-    "total_stats": 2976,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 890000000
+        "date": "2026-07-22 01:18:09",
+        "price": 890000000,
+        "current_value": 888000000,
+        "value_change_pct": 0,
+        "range_low": 870000000,
+        "range_high": 905000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:06",
+        "price": 890000000,
+        "current_value": 888000000,
+        "value_change_pct": 0,
+        "range_low": 870000000,
+        "range_high": 905000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1459,13 +2811,26 @@
     "name": "Gerrard",
     "ovr": 111,
     "position": "CM",
-    "total_stats": 3221,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:18:09",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:07",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1473,13 +2838,26 @@
     "name": "Casillas",
     "ovr": 109,
     "position": "GK",
-    "total_stats": 2380,
-    "foot": "3\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 500000000
+        "date": "2026-07-22 01:18:10",
+        "price": 500000000,
+        "current_value": 300000000,
+        "value_change_pct": 1.01,
+        "range_low": 294000000,
+        "range_high": 306000000,
+        "buy_now_price": 302000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:08",
+        "price": 500000000,
+        "current_value": 300000000,
+        "value_change_pct": 1.01,
+        "range_low": 294000000,
+        "range_high": 306000000,
+        "buy_now_price": 302000000,
+        "sell_now_price": 306000000
       }
     ]
   },
@@ -1487,13 +2865,26 @@
     "name": "Roberto Carlos",
     "ovr": 107,
     "position": "LB",
-    "total_stats": 3005,
-    "foot": "3\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 366000000
+        "date": "2026-07-22 01:18:11",
+        "price": 366000000,
+        "current_value": 361000000,
+        "value_change_pct": 0.84,
+        "range_low": 353000000,
+        "range_high": 368000000,
+        "buy_now_price": 368000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:08",
+        "price": 366000000,
+        "current_value": 361000000,
+        "value_change_pct": 0.84,
+        "range_low": 353000000,
+        "range_high": 368000000,
+        "buy_now_price": 368000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1501,13 +2892,26 @@
     "name": "van Basten",
     "ovr": 109,
     "position": "ST",
-    "total_stats": 2783,
-    "foot": "5\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 209000000
+        "date": "2026-07-22 01:18:12",
+        "price": 209000000,
+        "current_value": 142000000,
+        "value_change_pct": -1.39,
+        "range_low": 139000000,
+        "range_high": 144000000,
+        "buy_now_price": 139000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:09",
+        "price": 209000000,
+        "current_value": 142000000,
+        "value_change_pct": -1.39,
+        "range_low": 139000000,
+        "range_high": 144000000,
+        "buy_now_price": 139000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1515,13 +2919,26 @@
     "name": "Ljungberg",
     "ovr": 111,
     "position": "RM",
-    "total_stats": 2901,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 400000000
+        "date": "2026-07-22 01:18:12",
+        "price": 400000000,
+        "current_value": 203000000,
+        "value_change_pct": 0,
+        "range_low": 198000000,
+        "range_high": 207000000,
+        "buy_now_price": 0,
+        "sell_now_price": 200000000
+      },
+      {
+        "date": "2026-07-22 01:32:10",
+        "price": 400000000,
+        "current_value": 203000000,
+        "value_change_pct": 0,
+        "range_low": 198000000,
+        "range_high": 207000000,
+        "buy_now_price": 0,
+        "sell_now_price": 200000000
       }
     ]
   },
@@ -1529,13 +2946,26 @@
     "name": "Nedv\u011bd",
     "ovr": 111,
     "position": "LM",
-    "total_stats": 3034,
-    "foot": "5\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 917000000
+        "date": "2026-07-22 01:18:13",
+        "price": 917000000,
+        "current_value": 994000000,
+        "value_change_pct": 0,
+        "range_low": 974000000,
+        "range_high": 1010000000,
+        "buy_now_price": 0,
+        "sell_now_price": 980000000
+      },
+      {
+        "date": "2026-07-22 01:32:10",
+        "price": 917000000,
+        "current_value": 994000000,
+        "value_change_pct": 0,
+        "range_low": 974000000,
+        "range_high": 1010000000,
+        "buy_now_price": 0,
+        "sell_now_price": 980000000
       }
     ]
   },
@@ -1543,13 +2973,26 @@
     "name": "Gattuso",
     "ovr": 111,
     "position": "CDM",
-    "total_stats": 2927,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 259000000
+        "date": "2026-07-22 01:18:14",
+        "price": 259000000,
+        "current_value": 202000000,
+        "value_change_pct": 0,
+        "range_low": 197000000,
+        "range_high": 206000000,
+        "buy_now_price": 0,
+        "sell_now_price": 205000000
+      },
+      {
+        "date": "2026-07-22 01:32:11",
+        "price": 259000000,
+        "current_value": 202000000,
+        "value_change_pct": 0,
+        "range_low": 197000000,
+        "range_high": 206000000,
+        "buy_now_price": 0,
+        "sell_now_price": 205000000
       }
     ]
   },
@@ -1557,13 +3000,26 @@
     "name": "Zambrotta",
     "ovr": 108,
     "position": "RB",
-    "total_stats": 2927,
-    "foot": "5\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 200000000
+        "date": "2026-07-22 01:18:14",
+        "price": 200000000,
+        "current_value": 54300000,
+        "value_change_pct": -2.16,
+        "range_low": 53200000,
+        "range_high": 55300000,
+        "buy_now_price": 55300000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:12",
+        "price": 200000000,
+        "current_value": 54300000,
+        "value_change_pct": -2.16,
+        "range_low": 53200000,
+        "range_high": 55300000,
+        "buy_now_price": 55300000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1571,13 +3027,26 @@
     "name": "Henry",
     "ovr": 109,
     "position": "LW",
-    "total_stats": 2941,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 193000000
+        "date": "2026-07-22 01:18:15",
+        "price": 193000000,
+        "current_value": 120000000,
+        "value_change_pct": 0,
+        "range_low": 117000000,
+        "range_high": 122000000,
+        "buy_now_price": 0,
+        "sell_now_price": 117000000
+      },
+      {
+        "date": "2026-07-22 01:32:13",
+        "price": 193000000,
+        "current_value": 120000000,
+        "value_change_pct": 0,
+        "range_low": 117000000,
+        "range_high": 122000000,
+        "buy_now_price": 0,
+        "sell_now_price": 122000000
       }
     ]
   },
@@ -1585,13 +3054,26 @@
     "name": "Rush",
     "ovr": 114,
     "position": "ST",
-    "total_stats": 3019,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 673000000
+        "date": "2026-07-22 01:18:16",
+        "price": 673000000,
+        "current_value": 537000000,
+        "value_change_pct": 0,
+        "range_low": 526000000,
+        "range_high": 547000000,
+        "buy_now_price": 0,
+        "sell_now_price": 532000000
+      },
+      {
+        "date": "2026-07-22 01:32:13",
+        "price": 673000000,
+        "current_value": 532000000,
+        "value_change_pct": -0.93,
+        "range_low": 521000000,
+        "range_high": 542000000,
+        "buy_now_price": 0,
+        "sell_now_price": 532000000
       }
     ]
   },
@@ -1599,13 +3081,26 @@
     "name": "Hagi",
     "ovr": 110,
     "position": "RM",
-    "total_stats": 2918,
-    "foot": "4\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 186000000
+        "date": "2026-07-22 01:18:17",
+        "price": 186000000,
+        "current_value": 228000000,
+        "value_change_pct": 0,
+        "range_low": 223000000,
+        "range_high": 232000000,
+        "buy_now_price": 0,
+        "sell_now_price": 225000000
+      },
+      {
+        "date": "2026-07-22 01:32:14",
+        "price": 186000000,
+        "current_value": 228000000,
+        "value_change_pct": 0,
+        "range_low": 223000000,
+        "range_high": 232000000,
+        "buy_now_price": 0,
+        "sell_now_price": 225000000
       }
     ]
   },
@@ -1613,13 +3108,26 @@
     "name": "McManaman",
     "ovr": 112,
     "position": "RM",
-    "total_stats": 3031,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 745000000
+        "date": "2026-07-22 01:18:17",
+        "price": 745000000,
+        "current_value": 391000000,
+        "value_change_pct": 0,
+        "range_low": 383000000,
+        "range_high": 398000000,
+        "buy_now_price": 392000000,
+        "sell_now_price": 406000000
+      },
+      {
+        "date": "2026-07-22 01:32:15",
+        "price": 745000000,
+        "current_value": 391000000,
+        "value_change_pct": 0,
+        "range_low": 383000000,
+        "range_high": 398000000,
+        "buy_now_price": 392000000,
+        "sell_now_price": 406000000
       }
     ]
   },
@@ -1627,13 +3135,26 @@
     "name": "V\u00f6ller",
     "ovr": 110,
     "position": "ST",
-    "total_stats": 2931,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 118000000
+        "date": "2026-07-22 01:18:18",
+        "price": 118000000,
+        "current_value": 478000000,
+        "value_change_pct": 0,
+        "range_low": 468000000,
+        "range_high": 487000000,
+        "buy_now_price": 0,
+        "sell_now_price": 468000000
+      },
+      {
+        "date": "2026-07-22 01:32:15",
+        "price": 118000000,
+        "current_value": 478000000,
+        "value_change_pct": 0,
+        "range_low": 468000000,
+        "range_high": 487000000,
+        "buy_now_price": 0,
+        "sell_now_price": 468000000
       }
     ]
   },
@@ -1641,13 +3162,26 @@
     "name": "Carlos Alberto",
     "ovr": 107,
     "position": "RB",
-    "total_stats": 2785,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 202000000
+        "date": "2026-07-22 01:18:19",
+        "price": 202000000,
+        "current_value": 68200000,
+        "value_change_pct": 1.94,
+        "range_low": 66800000,
+        "range_high": 69500000,
+        "buy_now_price": 0,
+        "sell_now_price": 68800000
+      },
+      {
+        "date": "2026-07-22 01:32:16",
+        "price": 202000000,
+        "current_value": 68200000,
+        "value_change_pct": 1.94,
+        "range_low": 66800000,
+        "range_high": 69500000,
+        "buy_now_price": 0,
+        "sell_now_price": 68800000
       }
     ]
   },
@@ -1655,13 +3189,26 @@
     "name": "Lahm",
     "ovr": 107,
     "position": "RB",
-    "total_stats": 2878,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 102000000
+        "date": "2026-07-22 01:18:20",
+        "price": 102000000,
+        "current_value": 34600000,
+        "value_change_pct": 1.76,
+        "range_low": 33900000,
+        "range_high": 35200000,
+        "buy_now_price": 33900000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:17",
+        "price": 102000000,
+        "current_value": 34600000,
+        "value_change_pct": 1.76,
+        "range_low": 33900000,
+        "range_high": 35200000,
+        "buy_now_price": 35200000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1669,13 +3216,26 @@
     "name": "Zidane",
     "ovr": 107,
     "position": "CM",
-    "total_stats": 3050,
-    "foot": "5\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 111000000
+        "date": "2026-07-22 01:18:20",
+        "price": 111000000,
+        "current_value": 98900000,
+        "value_change_pct": -2.08,
+        "range_low": 96900000,
+        "range_high": 100000000,
+        "buy_now_price": 100000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:18",
+        "price": 111000000,
+        "current_value": 98900000,
+        "value_change_pct": -2.08,
+        "range_low": 96900000,
+        "range_high": 100000000,
+        "buy_now_price": 100000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1683,13 +3243,26 @@
     "name": "Rib\u00e9ry",
     "ovr": 109,
     "position": "LW",
-    "total_stats": 2815,
-    "foot": "5\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 134000000
+        "date": "2026-07-22 01:18:21",
+        "price": 134000000,
+        "current_value": 77000000,
+        "value_change_pct": 0.26,
+        "range_low": 75400000,
+        "range_high": 78500000,
+        "buy_now_price": 0,
+        "sell_now_price": 78500000
+      },
+      {
+        "date": "2026-07-22 01:32:18",
+        "price": 134000000,
+        "current_value": 77000000,
+        "value_change_pct": 0.26,
+        "range_low": 75400000,
+        "range_high": 78500000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1697,13 +3270,26 @@
     "name": "Gullit",
     "ovr": 109,
     "position": "CM",
-    "total_stats": 3120,
-    "foot": "5\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 422000000
+        "date": "2026-07-22 01:18:22",
+        "price": 422000000,
+        "current_value": 205000000,
+        "value_change_pct": 1.99,
+        "range_low": 200000000,
+        "range_high": 209000000,
+        "buy_now_price": 205000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:19",
+        "price": 422000000,
+        "current_value": 205000000,
+        "value_change_pct": 1.99,
+        "range_low": 200000000,
+        "range_high": 209000000,
+        "buy_now_price": 205000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1711,13 +3297,26 @@
     "name": "Ronaldo",
     "ovr": 109,
     "position": "ST",
-    "total_stats": 2900,
-    "foot": "5\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 500000000
+        "date": "2026-07-22 01:18:22",
+        "price": 500000000,
+        "current_value": 500000000,
+        "value_change_pct": 0.81,
+        "range_low": 490000000,
+        "range_high": 510000000,
+        "buy_now_price": 505000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:20",
+        "price": 500000000,
+        "current_value": 500000000,
+        "value_change_pct": 0.81,
+        "range_low": 490000000,
+        "range_high": 510000000,
+        "buy_now_price": 510000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1725,13 +3324,26 @@
     "name": "L\u00facio",
     "ovr": 109,
     "position": "CB",
-    "total_stats": 2981,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 283000000
+        "date": "2026-07-22 01:18:23",
+        "price": 283000000,
+        "current_value": 61000000,
+        "value_change_pct": 0.99,
+        "range_low": 59700000,
+        "range_high": 62200000,
+        "buy_now_price": 59700000,
+        "sell_now_price": 62200000
+      },
+      {
+        "date": "2026-07-22 01:32:20",
+        "price": 283000000,
+        "current_value": 61000000,
+        "value_change_pct": 0.99,
+        "range_low": 59700000,
+        "range_high": 62200000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1739,13 +3351,26 @@
     "name": "Rivaldo",
     "ovr": 109,
     "position": "LW",
-    "total_stats": 2876,
-    "foot": "4\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 173000000
+        "date": "2026-07-22 01:18:24",
+        "price": 173000000,
+        "current_value": 99000000,
+        "value_change_pct": 1.54,
+        "range_low": 97000000,
+        "range_high": 100000000,
+        "buy_now_price": 100000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:21",
+        "price": 173000000,
+        "current_value": 99000000,
+        "value_change_pct": 1.54,
+        "range_low": 97000000,
+        "range_high": 100000000,
+        "buy_now_price": 100000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1753,13 +3378,26 @@
     "name": "Eus\u00e9bio",
     "ovr": 109,
     "position": "ST",
-    "total_stats": 2930,
-    "foot": "5\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 184000000
+        "date": "2026-07-22 01:18:25",
+        "price": 184000000,
+        "current_value": 212000000,
+        "value_change_pct": 1.92,
+        "range_low": 207000000,
+        "range_high": 216000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:22",
+        "price": 184000000,
+        "current_value": 212000000,
+        "value_change_pct": 1.92,
+        "range_low": 207000000,
+        "range_high": 216000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1767,13 +3405,26 @@
     "name": "Vidi\u0107",
     "ovr": 109,
     "position": "CB",
-    "total_stats": 2635,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 188000000
+        "date": "2026-07-22 01:18:25",
+        "price": 188000000,
+        "current_value": 37800000,
+        "value_change_pct": -2.07,
+        "range_low": 37000000,
+        "range_high": 38500000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:23",
+        "price": 188000000,
+        "current_value": 37800000,
+        "value_change_pct": -2.07,
+        "range_low": 37000000,
+        "range_high": 38500000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1781,13 +3432,26 @@
     "name": "Riise",
     "ovr": 108,
     "position": "LB",
-    "total_stats": 3078,
-    "foot": "3\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 154000000
+        "date": "2026-07-22 01:18:26",
+        "price": 154000000,
+        "current_value": 29100000,
+        "value_change_pct": 0,
+        "range_low": 28500000,
+        "range_high": 29600000,
+        "buy_now_price": 0,
+        "sell_now_price": 28500000
+      },
+      {
+        "date": "2026-07-22 01:32:23",
+        "price": 154000000,
+        "current_value": 29100000,
+        "value_change_pct": 0,
+        "range_low": 28500000,
+        "range_high": 29600000,
+        "buy_now_price": 0,
+        "sell_now_price": 29600000
       }
     ]
   },
@@ -1795,13 +3459,26 @@
     "name": "Hazard",
     "ovr": 108,
     "position": "LW",
-    "total_stats": 2815,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 101000000
+        "date": "2026-07-22 01:18:27",
+        "price": 101000000,
+        "current_value": 61300000,
+        "value_change_pct": -0.81,
+        "range_low": 60000000,
+        "range_high": 62500000,
+        "buy_now_price": 0,
+        "sell_now_price": 62800000
+      },
+      {
+        "date": "2026-07-22 01:32:24",
+        "price": 101000000,
+        "current_value": 61300000,
+        "value_change_pct": -0.81,
+        "range_low": 60000000,
+        "range_high": 62500000,
+        "buy_now_price": 0,
+        "sell_now_price": 62500000
       }
     ]
   },
@@ -1809,13 +3486,26 @@
     "name": "Zidane",
     "ovr": 111,
     "position": "CM",
-    "total_stats": 3296,
-    "foot": "5\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:18:27",
+        "price": 1000000000,
+        "current_value": 978000000,
+        "value_change_pct": 0,
+        "range_low": 958000000,
+        "range_high": 997000000,
+        "buy_now_price": 0,
+        "sell_now_price": 1010000000
+      },
+      {
+        "date": "2026-07-22 01:32:25",
+        "price": 1000000000,
+        "current_value": 978000000,
+        "value_change_pct": 0,
+        "range_low": 958000000,
+        "range_high": 997000000,
+        "buy_now_price": 0,
+        "sell_now_price": 1010000000
       }
     ]
   },
@@ -1823,13 +3513,26 @@
     "name": "Tour\u00e9",
     "ovr": 111,
     "position": "CDM",
-    "total_stats": 3162,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 593000000
+        "date": "2026-07-22 01:18:28",
+        "price": 593000000,
+        "current_value": 479000000,
+        "value_change_pct": 0,
+        "range_low": 469000000,
+        "range_high": 488000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:25",
+        "price": 593000000,
+        "current_value": 479000000,
+        "value_change_pct": 0,
+        "range_low": 469000000,
+        "range_high": 488000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1837,13 +3540,26 @@
     "name": "Carles Puyol",
     "ovr": 108,
     "position": "CB",
-    "total_stats": 2665,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 104000000
+        "date": "2026-07-22 01:18:29",
+        "price": 104000000,
+        "current_value": 94200000,
+        "value_change_pct": -0.63,
+        "range_low": 92300000,
+        "range_high": 96000000,
+        "buy_now_price": 0,
+        "sell_now_price": 92300000
+      },
+      {
+        "date": "2026-07-22 01:32:26",
+        "price": 104000000,
+        "current_value": 94200000,
+        "value_change_pct": -0.63,
+        "range_low": 92300000,
+        "range_high": 96000000,
+        "buy_now_price": 96000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1851,13 +3567,26 @@
     "name": "Mascherano",
     "ovr": 110,
     "position": "CDM",
-    "total_stats": 2881,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 131000000
+        "date": "2026-07-22 01:18:30",
+        "price": 131000000,
+        "current_value": 186000000,
+        "value_change_pct": -1.06,
+        "range_low": 182000000,
+        "range_high": 189000000,
+        "buy_now_price": 184000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:27",
+        "price": 131000000,
+        "current_value": 186000000,
+        "value_change_pct": -1.06,
+        "range_low": 182000000,
+        "range_high": 189000000,
+        "buy_now_price": 184000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1865,13 +3594,26 @@
     "name": "Keane",
     "ovr": 110,
     "position": "CDM",
-    "total_stats": 2994,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 113000000
+        "date": "2026-07-22 01:18:30",
+        "price": 113000000,
+        "current_value": 177000000,
+        "value_change_pct": 1.72,
+        "range_low": 173000000,
+        "range_high": 180000000,
+        "buy_now_price": 177000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:28",
+        "price": 113000000,
+        "current_value": 177000000,
+        "value_change_pct": 1.72,
+        "range_low": 173000000,
+        "range_high": 180000000,
+        "buy_now_price": 177000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1879,13 +3621,26 @@
     "name": "Schweinsteiger",
     "ovr": 110,
     "position": "CM",
-    "total_stats": 3114,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 265000000
+        "date": "2026-07-22 01:18:31",
+        "price": 265000000,
+        "current_value": 395000000,
+        "value_change_pct": 0,
+        "range_low": 387000000,
+        "range_high": 402000000,
+        "buy_now_price": 0,
+        "sell_now_price": 395000000
+      },
+      {
+        "date": "2026-07-22 01:32:28",
+        "price": 265000000,
+        "current_value": 395000000,
+        "value_change_pct": 0,
+        "range_low": 387000000,
+        "range_high": 402000000,
+        "buy_now_price": 0,
+        "sell_now_price": 395000000
       }
     ]
   },
@@ -1893,13 +3648,26 @@
     "name": "Fellaini",
     "ovr": 110,
     "position": "CM",
-    "total_stats": 3066,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 273000000
+        "date": "2026-07-22 01:18:32",
+        "price": 273000000,
+        "current_value": 326000000,
+        "value_change_pct": 0,
+        "range_low": 319000000,
+        "range_high": 332000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:29",
+        "price": 273000000,
+        "current_value": 326000000,
+        "value_change_pct": 0,
+        "range_low": 319000000,
+        "range_high": 332000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1907,13 +3675,26 @@
     "name": "Maicon",
     "ovr": 111,
     "position": "RB",
-    "total_stats": 3117,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 997000000
+        "date": "2026-07-22 01:18:32",
+        "price": 997000000,
+        "current_value": 404000000,
+        "value_change_pct": 0,
+        "range_low": 395000000,
+        "range_high": 412000000,
+        "buy_now_price": 408000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:30",
+        "price": 997000000,
+        "current_value": 404000000,
+        "value_change_pct": 0,
+        "range_low": 395000000,
+        "range_high": 412000000,
+        "buy_now_price": 408000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1921,13 +3702,26 @@
     "name": "Capdevila",
     "ovr": 111,
     "position": "LB",
-    "total_stats": 3089,
-    "foot": "3\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:18:33",
+        "price": 1000000000,
+        "current_value": 363000000,
+        "value_change_pct": 0,
+        "range_low": 355000000,
+        "range_high": 370000000,
+        "buy_now_price": 0,
+        "sell_now_price": 363000000
+      },
+      {
+        "date": "2026-07-22 01:32:30",
+        "price": 1000000000,
+        "current_value": 363000000,
+        "value_change_pct": 0,
+        "range_low": 355000000,
+        "range_high": 370000000,
+        "buy_now_price": 0,
+        "sell_now_price": 363000000
       }
     ]
   },
@@ -1935,13 +3729,26 @@
     "name": "Di Natale",
     "ovr": 110,
     "position": "LW",
-    "total_stats": 3006,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 500000000
+        "date": "2026-07-22 01:18:34",
+        "price": 500000000,
+        "current_value": 500000000,
+        "value_change_pct": 0,
+        "range_low": 490000000,
+        "range_high": 510000000,
+        "buy_now_price": 510000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:31",
+        "price": 500000000,
+        "current_value": 500000000,
+        "value_change_pct": 0,
+        "range_low": 490000000,
+        "range_high": 510000000,
+        "buy_now_price": 510000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1949,13 +3756,26 @@
     "name": "Forl\u00e1n",
     "ovr": 111,
     "position": "ST",
-    "total_stats": 3028,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 515000000
+        "date": "2026-07-22 01:18:35",
+        "price": 515000000,
+        "current_value": 601000000,
+        "value_change_pct": 0,
+        "range_low": 588000000,
+        "range_high": 613000000,
+        "buy_now_price": 0,
+        "sell_now_price": 601000000
+      },
+      {
+        "date": "2026-07-22 01:32:32",
+        "price": 515000000,
+        "current_value": 601000000,
+        "value_change_pct": 0,
+        "range_low": 588000000,
+        "range_high": 613000000,
+        "buy_now_price": 0,
+        "sell_now_price": 601000000
       }
     ]
   },
@@ -1963,13 +3783,26 @@
     "name": "Ibrahimovi\u0107",
     "ovr": 111,
     "position": "ST",
-    "total_stats": 2979,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 611000000
+        "date": "2026-07-22 01:18:35",
+        "price": 611000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:32",
+        "price": 611000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1977,13 +3810,26 @@
     "name": "Klose",
     "ovr": 111,
     "position": "ST",
-    "total_stats": 2884,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:18:36",
+        "price": 1000000000,
+        "current_value": 991000000,
+        "value_change_pct": 0,
+        "range_low": 971000000,
+        "range_high": 1010000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:33",
+        "price": 1000000000,
+        "current_value": 991000000,
+        "value_change_pct": 0,
+        "range_low": 971000000,
+        "range_high": 1010000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1991,13 +3837,26 @@
     "name": "Dunga",
     "ovr": 111,
     "position": "CDM",
-    "total_stats": 3121,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 401000000
+        "date": "2026-07-22 01:18:37",
+        "price": 401000000,
+        "current_value": 346000000,
+        "value_change_pct": 0,
+        "range_low": 339000000,
+        "range_high": 352000000,
+        "buy_now_price": 0,
+        "sell_now_price": 349000000
+      },
+      {
+        "date": "2026-07-22 01:32:34",
+        "price": 401000000,
+        "current_value": 346000000,
+        "value_change_pct": 0,
+        "range_low": 339000000,
+        "range_high": 352000000,
+        "buy_now_price": 0,
+        "sell_now_price": 349000000
       }
     ]
   },
@@ -2005,13 +3864,26 @@
     "name": "Kak\u00e1",
     "ovr": 112,
     "position": "CAM",
-    "total_stats": 3079,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:18:37",
+        "price": 1000000000,
+        "current_value": 878000000,
+        "value_change_pct": 0,
+        "range_low": 860000000,
+        "range_high": 895000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:35",
+        "price": 1000000000,
+        "current_value": 878000000,
+        "value_change_pct": 0,
+        "range_low": 860000000,
+        "range_high": 895000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2019,13 +3891,26 @@
     "name": "Kahn",
     "ovr": 111,
     "position": "GK",
-    "total_stats": 2327,
-    "foot": "2\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:18:38",
+        "price": 1000000000,
+        "current_value": 953000000,
+        "value_change_pct": 0,
+        "range_low": 933000000,
+        "range_high": 972000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:35",
+        "price": 1000000000,
+        "current_value": 953000000,
+        "value_change_pct": 0,
+        "range_low": 933000000,
+        "range_high": 972000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2033,13 +3918,26 @@
     "name": "Park Ji Sung",
     "ovr": 110,
     "position": "CM",
-    "total_stats": 3174,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 234000000
+        "date": "2026-07-22 01:18:39",
+        "price": 234000000,
+        "current_value": 230000000,
+        "value_change_pct": -0.86,
+        "range_low": 225000000,
+        "range_high": 234000000,
+        "buy_now_price": 0,
+        "sell_now_price": 227000000
+      },
+      {
+        "date": "2026-07-22 01:32:36",
+        "price": 234000000,
+        "current_value": 230000000,
+        "value_change_pct": -0.86,
+        "range_low": 225000000,
+        "range_high": 234000000,
+        "buy_now_price": 0,
+        "sell_now_price": 227000000
       }
     ]
   },
@@ -2047,13 +3945,26 @@
     "name": "Rijkaard",
     "ovr": 111,
     "position": "CDM",
-    "total_stats": 3131,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 112000000
+        "date": "2026-07-22 01:18:40",
+        "price": 112000000,
+        "current_value": 35400000,
+        "value_change_pct": -0.84,
+        "range_low": 34600000,
+        "range_high": 36100000,
+        "buy_now_price": 0,
+        "sell_now_price": 34600000
+      },
+      {
+        "date": "2026-07-22 01:32:37",
+        "price": 112000000,
+        "current_value": 35400000,
+        "value_change_pct": -0.84,
+        "range_low": 34600000,
+        "range_high": 36100000,
+        "buy_now_price": 0,
+        "sell_now_price": 34600000
       }
     ]
   },
@@ -2061,13 +3972,26 @@
     "name": "Carles Puyol",
     "ovr": 112,
     "position": "CB",
-    "total_stats": 2803,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 996000000
+        "date": "2026-07-22 01:18:40",
+        "price": 996000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:38",
+        "price": 996000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2075,13 +3999,26 @@
     "name": "Z\u00e9 Roberto",
     "ovr": 112,
     "position": "LM",
-    "total_stats": 3227,
-    "foot": "4\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 922000000
+        "date": "2026-07-22 01:18:41",
+        "price": 922000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:38",
+        "price": 922000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2089,13 +4026,26 @@
     "name": "Cole",
     "ovr": 111,
     "position": "CAM",
-    "total_stats": 3071,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 398000000
+        "date": "2026-07-22 01:18:42",
+        "price": 398000000,
+        "current_value": 507000000,
+        "value_change_pct": 0,
+        "range_low": 496000000,
+        "range_high": 517000000,
+        "buy_now_price": 0,
+        "sell_now_price": 510000000
+      },
+      {
+        "date": "2026-07-22 01:32:39",
+        "price": 398000000,
+        "current_value": 507000000,
+        "value_change_pct": 0,
+        "range_low": 496000000,
+        "range_high": 517000000,
+        "buy_now_price": 0,
+        "sell_now_price": 510000000
       }
     ]
   },
@@ -2103,13 +4053,26 @@
     "name": "van Persie",
     "ovr": 112,
     "position": "ST",
-    "total_stats": 3041,
-    "foot": "4\u2605 WF / Left",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 994000000
+        "date": "2026-07-22 01:18:42",
+        "price": 994000000,
+        "current_value": 346000000,
+        "value_change_pct": 0,
+        "range_low": 339000000,
+        "range_high": 352000000,
+        "buy_now_price": 352000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:40",
+        "price": 994000000,
+        "current_value": 346000000,
+        "value_change_pct": 0,
+        "range_low": 339000000,
+        "range_high": 352000000,
+        "buy_now_price": 352000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2117,13 +4080,26 @@
     "name": "Ramires",
     "ovr": 111,
     "position": "CDM",
-    "total_stats": 3096,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 997000000
+        "date": "2026-07-22 01:18:43",
+        "price": 997000000,
+        "current_value": 854000000,
+        "value_change_pct": 0,
+        "range_low": 836000000,
+        "range_high": 871000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:41",
+        "price": 997000000,
+        "current_value": 854000000,
+        "value_change_pct": 0,
+        "range_low": 836000000,
+        "range_high": 871000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2131,13 +4107,26 @@
     "name": "Mak\u00e9l\u00e9l\u00e9",
     "ovr": 113,
     "position": "CDM",
-    "total_stats": 2991,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 991000000
+        "date": "2026-07-22 01:18:44",
+        "price": 991000000,
+        "current_value": 730000000,
+        "value_change_pct": 0,
+        "range_low": 715000000,
+        "range_high": 744000000,
+        "buy_now_price": 0,
+        "sell_now_price": 730000000
+      },
+      {
+        "date": "2026-07-22 01:32:41",
+        "price": 991000000,
+        "current_value": 730000000,
+        "value_change_pct": 0,
+        "range_low": 715000000,
+        "range_high": 744000000,
+        "buy_now_price": 0,
+        "sell_now_price": 730000000
       }
     ]
   },
@@ -2145,13 +4134,26 @@
     "name": "Cesc F\u00e0bregas",
     "ovr": 112,
     "position": "CM",
-    "total_stats": 3195,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 742000000
+        "date": "2026-07-22 01:18:45",
+        "price": 742000000,
+        "current_value": 474000000,
+        "value_change_pct": 0,
+        "range_low": 464000000,
+        "range_high": 483000000,
+        "buy_now_price": 474000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:42",
+        "price": 742000000,
+        "current_value": 474000000,
+        "value_change_pct": 0,
+        "range_low": 464000000,
+        "range_high": 483000000,
+        "buy_now_price": 474000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2159,13 +4161,26 @@
     "name": "Lampard",
     "ovr": 111,
     "position": "CM",
-    "total_stats": 3193,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 639000000
+        "date": "2026-07-22 01:18:45",
+        "price": 639000000,
+        "current_value": 601000000,
+        "value_change_pct": 0,
+        "range_low": 588000000,
+        "range_high": 613000000,
+        "buy_now_price": 0,
+        "sell_now_price": 592000000
+      },
+      {
+        "date": "2026-07-22 01:32:43",
+        "price": 639000000,
+        "current_value": 601000000,
+        "value_change_pct": 0,
+        "range_low": 588000000,
+        "range_high": 613000000,
+        "buy_now_price": 0,
+        "sell_now_price": 592000000
       }
     ]
   },
@@ -2173,13 +4188,26 @@
     "name": "Fellaini",
     "ovr": 112,
     "position": "CM",
-    "total_stats": 3207,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 899000000
+        "date": "2026-07-22 01:18:46",
+        "price": 899000000,
+        "current_value": 470000000,
+        "value_change_pct": 0,
+        "range_low": 460000000,
+        "range_high": 479000000,
+        "buy_now_price": 480000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:43",
+        "price": 899000000,
+        "current_value": 470000000,
+        "value_change_pct": 0,
+        "range_low": 460000000,
+        "range_high": 479000000,
+        "buy_now_price": 480000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2187,13 +4215,26 @@
     "name": "Gattuso",
     "ovr": 111,
     "position": "CDM",
-    "total_stats": 2927,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 266000000
+        "date": "2026-07-22 01:18:47",
+        "price": 266000000,
+        "current_value": 254000000,
+        "value_change_pct": 0,
+        "range_low": 248000000,
+        "range_high": 259000000,
+        "buy_now_price": 0,
+        "sell_now_price": 251000000
+      },
+      {
+        "date": "2026-07-22 01:32:44",
+        "price": 266000000,
+        "current_value": 254000000,
+        "value_change_pct": 0,
+        "range_low": 248000000,
+        "range_high": 259000000,
+        "buy_now_price": 0,
+        "sell_now_price": 251000000
       }
     ]
   },
@@ -2201,13 +4242,26 @@
     "name": "Ferdinand",
     "ovr": 112,
     "position": "CB",
-    "total_stats": 2862,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:18:47",
+        "price": 1000000000,
+        "current_value": 683000000,
+        "value_change_pct": 0,
+        "range_low": 669000000,
+        "range_high": 696000000,
+        "buy_now_price": 697000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:45",
+        "price": 1000000000,
+        "current_value": 683000000,
+        "value_change_pct": 0,
+        "range_low": 669000000,
+        "range_high": 696000000,
+        "buy_now_price": 697000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2215,13 +4269,26 @@
     "name": "Crespo",
     "ovr": 111,
     "position": "ST",
-    "total_stats": 2983,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 275000000
+        "date": "2026-07-22 01:18:48",
+        "price": 275000000,
+        "current_value": 384000000,
+        "value_change_pct": 1.86,
+        "range_low": 376000000,
+        "range_high": 391000000,
+        "buy_now_price": 384000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:45",
+        "price": 275000000,
+        "current_value": 384000000,
+        "value_change_pct": 1.86,
+        "range_low": 376000000,
+        "range_high": 391000000,
+        "buy_now_price": 384000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2229,13 +4296,26 @@
     "name": "Pizarro",
     "ovr": 114,
     "position": "ST",
-    "total_stats": 3096,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 891000000
+        "date": "2026-07-22 01:18:49",
+        "price": 891000000,
+        "current_value": 1040000000,
+        "value_change_pct": -0.95,
+        "range_low": 1010000000,
+        "range_high": 1060000000,
+        "buy_now_price": 0,
+        "sell_now_price": 1020000000
+      },
+      {
+        "date": "2026-07-22 01:32:46",
+        "price": 891000000,
+        "current_value": 1040000000,
+        "value_change_pct": -0.95,
+        "range_low": 1010000000,
+        "range_high": 1060000000,
+        "buy_now_price": 0,
+        "sell_now_price": 1020000000
       }
     ]
   },
@@ -2243,13 +4323,26 @@
     "name": "Carrick",
     "ovr": 113,
     "position": "CDM",
-    "total_stats": 3211,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 471000000
+        "date": "2026-07-22 01:18:50",
+        "price": 471000000,
+        "current_value": 328000000,
+        "value_change_pct": 1.86,
+        "range_low": 321000000,
+        "range_high": 334000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:47",
+        "price": 471000000,
+        "current_value": 328000000,
+        "value_change_pct": 0,
+        "range_low": 321000000,
+        "range_high": 334000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2257,13 +4350,26 @@
     "name": "Campbell",
     "ovr": 113,
     "position": "CB",
-    "total_stats": 2780,
-    "foot": "3\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:18:50",
+        "price": 1000000000,
+        "current_value": 406000000,
+        "value_change_pct": 0,
+        "range_low": 397000000,
+        "range_high": 414000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:48",
+        "price": 1000000000,
+        "current_value": 406000000,
+        "value_change_pct": 0,
+        "range_low": 397000000,
+        "range_high": 414000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2271,13 +4377,26 @@
     "name": "Dempsey",
     "ovr": 112,
     "position": "CAM",
-    "total_stats": 3059,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 334000000
+        "date": "2026-07-22 01:18:51",
+        "price": 334000000,
+        "current_value": 180000000,
+        "value_change_pct": 0,
+        "range_low": 176000000,
+        "range_high": 183000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:48",
+        "price": 334000000,
+        "current_value": 180000000,
+        "value_change_pct": 0,
+        "range_low": 176000000,
+        "range_high": 183000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2285,13 +4404,26 @@
     "name": "Matth\u00e4us",
     "ovr": 111,
     "position": "CDM",
-    "total_stats": 3143,
-    "foot": "4\u2605 WF / Right",
     "prices": [
       {
-        "timestamp": 1784646941.7235239,
-        "date": "2026-07-21 21:15:41",
-        "price": 1000000000
+        "date": "2026-07-22 01:18:52",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 01:32:49",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   }

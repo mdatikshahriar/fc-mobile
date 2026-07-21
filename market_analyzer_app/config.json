@@ -15,5 +15,14 @@
   },
   "interval_hours": 6,
   "output_file": "profitable_investments.txt",
-  "history_file": "price_history.json"
+  "history_file": "price_history.json",
+  "strategy": {
+    "min_history_points": 4,
+    "min_discount_pct": 0.08,
+    "max_volatility_cv": 0.35,
+    "min_profit_after_tax": 50000000,
+    "market_tax_rate": 0.10,
+    "require_instant_sell_liquidity": true,
+    "max_position_in_range": 0.6
+  }
 }
