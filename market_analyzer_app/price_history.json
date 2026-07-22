@@ -23,6 +23,36 @@
         "range_high": 510000000,
         "buy_now_price": 510000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:13",
+        "price": 500000000,
+        "current_value": 500000000,
+        "value_change_pct": 0,
+        "range_low": 490000000,
+        "range_high": 510000000,
+        "buy_now_price": 510000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:30",
+        "price": 500000000,
+        "current_value": 500000000,
+        "value_change_pct": 0,
+        "range_low": 490000000,
+        "range_high": 510000000,
+        "buy_now_price": 510000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:06:04",
+        "price": 500000000,
+        "current_value": 500000000,
+        "value_change_pct": 0,
+        "range_low": 490000000,
+        "range_high": 510000000,
+        "buy_now_price": 510000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -50,6 +80,36 @@
         "range_high": 215000000,
         "buy_now_price": 215000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:14",
+        "price": 473000000,
+        "current_value": 219000000,
+        "value_change_pct": 1.39,
+        "range_low": 214000000,
+        "range_high": 223000000,
+        "buy_now_price": 215000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:31",
+        "price": 473000000,
+        "current_value": 219000000,
+        "value_change_pct": 0,
+        "range_low": 214000000,
+        "range_high": 223000000,
+        "buy_now_price": 223000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:06:05",
+        "price": 473000000,
+        "current_value": 219000000,
+        "value_change_pct": 0,
+        "range_low": 214000000,
+        "range_high": 223000000,
+        "buy_now_price": 223000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -70,6 +130,36 @@
       },
       {
         "date": "2026-07-22 01:30:54",
+        "price": 1000000000,
+        "current_value": 436000000,
+        "value_change_pct": 0,
+        "range_low": 427000000,
+        "range_high": 444000000,
+        "buy_now_price": 436000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:15",
+        "price": 1000000000,
+        "current_value": 436000000,
+        "value_change_pct": 0,
+        "range_low": 427000000,
+        "range_high": 444000000,
+        "buy_now_price": 436000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:32",
+        "price": 1000000000,
+        "current_value": 436000000,
+        "value_change_pct": 0,
+        "range_low": 427000000,
+        "range_high": 444000000,
+        "buy_now_price": 436000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:06:06",
         "price": 1000000000,
         "current_value": 436000000,
         "value_change_pct": 0,
@@ -104,6 +194,36 @@
         "range_high": 502000000,
         "buy_now_price": 493000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:15",
+        "price": 352000000,
+        "current_value": 493000000,
+        "value_change_pct": 0,
+        "range_low": 483000000,
+        "range_high": 502000000,
+        "buy_now_price": 493000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:32",
+        "price": 352000000,
+        "current_value": 493000000,
+        "value_change_pct": 0,
+        "range_low": 483000000,
+        "range_high": 502000000,
+        "buy_now_price": 493000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:06:06",
+        "price": 352000000,
+        "current_value": 493000000,
+        "value_change_pct": 0,
+        "range_low": 483000000,
+        "range_high": 502000000,
+        "buy_now_price": 493000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -131,6 +251,36 @@
         "range_high": 492000000,
         "buy_now_price": 0,
         "sell_now_price": 476000000
+      },
+      {
+        "date": "2026-07-22 07:35:16",
+        "price": 828000000,
+        "current_value": 476000000,
+        "value_change_pct": 0,
+        "range_low": 466000000,
+        "range_high": 485000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:33",
+        "price": 828000000,
+        "current_value": 476000000,
+        "value_change_pct": 0,
+        "range_low": 466000000,
+        "range_high": 485000000,
+        "buy_now_price": 0,
+        "sell_now_price": 466000000
+      },
+      {
+        "date": "2026-07-22 10:06:07",
+        "price": 828000000,
+        "current_value": 473000000,
+        "value_change_pct": -0.63,
+        "range_low": 463000000,
+        "range_high": 482000000,
+        "buy_now_price": 0,
+        "sell_now_price": 466000000
       }
     ]
   },
@@ -151,6 +301,36 @@
       },
       {
         "date": "2026-07-22 01:30:56",
+        "price": 1000000000,
+        "current_value": 668000000,
+        "value_change_pct": 0,
+        "range_low": 654000000,
+        "range_high": 681000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:17",
+        "price": 1000000000,
+        "current_value": 668000000,
+        "value_change_pct": 0,
+        "range_low": 654000000,
+        "range_high": 681000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:34",
+        "price": 1000000000,
+        "current_value": 668000000,
+        "value_change_pct": 0,
+        "range_low": 654000000,
+        "range_high": 681000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:06:08",
         "price": 1000000000,
         "current_value": 668000000,
         "value_change_pct": 0,
@@ -185,6 +365,36 @@
         "range_high": 483000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:17",
+        "price": 994000000,
+        "current_value": 474000000,
+        "value_change_pct": 0,
+        "range_low": 464000000,
+        "range_high": 483000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:34",
+        "price": 994000000,
+        "current_value": 474000000,
+        "value_change_pct": 0,
+        "range_low": 464000000,
+        "range_high": 483000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:06:08",
+        "price": 994000000,
+        "current_value": 474000000,
+        "value_change_pct": 0,
+        "range_low": 464000000,
+        "range_high": 483000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -212,6 +422,36 @@
         "range_high": 231000000,
         "buy_now_price": 234000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:18",
+        "price": 302000000,
+        "current_value": 227000000,
+        "value_change_pct": 0,
+        "range_low": 222000000,
+        "range_high": 231000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:35",
+        "price": 302000000,
+        "current_value": 227000000,
+        "value_change_pct": 0,
+        "range_low": 222000000,
+        "range_high": 231000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:06:09",
+        "price": 302000000,
+        "current_value": 227000000,
+        "value_change_pct": 0,
+        "range_low": 222000000,
+        "range_high": 231000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -232,6 +472,36 @@
       },
       {
         "date": "2026-07-22 01:30:58",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:19",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:36",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:06:10",
         "price": 1000000000,
         "current_value": 1000000000,
         "value_change_pct": 0,
@@ -266,6 +536,30 @@
         "range_high": 335000000,
         "buy_now_price": 323000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:20",
+        "price": 788000000,
+        "current_value": 337000000,
+        "value_change_pct": 0,
+        "range_low": 330000000,
+        "range_high": 343000000,
+        "buy_now_price": 336000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:36",
+        "price": 788000000,
+        "current_value": 337000000,
+        "value_change_pct": 0,
+        "range_low": 330000000,
+        "range_high": 343000000,
+        "buy_now_price": 336000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:06:10",
+        "price": 788000000
       }
     ]
   },
@@ -286,6 +580,36 @@
       },
       {
         "date": "2026-07-22 01:31:00",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:20",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:37",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:06:21",
         "price": 1000000000,
         "current_value": 1000000000,
         "value_change_pct": 0,
@@ -320,6 +644,36 @@
         "range_high": 1020000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:21",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:38",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:06:22",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -340,6 +694,36 @@
       },
       {
         "date": "2026-07-22 01:31:01",
+        "price": 872000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:22",
+        "price": 872000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:38",
+        "price": 872000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:06:22",
         "price": 872000000,
         "current_value": 1000000000,
         "value_change_pct": 0,
@@ -374,6 +758,36 @@
         "range_high": 65700000,
         "buy_now_price": 65700000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:22",
+        "price": 106000000,
+        "current_value": 65200000,
+        "value_change_pct": -0.61,
+        "range_low": 63800000,
+        "range_high": 66500000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:39",
+        "price": 106000000,
+        "current_value": 64200000,
+        "value_change_pct": -1.53,
+        "range_low": 62900000,
+        "range_high": 65400000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:06:23",
+        "price": 106000000,
+        "current_value": 64200000,
+        "value_change_pct": -1.53,
+        "range_low": 62900000,
+        "range_high": 65400000,
+        "buy_now_price": 65400000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -401,6 +815,36 @@
         "range_high": 377000000,
         "buy_now_price": 0,
         "sell_now_price": 362000000
+      },
+      {
+        "date": "2026-07-22 07:35:23",
+        "price": 353000000,
+        "current_value": 363000000,
+        "value_change_pct": 0,
+        "range_low": 355000000,
+        "range_high": 370000000,
+        "buy_now_price": 0,
+        "sell_now_price": 355000000
+      },
+      {
+        "date": "2026-07-22 09:18:40",
+        "price": 353000000,
+        "current_value": 355000000,
+        "value_change_pct": -2.2,
+        "range_low": 347000000,
+        "range_high": 362000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:06:24",
+        "price": 353000000,
+        "current_value": 355000000,
+        "value_change_pct": -2.2,
+        "range_low": 347000000,
+        "range_high": 362000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -428,6 +872,36 @@
         "range_high": 943000000,
         "buy_now_price": 0,
         "sell_now_price": 943000000
+      },
+      {
+        "date": "2026-07-22 07:35:24",
+        "price": 777000000,
+        "current_value": 925000000,
+        "value_change_pct": 0,
+        "range_low": 906000000,
+        "range_high": 943000000,
+        "buy_now_price": 0,
+        "sell_now_price": 936000000
+      },
+      {
+        "date": "2026-07-22 09:18:40",
+        "price": 777000000,
+        "current_value": 925000000,
+        "value_change_pct": 0,
+        "range_low": 906000000,
+        "range_high": 943000000,
+        "buy_now_price": 0,
+        "sell_now_price": 936000000
+      },
+      {
+        "date": "2026-07-22 10:06:24",
+        "price": 777000000,
+        "current_value": 925000000,
+        "value_change_pct": 0,
+        "range_low": 906000000,
+        "range_high": 943000000,
+        "buy_now_price": 0,
+        "sell_now_price": 936000000
       }
     ]
   },
@@ -455,6 +929,36 @@
         "range_high": 213000000,
         "buy_now_price": 0,
         "sell_now_price": 204000000
+      },
+      {
+        "date": "2026-07-22 07:35:24",
+        "price": 500000000,
+        "current_value": 209000000,
+        "value_change_pct": 1.46,
+        "range_low": 204000000,
+        "range_high": 213000000,
+        "buy_now_price": 0,
+        "sell_now_price": 211000000
+      },
+      {
+        "date": "2026-07-22 09:18:41",
+        "price": 500000000,
+        "current_value": 210000000,
+        "value_change_pct": 0.48,
+        "range_low": 205000000,
+        "range_high": 214000000,
+        "buy_now_price": 0,
+        "sell_now_price": 211000000
+      },
+      {
+        "date": "2026-07-22 10:06:25",
+        "price": 500000000,
+        "current_value": 210000000,
+        "value_change_pct": 0.48,
+        "range_low": 205000000,
+        "range_high": 214000000,
+        "buy_now_price": 0,
+        "sell_now_price": 212000000
       }
     ]
   },
@@ -480,6 +984,36 @@
         "value_change_pct": 0,
         "range_low": 389000000,
         "range_high": 404000000,
+        "buy_now_price": 0,
+        "sell_now_price": 394000000
+      },
+      {
+        "date": "2026-07-22 07:35:25",
+        "price": 846000000,
+        "current_value": 389000000,
+        "value_change_pct": 0,
+        "range_low": 381000000,
+        "range_high": 396000000,
+        "buy_now_price": 0,
+        "sell_now_price": 394000000
+      },
+      {
+        "date": "2026-07-22 09:18:42",
+        "price": 846000000,
+        "current_value": 389000000,
+        "value_change_pct": 0,
+        "range_low": 381000000,
+        "range_high": 396000000,
+        "buy_now_price": 0,
+        "sell_now_price": 394000000
+      },
+      {
+        "date": "2026-07-22 10:06:26",
+        "price": 846000000,
+        "current_value": 389000000,
+        "value_change_pct": 0,
+        "range_low": 381000000,
+        "range_high": 396000000,
         "buy_now_price": 0,
         "sell_now_price": 394000000
       }
@@ -509,6 +1043,36 @@
         "range_high": 59400000,
         "buy_now_price": 0,
         "sell_now_price": 57100000
+      },
+      {
+        "date": "2026-07-22 07:35:26",
+        "price": 341000000,
+        "current_value": 56200000,
+        "value_change_pct": 0,
+        "range_low": 55000000,
+        "range_high": 57300000,
+        "buy_now_price": 56000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:42",
+        "price": 341000000,
+        "current_value": 56900000,
+        "value_change_pct": 1.25,
+        "range_low": 55700000,
+        "range_high": 58000000,
+        "buy_now_price": 56000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:06:26",
+        "price": 341000000,
+        "current_value": 56900000,
+        "value_change_pct": 1.25,
+        "range_low": 55700000,
+        "range_high": 58000000,
+        "buy_now_price": 56000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -536,6 +1100,36 @@
         "range_high": 410000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:27",
+        "price": 206000000,
+        "current_value": 393000000,
+        "value_change_pct": 0,
+        "range_low": 385000000,
+        "range_high": 400000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:43",
+        "price": 206000000,
+        "current_value": 393000000,
+        "value_change_pct": 0,
+        "range_low": 385000000,
+        "range_high": 400000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:06:27",
+        "price": 206000000,
+        "current_value": 393000000,
+        "value_change_pct": 0,
+        "range_low": 385000000,
+        "range_high": 400000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -556,6 +1150,36 @@
       },
       {
         "date": "2026-07-22 01:31:07",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:27",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:44",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:06:28",
         "price": 1000000000,
         "current_value": 1000000000,
         "value_change_pct": 0,
@@ -590,6 +1214,36 @@
         "range_high": 194000000,
         "buy_now_price": 0,
         "sell_now_price": 189000000
+      },
+      {
+        "date": "2026-07-22 07:35:28",
+        "price": 214000000,
+        "current_value": 189000000,
+        "value_change_pct": 0,
+        "range_low": 185000000,
+        "range_high": 192000000,
+        "buy_now_price": 0,
+        "sell_now_price": 192000000
+      },
+      {
+        "date": "2026-07-22 09:18:44",
+        "price": 214000000,
+        "current_value": 192000000,
+        "value_change_pct": 1.59,
+        "range_low": 188000000,
+        "range_high": 195000000,
+        "buy_now_price": 0,
+        "sell_now_price": 192000000
+      },
+      {
+        "date": "2026-07-22 10:06:28",
+        "price": 214000000,
+        "current_value": 192000000,
+        "value_change_pct": 1.59,
+        "range_low": 188000000,
+        "range_high": 195000000,
+        "buy_now_price": 0,
+        "sell_now_price": 192000000
       }
     ]
   },
@@ -616,6 +1270,36 @@
         "range_low": 129000000,
         "range_high": 134000000,
         "buy_now_price": 134000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:29",
+        "price": 209000000,
+        "current_value": 135000000,
+        "value_change_pct": 0,
+        "range_low": 132000000,
+        "range_high": 137000000,
+        "buy_now_price": 132000000,
+        "sell_now_price": 137000000
+      },
+      {
+        "date": "2026-07-22 09:18:45",
+        "price": 209000000,
+        "current_value": 133000000,
+        "value_change_pct": -1.48,
+        "range_low": 130000000,
+        "range_high": 135000000,
+        "buy_now_price": 132000000,
+        "sell_now_price": 137000000
+      },
+      {
+        "date": "2026-07-22 10:06:29",
+        "price": 209000000,
+        "current_value": 133000000,
+        "value_change_pct": -1.48,
+        "range_low": 130000000,
+        "range_high": 135000000,
+        "buy_now_price": 135000000,
         "sell_now_price": 0
       }
     ]
@@ -644,6 +1328,30 @@
         "range_high": 1000000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:29",
+        "price": 1000000000,
+        "current_value": 986000000,
+        "value_change_pct": 0,
+        "range_low": 966000000,
+        "range_high": 1000000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:46",
+        "price": 1000000000,
+        "current_value": 986000000,
+        "value_change_pct": 0,
+        "range_low": 966000000,
+        "range_high": 1000000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:06:30",
+        "price": 1000000000
       }
     ]
   },
@@ -671,6 +1379,36 @@
         "range_high": 360000000,
         "buy_now_price": 360000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:30",
+        "price": 315000000,
+        "current_value": 350000000,
+        "value_change_pct": -0.57,
+        "range_low": 343000000,
+        "range_high": 357000000,
+        "buy_now_price": 0,
+        "sell_now_price": 343000000
+      },
+      {
+        "date": "2026-07-22 09:18:46",
+        "price": 315000000,
+        "current_value": 347000000,
+        "value_change_pct": -0.86,
+        "range_low": 340000000,
+        "range_high": 353000000,
+        "buy_now_price": 353000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:06:40",
+        "price": 315000000,
+        "current_value": 347000000,
+        "value_change_pct": -0.86,
+        "range_low": 340000000,
+        "range_high": 353000000,
+        "buy_now_price": 341000000,
+        "sell_now_price": 353000000
       }
     ]
   },
@@ -698,6 +1436,36 @@
         "range_high": 103000000,
         "buy_now_price": 0,
         "sell_now_price": 100000000
+      },
+      {
+        "date": "2026-07-22 07:35:31",
+        "price": 398000000,
+        "current_value": 99800000,
+        "value_change_pct": -0.2,
+        "range_low": 97800000,
+        "range_high": 101000000,
+        "buy_now_price": 0,
+        "sell_now_price": 99800000
+      },
+      {
+        "date": "2026-07-22 09:18:47",
+        "price": 398000000,
+        "current_value": 99100000,
+        "value_change_pct": -0.7,
+        "range_low": 97100000,
+        "range_high": 101000000,
+        "buy_now_price": 97700000,
+        "sell_now_price": 99900000
+      },
+      {
+        "date": "2026-07-22 10:06:41",
+        "price": 398000000,
+        "current_value": 99100000,
+        "value_change_pct": -0.7,
+        "range_low": 97100000,
+        "range_high": 101000000,
+        "buy_now_price": 0,
+        "sell_now_price": 99900000
       }
     ]
   },
@@ -725,6 +1493,30 @@
         "range_high": 158000000,
         "buy_now_price": 0,
         "sell_now_price": 158000000
+      },
+      {
+        "date": "2026-07-22 07:35:31",
+        "price": 480000000,
+        "current_value": 158000000,
+        "value_change_pct": 0.64,
+        "range_low": 154000000,
+        "range_high": 161000000,
+        "buy_now_price": 160000000,
+        "sell_now_price": 161000000
+      },
+      {
+        "date": "2026-07-22 09:18:48",
+        "price": 480000000,
+        "current_value": 161000000,
+        "value_change_pct": 1.9,
+        "range_low": 157000000,
+        "range_high": 164000000,
+        "buy_now_price": 160000000,
+        "sell_now_price": 161000000
+      },
+      {
+        "date": "2026-07-22 10:06:41",
+        "price": 480000000
       }
     ]
   },
@@ -745,6 +1537,36 @@
       },
       {
         "date": "2026-07-22 01:31:12",
+        "price": 307000000,
+        "current_value": 196000000,
+        "value_change_pct": 0,
+        "range_low": 192000000,
+        "range_high": 199000000,
+        "buy_now_price": 0,
+        "sell_now_price": 196000000
+      },
+      {
+        "date": "2026-07-22 07:35:32",
+        "price": 307000000,
+        "current_value": 196000000,
+        "value_change_pct": 0,
+        "range_low": 192000000,
+        "range_high": 199000000,
+        "buy_now_price": 0,
+        "sell_now_price": 196000000
+      },
+      {
+        "date": "2026-07-22 09:18:48",
+        "price": 307000000,
+        "current_value": 196000000,
+        "value_change_pct": 0,
+        "range_low": 192000000,
+        "range_high": 199000000,
+        "buy_now_price": 0,
+        "sell_now_price": 196000000
+      },
+      {
+        "date": "2026-07-22 10:06:52",
         "price": 307000000,
         "current_value": 196000000,
         "value_change_pct": 0,
@@ -779,6 +1601,36 @@
         "range_high": 379000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:33",
+        "price": 256000000,
+        "current_value": 379000000,
+        "value_change_pct": 1.88,
+        "range_low": 371000000,
+        "range_high": 386000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:49",
+        "price": 256000000,
+        "current_value": 379000000,
+        "value_change_pct": 0,
+        "range_low": 371000000,
+        "range_high": 386000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:06:53",
+        "price": 256000000,
+        "current_value": 379000000,
+        "value_change_pct": 0,
+        "range_low": 371000000,
+        "range_high": 386000000,
+        "buy_now_price": 0,
+        "sell_now_price": 371000000
       }
     ]
   },
@@ -799,6 +1651,36 @@
       },
       {
         "date": "2026-07-22 01:31:14",
+        "price": 496000000,
+        "current_value": 822000000,
+        "value_change_pct": 0,
+        "range_low": 805000000,
+        "range_high": 838000000,
+        "buy_now_price": 0,
+        "sell_now_price": 810000000
+      },
+      {
+        "date": "2026-07-22 07:35:34",
+        "price": 496000000,
+        "current_value": 822000000,
+        "value_change_pct": 0,
+        "range_low": 805000000,
+        "range_high": 838000000,
+        "buy_now_price": 0,
+        "sell_now_price": 810000000
+      },
+      {
+        "date": "2026-07-22 09:18:50",
+        "price": 496000000,
+        "current_value": 822000000,
+        "value_change_pct": 0,
+        "range_low": 805000000,
+        "range_high": 838000000,
+        "buy_now_price": 0,
+        "sell_now_price": 810000000
+      },
+      {
+        "date": "2026-07-22 10:06:53",
         "price": 496000000,
         "current_value": 822000000,
         "value_change_pct": 0,
@@ -833,6 +1715,36 @@
         "range_high": 302000000,
         "buy_now_price": 287000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:34",
+        "price": 546000000,
+        "current_value": 295000000,
+        "value_change_pct": 0,
+        "range_low": 289000000,
+        "range_high": 300000000,
+        "buy_now_price": 0,
+        "sell_now_price": 291000000
+      },
+      {
+        "date": "2026-07-22 09:18:50",
+        "price": 546000000,
+        "current_value": 295000000,
+        "value_change_pct": 0,
+        "range_low": 289000000,
+        "range_high": 300000000,
+        "buy_now_price": 0,
+        "sell_now_price": 291000000
+      },
+      {
+        "date": "2026-07-22 10:06:54",
+        "price": 546000000,
+        "current_value": 295000000,
+        "value_change_pct": 0,
+        "range_low": 289000000,
+        "range_high": 300000000,
+        "buy_now_price": 0,
+        "sell_now_price": 291000000
       }
     ]
   },
@@ -853,6 +1765,36 @@
       },
       {
         "date": "2026-07-22 01:31:15",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:35",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:51",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:06:55",
         "price": 1000000000,
         "current_value": 1000000000,
         "value_change_pct": 0,
@@ -887,6 +1829,36 @@
         "range_high": 153000000,
         "buy_now_price": 153000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:36",
+        "price": 326000000,
+        "current_value": 157000000,
+        "value_change_pct": 1.95,
+        "range_low": 153000000,
+        "range_high": 160000000,
+        "buy_now_price": 160000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:52",
+        "price": 326000000,
+        "current_value": 157000000,
+        "value_change_pct": 0,
+        "range_low": 153000000,
+        "range_high": 160000000,
+        "buy_now_price": 160000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:06:55",
+        "price": 326000000,
+        "current_value": 157000000,
+        "value_change_pct": 0,
+        "range_low": 153000000,
+        "range_high": 160000000,
+        "buy_now_price": 160000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -914,6 +1886,30 @@
         "range_high": 350000000,
         "buy_now_price": 344000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:37",
+        "price": 500000000,
+        "current_value": 344000000,
+        "value_change_pct": 1.78,
+        "range_low": 337000000,
+        "range_high": 350000000,
+        "buy_now_price": 344000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:52",
+        "price": 500000000,
+        "current_value": 337000000,
+        "value_change_pct": -2.03,
+        "range_low": 330000000,
+        "range_high": 343000000,
+        "buy_now_price": 344000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:06:56",
+        "price": 500000000
       }
     ]
   },
@@ -940,6 +1936,36 @@
         "range_low": 120000000,
         "range_high": 125000000,
         "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:37",
+        "price": 129000000,
+        "current_value": 122000000,
+        "value_change_pct": 0,
+        "range_low": 119000000,
+        "range_high": 124000000,
+        "buy_now_price": 0,
+        "sell_now_price": 124000000
+      },
+      {
+        "date": "2026-07-22 09:18:53",
+        "price": 129000000,
+        "current_value": 122000000,
+        "value_change_pct": 0,
+        "range_low": 119000000,
+        "range_high": 124000000,
+        "buy_now_price": 124000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:07:06",
+        "price": 129000000,
+        "current_value": 122000000,
+        "value_change_pct": 0,
+        "range_low": 119000000,
+        "range_high": 124000000,
+        "buy_now_price": 124000000,
         "sell_now_price": 0
       }
     ]
@@ -968,6 +1994,36 @@
         "range_high": 160000000,
         "buy_now_price": 153000000,
         "sell_now_price": 155000000
+      },
+      {
+        "date": "2026-07-22 07:35:38",
+        "price": 213000000,
+        "current_value": 149000000,
+        "value_change_pct": -1.32,
+        "range_low": 146000000,
+        "range_high": 151000000,
+        "buy_now_price": 0,
+        "sell_now_price": 146000000
+      },
+      {
+        "date": "2026-07-22 09:18:53",
+        "price": 213000000,
+        "current_value": 148000000,
+        "value_change_pct": -0.67,
+        "range_low": 145000000,
+        "range_high": 150000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:07:07",
+        "price": 213000000,
+        "current_value": 148000000,
+        "value_change_pct": -0.67,
+        "range_low": 145000000,
+        "range_high": 150000000,
+        "buy_now_price": 150000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -995,6 +2051,36 @@
         "range_high": 109000000,
         "buy_now_price": 109000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:39",
+        "price": 271000000,
+        "current_value": 110000000,
+        "value_change_pct": 0,
+        "range_low": 107000000,
+        "range_high": 112000000,
+        "buy_now_price": 0,
+        "sell_now_price": 112000000
+      },
+      {
+        "date": "2026-07-22 09:18:54",
+        "price": 271000000,
+        "current_value": 107000000,
+        "value_change_pct": -2.73,
+        "range_low": 104000000,
+        "range_high": 109000000,
+        "buy_now_price": 108000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:07:08",
+        "price": 271000000,
+        "current_value": 107000000,
+        "value_change_pct": -2.73,
+        "range_low": 104000000,
+        "range_high": 109000000,
+        "buy_now_price": 0,
+        "sell_now_price": 109000000
       }
     ]
   },
@@ -1022,6 +2108,36 @@
         "range_high": 94100000,
         "buy_now_price": 0,
         "sell_now_price": 90400000
+      },
+      {
+        "date": "2026-07-22 07:35:39",
+        "price": 172000000,
+        "current_value": 90500000,
+        "value_change_pct": -0.66,
+        "range_low": 88600000,
+        "range_high": 92300000,
+        "buy_now_price": 0,
+        "sell_now_price": 89200000
+      },
+      {
+        "date": "2026-07-22 09:18:55",
+        "price": 172000000,
+        "current_value": 90500000,
+        "value_change_pct": 0,
+        "range_low": 88600000,
+        "range_high": 92300000,
+        "buy_now_price": 0,
+        "sell_now_price": 89200000
+      },
+      {
+        "date": "2026-07-22 10:07:08",
+        "price": 172000000,
+        "current_value": 90500000,
+        "value_change_pct": 0,
+        "range_low": 88600000,
+        "range_high": 92300000,
+        "buy_now_price": 0,
+        "sell_now_price": 88600000
       }
     ]
   },
@@ -1048,6 +2164,36 @@
         "range_low": 799000000,
         "range_high": 832000000,
         "buy_now_price": 0,
+        "sell_now_price": 804000000
+      },
+      {
+        "date": "2026-07-22 07:35:40",
+        "price": 1000000000,
+        "current_value": 799000000,
+        "value_change_pct": -2.08,
+        "range_low": 783000000,
+        "range_high": 814000000,
+        "buy_now_price": 799000000,
+        "sell_now_price": 804000000
+      },
+      {
+        "date": "2026-07-22 09:18:55",
+        "price": 1000000000,
+        "current_value": 799000000,
+        "value_change_pct": 0,
+        "range_low": 783000000,
+        "range_high": 814000000,
+        "buy_now_price": 799000000,
+        "sell_now_price": 804000000
+      },
+      {
+        "date": "2026-07-22 10:07:09",
+        "price": 1000000000,
+        "current_value": 799000000,
+        "value_change_pct": 0,
+        "range_low": 783000000,
+        "range_high": 814000000,
+        "buy_now_price": 799000000,
         "sell_now_price": 804000000
       }
     ]
@@ -1076,6 +2222,36 @@
         "range_high": 338000000,
         "buy_now_price": 332000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:41",
+        "price": 226000000,
+        "current_value": 336000000,
+        "value_change_pct": 0,
+        "range_low": 329000000,
+        "range_high": 342000000,
+        "buy_now_price": 332000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:56",
+        "price": 226000000,
+        "current_value": 342000000,
+        "value_change_pct": 1.79,
+        "range_low": 335000000,
+        "range_high": 348000000,
+        "buy_now_price": 332000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:07:10",
+        "price": 226000000,
+        "current_value": 342000000,
+        "value_change_pct": 1.79,
+        "range_low": 335000000,
+        "range_high": 348000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1096,6 +2272,36 @@
       },
       {
         "date": "2026-07-22 01:31:21",
+        "price": 626000000,
+        "current_value": 569000000,
+        "value_change_pct": 0,
+        "range_low": 557000000,
+        "range_high": 580000000,
+        "buy_now_price": 0,
+        "sell_now_price": 561000000
+      },
+      {
+        "date": "2026-07-22 07:35:41",
+        "price": 626000000,
+        "current_value": 569000000,
+        "value_change_pct": 0,
+        "range_low": 557000000,
+        "range_high": 580000000,
+        "buy_now_price": 0,
+        "sell_now_price": 561000000
+      },
+      {
+        "date": "2026-07-22 09:18:57",
+        "price": 626000000,
+        "current_value": 569000000,
+        "value_change_pct": 0,
+        "range_low": 557000000,
+        "range_high": 580000000,
+        "buy_now_price": 0,
+        "sell_now_price": 561000000
+      },
+      {
+        "date": "2026-07-22 10:07:10",
         "price": 626000000,
         "current_value": 569000000,
         "value_change_pct": 0,
@@ -1130,6 +2336,36 @@
         "range_high": 572000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:42",
+        "price": 522000000,
+        "current_value": 561000000,
+        "value_change_pct": 0,
+        "range_low": 549000000,
+        "range_high": 572000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:57",
+        "price": 522000000,
+        "current_value": 561000000,
+        "value_change_pct": 0,
+        "range_low": 549000000,
+        "range_high": 572000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:07:11",
+        "price": 522000000,
+        "current_value": 561000000,
+        "value_change_pct": 0,
+        "range_low": 549000000,
+        "range_high": 572000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1157,6 +2393,36 @@
         "range_high": 485000000,
         "buy_now_price": 0,
         "sell_now_price": 485000000
+      },
+      {
+        "date": "2026-07-22 07:35:43",
+        "price": 513000000,
+        "current_value": 485000000,
+        "value_change_pct": 0,
+        "range_low": 475000000,
+        "range_high": 494000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:58",
+        "price": 513000000,
+        "current_value": 485000000,
+        "value_change_pct": 0,
+        "range_low": 475000000,
+        "range_high": 494000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:07:12",
+        "price": 513000000,
+        "current_value": 485000000,
+        "value_change_pct": 0,
+        "range_low": 475000000,
+        "range_high": 494000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1182,6 +2448,36 @@
         "value_change_pct": 0,
         "range_low": 387000000,
         "range_high": 402000000,
+        "buy_now_price": 395000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:44",
+        "price": 570000000,
+        "current_value": 387000000,
+        "value_change_pct": -2.03,
+        "range_low": 379000000,
+        "range_high": 394000000,
+        "buy_now_price": 395000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:18:59",
+        "price": 570000000,
+        "current_value": 387000000,
+        "value_change_pct": 0,
+        "range_low": 379000000,
+        "range_high": 394000000,
+        "buy_now_price": 395000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:07:12",
+        "price": 570000000,
+        "current_value": 387000000,
+        "value_change_pct": 0,
+        "range_low": 379000000,
+        "range_high": 394000000,
         "buy_now_price": 395000000,
         "sell_now_price": 0
       }
@@ -1211,6 +2507,36 @@
         "range_high": 255000000,
         "buy_now_price": 250000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:44",
+        "price": 323000000,
+        "current_value": 251000000,
+        "value_change_pct": 1.21,
+        "range_low": 245000000,
+        "range_high": 256000000,
+        "buy_now_price": 252000000,
+        "sell_now_price": 255000000
+      },
+      {
+        "date": "2026-07-22 09:18:59",
+        "price": 323000000,
+        "current_value": 252000000,
+        "value_change_pct": 0.4,
+        "range_low": 246000000,
+        "range_high": 257000000,
+        "buy_now_price": 0,
+        "sell_now_price": 257000000
+      },
+      {
+        "date": "2026-07-22 10:07:13",
+        "price": 323000000,
+        "current_value": 252000000,
+        "value_change_pct": 0.4,
+        "range_low": 246000000,
+        "range_high": 257000000,
+        "buy_now_price": 0,
+        "sell_now_price": 246000000
       }
     ]
   },
@@ -1238,6 +2564,36 @@
         "range_high": 52600000,
         "buy_now_price": 52600000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:45",
+        "price": 124000000,
+        "current_value": 53700000,
+        "value_change_pct": 1.51,
+        "range_low": 52600000,
+        "range_high": 54700000,
+        "buy_now_price": 53900000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:00",
+        "price": 124000000,
+        "current_value": 53800000,
+        "value_change_pct": 0.19,
+        "range_low": 52700000,
+        "range_high": 54800000,
+        "buy_now_price": 54800000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:07:24",
+        "price": 124000000,
+        "current_value": 53800000,
+        "value_change_pct": 0.19,
+        "range_low": 52700000,
+        "range_high": 54800000,
+        "buy_now_price": 54800000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1258,6 +2614,36 @@
       },
       {
         "date": "2026-07-22 01:31:26",
+        "price": 925000000,
+        "current_value": 990000000,
+        "value_change_pct": 0,
+        "range_low": 970000000,
+        "range_high": 1000000000,
+        "buy_now_price": 990000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:46",
+        "price": 925000000,
+        "current_value": 990000000,
+        "value_change_pct": 0,
+        "range_low": 970000000,
+        "range_high": 1000000000,
+        "buy_now_price": 990000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:01",
+        "price": 925000000,
+        "current_value": 990000000,
+        "value_change_pct": 0,
+        "range_low": 970000000,
+        "range_high": 1000000000,
+        "buy_now_price": 990000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:07:24",
         "price": 925000000,
         "current_value": 990000000,
         "value_change_pct": 0,
@@ -1292,6 +2678,30 @@
         "range_high": 591000000,
         "buy_now_price": 569000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:46",
+        "price": 449000000,
+        "current_value": 576000000,
+        "value_change_pct": 0,
+        "range_low": 564000000,
+        "range_high": 587000000,
+        "buy_now_price": 569000000,
+        "sell_now_price": 570000000
+      },
+      {
+        "date": "2026-07-22 09:19:01",
+        "price": 449000000,
+        "current_value": 570000000,
+        "value_change_pct": -1.04,
+        "range_low": 558000000,
+        "range_high": 581000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:07:25",
+        "price": 449000000
       }
     ]
   },
@@ -1312,6 +2722,36 @@
       },
       {
         "date": "2026-07-22 01:31:27",
+        "price": 500000000,
+        "current_value": 500000000,
+        "value_change_pct": 0,
+        "range_low": 490000000,
+        "range_high": 510000000,
+        "buy_now_price": 510000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:47",
+        "price": 500000000,
+        "current_value": 500000000,
+        "value_change_pct": 0,
+        "range_low": 490000000,
+        "range_high": 510000000,
+        "buy_now_price": 510000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:02",
+        "price": 500000000,
+        "current_value": 500000000,
+        "value_change_pct": 0,
+        "range_low": 490000000,
+        "range_high": 510000000,
+        "buy_now_price": 510000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:07:35",
         "price": 500000000,
         "current_value": 500000000,
         "value_change_pct": 0,
@@ -1346,6 +2786,30 @@
         "range_high": 322000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:48",
+        "price": 521000000,
+        "current_value": 316000000,
+        "value_change_pct": 0,
+        "range_low": 309000000,
+        "range_high": 322000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:03",
+        "price": 521000000,
+        "current_value": 309000000,
+        "value_change_pct": -2.22,
+        "range_low": 302000000,
+        "range_high": 315000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:07:36",
+        "price": 521000000
       }
     ]
   },
@@ -1373,6 +2837,30 @@
         "range_high": 1020000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:48",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:03",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:07:46",
+        "price": 1000000000
       }
     ]
   },
@@ -1400,6 +2888,30 @@
         "range_high": 314000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:49",
+        "price": 334000000,
+        "current_value": 308000000,
+        "value_change_pct": 0,
+        "range_low": 301000000,
+        "range_high": 314000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:04",
+        "price": 334000000,
+        "current_value": 308000000,
+        "value_change_pct": 0,
+        "range_low": 301000000,
+        "range_high": 314000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:07:57",
+        "price": 334000000
       }
     ]
   },
@@ -1420,6 +2932,36 @@
       },
       {
         "date": "2026-07-22 01:31:30",
+        "price": 177000000,
+        "current_value": 294000000,
+        "value_change_pct": 0,
+        "range_low": 288000000,
+        "range_high": 299000000,
+        "buy_now_price": 294000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:50",
+        "price": 177000000,
+        "current_value": 294000000,
+        "value_change_pct": 0,
+        "range_low": 288000000,
+        "range_high": 299000000,
+        "buy_now_price": 294000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:05",
+        "price": 177000000,
+        "current_value": 294000000,
+        "value_change_pct": 0,
+        "range_low": 288000000,
+        "range_high": 299000000,
+        "buy_now_price": 294000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:08:07",
         "price": 177000000,
         "current_value": 294000000,
         "value_change_pct": 0,
@@ -1454,6 +2996,36 @@
         "range_high": 170000000,
         "buy_now_price": 161000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:51",
+        "price": 147000000,
+        "current_value": 173000000,
+        "value_change_pct": 1.76,
+        "range_low": 169000000,
+        "range_high": 176000000,
+        "buy_now_price": 173000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:05",
+        "price": 147000000,
+        "current_value": 173000000,
+        "value_change_pct": 0,
+        "range_low": 169000000,
+        "range_high": 176000000,
+        "buy_now_price": 173000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:08:08",
+        "price": 147000000,
+        "current_value": 173000000,
+        "value_change_pct": 0,
+        "range_low": 169000000,
+        "range_high": 176000000,
+        "buy_now_price": 173000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1474,6 +3046,36 @@
       },
       {
         "date": "2026-07-22 01:31:32",
+        "price": 1000000000,
+        "current_value": 782000000,
+        "value_change_pct": 0,
+        "range_low": 766000000,
+        "range_high": 797000000,
+        "buy_now_price": 767000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:51",
+        "price": 1000000000,
+        "current_value": 782000000,
+        "value_change_pct": 0,
+        "range_low": 766000000,
+        "range_high": 797000000,
+        "buy_now_price": 767000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:06",
+        "price": 1000000000,
+        "current_value": 782000000,
+        "value_change_pct": 0,
+        "range_low": 766000000,
+        "range_high": 797000000,
+        "buy_now_price": 767000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:08:09",
         "price": 1000000000,
         "current_value": 782000000,
         "value_change_pct": 0,
@@ -1508,6 +3110,36 @@
         "range_high": 999000000,
         "buy_now_price": 999000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:52",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0.1,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:07",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:08:09",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1535,6 +3167,30 @@
         "range_high": 102000000,
         "buy_now_price": 0,
         "sell_now_price": 98000000
+      },
+      {
+        "date": "2026-07-22 07:35:53",
+        "price": 262000000,
+        "current_value": 96600000,
+        "value_change_pct": -2.03,
+        "range_low": 94600000,
+        "range_high": 98500000,
+        "buy_now_price": 98500000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:07",
+        "price": 262000000,
+        "current_value": 97900000,
+        "value_change_pct": 1.35,
+        "range_low": 95900000,
+        "range_high": 99800000,
+        "buy_now_price": 0,
+        "sell_now_price": 99800000
+      },
+      {
+        "date": "2026-07-22 10:08:10",
+        "price": 262000000
       }
     ]
   },
@@ -1562,6 +3218,36 @@
         "range_high": 290000000,
         "buy_now_price": 0,
         "sell_now_price": 284000000
+      },
+      {
+        "date": "2026-07-22 07:35:53",
+        "price": 402000000,
+        "current_value": 280000000,
+        "value_change_pct": 0.36,
+        "range_low": 274000000,
+        "range_high": 285000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:08",
+        "price": 402000000,
+        "current_value": 284000000,
+        "value_change_pct": 1.43,
+        "range_low": 278000000,
+        "range_high": 289000000,
+        "buy_now_price": 278000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:08:21",
+        "price": 402000000,
+        "current_value": 284000000,
+        "value_change_pct": 1.43,
+        "range_low": 278000000,
+        "range_high": 289000000,
+        "buy_now_price": 278000000,
+        "sell_now_price": 289000000
       }
     ]
   },
@@ -1589,6 +3275,30 @@
         "range_high": 1020000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:54",
+        "price": 973000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:09",
+        "price": 973000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:08:21",
+        "price": 973000000
       }
     ]
   },
@@ -1616,6 +3326,36 @@
         "range_high": 139000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:55",
+        "price": 191000000,
+        "current_value": 139000000,
+        "value_change_pct": 0,
+        "range_low": 136000000,
+        "range_high": 141000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:09",
+        "price": 191000000,
+        "current_value": 138000000,
+        "value_change_pct": -0.72,
+        "range_low": 135000000,
+        "range_high": 140000000,
+        "buy_now_price": 0,
+        "sell_now_price": 136000000
+      },
+      {
+        "date": "2026-07-22 10:08:32",
+        "price": 191000000,
+        "current_value": 138000000,
+        "value_change_pct": -0.72,
+        "range_low": 135000000,
+        "range_high": 140000000,
+        "buy_now_price": 0,
+        "sell_now_price": 136000000
       }
     ]
   },
@@ -1643,6 +3383,36 @@
         "range_high": 183000000,
         "buy_now_price": 183000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:56",
+        "price": 109000000,
+        "current_value": 184000000,
+        "value_change_pct": 0,
+        "range_low": 180000000,
+        "range_high": 187000000,
+        "buy_now_price": 184000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:10",
+        "price": 109000000,
+        "current_value": 186000000,
+        "value_change_pct": 1.09,
+        "range_low": 182000000,
+        "range_high": 189000000,
+        "buy_now_price": 189000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:08:32",
+        "price": 109000000,
+        "current_value": 186000000,
+        "value_change_pct": 1.09,
+        "range_low": 182000000,
+        "range_high": 189000000,
+        "buy_now_price": 189000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1663,6 +3433,36 @@
       },
       {
         "date": "2026-07-22 01:31:37",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:56",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:11",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:08:33",
         "price": 1000000000,
         "current_value": 1000000000,
         "value_change_pct": 0,
@@ -1697,6 +3497,36 @@
         "range_high": 457000000,
         "buy_now_price": 441000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:57",
+        "price": 405000000,
+        "current_value": 457000000,
+        "value_change_pct": 0,
+        "range_low": 447000000,
+        "range_high": 466000000,
+        "buy_now_price": 441000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:11",
+        "price": 405000000,
+        "current_value": 457000000,
+        "value_change_pct": 0,
+        "range_low": 447000000,
+        "range_high": 466000000,
+        "buy_now_price": 441000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:08:34",
+        "price": 405000000,
+        "current_value": 457000000,
+        "value_change_pct": 0,
+        "range_low": 447000000,
+        "range_high": 466000000,
+        "buy_now_price": 441000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1724,6 +3554,36 @@
         "range_high": 309000000,
         "buy_now_price": 309000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:58",
+        "price": 450000000,
+        "current_value": 301000000,
+        "value_change_pct": 0,
+        "range_low": 294000000,
+        "range_high": 307000000,
+        "buy_now_price": 294000000,
+        "sell_now_price": 307000000
+      },
+      {
+        "date": "2026-07-22 09:19:12",
+        "price": 450000000,
+        "current_value": 307000000,
+        "value_change_pct": 1.99,
+        "range_low": 300000000,
+        "range_high": 313000000,
+        "buy_now_price": 309000000,
+        "sell_now_price": 313000000
+      },
+      {
+        "date": "2026-07-22 10:08:34",
+        "price": 450000000,
+        "current_value": 307000000,
+        "value_change_pct": 1.99,
+        "range_low": 300000000,
+        "range_high": 313000000,
+        "buy_now_price": 309000000,
+        "sell_now_price": 313000000
       }
     ]
   },
@@ -1751,6 +3611,36 @@
         "range_high": 191000000,
         "buy_now_price": 188000000,
         "sell_now_price": 189000000
+      },
+      {
+        "date": "2026-07-22 07:35:58",
+        "price": 203000000,
+        "current_value": 190000000,
+        "value_change_pct": 0.53,
+        "range_low": 186000000,
+        "range_high": 193000000,
+        "buy_now_price": 186000000,
+        "sell_now_price": 190000000
+      },
+      {
+        "date": "2026-07-22 09:19:13",
+        "price": 203000000,
+        "current_value": 189000000,
+        "value_change_pct": -0.53,
+        "range_low": 185000000,
+        "range_high": 192000000,
+        "buy_now_price": 186000000,
+        "sell_now_price": 192000000
+      },
+      {
+        "date": "2026-07-22 10:08:35",
+        "price": 203000000,
+        "current_value": 189000000,
+        "value_change_pct": -0.53,
+        "range_low": 185000000,
+        "range_high": 192000000,
+        "buy_now_price": 186000000,
+        "sell_now_price": 192000000
       }
     ]
   },
@@ -1776,6 +3666,36 @@
         "value_change_pct": 1.26,
         "range_low": 945000000,
         "range_high": 984000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:35:59",
+        "price": 950000000,
+        "current_value": 984000000,
+        "value_change_pct": 0,
+        "range_low": 964000000,
+        "range_high": 1000000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:13",
+        "price": 950000000,
+        "current_value": 984000000,
+        "value_change_pct": 0,
+        "range_low": 964000000,
+        "range_high": 1000000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:08:36",
+        "price": 950000000,
+        "current_value": 984000000,
+        "value_change_pct": 0,
+        "range_low": 964000000,
+        "range_high": 1000000000,
         "buy_now_price": 0,
         "sell_now_price": 0
       }
@@ -1805,6 +3725,36 @@
         "range_high": 148000000,
         "buy_now_price": 146000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:00",
+        "price": 250000000,
+        "current_value": 143000000,
+        "value_change_pct": 0,
+        "range_low": 140000000,
+        "range_high": 145000000,
+        "buy_now_price": 145000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:14",
+        "price": 250000000,
+        "current_value": 145000000,
+        "value_change_pct": 1.4,
+        "range_low": 142000000,
+        "range_high": 147000000,
+        "buy_now_price": 145000000,
+        "sell_now_price": 146000000
+      },
+      {
+        "date": "2026-07-22 10:08:36",
+        "price": 250000000,
+        "current_value": 145000000,
+        "value_change_pct": 1.4,
+        "range_low": 142000000,
+        "range_high": 147000000,
+        "buy_now_price": 145000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1832,6 +3782,36 @@
         "range_high": 1130000000,
         "buy_now_price": 0,
         "sell_now_price": 1080000000
+      },
+      {
+        "date": "2026-07-22 07:36:01",
+        "price": 861000000,
+        "current_value": 1100000000,
+        "value_change_pct": 0,
+        "range_low": 1070000000,
+        "range_high": 1120000000,
+        "buy_now_price": 0,
+        "sell_now_price": 1080000000
+      },
+      {
+        "date": "2026-07-22 09:19:15",
+        "price": 861000000,
+        "current_value": 1100000000,
+        "value_change_pct": 0,
+        "range_low": 1070000000,
+        "range_high": 1120000000,
+        "buy_now_price": 0,
+        "sell_now_price": 1080000000
+      },
+      {
+        "date": "2026-07-22 10:08:37",
+        "price": 861000000,
+        "current_value": 1100000000,
+        "value_change_pct": 0,
+        "range_low": 1070000000,
+        "range_high": 1120000000,
+        "buy_now_price": 0,
+        "sell_now_price": 1080000000
       }
     ]
   },
@@ -1852,6 +3832,36 @@
       },
       {
         "date": "2026-07-22 01:31:41",
+        "price": 727000000,
+        "current_value": 391000000,
+        "value_change_pct": 0,
+        "range_low": 383000000,
+        "range_high": 398000000,
+        "buy_now_price": 390000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:01",
+        "price": 727000000,
+        "current_value": 391000000,
+        "value_change_pct": 0,
+        "range_low": 383000000,
+        "range_high": 398000000,
+        "buy_now_price": 390000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:16",
+        "price": 727000000,
+        "current_value": 391000000,
+        "value_change_pct": 0,
+        "range_low": 383000000,
+        "range_high": 398000000,
+        "buy_now_price": 390000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:08:38",
         "price": 727000000,
         "current_value": 391000000,
         "value_change_pct": 0,
@@ -1886,6 +3896,30 @@
         "range_high": 461000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:02",
+        "price": 725000000,
+        "current_value": 452000000,
+        "value_change_pct": 0,
+        "range_low": 442000000,
+        "range_high": 461000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:16",
+        "price": 725000000,
+        "current_value": 452000000,
+        "value_change_pct": 0,
+        "range_low": 442000000,
+        "range_high": 461000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:08:38",
+        "price": 725000000
       }
     ]
   },
@@ -1913,6 +3947,36 @@
         "range_high": 999000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:03",
+        "price": 947000000,
+        "current_value": 999000000,
+        "value_change_pct": 0,
+        "range_low": 979000000,
+        "range_high": 1010000000,
+        "buy_now_price": 999000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:17",
+        "price": 947000000,
+        "current_value": 999000000,
+        "value_change_pct": 0,
+        "range_low": 979000000,
+        "range_high": 1010000000,
+        "buy_now_price": 999000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:08:49",
+        "price": 947000000,
+        "current_value": 999000000,
+        "value_change_pct": 0,
+        "range_low": 979000000,
+        "range_high": 1010000000,
+        "buy_now_price": 999000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1933,6 +3997,36 @@
       },
       {
         "date": "2026-07-22 01:31:44",
+        "price": 1000000000,
+        "current_value": 662000000,
+        "value_change_pct": 0,
+        "range_low": 648000000,
+        "range_high": 675000000,
+        "buy_now_price": 0,
+        "sell_now_price": 652000000
+      },
+      {
+        "date": "2026-07-22 07:36:03",
+        "price": 1000000000,
+        "current_value": 662000000,
+        "value_change_pct": 0,
+        "range_low": 648000000,
+        "range_high": 675000000,
+        "buy_now_price": 0,
+        "sell_now_price": 652000000
+      },
+      {
+        "date": "2026-07-22 09:19:18",
+        "price": 1000000000,
+        "current_value": 662000000,
+        "value_change_pct": 0,
+        "range_low": 648000000,
+        "range_high": 675000000,
+        "buy_now_price": 0,
+        "sell_now_price": 652000000
+      },
+      {
+        "date": "2026-07-22 10:08:50",
         "price": 1000000000,
         "current_value": 662000000,
         "value_change_pct": 0,
@@ -1967,6 +4061,36 @@
         "range_high": 789000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:04",
+        "price": 950000000,
+        "current_value": 774000000,
+        "value_change_pct": 0,
+        "range_low": 758000000,
+        "range_high": 789000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:18",
+        "price": 950000000,
+        "current_value": 774000000,
+        "value_change_pct": 0,
+        "range_low": 758000000,
+        "range_high": 789000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:08:50",
+        "price": 950000000,
+        "current_value": 774000000,
+        "value_change_pct": 0,
+        "range_low": 758000000,
+        "range_high": 789000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -1987,6 +4111,36 @@
       },
       {
         "date": "2026-07-22 01:31:45",
+        "price": 1000000000,
+        "current_value": 933000000,
+        "value_change_pct": 0,
+        "range_low": 914000000,
+        "range_high": 951000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:05",
+        "price": 1000000000,
+        "current_value": 933000000,
+        "value_change_pct": 0,
+        "range_low": 914000000,
+        "range_high": 951000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:19",
+        "price": 1000000000,
+        "current_value": 933000000,
+        "value_change_pct": 0,
+        "range_low": 914000000,
+        "range_high": 951000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:08:51",
         "price": 1000000000,
         "current_value": 933000000,
         "value_change_pct": 0,
@@ -2021,6 +4175,36 @@
         "range_high": 454000000,
         "buy_now_price": 0,
         "sell_now_price": 440000000
+      },
+      {
+        "date": "2026-07-22 07:36:05",
+        "price": 672000000,
+        "current_value": 446000000,
+        "value_change_pct": 0,
+        "range_low": 437000000,
+        "range_high": 454000000,
+        "buy_now_price": 0,
+        "sell_now_price": 440000000
+      },
+      {
+        "date": "2026-07-22 09:19:20",
+        "price": 672000000,
+        "current_value": 446000000,
+        "value_change_pct": 0,
+        "range_low": 437000000,
+        "range_high": 454000000,
+        "buy_now_price": 0,
+        "sell_now_price": 440000000
+      },
+      {
+        "date": "2026-07-22 10:08:52",
+        "price": 672000000,
+        "current_value": 446000000,
+        "value_change_pct": 0,
+        "range_low": 437000000,
+        "range_high": 454000000,
+        "buy_now_price": 0,
+        "sell_now_price": 440000000
       }
     ]
   },
@@ -2041,6 +4225,36 @@
       },
       {
         "date": "2026-07-22 01:31:46",
+        "price": 989000000,
+        "current_value": 765000000,
+        "value_change_pct": 0,
+        "range_low": 749000000,
+        "range_high": 780000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:06",
+        "price": 989000000,
+        "current_value": 765000000,
+        "value_change_pct": 0,
+        "range_low": 749000000,
+        "range_high": 780000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:20",
+        "price": 989000000,
+        "current_value": 765000000,
+        "value_change_pct": 0,
+        "range_low": 749000000,
+        "range_high": 780000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:08:57",
         "price": 989000000,
         "current_value": 765000000,
         "value_change_pct": 0,
@@ -2075,6 +4289,36 @@
         "range_high": 398000000,
         "buy_now_price": 0,
         "sell_now_price": 386000000
+      },
+      {
+        "date": "2026-07-22 07:36:07",
+        "price": 1000000000,
+        "current_value": 391000000,
+        "value_change_pct": 0,
+        "range_low": 383000000,
+        "range_high": 398000000,
+        "buy_now_price": 0,
+        "sell_now_price": 386000000
+      },
+      {
+        "date": "2026-07-22 09:19:21",
+        "price": 1000000000,
+        "current_value": 391000000,
+        "value_change_pct": 0,
+        "range_low": 383000000,
+        "range_high": 398000000,
+        "buy_now_price": 0,
+        "sell_now_price": 386000000
+      },
+      {
+        "date": "2026-07-22 10:08:58",
+        "price": 1000000000,
+        "current_value": 391000000,
+        "value_change_pct": 0,
+        "range_low": 383000000,
+        "range_high": 398000000,
+        "buy_now_price": 0,
+        "sell_now_price": 386000000
       }
     ]
   },
@@ -2100,6 +4344,36 @@
         "value_change_pct": -0.79,
         "range_low": 490000000,
         "range_high": 510000000,
+        "buy_now_price": 497000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:08",
+        "price": 454000000,
+        "current_value": 515000000,
+        "value_change_pct": 1.98,
+        "range_low": 504000000,
+        "range_high": 525000000,
+        "buy_now_price": 497000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:22",
+        "price": 454000000,
+        "current_value": 515000000,
+        "value_change_pct": 1.98,
+        "range_low": 504000000,
+        "range_high": 525000000,
+        "buy_now_price": 497000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:08:59",
+        "price": 454000000,
+        "current_value": 515000000,
+        "value_change_pct": 0,
+        "range_low": 504000000,
+        "range_high": 525000000,
         "buy_now_price": 497000000,
         "sell_now_price": 0
       }
@@ -2129,6 +4403,36 @@
         "range_high": 54100000,
         "buy_now_price": 0,
         "sell_now_price": 54100000
+      },
+      {
+        "date": "2026-07-22 07:36:08",
+        "price": 222000000,
+        "current_value": 55400000,
+        "value_change_pct": 1.84,
+        "range_low": 54200000,
+        "range_high": 56500000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:22",
+        "price": 222000000,
+        "current_value": 55300000,
+        "value_change_pct": -0.18,
+        "range_low": 54100000,
+        "range_high": 56400000,
+        "buy_now_price": 0,
+        "sell_now_price": 54100000
+      },
+      {
+        "date": "2026-07-22 10:09:00",
+        "price": 222000000,
+        "current_value": 55300000,
+        "value_change_pct": -0.18,
+        "range_low": 54100000,
+        "range_high": 56400000,
+        "buy_now_price": 56400000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2156,6 +4460,36 @@
         "range_high": 669000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:09",
+        "price": 1000000000,
+        "current_value": 669000000,
+        "value_change_pct": 0,
+        "range_low": 655000000,
+        "range_high": 682000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:23",
+        "price": 1000000000,
+        "current_value": 669000000,
+        "value_change_pct": 0,
+        "range_low": 655000000,
+        "range_high": 682000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:09:01",
+        "price": 1000000000,
+        "current_value": 669000000,
+        "value_change_pct": 0,
+        "range_low": 655000000,
+        "range_high": 682000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2176,6 +4510,36 @@
       },
       {
         "date": "2026-07-22 01:31:50",
+        "price": 606000000,
+        "current_value": 504000000,
+        "value_change_pct": 0,
+        "range_low": 493000000,
+        "range_high": 514000000,
+        "buy_now_price": 0,
+        "sell_now_price": 496000000
+      },
+      {
+        "date": "2026-07-22 07:36:10",
+        "price": 606000000,
+        "current_value": 504000000,
+        "value_change_pct": 0,
+        "range_low": 493000000,
+        "range_high": 514000000,
+        "buy_now_price": 0,
+        "sell_now_price": 496000000
+      },
+      {
+        "date": "2026-07-22 09:19:24",
+        "price": 606000000,
+        "current_value": 504000000,
+        "value_change_pct": 0,
+        "range_low": 493000000,
+        "range_high": 514000000,
+        "buy_now_price": 0,
+        "sell_now_price": 496000000
+      },
+      {
+        "date": "2026-07-22 10:09:01",
         "price": 606000000,
         "current_value": 504000000,
         "value_change_pct": 0,
@@ -2210,6 +4574,36 @@
         "range_high": 498000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:10",
+        "price": 878000000,
+        "current_value": 489000000,
+        "value_change_pct": 0,
+        "range_low": 479000000,
+        "range_high": 498000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:24",
+        "price": 878000000,
+        "current_value": 489000000,
+        "value_change_pct": 0,
+        "range_low": 479000000,
+        "range_high": 498000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:09:02",
+        "price": 878000000,
+        "current_value": 489000000,
+        "value_change_pct": 0,
+        "range_low": 479000000,
+        "range_high": 498000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2230,6 +4624,36 @@
       },
       {
         "date": "2026-07-22 01:31:51",
+        "price": 941000000,
+        "current_value": 729000000,
+        "value_change_pct": 0,
+        "range_low": 714000000,
+        "range_high": 743000000,
+        "buy_now_price": 0,
+        "sell_now_price": 719000000
+      },
+      {
+        "date": "2026-07-22 07:36:11",
+        "price": 941000000,
+        "current_value": 729000000,
+        "value_change_pct": 0,
+        "range_low": 714000000,
+        "range_high": 743000000,
+        "buy_now_price": 0,
+        "sell_now_price": 719000000
+      },
+      {
+        "date": "2026-07-22 09:19:25",
+        "price": 941000000,
+        "current_value": 729000000,
+        "value_change_pct": 0,
+        "range_low": 714000000,
+        "range_high": 743000000,
+        "buy_now_price": 0,
+        "sell_now_price": 719000000
+      },
+      {
+        "date": "2026-07-22 10:09:03",
         "price": 941000000,
         "current_value": 729000000,
         "value_change_pct": 0,
@@ -2264,6 +4688,36 @@
         "range_high": 479000000,
         "buy_now_price": 480000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:12",
+        "price": 494000000,
+        "current_value": 470000000,
+        "value_change_pct": 0,
+        "range_low": 460000000,
+        "range_high": 479000000,
+        "buy_now_price": 480000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:26",
+        "price": 494000000,
+        "current_value": 470000000,
+        "value_change_pct": 0,
+        "range_low": 460000000,
+        "range_high": 479000000,
+        "buy_now_price": 480000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:09:03",
+        "price": 494000000,
+        "current_value": 470000000,
+        "value_change_pct": 0,
+        "range_low": 460000000,
+        "range_high": 479000000,
+        "buy_now_price": 480000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2291,6 +4745,36 @@
         "range_high": 749000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:13",
+        "price": 749000000,
+        "current_value": 735000000,
+        "value_change_pct": 0,
+        "range_low": 720000000,
+        "range_high": 749000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:27",
+        "price": 749000000,
+        "current_value": 730000000,
+        "value_change_pct": -0.68,
+        "range_low": 715000000,
+        "range_high": 744000000,
+        "buy_now_price": 0,
+        "sell_now_price": 720000000
+      },
+      {
+        "date": "2026-07-22 10:09:04",
+        "price": 749000000,
+        "current_value": 730000000,
+        "value_change_pct": -0.68,
+        "range_low": 715000000,
+        "range_high": 744000000,
+        "buy_now_price": 0,
+        "sell_now_price": 720000000
       }
     ]
   },
@@ -2311,6 +4795,36 @@
       },
       {
         "date": "2026-07-22 01:31:53",
+        "price": 803000000,
+        "current_value": 672000000,
+        "value_change_pct": 0,
+        "range_low": 658000000,
+        "range_high": 685000000,
+        "buy_now_price": 672000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:13",
+        "price": 803000000,
+        "current_value": 672000000,
+        "value_change_pct": 0,
+        "range_low": 658000000,
+        "range_high": 685000000,
+        "buy_now_price": 672000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:28",
+        "price": 803000000,
+        "current_value": 672000000,
+        "value_change_pct": 0,
+        "range_low": 658000000,
+        "range_high": 685000000,
+        "buy_now_price": 672000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:09:05",
         "price": 803000000,
         "current_value": 672000000,
         "value_change_pct": 0,
@@ -2345,6 +4859,36 @@
         "range_high": 172000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:14",
+        "price": 290000000,
+        "current_value": 171000000,
+        "value_change_pct": 1.79,
+        "range_low": 167000000,
+        "range_high": 174000000,
+        "buy_now_price": 171000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:28",
+        "price": 290000000,
+        "current_value": 171000000,
+        "value_change_pct": 1.79,
+        "range_low": 167000000,
+        "range_high": 174000000,
+        "buy_now_price": 171000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:09:05",
+        "price": 290000000,
+        "current_value": 174000000,
+        "value_change_pct": 1.75,
+        "range_low": 170000000,
+        "range_high": 177000000,
+        "buy_now_price": 171000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2372,6 +4916,36 @@
         "range_high": 483000000,
         "buy_now_price": 0,
         "sell_now_price": 467000000
+      },
+      {
+        "date": "2026-07-22 07:36:15",
+        "price": 151000000,
+        "current_value": 464000000,
+        "value_change_pct": -2.11,
+        "range_low": 454000000,
+        "range_high": 473000000,
+        "buy_now_price": 0,
+        "sell_now_price": 464000000
+      },
+      {
+        "date": "2026-07-22 09:19:29",
+        "price": 151000000,
+        "current_value": 464000000,
+        "value_change_pct": 0,
+        "range_low": 454000000,
+        "range_high": 473000000,
+        "buy_now_price": 0,
+        "sell_now_price": 464000000
+      },
+      {
+        "date": "2026-07-22 10:09:06",
+        "price": 151000000,
+        "current_value": 464000000,
+        "value_change_pct": 0,
+        "range_low": 454000000,
+        "range_high": 473000000,
+        "buy_now_price": 0,
+        "sell_now_price": 467000000
       }
     ]
   },
@@ -2392,6 +4966,36 @@
       },
       {
         "date": "2026-07-22 01:31:56",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:15",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:30",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:09:07",
         "price": 1000000000,
         "current_value": 1000000000,
         "value_change_pct": 0,
@@ -2426,6 +5030,30 @@
         "range_high": 211000000,
         "buy_now_price": 0,
         "sell_now_price": 205000000
+      },
+      {
+        "date": "2026-07-22 07:36:16",
+        "price": 469000000,
+        "current_value": 203000000,
+        "value_change_pct": 0,
+        "range_low": 198000000,
+        "range_high": 207000000,
+        "buy_now_price": 0,
+        "sell_now_price": 198000000
+      },
+      {
+        "date": "2026-07-22 09:19:31",
+        "price": 469000000,
+        "current_value": 198000000,
+        "value_change_pct": -2.46,
+        "range_low": 194000000,
+        "range_high": 201000000,
+        "buy_now_price": 197000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:09:07",
+        "price": 469000000
       }
     ]
   },
@@ -2453,6 +5081,30 @@
         "range_high": 526000000,
         "buy_now_price": 516000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:17",
+        "price": 1000000000,
+        "current_value": 516000000,
+        "value_change_pct": 0,
+        "range_low": 505000000,
+        "range_high": 526000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:31",
+        "price": 1000000000,
+        "current_value": 516000000,
+        "value_change_pct": 0,
+        "range_low": 505000000,
+        "range_high": 526000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:09:18",
+        "price": 1000000000
       }
     ]
   },
@@ -2473,6 +5125,36 @@
       },
       {
         "date": "2026-07-22 01:31:58",
+        "price": 627000000,
+        "current_value": 294000000,
+        "value_change_pct": 0,
+        "range_low": 288000000,
+        "range_high": 299000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:18",
+        "price": 627000000,
+        "current_value": 294000000,
+        "value_change_pct": 0,
+        "range_low": 288000000,
+        "range_high": 299000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:32",
+        "price": 627000000,
+        "current_value": 294000000,
+        "value_change_pct": 0,
+        "range_low": 288000000,
+        "range_high": 299000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:09:28",
         "price": 627000000,
         "current_value": 294000000,
         "value_change_pct": 0,
@@ -2507,6 +5189,36 @@
         "range_high": 728000000,
         "buy_now_price": 695000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:18",
+        "price": 877000000,
+        "current_value": 699000000,
+        "value_change_pct": 0,
+        "range_low": 685000000,
+        "range_high": 712000000,
+        "buy_now_price": 699000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:33",
+        "price": 877000000,
+        "current_value": 699000000,
+        "value_change_pct": 0,
+        "range_low": 685000000,
+        "range_high": 712000000,
+        "buy_now_price": 699000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:09:29",
+        "price": 877000000,
+        "current_value": 699000000,
+        "value_change_pct": 0,
+        "range_low": 685000000,
+        "range_high": 712000000,
+        "buy_now_price": 699000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2534,6 +5246,36 @@
         "range_high": 299000000,
         "buy_now_price": 294000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:19",
+        "price": 339000000,
+        "current_value": 294000000,
+        "value_change_pct": 0,
+        "range_low": 288000000,
+        "range_high": 299000000,
+        "buy_now_price": 290000000,
+        "sell_now_price": 298000000
+      },
+      {
+        "date": "2026-07-22 09:19:33",
+        "price": 339000000,
+        "current_value": 294000000,
+        "value_change_pct": 0,
+        "range_low": 288000000,
+        "range_high": 299000000,
+        "buy_now_price": 0,
+        "sell_now_price": 298000000
+      },
+      {
+        "date": "2026-07-22 10:09:30",
+        "price": 339000000,
+        "current_value": 294000000,
+        "value_change_pct": 0,
+        "range_low": 288000000,
+        "range_high": 299000000,
+        "buy_now_price": 0,
+        "sell_now_price": 298000000
       }
     ]
   },
@@ -2561,6 +5303,36 @@
         "range_high": 72500000,
         "buy_now_price": 0,
         "sell_now_price": 69600000
+      },
+      {
+        "date": "2026-07-22 07:36:20",
+        "price": 245000000,
+        "current_value": 71600000,
+        "value_change_pct": 0,
+        "range_low": 70100000,
+        "range_high": 73000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:34",
+        "price": 245000000,
+        "current_value": 72100000,
+        "value_change_pct": 0.7,
+        "range_low": 70600000,
+        "range_high": 73500000,
+        "buy_now_price": 73500000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:09:30",
+        "price": 245000000,
+        "current_value": 72100000,
+        "value_change_pct": 0.7,
+        "range_low": 70600000,
+        "range_high": 73500000,
+        "buy_now_price": 73500000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2588,6 +5360,36 @@
         "range_high": 423000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:20",
+        "price": 301000000,
+        "current_value": 422000000,
+        "value_change_pct": 1.93,
+        "range_low": 413000000,
+        "range_high": 430000000,
+        "buy_now_price": 422000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:35",
+        "price": 301000000,
+        "current_value": 430000000,
+        "value_change_pct": 1.9,
+        "range_low": 421000000,
+        "range_high": 438000000,
+        "buy_now_price": 422000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:09:31",
+        "price": 301000000,
+        "current_value": 430000000,
+        "value_change_pct": 1.9,
+        "range_low": 421000000,
+        "range_high": 438000000,
+        "buy_now_price": 0,
+        "sell_now_price": 438000000
       }
     ]
   },
@@ -2614,6 +5416,36 @@
         "range_low": 123000000,
         "range_high": 128000000,
         "buy_now_price": 124000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:21",
+        "price": 186000000,
+        "current_value": 128000000,
+        "value_change_pct": 0,
+        "range_low": 125000000,
+        "range_high": 130000000,
+        "buy_now_price": 130000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:35",
+        "price": 186000000,
+        "current_value": 130000000,
+        "value_change_pct": 1.56,
+        "range_low": 127000000,
+        "range_high": 132000000,
+        "buy_now_price": 130000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:09:32",
+        "price": 186000000,
+        "current_value": 130000000,
+        "value_change_pct": 1.56,
+        "range_low": 127000000,
+        "range_high": 132000000,
+        "buy_now_price": 130000000,
         "sell_now_price": 0
       }
     ]
@@ -2642,6 +5474,36 @@
         "range_high": 126000000,
         "buy_now_price": 126000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:22",
+        "price": 129000000,
+        "current_value": 127000000,
+        "value_change_pct": 1.6,
+        "range_low": 124000000,
+        "range_high": 129000000,
+        "buy_now_price": 127000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:36",
+        "price": 129000000,
+        "current_value": 127000000,
+        "value_change_pct": 0,
+        "range_low": 124000000,
+        "range_high": 129000000,
+        "buy_now_price": 127000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:09:32",
+        "price": 129000000,
+        "current_value": 127000000,
+        "value_change_pct": 0,
+        "range_low": 124000000,
+        "range_high": 129000000,
+        "buy_now_price": 128000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2662,6 +5524,36 @@
       },
       {
         "date": "2026-07-22 01:32:03",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:22",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:37",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:09:33",
         "price": 1000000000,
         "current_value": 1000000000,
         "value_change_pct": 0,
@@ -2696,6 +5588,36 @@
         "range_high": 52400000,
         "buy_now_price": 52400000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:23",
+        "price": 127000000,
+        "current_value": 53500000,
+        "value_change_pct": 0.19,
+        "range_low": 52400000,
+        "range_high": 54500000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:37",
+        "price": 127000000,
+        "current_value": 54500000,
+        "value_change_pct": 1.87,
+        "range_low": 53400000,
+        "range_high": 55500000,
+        "buy_now_price": 55500000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:09:34",
+        "price": 127000000,
+        "current_value": 54500000,
+        "value_change_pct": 1.87,
+        "range_low": 53400000,
+        "range_high": 55500000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2723,6 +5645,36 @@
         "range_high": 156000000,
         "buy_now_price": 153000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:24",
+        "price": 109000000,
+        "current_value": 150000000,
+        "value_change_pct": -0.66,
+        "range_low": 147000000,
+        "range_high": 153000000,
+        "buy_now_price": 150000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:38",
+        "price": 109000000,
+        "current_value": 153000000,
+        "value_change_pct": 2,
+        "range_low": 149000000,
+        "range_high": 156000000,
+        "buy_now_price": 150000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:09:34",
+        "price": 109000000,
+        "current_value": 153000000,
+        "value_change_pct": 2,
+        "range_low": 149000000,
+        "range_high": 156000000,
+        "buy_now_price": 150000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2743,6 +5695,36 @@
       },
       {
         "date": "2026-07-22 01:32:05",
+        "price": 590000000,
+        "current_value": 590000000,
+        "value_change_pct": 0,
+        "range_low": 578000000,
+        "range_high": 601000000,
+        "buy_now_price": 587000000,
+        "sell_now_price": 600000000
+      },
+      {
+        "date": "2026-07-22 07:36:25",
+        "price": 590000000,
+        "current_value": 590000000,
+        "value_change_pct": 0,
+        "range_low": 578000000,
+        "range_high": 601000000,
+        "buy_now_price": 587000000,
+        "sell_now_price": 600000000
+      },
+      {
+        "date": "2026-07-22 09:19:39",
+        "price": 590000000,
+        "current_value": 590000000,
+        "value_change_pct": 0,
+        "range_low": 578000000,
+        "range_high": 601000000,
+        "buy_now_price": 587000000,
+        "sell_now_price": 600000000
+      },
+      {
+        "date": "2026-07-22 10:09:35",
         "price": 590000000,
         "current_value": 590000000,
         "value_change_pct": 0,
@@ -2777,6 +5759,36 @@
         "range_high": 546000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:25",
+        "price": 767000000,
+        "current_value": 536000000,
+        "value_change_pct": 0,
+        "range_low": 525000000,
+        "range_high": 546000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:40",
+        "price": 767000000,
+        "current_value": 536000000,
+        "value_change_pct": 0,
+        "range_low": 525000000,
+        "range_high": 546000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:09:36",
+        "price": 767000000,
+        "current_value": 536000000,
+        "value_change_pct": 0,
+        "range_low": 525000000,
+        "range_high": 546000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2797,6 +5809,36 @@
       },
       {
         "date": "2026-07-22 01:32:06",
+        "price": 890000000,
+        "current_value": 888000000,
+        "value_change_pct": 0,
+        "range_low": 870000000,
+        "range_high": 905000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:26",
+        "price": 890000000,
+        "current_value": 888000000,
+        "value_change_pct": 0,
+        "range_low": 870000000,
+        "range_high": 905000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:40",
+        "price": 890000000,
+        "current_value": 888000000,
+        "value_change_pct": 0,
+        "range_low": 870000000,
+        "range_high": 905000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:09:36",
         "price": 890000000,
         "current_value": 888000000,
         "value_change_pct": 0,
@@ -2831,6 +5873,30 @@
         "range_high": 1020000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:27",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:42",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:09:37",
+        "price": 1000000000
       }
     ]
   },
@@ -2858,6 +5924,36 @@
         "range_high": 306000000,
         "buy_now_price": 302000000,
         "sell_now_price": 306000000
+      },
+      {
+        "date": "2026-07-22 07:36:27",
+        "price": 500000000,
+        "current_value": 306000000,
+        "value_change_pct": 0,
+        "range_low": 299000000,
+        "range_high": 312000000,
+        "buy_now_price": 302000000,
+        "sell_now_price": 312000000
+      },
+      {
+        "date": "2026-07-22 09:19:42",
+        "price": 500000000,
+        "current_value": 309000000,
+        "value_change_pct": 0.98,
+        "range_low": 302000000,
+        "range_high": 315000000,
+        "buy_now_price": 302000000,
+        "sell_now_price": 312000000
+      },
+      {
+        "date": "2026-07-22 10:09:48",
+        "price": 500000000,
+        "current_value": 309000000,
+        "value_change_pct": 0.98,
+        "range_low": 302000000,
+        "range_high": 315000000,
+        "buy_now_price": 302000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -2885,6 +5981,36 @@
         "range_high": 368000000,
         "buy_now_price": 368000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:28",
+        "price": 366000000,
+        "current_value": 368000000,
+        "value_change_pct": -1.34,
+        "range_low": 360000000,
+        "range_high": 375000000,
+        "buy_now_price": 375000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:43",
+        "price": 366000000,
+        "current_value": 375000000,
+        "value_change_pct": 1.9,
+        "range_low": 367000000,
+        "range_high": 382000000,
+        "buy_now_price": 0,
+        "sell_now_price": 380000000
+      },
+      {
+        "date": "2026-07-22 10:09:48",
+        "price": 366000000,
+        "current_value": 375000000,
+        "value_change_pct": 1.9,
+        "range_low": 367000000,
+        "range_high": 382000000,
+        "buy_now_price": 0,
+        "sell_now_price": 380000000
       }
     ]
   },
@@ -2912,6 +6038,36 @@
         "range_high": 144000000,
         "buy_now_price": 139000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:29",
+        "price": 209000000,
+        "current_value": 144000000,
+        "value_change_pct": 0.7,
+        "range_low": 141000000,
+        "range_high": 146000000,
+        "buy_now_price": 144000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:44",
+        "price": 209000000,
+        "current_value": 144000000,
+        "value_change_pct": 0,
+        "range_low": 141000000,
+        "range_high": 146000000,
+        "buy_now_price": 146000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:09:49",
+        "price": 209000000,
+        "current_value": 144000000,
+        "value_change_pct": 0,
+        "range_low": 141000000,
+        "range_high": 146000000,
+        "buy_now_price": 0,
+        "sell_now_price": 146000000
       }
     ]
   },
@@ -2932,6 +6088,36 @@
       },
       {
         "date": "2026-07-22 01:32:10",
+        "price": 400000000,
+        "current_value": 203000000,
+        "value_change_pct": 0,
+        "range_low": 198000000,
+        "range_high": 207000000,
+        "buy_now_price": 0,
+        "sell_now_price": 200000000
+      },
+      {
+        "date": "2026-07-22 07:36:29",
+        "price": 400000000,
+        "current_value": 203000000,
+        "value_change_pct": 0,
+        "range_low": 198000000,
+        "range_high": 207000000,
+        "buy_now_price": 0,
+        "sell_now_price": 200000000
+      },
+      {
+        "date": "2026-07-22 09:19:45",
+        "price": 400000000,
+        "current_value": 203000000,
+        "value_change_pct": 0,
+        "range_low": 198000000,
+        "range_high": 207000000,
+        "buy_now_price": 0,
+        "sell_now_price": 200000000
+      },
+      {
+        "date": "2026-07-22 10:09:50",
         "price": 400000000,
         "current_value": 203000000,
         "value_change_pct": 0,
@@ -2966,6 +6152,36 @@
         "range_high": 1010000000,
         "buy_now_price": 0,
         "sell_now_price": 980000000
+      },
+      {
+        "date": "2026-07-22 07:36:30",
+        "price": 917000000,
+        "current_value": 994000000,
+        "value_change_pct": 0,
+        "range_low": 974000000,
+        "range_high": 1010000000,
+        "buy_now_price": 0,
+        "sell_now_price": 980000000
+      },
+      {
+        "date": "2026-07-22 09:19:46",
+        "price": 917000000,
+        "current_value": 994000000,
+        "value_change_pct": 0,
+        "range_low": 974000000,
+        "range_high": 1010000000,
+        "buy_now_price": 0,
+        "sell_now_price": 980000000
+      },
+      {
+        "date": "2026-07-22 10:09:50",
+        "price": 917000000,
+        "current_value": 994000000,
+        "value_change_pct": 0,
+        "range_low": 974000000,
+        "range_high": 1010000000,
+        "buy_now_price": 0,
+        "sell_now_price": 980000000
       }
     ]
   },
@@ -2993,6 +6209,30 @@
         "range_high": 206000000,
         "buy_now_price": 0,
         "sell_now_price": 205000000
+      },
+      {
+        "date": "2026-07-22 07:36:31",
+        "price": 259000000,
+        "current_value": 202000000,
+        "value_change_pct": 0,
+        "range_low": 197000000,
+        "range_high": 206000000,
+        "buy_now_price": 0,
+        "sell_now_price": 205000000
+      },
+      {
+        "date": "2026-07-22 09:19:47",
+        "price": 259000000,
+        "current_value": 202000000,
+        "value_change_pct": 0,
+        "range_low": 197000000,
+        "range_high": 206000000,
+        "buy_now_price": 0,
+        "sell_now_price": 205000000
+      },
+      {
+        "date": "2026-07-22 10:09:51",
+        "price": 259000000
       }
     ]
   },
@@ -3019,6 +6259,36 @@
         "range_low": 53200000,
         "range_high": 55300000,
         "buy_now_price": 55300000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:32",
+        "price": 200000000,
+        "current_value": 55500000,
+        "value_change_pct": -1.07,
+        "range_low": 54300000,
+        "range_high": 56600000,
+        "buy_now_price": 54300000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:19:48",
+        "price": 200000000,
+        "current_value": 55000000,
+        "value_change_pct": -0.9,
+        "range_low": 53900000,
+        "range_high": 56100000,
+        "buy_now_price": 54300000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:10:01",
+        "price": 200000000,
+        "current_value": 55000000,
+        "value_change_pct": -0.9,
+        "range_low": 53900000,
+        "range_high": 56100000,
+        "buy_now_price": 56100000,
         "sell_now_price": 0
       }
     ]
@@ -3047,6 +6317,36 @@
         "range_high": 122000000,
         "buy_now_price": 0,
         "sell_now_price": 122000000
+      },
+      {
+        "date": "2026-07-22 07:36:32",
+        "price": 193000000,
+        "current_value": 122000000,
+        "value_change_pct": 0.83,
+        "range_low": 119000000,
+        "range_high": 124000000,
+        "buy_now_price": 121000000,
+        "sell_now_price": 122000000
+      },
+      {
+        "date": "2026-07-22 09:19:49",
+        "price": 193000000,
+        "current_value": 122000000,
+        "value_change_pct": 0,
+        "range_low": 119000000,
+        "range_high": 124000000,
+        "buy_now_price": 0,
+        "sell_now_price": 122000000
+      },
+      {
+        "date": "2026-07-22 10:10:02",
+        "price": 193000000,
+        "current_value": 122000000,
+        "value_change_pct": 0,
+        "range_low": 119000000,
+        "range_high": 124000000,
+        "buy_now_price": 0,
+        "sell_now_price": 123000000
       }
     ]
   },
@@ -3070,6 +6370,36 @@
         "price": 673000000,
         "current_value": 532000000,
         "value_change_pct": -0.93,
+        "range_low": 521000000,
+        "range_high": 542000000,
+        "buy_now_price": 0,
+        "sell_now_price": 532000000
+      },
+      {
+        "date": "2026-07-22 07:36:33",
+        "price": 673000000,
+        "current_value": 532000000,
+        "value_change_pct": 0,
+        "range_low": 521000000,
+        "range_high": 542000000,
+        "buy_now_price": 0,
+        "sell_now_price": 532000000
+      },
+      {
+        "date": "2026-07-22 09:19:51",
+        "price": 673000000,
+        "current_value": 532000000,
+        "value_change_pct": 0,
+        "range_low": 521000000,
+        "range_high": 542000000,
+        "buy_now_price": 0,
+        "sell_now_price": 532000000
+      },
+      {
+        "date": "2026-07-22 10:10:03",
+        "price": 673000000,
+        "current_value": 532000000,
+        "value_change_pct": 0,
         "range_low": 521000000,
         "range_high": 542000000,
         "buy_now_price": 0,
@@ -3101,6 +6431,36 @@
         "range_high": 232000000,
         "buy_now_price": 0,
         "sell_now_price": 225000000
+      },
+      {
+        "date": "2026-07-22 07:36:34",
+        "price": 186000000,
+        "current_value": 226000000,
+        "value_change_pct": 0,
+        "range_low": 221000000,
+        "range_high": 230000000,
+        "buy_now_price": 0,
+        "sell_now_price": 223000000
+      },
+      {
+        "date": "2026-07-22 09:19:52",
+        "price": 186000000,
+        "current_value": 222000000,
+        "value_change_pct": -1.77,
+        "range_low": 217000000,
+        "range_high": 226000000,
+        "buy_now_price": 222000000,
+        "sell_now_price": 225000000
+      },
+      {
+        "date": "2026-07-22 10:10:03",
+        "price": 186000000,
+        "current_value": 222000000,
+        "value_change_pct": -1.77,
+        "range_low": 217000000,
+        "range_high": 226000000,
+        "buy_now_price": 222000000,
+        "sell_now_price": 225000000
       }
     ]
   },
@@ -3121,6 +6481,36 @@
       },
       {
         "date": "2026-07-22 01:32:15",
+        "price": 745000000,
+        "current_value": 391000000,
+        "value_change_pct": 0,
+        "range_low": 383000000,
+        "range_high": 398000000,
+        "buy_now_price": 392000000,
+        "sell_now_price": 406000000
+      },
+      {
+        "date": "2026-07-22 07:36:34",
+        "price": 745000000,
+        "current_value": 391000000,
+        "value_change_pct": 0,
+        "range_low": 383000000,
+        "range_high": 398000000,
+        "buy_now_price": 392000000,
+        "sell_now_price": 406000000
+      },
+      {
+        "date": "2026-07-22 09:19:53",
+        "price": 745000000,
+        "current_value": 391000000,
+        "value_change_pct": 0,
+        "range_low": 383000000,
+        "range_high": 398000000,
+        "buy_now_price": 392000000,
+        "sell_now_price": 406000000
+      },
+      {
+        "date": "2026-07-22 10:10:04",
         "price": 745000000,
         "current_value": 391000000,
         "value_change_pct": 0,
@@ -3155,6 +6545,30 @@
         "range_high": 487000000,
         "buy_now_price": 0,
         "sell_now_price": 468000000
+      },
+      {
+        "date": "2026-07-22 07:36:35",
+        "price": 118000000,
+        "current_value": 471000000,
+        "value_change_pct": 0.64,
+        "range_low": 461000000,
+        "range_high": 480000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:20:01",
+        "price": 118000000
+      },
+      {
+        "date": "2026-07-22 10:10:05",
+        "price": 118000000,
+        "current_value": 471000000,
+        "value_change_pct": 0,
+        "range_low": 461000000,
+        "range_high": 480000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -3182,6 +6596,30 @@
         "range_high": 69500000,
         "buy_now_price": 0,
         "sell_now_price": 68800000
+      },
+      {
+        "date": "2026-07-22 07:36:36",
+        "price": 202000000,
+        "current_value": 67400000,
+        "value_change_pct": -0.15,
+        "range_low": 66000000,
+        "range_high": 68700000,
+        "buy_now_price": 0,
+        "sell_now_price": 66000000
+      },
+      {
+        "date": "2026-07-22 09:20:32",
+        "price": 202000000
+      },
+      {
+        "date": "2026-07-22 10:10:05",
+        "price": 202000000,
+        "current_value": 66000000,
+        "value_change_pct": -2.08,
+        "range_low": 64600000,
+        "range_high": 67300000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -3208,6 +6646,30 @@
         "range_low": 33900000,
         "range_high": 35200000,
         "buy_now_price": 35200000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:36",
+        "price": 102000000,
+        "current_value": 34900000,
+        "value_change_pct": 0.87,
+        "range_low": 34200000,
+        "range_high": 35500000,
+        "buy_now_price": 34100000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:20:42",
+        "price": 102000000
+      },
+      {
+        "date": "2026-07-22 10:10:06",
+        "price": 102000000,
+        "current_value": 35000000,
+        "value_change_pct": 0.29,
+        "range_low": 34300000,
+        "range_high": 35700000,
+        "buy_now_price": 34300000,
         "sell_now_price": 0
       }
     ]
@@ -3236,6 +6698,30 @@
         "range_high": 100000000,
         "buy_now_price": 100000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:37",
+        "price": 111000000,
+        "current_value": 104000000,
+        "value_change_pct": 1.96,
+        "range_low": 101000000,
+        "range_high": 106000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:20:53",
+        "price": 111000000
+      },
+      {
+        "date": "2026-07-22 10:10:07",
+        "price": 111000000,
+        "current_value": 104000000,
+        "value_change_pct": 0,
+        "range_low": 101000000,
+        "range_high": 106000000,
+        "buy_now_price": 0,
+        "sell_now_price": 101000000
       }
     ]
   },
@@ -3262,6 +6748,30 @@
         "range_low": 75400000,
         "range_high": 78500000,
         "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:38",
+        "price": 134000000,
+        "current_value": 79800000,
+        "value_change_pct": -0.25,
+        "range_low": 78200000,
+        "range_high": 81300000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:21:03",
+        "price": 134000000
+      },
+      {
+        "date": "2026-07-22 10:10:07",
+        "price": 134000000,
+        "current_value": 78200000,
+        "value_change_pct": -2.01,
+        "range_low": 76600000,
+        "range_high": 79700000,
+        "buy_now_price": 76600000,
         "sell_now_price": 0
       }
     ]
@@ -3290,6 +6800,30 @@
         "range_high": 209000000,
         "buy_now_price": 205000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:39",
+        "price": 422000000,
+        "current_value": 213000000,
+        "value_change_pct": 0.95,
+        "range_low": 208000000,
+        "range_high": 217000000,
+        "buy_now_price": 0,
+        "sell_now_price": 214000000
+      },
+      {
+        "date": "2026-07-22 09:21:14",
+        "price": 422000000
+      },
+      {
+        "date": "2026-07-22 10:10:08",
+        "price": 422000000,
+        "current_value": 214000000,
+        "value_change_pct": 0.47,
+        "range_low": 209000000,
+        "range_high": 218000000,
+        "buy_now_price": 209000000,
+        "sell_now_price": 214000000
       }
     ]
   },
@@ -3313,6 +6847,30 @@
         "price": 500000000,
         "current_value": 500000000,
         "value_change_pct": 0.81,
+        "range_low": 490000000,
+        "range_high": 510000000,
+        "buy_now_price": 510000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:39",
+        "price": 500000000,
+        "current_value": 500000000,
+        "value_change_pct": 0,
+        "range_low": 490000000,
+        "range_high": 510000000,
+        "buy_now_price": 510000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:21:24",
+        "price": 500000000
+      },
+      {
+        "date": "2026-07-22 10:10:09",
+        "price": 500000000,
+        "current_value": 500000000,
+        "value_change_pct": 0,
         "range_low": 490000000,
         "range_high": 510000000,
         "buy_now_price": 510000000,
@@ -3344,6 +6902,30 @@
         "range_high": 62200000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:40",
+        "price": 283000000,
+        "current_value": 61800000,
+        "value_change_pct": -1.12,
+        "range_low": 60500000,
+        "range_high": 63000000,
+        "buy_now_price": 0,
+        "sell_now_price": 60500000
+      },
+      {
+        "date": "2026-07-22 09:21:34",
+        "price": 283000000
+      },
+      {
+        "date": "2026-07-22 10:10:09",
+        "price": 283000000,
+        "current_value": 61200000,
+        "value_change_pct": -0.97,
+        "range_low": 59900000,
+        "range_high": 62400000,
+        "buy_now_price": 62400000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -3370,6 +6952,30 @@
         "range_low": 97000000,
         "range_high": 100000000,
         "buy_now_price": 100000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:41",
+        "price": 173000000,
+        "current_value": 104000000,
+        "value_change_pct": 1.96,
+        "range_low": 101000000,
+        "range_high": 106000000,
+        "buy_now_price": 102000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:21:45",
+        "price": 173000000
+      },
+      {
+        "date": "2026-07-22 10:10:10",
+        "price": 173000000,
+        "current_value": 105000000,
+        "value_change_pct": 0.96,
+        "range_low": 102000000,
+        "range_high": 107000000,
+        "buy_now_price": 107000000,
         "sell_now_price": 0
       }
     ]
@@ -3398,6 +7004,36 @@
         "range_high": 216000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:41",
+        "price": 184000000,
+        "current_value": 203000000,
+        "value_change_pct": -1.46,
+        "range_low": 198000000,
+        "range_high": 207000000,
+        "buy_now_price": 198000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:21:55",
+        "price": 184000000,
+        "current_value": 207000000,
+        "value_change_pct": 1.97,
+        "range_low": 202000000,
+        "range_high": 211000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:10:11",
+        "price": 184000000,
+        "current_value": 207000000,
+        "value_change_pct": 1.97,
+        "range_low": 202000000,
+        "range_high": 211000000,
+        "buy_now_price": 211000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -3424,6 +7060,36 @@
         "range_low": 37000000,
         "range_high": 38500000,
         "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:42",
+        "price": 188000000,
+        "current_value": 38500000,
+        "value_change_pct": 0,
+        "range_low": 37700000,
+        "range_high": 39200000,
+        "buy_now_price": 39200000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:22:01",
+        "price": 188000000,
+        "current_value": 38900000,
+        "value_change_pct": 1.04,
+        "range_low": 38100000,
+        "range_high": 39600000,
+        "buy_now_price": 39200000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:10:11",
+        "price": 188000000,
+        "current_value": 38900000,
+        "value_change_pct": 1.04,
+        "range_low": 38100000,
+        "range_high": 39600000,
+        "buy_now_price": 39200000,
         "sell_now_price": 0
       }
     ]
@@ -3452,6 +7118,30 @@
         "range_high": 29600000,
         "buy_now_price": 0,
         "sell_now_price": 29600000
+      },
+      {
+        "date": "2026-07-22 07:36:43",
+        "price": 154000000,
+        "current_value": 28400000,
+        "value_change_pct": -2.07,
+        "range_low": 27800000,
+        "range_high": 28900000,
+        "buy_now_price": 28900000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:22:02",
+        "price": 154000000,
+        "current_value": 28500000,
+        "value_change_pct": 0.35,
+        "range_low": 27900000,
+        "range_high": 29000000,
+        "buy_now_price": 0,
+        "sell_now_price": 28900000
+      },
+      {
+        "date": "2026-07-22 10:10:12",
+        "price": 154000000
       }
     ]
   },
@@ -3479,6 +7169,36 @@
         "range_high": 62500000,
         "buy_now_price": 0,
         "sell_now_price": 62500000
+      },
+      {
+        "date": "2026-07-22 07:36:44",
+        "price": 101000000,
+        "current_value": 60500000,
+        "value_change_pct": -2.1,
+        "range_low": 59200000,
+        "range_high": 61700000,
+        "buy_now_price": 60000000,
+        "sell_now_price": 60400000
+      },
+      {
+        "date": "2026-07-22 09:22:02",
+        "price": 101000000,
+        "current_value": 60300000,
+        "value_change_pct": -0.33,
+        "range_low": 59000000,
+        "range_high": 61500000,
+        "buy_now_price": 0,
+        "sell_now_price": 60500000
+      },
+      {
+        "date": "2026-07-22 10:10:22",
+        "price": 101000000,
+        "current_value": 60300000,
+        "value_change_pct": -0.33,
+        "range_low": 59000000,
+        "range_high": 61500000,
+        "buy_now_price": 0,
+        "sell_now_price": 60500000
       }
     ]
   },
@@ -3506,6 +7226,36 @@
         "range_high": 997000000,
         "buy_now_price": 0,
         "sell_now_price": 1010000000
+      },
+      {
+        "date": "2026-07-22 07:36:44",
+        "price": 1000000000,
+        "current_value": 978000000,
+        "value_change_pct": 0,
+        "range_low": 958000000,
+        "range_high": 997000000,
+        "buy_now_price": 0,
+        "sell_now_price": 1010000000
+      },
+      {
+        "date": "2026-07-22 09:22:03",
+        "price": 1000000000,
+        "current_value": 997000000,
+        "value_change_pct": 1.94,
+        "range_low": 977000000,
+        "range_high": 1010000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:10:23",
+        "price": 1000000000,
+        "current_value": 997000000,
+        "value_change_pct": 1.94,
+        "range_low": 977000000,
+        "range_high": 1010000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -3531,6 +7281,36 @@
         "value_change_pct": 0,
         "range_low": 469000000,
         "range_high": 488000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:45",
+        "price": 593000000,
+        "current_value": 476000000,
+        "value_change_pct": 0,
+        "range_low": 466000000,
+        "range_high": 485000000,
+        "buy_now_price": 0,
+        "sell_now_price": 469000000
+      },
+      {
+        "date": "2026-07-22 09:22:04",
+        "price": 593000000,
+        "current_value": 469000000,
+        "value_change_pct": -1.47,
+        "range_low": 459000000,
+        "range_high": 478000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:10:24",
+        "price": 593000000,
+        "current_value": 469000000,
+        "value_change_pct": -1.47,
+        "range_low": 459000000,
+        "range_high": 478000000,
         "buy_now_price": 0,
         "sell_now_price": 0
       }
@@ -3560,6 +7340,36 @@
         "range_high": 96000000,
         "buy_now_price": 96000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:46",
+        "price": 104000000,
+        "current_value": 94700000,
+        "value_change_pct": 0.64,
+        "range_low": 92800000,
+        "range_high": 96500000,
+        "buy_now_price": 96000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:22:05",
+        "price": 104000000,
+        "current_value": 95200000,
+        "value_change_pct": 0.53,
+        "range_low": 93200000,
+        "range_high": 97100000,
+        "buy_now_price": 97100000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:10:24",
+        "price": 104000000,
+        "current_value": 95200000,
+        "value_change_pct": 0.53,
+        "range_low": 93200000,
+        "range_high": 97100000,
+        "buy_now_price": 97100000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -3586,6 +7396,36 @@
         "range_low": 182000000,
         "range_high": 189000000,
         "buy_now_price": 184000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:46",
+        "price": 131000000,
+        "current_value": 184000000,
+        "value_change_pct": -1.08,
+        "range_low": 180000000,
+        "range_high": 187000000,
+        "buy_now_price": 184000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:22:05",
+        "price": 131000000,
+        "current_value": 187000000,
+        "value_change_pct": 1.63,
+        "range_low": 183000000,
+        "range_high": 190000000,
+        "buy_now_price": 187000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:10:25",
+        "price": 131000000,
+        "current_value": 187000000,
+        "value_change_pct": 1.63,
+        "range_low": 183000000,
+        "range_high": 190000000,
+        "buy_now_price": 187000000,
         "sell_now_price": 0
       }
     ]
@@ -3614,6 +7454,36 @@
         "range_high": 180000000,
         "buy_now_price": 177000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:47",
+        "price": 113000000,
+        "current_value": 177000000,
+        "value_change_pct": 0,
+        "range_low": 173000000,
+        "range_high": 180000000,
+        "buy_now_price": 177000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:22:06",
+        "price": 113000000,
+        "current_value": 180000000,
+        "value_change_pct": 1.69,
+        "range_low": 176000000,
+        "range_high": 183000000,
+        "buy_now_price": 177000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:10:26",
+        "price": 113000000,
+        "current_value": 180000000,
+        "value_change_pct": 1.69,
+        "range_low": 176000000,
+        "range_high": 183000000,
+        "buy_now_price": 183000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -3634,6 +7504,36 @@
       },
       {
         "date": "2026-07-22 01:32:28",
+        "price": 265000000,
+        "current_value": 395000000,
+        "value_change_pct": 0,
+        "range_low": 387000000,
+        "range_high": 402000000,
+        "buy_now_price": 0,
+        "sell_now_price": 395000000
+      },
+      {
+        "date": "2026-07-22 07:36:48",
+        "price": 265000000,
+        "current_value": 395000000,
+        "value_change_pct": 0,
+        "range_low": 387000000,
+        "range_high": 402000000,
+        "buy_now_price": 0,
+        "sell_now_price": 395000000
+      },
+      {
+        "date": "2026-07-22 09:22:07",
+        "price": 265000000,
+        "current_value": 395000000,
+        "value_change_pct": 0,
+        "range_low": 387000000,
+        "range_high": 402000000,
+        "buy_now_price": 0,
+        "sell_now_price": 395000000
+      },
+      {
+        "date": "2026-07-22 10:10:26",
         "price": 265000000,
         "current_value": 395000000,
         "value_change_pct": 0,
@@ -3668,6 +7568,36 @@
         "range_high": 332000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:48",
+        "price": 273000000,
+        "current_value": 326000000,
+        "value_change_pct": 0,
+        "range_low": 319000000,
+        "range_high": 332000000,
+        "buy_now_price": 0,
+        "sell_now_price": 332000000
+      },
+      {
+        "date": "2026-07-22 09:22:07",
+        "price": 273000000,
+        "current_value": 326000000,
+        "value_change_pct": 0,
+        "range_low": 319000000,
+        "range_high": 332000000,
+        "buy_now_price": 0,
+        "sell_now_price": 332000000
+      },
+      {
+        "date": "2026-07-22 10:10:27",
+        "price": 273000000,
+        "current_value": 326000000,
+        "value_change_pct": 0,
+        "range_low": 319000000,
+        "range_high": 332000000,
+        "buy_now_price": 0,
+        "sell_now_price": 332000000
       }
     ]
   },
@@ -3694,6 +7624,36 @@
         "range_low": 395000000,
         "range_high": 412000000,
         "buy_now_price": 408000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:49",
+        "price": 997000000,
+        "current_value": 408000000,
+        "value_change_pct": 0,
+        "range_low": 399000000,
+        "range_high": 416000000,
+        "buy_now_price": 408000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:22:08",
+        "price": 997000000,
+        "current_value": 408000000,
+        "value_change_pct": 0,
+        "range_low": 399000000,
+        "range_high": 416000000,
+        "buy_now_price": 408000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:10:28",
+        "price": 997000000,
+        "current_value": 408000000,
+        "value_change_pct": 0,
+        "range_low": 399000000,
+        "range_high": 416000000,
+        "buy_now_price": 406000000,
         "sell_now_price": 0
       }
     ]
@@ -3722,6 +7682,30 @@
         "range_high": 370000000,
         "buy_now_price": 0,
         "sell_now_price": 363000000
+      },
+      {
+        "date": "2026-07-22 07:36:50",
+        "price": 1000000000,
+        "current_value": 363000000,
+        "value_change_pct": 0,
+        "range_low": 355000000,
+        "range_high": 370000000,
+        "buy_now_price": 0,
+        "sell_now_price": 363000000
+      },
+      {
+        "date": "2026-07-22 09:22:09",
+        "price": 1000000000,
+        "current_value": 363000000,
+        "value_change_pct": 0,
+        "range_low": 355000000,
+        "range_high": 370000000,
+        "buy_now_price": 0,
+        "sell_now_price": 363000000
+      },
+      {
+        "date": "2026-07-22 10:10:28",
+        "price": 1000000000
       }
     ]
   },
@@ -3742,6 +7726,36 @@
       },
       {
         "date": "2026-07-22 01:32:31",
+        "price": 500000000,
+        "current_value": 500000000,
+        "value_change_pct": 0,
+        "range_low": 490000000,
+        "range_high": 510000000,
+        "buy_now_price": 510000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:51",
+        "price": 500000000,
+        "current_value": 500000000,
+        "value_change_pct": 0,
+        "range_low": 490000000,
+        "range_high": 510000000,
+        "buy_now_price": 510000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:22:09",
+        "price": 500000000,
+        "current_value": 500000000,
+        "value_change_pct": 0,
+        "range_low": 490000000,
+        "range_high": 510000000,
+        "buy_now_price": 510000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:10:39",
         "price": 500000000,
         "current_value": 500000000,
         "value_change_pct": 0,
@@ -3776,6 +7790,36 @@
         "range_high": 613000000,
         "buy_now_price": 0,
         "sell_now_price": 601000000
+      },
+      {
+        "date": "2026-07-22 07:36:51",
+        "price": 515000000,
+        "current_value": 601000000,
+        "value_change_pct": 0,
+        "range_low": 588000000,
+        "range_high": 613000000,
+        "buy_now_price": 0,
+        "sell_now_price": 588000000
+      },
+      {
+        "date": "2026-07-22 09:22:10",
+        "price": 515000000,
+        "current_value": 597000000,
+        "value_change_pct": -0.67,
+        "range_low": 585000000,
+        "range_high": 608000000,
+        "buy_now_price": 0,
+        "sell_now_price": 588000000
+      },
+      {
+        "date": "2026-07-22 10:10:40",
+        "price": 515000000,
+        "current_value": 597000000,
+        "value_change_pct": -0.67,
+        "range_low": 585000000,
+        "range_high": 608000000,
+        "buy_now_price": 0,
+        "sell_now_price": 588000000
       }
     ]
   },
@@ -3796,6 +7840,36 @@
       },
       {
         "date": "2026-07-22 01:32:32",
+        "price": 611000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:52",
+        "price": 611000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:22:11",
+        "price": 611000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:10:40",
         "price": 611000000,
         "current_value": 1000000000,
         "value_change_pct": 0,
@@ -3830,6 +7904,36 @@
         "range_high": 1010000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:53",
+        "price": 1000000000,
+        "current_value": 991000000,
+        "value_change_pct": 0,
+        "range_low": 971000000,
+        "range_high": 1010000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:22:11",
+        "price": 1000000000,
+        "current_value": 991000000,
+        "value_change_pct": 0,
+        "range_low": 971000000,
+        "range_high": 1010000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:10:41",
+        "price": 1000000000,
+        "current_value": 991000000,
+        "value_change_pct": 0,
+        "range_low": 971000000,
+        "range_high": 1010000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
       }
     ]
   },
@@ -3855,6 +7959,36 @@
         "value_change_pct": 0,
         "range_low": 339000000,
         "range_high": 352000000,
+        "buy_now_price": 0,
+        "sell_now_price": 349000000
+      },
+      {
+        "date": "2026-07-22 07:36:53",
+        "price": 401000000,
+        "current_value": 349000000,
+        "value_change_pct": 0,
+        "range_low": 342000000,
+        "range_high": 355000000,
+        "buy_now_price": 0,
+        "sell_now_price": 349000000
+      },
+      {
+        "date": "2026-07-22 09:22:12",
+        "price": 401000000,
+        "current_value": 342000000,
+        "value_change_pct": -2.01,
+        "range_low": 335000000,
+        "range_high": 348000000,
+        "buy_now_price": 0,
+        "sell_now_price": 349000000
+      },
+      {
+        "date": "2026-07-22 10:10:42",
+        "price": 401000000,
+        "current_value": 342000000,
+        "value_change_pct": -2.01,
+        "range_low": 335000000,
+        "range_high": 348000000,
         "buy_now_price": 0,
         "sell_now_price": 349000000
       }
@@ -3884,6 +8018,30 @@
         "range_high": 895000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:54",
+        "price": 1000000000,
+        "current_value": 878000000,
+        "value_change_pct": 0,
+        "range_low": 860000000,
+        "range_high": 895000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:22:13",
+        "price": 1000000000,
+        "current_value": 878000000,
+        "value_change_pct": 0,
+        "range_low": 860000000,
+        "range_high": 895000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:10:42",
+        "price": 1000000000
       }
     ]
   },
@@ -3911,6 +8069,36 @@
         "range_high": 972000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:55",
+        "price": 1000000000,
+        "current_value": 947000000,
+        "value_change_pct": 0,
+        "range_low": 928000000,
+        "range_high": 965000000,
+        "buy_now_price": 0,
+        "sell_now_price": 933000000
+      },
+      {
+        "date": "2026-07-22 09:22:13",
+        "price": 1000000000,
+        "current_value": 947000000,
+        "value_change_pct": 0,
+        "range_low": 928000000,
+        "range_high": 965000000,
+        "buy_now_price": 0,
+        "sell_now_price": 933000000
+      },
+      {
+        "date": "2026-07-22 10:10:53",
+        "price": 1000000000,
+        "current_value": 947000000,
+        "value_change_pct": 0,
+        "range_low": 928000000,
+        "range_high": 965000000,
+        "buy_now_price": 0,
+        "sell_now_price": 933000000
       }
     ]
   },
@@ -3938,6 +8126,36 @@
         "range_high": 234000000,
         "buy_now_price": 0,
         "sell_now_price": 227000000
+      },
+      {
+        "date": "2026-07-22 07:36:56",
+        "price": 234000000,
+        "current_value": 222000000,
+        "value_change_pct": 0,
+        "range_low": 217000000,
+        "range_high": 226000000,
+        "buy_now_price": 0,
+        "sell_now_price": 227000000
+      },
+      {
+        "date": "2026-07-22 09:22:14",
+        "price": 234000000,
+        "current_value": 222000000,
+        "value_change_pct": 0,
+        "range_low": 217000000,
+        "range_high": 226000000,
+        "buy_now_price": 0,
+        "sell_now_price": 227000000
+      },
+      {
+        "date": "2026-07-22 10:10:54",
+        "price": 234000000,
+        "current_value": 222000000,
+        "value_change_pct": 0,
+        "range_low": 217000000,
+        "range_high": 226000000,
+        "buy_now_price": 0,
+        "sell_now_price": 217000000
       }
     ]
   },
@@ -3965,6 +8183,36 @@
         "range_high": 36100000,
         "buy_now_price": 0,
         "sell_now_price": 34600000
+      },
+      {
+        "date": "2026-07-22 07:36:56",
+        "price": 112000000,
+        "current_value": 36300000,
+        "value_change_pct": 0.83,
+        "range_low": 35500000,
+        "range_high": 37000000,
+        "buy_now_price": 36000000,
+        "sell_now_price": 37000000
+      },
+      {
+        "date": "2026-07-22 09:22:15",
+        "price": 112000000,
+        "current_value": 36500000,
+        "value_change_pct": 0.55,
+        "range_low": 35700000,
+        "range_high": 37200000,
+        "buy_now_price": 36000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:10:54",
+        "price": 112000000,
+        "current_value": 36500000,
+        "value_change_pct": 0.55,
+        "range_low": 35700000,
+        "range_high": 37200000,
+        "buy_now_price": 0,
+        "sell_now_price": 37200000
       }
     ]
   },
@@ -3992,6 +8240,36 @@
         "range_high": 1020000000,
         "buy_now_price": 1020000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:57",
+        "price": 996000000,
+        "current_value": 980000000,
+        "value_change_pct": 0,
+        "range_low": 960000000,
+        "range_high": 999000000,
+        "buy_now_price": 1020000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:22:15",
+        "price": 996000000,
+        "current_value": 960000000,
+        "value_change_pct": -2.04,
+        "range_low": 940000000,
+        "range_high": 979000000,
+        "buy_now_price": 960000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:10:55",
+        "price": 996000000,
+        "current_value": 960000000,
+        "value_change_pct": -2.04,
+        "range_low": 940000000,
+        "range_high": 979000000,
+        "buy_now_price": 960000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -4012,6 +8290,36 @@
       },
       {
         "date": "2026-07-22 01:32:38",
+        "price": 922000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:58",
+        "price": 922000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:22:16",
+        "price": 922000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:10:56",
         "price": 922000000,
         "current_value": 1000000000,
         "value_change_pct": 0,
@@ -4046,6 +8354,36 @@
         "range_high": 517000000,
         "buy_now_price": 0,
         "sell_now_price": 510000000
+      },
+      {
+        "date": "2026-07-22 07:36:58",
+        "price": 398000000,
+        "current_value": 507000000,
+        "value_change_pct": 0,
+        "range_low": 496000000,
+        "range_high": 517000000,
+        "buy_now_price": 0,
+        "sell_now_price": 510000000
+      },
+      {
+        "date": "2026-07-22 09:22:17",
+        "price": 398000000,
+        "current_value": 507000000,
+        "value_change_pct": 0,
+        "range_low": 496000000,
+        "range_high": 517000000,
+        "buy_now_price": 0,
+        "sell_now_price": 510000000
+      },
+      {
+        "date": "2026-07-22 10:10:56",
+        "price": 398000000,
+        "current_value": 507000000,
+        "value_change_pct": 0,
+        "range_low": 496000000,
+        "range_high": 517000000,
+        "buy_now_price": 0,
+        "sell_now_price": 510000000
       }
     ]
   },
@@ -4073,6 +8411,36 @@
         "range_high": 352000000,
         "buy_now_price": 352000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:36:59",
+        "price": 994000000,
+        "current_value": 352000000,
+        "value_change_pct": 0,
+        "range_low": 344000000,
+        "range_high": 359000000,
+        "buy_now_price": 359000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:22:17",
+        "price": 994000000,
+        "current_value": 352000000,
+        "value_change_pct": 0,
+        "range_low": 344000000,
+        "range_high": 359000000,
+        "buy_now_price": 359000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:10:57",
+        "price": 994000000,
+        "current_value": 352000000,
+        "value_change_pct": 0,
+        "range_low": 344000000,
+        "range_high": 359000000,
+        "buy_now_price": 359000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -4093,6 +8461,36 @@
       },
       {
         "date": "2026-07-22 01:32:41",
+        "price": 997000000,
+        "current_value": 854000000,
+        "value_change_pct": 0,
+        "range_low": 836000000,
+        "range_high": 871000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:37:00",
+        "price": 997000000,
+        "current_value": 854000000,
+        "value_change_pct": 0,
+        "range_low": 836000000,
+        "range_high": 871000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:22:18",
+        "price": 997000000,
+        "current_value": 854000000,
+        "value_change_pct": 0,
+        "range_low": 836000000,
+        "range_high": 871000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:10:58",
         "price": 997000000,
         "current_value": 854000000,
         "value_change_pct": 0,
@@ -4127,6 +8525,36 @@
         "range_high": 744000000,
         "buy_now_price": 0,
         "sell_now_price": 730000000
+      },
+      {
+        "date": "2026-07-22 07:37:00",
+        "price": 991000000,
+        "current_value": 715000000,
+        "value_change_pct": 0,
+        "range_low": 700000000,
+        "range_high": 729000000,
+        "buy_now_price": 0,
+        "sell_now_price": 730000000
+      },
+      {
+        "date": "2026-07-22 09:22:19",
+        "price": 991000000,
+        "current_value": 715000000,
+        "value_change_pct": 0,
+        "range_low": 700000000,
+        "range_high": 729000000,
+        "buy_now_price": 0,
+        "sell_now_price": 730000000
+      },
+      {
+        "date": "2026-07-22 10:10:58",
+        "price": 991000000,
+        "current_value": 715000000,
+        "value_change_pct": 0,
+        "range_low": 700000000,
+        "range_high": 729000000,
+        "buy_now_price": 0,
+        "sell_now_price": 730000000
       }
     ]
   },
@@ -4147,6 +8575,36 @@
       },
       {
         "date": "2026-07-22 01:32:42",
+        "price": 742000000,
+        "current_value": 474000000,
+        "value_change_pct": 0,
+        "range_low": 464000000,
+        "range_high": 483000000,
+        "buy_now_price": 474000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:37:01",
+        "price": 742000000,
+        "current_value": 474000000,
+        "value_change_pct": 0,
+        "range_low": 464000000,
+        "range_high": 483000000,
+        "buy_now_price": 474000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:22:19",
+        "price": 742000000,
+        "current_value": 474000000,
+        "value_change_pct": 0,
+        "range_low": 464000000,
+        "range_high": 483000000,
+        "buy_now_price": 474000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:10:59",
         "price": 742000000,
         "current_value": 474000000,
         "value_change_pct": 0,
@@ -4181,6 +8639,36 @@
         "range_high": 613000000,
         "buy_now_price": 0,
         "sell_now_price": 592000000
+      },
+      {
+        "date": "2026-07-22 07:37:02",
+        "price": 639000000,
+        "current_value": 601000000,
+        "value_change_pct": 0,
+        "range_low": 588000000,
+        "range_high": 613000000,
+        "buy_now_price": 0,
+        "sell_now_price": 592000000
+      },
+      {
+        "date": "2026-07-22 09:22:20",
+        "price": 639000000,
+        "current_value": 601000000,
+        "value_change_pct": 0,
+        "range_low": 588000000,
+        "range_high": 613000000,
+        "buy_now_price": 0,
+        "sell_now_price": 592000000
+      },
+      {
+        "date": "2026-07-22 10:11:00",
+        "price": 639000000,
+        "current_value": 601000000,
+        "value_change_pct": 0,
+        "range_low": 588000000,
+        "range_high": 613000000,
+        "buy_now_price": 0,
+        "sell_now_price": 592000000
       }
     ]
   },
@@ -4201,6 +8689,36 @@
       },
       {
         "date": "2026-07-22 01:32:43",
+        "price": 899000000,
+        "current_value": 470000000,
+        "value_change_pct": 0,
+        "range_low": 460000000,
+        "range_high": 479000000,
+        "buy_now_price": 480000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:37:03",
+        "price": 899000000,
+        "current_value": 470000000,
+        "value_change_pct": 0,
+        "range_low": 460000000,
+        "range_high": 479000000,
+        "buy_now_price": 480000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:22:21",
+        "price": 899000000,
+        "current_value": 470000000,
+        "value_change_pct": 0,
+        "range_low": 460000000,
+        "range_high": 479000000,
+        "buy_now_price": 480000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:11:00",
         "price": 899000000,
         "current_value": 470000000,
         "value_change_pct": 0,
@@ -4235,6 +8753,36 @@
         "range_high": 259000000,
         "buy_now_price": 0,
         "sell_now_price": 251000000
+      },
+      {
+        "date": "2026-07-22 07:37:03",
+        "price": 266000000,
+        "current_value": 252000000,
+        "value_change_pct": 0,
+        "range_low": 246000000,
+        "range_high": 257000000,
+        "buy_now_price": 0,
+        "sell_now_price": 251000000
+      },
+      {
+        "date": "2026-07-22 09:22:21",
+        "price": 266000000,
+        "current_value": 252000000,
+        "value_change_pct": 0,
+        "range_low": 246000000,
+        "range_high": 257000000,
+        "buy_now_price": 0,
+        "sell_now_price": 251000000
+      },
+      {
+        "date": "2026-07-22 10:11:01",
+        "price": 266000000,
+        "current_value": 252000000,
+        "value_change_pct": 0,
+        "range_low": 246000000,
+        "range_high": 257000000,
+        "buy_now_price": 0,
+        "sell_now_price": 251000000
       }
     ]
   },
@@ -4255,6 +8803,36 @@
       },
       {
         "date": "2026-07-22 01:32:45",
+        "price": 1000000000,
+        "current_value": 683000000,
+        "value_change_pct": 0,
+        "range_low": 669000000,
+        "range_high": 696000000,
+        "buy_now_price": 697000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:37:04",
+        "price": 1000000000,
+        "current_value": 683000000,
+        "value_change_pct": 0,
+        "range_low": 669000000,
+        "range_high": 696000000,
+        "buy_now_price": 697000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:22:22",
+        "price": 1000000000,
+        "current_value": 683000000,
+        "value_change_pct": 0,
+        "range_low": 669000000,
+        "range_high": 696000000,
+        "buy_now_price": 697000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:11:01",
         "price": 1000000000,
         "current_value": 683000000,
         "value_change_pct": 0,
@@ -4289,6 +8867,36 @@
         "range_high": 391000000,
         "buy_now_price": 384000000,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:37:05",
+        "price": 275000000,
+        "current_value": 391000000,
+        "value_change_pct": 1.82,
+        "range_low": 383000000,
+        "range_high": 398000000,
+        "buy_now_price": 391000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:22:23",
+        "price": 275000000,
+        "current_value": 398000000,
+        "value_change_pct": 1.79,
+        "range_low": 390000000,
+        "range_high": 405000000,
+        "buy_now_price": 398000000,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:11:02",
+        "price": 275000000,
+        "current_value": 398000000,
+        "value_change_pct": 1.79,
+        "range_low": 390000000,
+        "range_high": 405000000,
+        "buy_now_price": 405000000,
+        "sell_now_price": 0
       }
     ]
   },
@@ -4316,6 +8924,36 @@
         "range_high": 1060000000,
         "buy_now_price": 0,
         "sell_now_price": 1020000000
+      },
+      {
+        "date": "2026-07-22 07:37:05",
+        "price": 891000000,
+        "current_value": 1030000000,
+        "value_change_pct": 0.98,
+        "range_low": 1000000000,
+        "range_high": 1050000000,
+        "buy_now_price": 0,
+        "sell_now_price": 1040000000
+      },
+      {
+        "date": "2026-07-22 09:22:23",
+        "price": 891000000,
+        "current_value": 1030000000,
+        "value_change_pct": 0,
+        "range_low": 1000000000,
+        "range_high": 1050000000,
+        "buy_now_price": 0,
+        "sell_now_price": 1040000000
+      },
+      {
+        "date": "2026-07-22 10:11:03",
+        "price": 891000000,
+        "current_value": 1030000000,
+        "value_change_pct": 0,
+        "range_low": 1000000000,
+        "range_high": 1050000000,
+        "buy_now_price": 0,
+        "sell_now_price": 1040000000
       }
     ]
   },
@@ -4343,6 +8981,30 @@
         "range_high": 334000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:37:06",
+        "price": 471000000,
+        "current_value": 321000000,
+        "value_change_pct": 0,
+        "range_low": 314000000,
+        "range_high": 327000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:22:24",
+        "price": 471000000,
+        "current_value": 321000000,
+        "value_change_pct": 0,
+        "range_low": 314000000,
+        "range_high": 327000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:11:03",
+        "price": 471000000
       }
     ]
   },
@@ -4370,6 +9032,30 @@
         "range_high": 414000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:37:07",
+        "price": 1000000000,
+        "current_value": 406000000,
+        "value_change_pct": 0,
+        "range_low": 397000000,
+        "range_high": 414000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:22:25",
+        "price": 1000000000,
+        "current_value": 406000000,
+        "value_change_pct": 0,
+        "range_low": 397000000,
+        "range_high": 414000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:11:14",
+        "price": 1000000000
       }
     ]
   },
@@ -4397,6 +9083,36 @@
         "range_high": 183000000,
         "buy_now_price": 0,
         "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:37:07",
+        "price": 334000000,
+        "current_value": 171000000,
+        "value_change_pct": -0.58,
+        "range_low": 167000000,
+        "range_high": 174000000,
+        "buy_now_price": 0,
+        "sell_now_price": 168000000
+      },
+      {
+        "date": "2026-07-22 09:22:25",
+        "price": 334000000,
+        "current_value": 171000000,
+        "value_change_pct": -0.58,
+        "range_low": 167000000,
+        "range_high": 174000000,
+        "buy_now_price": 0,
+        "sell_now_price": 168000000
+      },
+      {
+        "date": "2026-07-22 10:11:24",
+        "price": 334000000,
+        "current_value": 171000000,
+        "value_change_pct": 0,
+        "range_low": 167000000,
+        "range_high": 174000000,
+        "buy_now_price": 0,
+        "sell_now_price": 172000000
       }
     ]
   },
@@ -4417,6 +9133,36 @@
       },
       {
         "date": "2026-07-22 01:32:49",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 07:37:08",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 09:22:26",
+        "price": 1000000000,
+        "current_value": 1000000000,
+        "value_change_pct": 0,
+        "range_low": 980000000,
+        "range_high": 1020000000,
+        "buy_now_price": 0,
+        "sell_now_price": 0
+      },
+      {
+        "date": "2026-07-22 10:11:25",
         "price": 1000000000,
         "current_value": 1000000000,
         "value_change_pct": 0,

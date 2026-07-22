@@ -5,6 +5,8 @@ __pycache__/
 # Scratch output — regenerated automatically, not worth tracking
 automation/debug/
 rewards/
+market_analyzer_app/market_analyzer.log*
+market_analyzer_app/status.json
 
 # Claude Code session data
 .claude/

@@ -16,6 +16,8 @@
   "interval_hours": 6,
   "output_file": "profitable_investments.txt",
   "history_file": "price_history.json",
+  "log_file": "market_analyzer.log",
+  "status_file": "status.json",
   "strategy": {
     "min_history_points": 4,
     "min_discount_pct": 0.08,
@@ -23,6 +25,10 @@
     "min_profit_after_tax": 50000000,
     "market_tax_rate": 0.10,
     "require_instant_sell_liquidity": true,
-    "max_position_in_range": 0.6
+    "max_position_in_range": 0.6,
+    "require_value_change_confirmation": true,
+    "max_price_value_divergence_pct": 0.08,
+    "require_active_buy_listing": true,
+    "fallback_top_n": 10
   }
 }
