@@ -92,6 +92,45 @@ def save_history(history_path, history):
     with open(history_path, "w", encoding="utf-8") as f:
         json.dump(history, f, indent=2)
 
+def update_long_term_summary(pdata, price_point, max_days):
+    """
+    Roll the current poll into a daily summary entry (one row per calendar day), so
+    long-term price context (up to ~1.5 months by default) survives the short-term
+    rolling window's 10-point (~2.5 day) cap without storing every raw 6-hourly point
+    forever. Mutates pdata in place.
+    """
+    value = price_point.get("current_value") or price_point.get("price", 0)
+    if value <= 0:
+        return
+
+    day = price_point["date"][:10]  # "YYYY-MM-DD" prefix of "YYYY-MM-DD HH:MM:SS"
+    summary = pdata.setdefault("long_term_summary", [])
+
+    if summary and summary[-1]["date"] == day:
+        entry = summary[-1]
+        entry["min_value"] = min(entry["min_value"], value)
+        entry["max_value"] = max(entry["max_value"], value)
+        entry["samples"] += 1
+        entry["avg_value"] += (value - entry["avg_value"]) / entry["samples"]  # running mean
+    else:
+        summary.append({"date": day, "min_value": value, "max_value": value, "avg_value": value, "samples": 1})
+
+    if len(summary) > max_days:
+        del summary[:-max_days]
+
+def get_long_term_baseline(pdata, min_days=5):
+    """
+    Median of daily average values from long_term_summary — a genuine ~1-1.5 month
+    typical-price reference, independent of the fine-grained ~2.5-day rolling window.
+    Returns None until enough days have accumulated to trust it (min_days).
+    """
+    summary = pdata.get("long_term_summary", [])
+    avg_values = [d["avg_value"] for d in summary if d.get("avg_value", 0) > 0]
+    if len(avg_values) < min_days:
+        return None
+    baseline = statistics.median(avg_values)
+    return baseline if baseline > 0 else None
+
 def get_trend_series(prices):
     """
     Build the price series used for trend detection. current_value (RenderZ's per-player
@@ -113,7 +152,7 @@ def get_trend_series(prices):
         value_points = [p.get("price", 0) for p in prices if p.get("price", 0) > 0]
     return value_points
 
-def analyze_price_series(prices, tax_rate):
+def analyze_price_series(prices, tax_rate, long_term_baseline=None):
     """
     Compute mean-reversion stats for one player's price history.
 
@@ -122,6 +161,12 @@ def analyze_price_series(prices, tax_rate):
     a still-falling price (catching a falling knife). Instead this looks for a
     confirmed trough: a low point that price has already started recovering FROM,
     which is the standard "buy the dip after confirmation" pattern in technical trading.
+
+    long_term_baseline (from get_long_term_baseline, ~1-1.5 months of daily rollups) lets
+    this see genuine longer-term discounts the ~2.5-day rolling window can't: if a card's
+    true typical price over the past month is meaningfully higher than what our narrow
+    window shows, that's real evidence of upside the short window would otherwise miss
+    entirely — not just noise.
 
     Returns None if the series can't support a signal (too flat, no confirmed bounce,
     or so erratic that a "trend" isn't distinguishable from noise).
@@ -147,9 +192,21 @@ def analyze_price_series(prices, tax_rate):
         return None
 
     # Median baseline is robust to a single outlier spike/crash, unlike mean or max.
-    baseline = statistics.median(prior_values)
+    short_term_baseline = statistics.median(prior_values)
     stdev = statistics.pstdev(prior_values)
     volatility_cv = stdev / mean
+
+    # Use whichever baseline is more favorable (higher) as the reversion target. If the
+    # card's true ~1-1.5 month typical price is higher than what our narrow ~2.5-day
+    # window shows, that's real, statistically-grounded evidence of additional upside —
+    # not something to ignore just because the short window can't see it. If the
+    # long-term baseline is LOWER (card trending up over the longer run), the short-term
+    # baseline already reflects the more relevant recent norm, so nothing changes.
+    baseline = short_term_baseline
+    used_long_term_baseline = False
+    if long_term_baseline is not None and long_term_baseline > short_term_baseline:
+        baseline = long_term_baseline
+        used_long_term_baseline = True
 
     trough_price = min(prior_values)
 
@@ -179,8 +236,9 @@ def analyze_price_series(prices, tax_rate):
     # NOT latest current_value: empirically it sits below the actual executable buy
     # price about twice as often as above it (RenderZ's smoothed "fair value" lags or
     # discounts vs. the live ask) — using it as a sell target made expected profit
-    # negative by construction most of the time. baseline (median across our own
-    # polling window) is a genuine reversion-to-typical-price target instead.
+    # negative by construction most of the time. baseline (median of the short-term
+    # window, or the long-term daily-rollup median if that's higher) is a genuine
+    # reversion-to-typical-price target instead.
     sell_price_target = baseline
     expected_profit_after_tax = sell_price_target * (1 - tax_rate) - buy_price
 
@@ -239,6 +297,9 @@ def analyze_price_series(prices, tax_rate):
         "contradicts_recovery": contradicts_recovery,
         "price_value_divergence_pct": price_value_divergence_pct,
         "has_confirmed_bounce": has_confirmed_bounce,
+        "short_term_baseline": short_term_baseline,
+        "long_term_baseline": long_term_baseline,
+        "used_long_term_baseline": used_long_term_baseline,
     }
 
 def find_reversion_candidates(history, strategy_cfg):
@@ -260,6 +321,7 @@ def find_reversion_candidates(history, strategy_cfg):
     require_value_change_confirmation = strategy_cfg.get("require_value_change_confirmation", True)
     max_price_value_divergence_pct = strategy_cfg.get("max_price_value_divergence_pct", 0.08)
     require_active_buy_listing = strategy_cfg.get("require_active_buy_listing", True)
+    min_long_term_days = strategy_cfg.get("min_long_term_days_for_baseline", 5)
     # Must clear the market tax with real room to spare — NOT an arbitrary fraction of the
     # initial discount trigger. Verified empirically: with the old "half the trigger
     # discount" floor (4% against an 8% trigger), 100% of real confirmed bounces had
@@ -277,7 +339,8 @@ def find_reversion_candidates(history, strategy_cfg):
             logger.debug(f"Skipping {name} ({ovr}) - gathering history ({len(prices)}/{min_points})...")
             continue
 
-        stats = analyze_price_series(prices, tax_rate)
+        long_term_baseline = get_long_term_baseline(pdata, min_days=min_long_term_days)
+        stats = analyze_price_series(prices, tax_rate, long_term_baseline=long_term_baseline)
         if stats is None:
             continue
 
@@ -381,6 +444,11 @@ def _format_candidate(name, ovr, prices, stats, extra_fields=None):
             round(stats["position_in_range"] * 100, 1) if stats["position_in_range"] is not None else "unknown"
         ),
         "renderz_own_recent_change_pct": stats["value_change_pct"],
+        # True when the sell target/discount used the ~1-1.5 month long-term baseline
+        # instead of the ~2.5-day short-term one, because it was higher (see
+        # get_long_term_baseline) — i.e. this opportunity relies on longer-term context
+        # the short window alone wouldn't have shown.
+        "used_long_term_baseline": stats["used_long_term_baseline"],
         # Must be the SAME series the stats above were computed from (get_trend_series),
         # not the raw "price" field — otherwise the LLM's shape sanity-check is done
         # against numbers unrelated to the trough/discount/baseline it's reviewing.
@@ -404,13 +472,15 @@ def rank_fallback_candidates(history, strategy_cfg, top_n=10):
     """
     min_points = strategy_cfg.get("min_history_points", 4)
     tax_rate = strategy_cfg.get("market_tax_rate", 0.10)
+    min_long_term_days = strategy_cfg.get("min_long_term_days_for_baseline", 5)
 
     scored = []
     for pid, pdata in history.items():
         prices = pdata.get("prices", [])
         if len(prices) < min_points:
             continue
-        stats = analyze_price_series(prices, tax_rate)
+        long_term_baseline = get_long_term_baseline(pdata, min_days=min_long_term_days)
+        stats = analyze_price_series(prices, tax_rate, long_term_baseline=long_term_baseline)
         if stats is None:
             continue
         scored.append((pid, pdata, prices, stats))
@@ -632,6 +702,7 @@ def run_analyzer(test_run=False):
     output_file = Path(__file__).parent / config.get("output_file", "profitable_investments.txt")
     log_file = Path(__file__).parent / config.get("log_file", LOG_FILE_DEFAULT)
     status_file = Path(__file__).parent / config.get("status_file", STATUS_FILE_DEFAULT)
+    long_term_summary_days = strategy_cfg.get("long_term_summary_days", 45)
 
     setup_logging(log_file)
 
@@ -777,6 +848,11 @@ def run_analyzer(test_run=False):
 
                 # Keep only last 10 entries to avoid bloating
                 history[pid]["prices"] = history[pid]["prices"][-10:]
+
+                # Daily-rollup long-term summary (~1-1.5 months by default) — survives
+                # the short-term window's 10-point cap so genuine multi-week discounts
+                # aren't invisible to the strategy just because the raw window is short.
+                update_long_term_summary(history[pid], price_point, long_term_summary_days)
 
             # Save history right after updating it
             save_history(history_file, history)

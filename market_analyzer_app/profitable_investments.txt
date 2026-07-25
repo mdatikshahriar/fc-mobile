@@ -1,0 +1,28 @@
+
+[2026-07-25 04:24:26] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Nedvěd (111 OVR)
+Buy Price Target: 306.0M
+Sell Price Target: 994.0M
+Expected Profit After Tax: +588.6M coins
+Conviction: Moderate
+Reasoning: This candidate is one of the few with a confirmed bounce, indicating a potential reversal from its low price point. Despite the lack of instant sell liquidity, the substantial expected profit of +588.6M coins suggests a significant asymmetric-risk opportunity if the bounce holds and liquidity returns.
+---
+Target Player: Kahn (111 OVR)
+Buy Price Target: 306.0M
+Sell Price Target: 928.0M
+Expected Profit After Tax: +529.2M coins
+Conviction: Moderate
+Reasoning: Similar to Nedvěd, Kahn shows a confirmed bounce after a significant price drop. While instant sell liquidity is absent, the very high expected profit of +529.2M coins provides a strong incentive to consider this opportunity, assuming patience for selling.
+============================================================
+
+[2026-07-25 16:33:26] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Luís Figo (109 OVR)
+Buy Price Target: 106.0M
+Sell Price Target: 120.0M
+Expected Profit After Tax: +2.0M coins
+Conviction: Moderate
+Reasoning: This player presents a rare opportunity in this weak-signal batch, exhibiting an active buy listing, instant sell liquidity, and a confirmed price bounce from the very bottom of its fair-value band (0.0%). Despite the relatively small expected profit after tax of 2,000,000 coins, these combined factors make it a worthwhile, asymmetric-risk opportunity.
+---
+============================================================

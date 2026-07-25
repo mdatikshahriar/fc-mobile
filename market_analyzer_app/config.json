@@ -29,6 +29,8 @@
     "require_value_change_confirmation": true,
     "max_price_value_divergence_pct": 0.08,
     "require_active_buy_listing": true,
-    "fallback_top_n": 10
+    "fallback_top_n": 10,
+    "long_term_summary_days": 45,
+    "min_long_term_days_for_baseline": 5
   }
 }
