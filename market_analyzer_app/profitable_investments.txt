@@ -26,3 +26,14 @@ Conviction: Moderate
 Reasoning: This player presents a rare opportunity in this weak-signal batch, exhibiting an active buy listing, instant sell liquidity, and a confirmed price bounce from the very bottom of its fair-value band (0.0%). Despite the relatively small expected profit after tax of 2,000,000 coins, these combined factors make it a worthwhile, asymmetric-risk opportunity.
 ---
 ============================================================
+
+[2026-07-26 11:52:19] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Hazard (108 OVR)
+Buy Price Target: 46.8M
+Sell Price Target: 54.0M
+Expected Profit After Tax: +1.8M coins
+Conviction: Low
+Reasoning: This is the only candidate offering a positive expected profit after tax (+1.8M coins) and sufficient remaining discount (12.8%) to cover the 10% market tax, alongside confirmed active buy listings and instant sell liquidity. While it lacks a confirmed bounce signal, these critical financial and liquidity factors make a compelling case for a speculative opportunity in this weak-signal cycle, despite the inherent risk of buying into a potentially falling price.
+---
+============================================================
