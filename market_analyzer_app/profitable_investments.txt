@@ -37,3 +37,65 @@ Conviction: Low
 Reasoning: This is the only candidate offering a positive expected profit after tax (+1.8M coins) and sufficient remaining discount (12.8%) to cover the 10% market tax, alongside confirmed active buy listings and instant sell liquidity. While it lacks a confirmed bounce signal, these critical financial and liquidity factors make a compelling case for a speculative opportunity in this weak-signal cycle, despite the inherent risk of buying into a potentially falling price.
 ---
 ============================================================
+
+[2026-07-29 01:25:49] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Rijkaard (111 OVR)
+Buy Price Target: 28.7M
+Sell Price Target: 34.5M
+Expected Profit After Tax: +2.35M coins
+Conviction: Moderate
+Reasoning: Despite no confirmed bounce and lacking instant sell liquidity, this player is priced at the 0.0% mark of their live fair-value band, indicating a significant discount and potential bottom for the current cycle. With an active buy listing and a positive expected profit of +2.35M coins, this represents a favorable asymmetric risk.
+---
+============================================================
+
+[2026-07-31 05:12:34] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Verón (110 OVR)
+Buy Price Target: 98.2M
+Sell Price Target: 118.0M
+Expected Profit After Tax: +8.0M coins
+Conviction: Moderate
+Reasoning: This player shows a confirmed price bounce and is positioned at a low 15.2% within the fair-value band, supported by a positive recent price change of 1.63%. Although instant sell liquidity is absent, the clear recovery signal and favorable valuation suggest a worthwhile asymmetric risk opportunity.
+---
+Target Player: Luís Figo (109 OVR)
+Buy Price Target: 102.0M
+Sell Price Target: 120.0M
+Expected Profit After Tax: +6.0M coins
+Conviction: Moderate
+Reasoning: This candidate exhibits a confirmed price bounce and, critically, offers instant sell liquidity, significantly mitigating exit risk. A positive recent price change of 2% further supports the recovery, making this a strong opportunity despite the weak-signal batch.
+---
+============================================================
+
+[2026-07-31 17:22:22] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Cahill (112 OVR)
+Buy Price Target: 140.0M
+Sell Price Target: 166.0M
+Expected Profit After Tax: +9.4M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Cahill presents a compelling opportunity with a confirmed bounce signal, an active buy listing, and a significant expected profit of +9.4M coins. The player is priced favorably at 20.0% within the fair-value band and shows a strong 16.3% discount, indicating robust potential for recovery.
+---
+============================================================
+
+[2026-07-31 23:28:22] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Cahill (112 OVR)
+Buy Price Target: 139.0M
+Sell Price Target: 166.0M
+Expected Profit After Tax: +10.4M coins
+Conviction: Moderate
+Reasoning: Despite being flagged in a weak-signal batch, Cahill uniquely presents a confirmed bounce, an active buy listing, and instant sell liquidity. These strong indicators, combined with a healthy remaining discount of 15.7% (well above the 10% tax threshold) and a favorable position in the fair-value band (40.0%), make it a compelling opportunity.
+---
+============================================================
+
+[2026-08-01 21:25:19] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Schweinsteiger (110 OVR)
+Buy Price Target: 219.0M
+Sell Price Target: 251.5M
+Expected Profit After Tax: +7.35M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Schweinsteiger shows a confirmed bounce and the buy price is significantly undervalued, sitting 44.4% *below* RenderZ's fair-value band, indicating a strong discount. With an expected profit of +7.35M coins after tax and an active listing, this represents a worthwhile, asymmetric-risk opportunity.
+---
+============================================================
