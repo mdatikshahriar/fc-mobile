@@ -99,3 +99,24 @@ Conviction: Moderate
 Reasoning: Despite lacking instant sell liquidity, Schweinsteiger shows a confirmed bounce and the buy price is significantly undervalued, sitting 44.4% *below* RenderZ's fair-value band, indicating a strong discount. With an expected profit of +7.35M coins after tax and an active listing, this represents a worthwhile, asymmetric-risk opportunity.
 ---
 ============================================================
+
+[2026-08-02 03:29:49] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Hagi (110 OVR)
+Buy Price Target: 169.0M
+Sell Price Target: 191.0M
+Expected Profit After Tax: +2.9M coins
+Conviction: Moderate
+Reasoning: Hagi is the only candidate with positive expected profit, a confirmed bounce, and an active buy listing. Despite lacking instant sell liquidity, the positive recent price trend from RenderZ and a remaining discount of 11.5% provide a sufficiently compelling, albeit risky, opportunity in this weak-signal batch.
+============================================================
+
+[2026-08-02 09:34:19] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Hagi (110 OVR)
+Buy Price Target: 169.0M
+Sell Price Target: 191.0M
+Expected Profit After Tax: +2.9M coins
+Conviction: Low
+Reasoning: Hagi is the only candidate with a positive expected profit after tax, an active buy listing, and a confirmed price bounce (from 166M to 172M), indicating a potential recovery despite failing other strict checks. While it lacks instant sell liquidity, its position at the low end of the fair-value band (14.3%) and positive expected profit after tax make it a statistically favorable opportunity in this weak-signal batch.
+---
+============================================================
