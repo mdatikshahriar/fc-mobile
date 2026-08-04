@@ -120,3 +120,14 @@ Conviction: Low
 Reasoning: Hagi is the only candidate with a positive expected profit after tax, an active buy listing, and a confirmed price bounce (from 166M to 172M), indicating a potential recovery despite failing other strict checks. While it lacks instant sell liquidity, its position at the low end of the fair-value band (14.3%) and positive expected profit after tax make it a statistically favorable opportunity in this weak-signal batch.
 ---
 ============================================================
+
+[2026-08-03 20:46:25] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Cahill (112 OVR)
+Buy Price Target: 117.0M
+Sell Price Target: 145.875M
+Expected Profit After Tax: +14.2875M coins
+Conviction: Moderate
+Reasoning: Despite the absence of instant sell liquidity, Cahill offers a strong expected profit of over 14M coins and an excellent remaining discount of 19.1%. The player has a confirmed price bounce and an active buy listing, indicating a favorable entry at the lower end of its fair value band.
+---
+============================================================
