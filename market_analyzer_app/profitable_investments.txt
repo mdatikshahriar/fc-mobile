@@ -131,3 +131,70 @@ Conviction: Moderate
 Reasoning: Despite the absence of instant sell liquidity, Cahill offers a strong expected profit of over 14M coins and an excellent remaining discount of 19.1%. The player has a confirmed price bounce and an active buy listing, indicating a favorable entry at the lower end of its fair value band.
 ---
 ============================================================
+
+[2026-08-05 16:41:30] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Lizarazu (110 OVR)
+Buy Price Target: 162.0M
+Sell Price Target: 189.6M
+Expected Profit After Tax: +8.66M coins
+Conviction: Moderate
+Reasoning: This player has active buy listings and instant sell liquidity, addressing critical practical requirements. Despite lacking a confirmed bounce, the buy price is at the 0.0% position within the live fair-value band, indicating a highly opportunistic entry point at the current market floor with a positive expected profit after tax of +8.66M coins.
+---
+============================================================
+
+[2026-08-09 13:45:11] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Völler (110 OVR)
+Buy Price Target: 178.0M
+Sell Price Target: 241.0M
+Expected Profit After Tax: +38.9M coins
+Conviction: Moderate
+Reasoning: Despite lacking a confirmed bounce, Völler offers the highest expected profit and remaining discount in this weak-signal batch. Critically, it is the only candidate with both an active buy listing and instant sell liquidity, making it the sole actionable opportunity.
+---
+============================================================
+
+[2026-08-09 19:49:42] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Völler (110 OVR)
+Buy Price Target: 175.0M
+Sell Price Target: 241.0M
+Expected Profit After Tax: +41.9M coins
+Conviction: Moderate
+Reasoning: Despite lacking a confirmed bounce, Völler offers the highest expected profit and a substantial 26.1% discount well above tax. Crucially, it has both active buy listings and instant sell liquidity, and its buy price sits very low in the fair value band (14.3%), suggesting deep undervaluation at the current low.
+---
+Target Player: Ljungberg (111 OVR)
+Buy Price Target: 177.0M
+Sell Price Target: 214.0M
+Expected Profit After Tax: +15.6M coins
+Conviction: Moderate
+Reasoning: While lacking a confirmed bounce, Ljungberg presents an exceptionally strong position within its fair value band at 0.0%, indicating it's at the absolute lowest perceived value. It has active buy listings and instant sell liquidity, offering a worthwhile opportunity despite the falling price trend due to this extreme undervaluation.
+============================================================
+
+[2026-08-10 01:53:58] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Fellaini (110 OVR)
+Buy Price Target: 215.0M
+Sell Price Target: 263.0M
+Expected Profit After Tax: +21.7M coins
+Conviction: Moderate
+Reasoning: Despite lacking a confirmed bounce, Fellaini presents a worthwhile opportunity due to its current buy price being at a very low 11.1% within its live fair-value band, indicating strong present value. Crucially, the player has both an active buy listing and instant sell liquidity, making the trade actionable with a positive expected profit after tax of +21.7M coins.
+---
+============================================================
+
+[2026-08-10 07:58:12] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Bierhoff (110 OVR)
+Buy Price Target: 240.0M
+Sell Price Target: 288.5M
+Expected Profit After Tax: +19.65M coins
+Conviction: Moderate
+Reasoning: This candidate shows a confirmed price bounce (from 236M to 244M) and an active buy listing, indicating a potential reversal. Its buy price is at a very favorable 11.1% within RenderZ's fair-value band, and expected profit is decent despite lacking instant sell liquidity.
+---
+Target Player: Dempsey (112 OVR)
+Buy Price Target: 98.5M
+Sell Price Target: 128.25M
+Expected Profit After Tax: +16.925M coins
+Conviction: Moderate
+Reasoning: Despite the absence of instant sell liquidity, Dempsey presents a confirmed price bounce (from 92.5M to 100M) and an active listing to buy from. The current buy price is also highly attractive at 12.5% within RenderZ's fair-value band, coupled with a good expected profit.
+============================================================
