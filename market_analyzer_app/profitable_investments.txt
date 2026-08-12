@@ -238,3 +238,14 @@ Conviction: Low
 Reasoning: Despite lacking instant sell liquidity, Völler shows the highest expected profit (38.3M coins) and a substantial remaining discount (26.2%). This considerable buffer, coupled with a confirmed price bounce and an active buy listing, mitigates the selling risk enough to warrant a low-conviction approval in this weak-signal cycle.
 ---
 ============================================================
+
+[2026-08-12 00:22:28] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Fellaini (110 OVR)
+Buy Price Target: 215.0M
+Sell Price Target: 259.2M
+Expected Profit After Tax: +18.25M coins
+Conviction: Moderate
+Reasoning: This candidate shows a confirmed bounce in its recent price trend, along with a positive expected profit after tax of +18.25M coins. Crucially, it possesses both an active buy listing and instant sell liquidity, addressing key risk factors for this weak-signal batch, and a remaining discount of 17.0% provides good headroom above the market tax.
+---
+============================================================
