@@ -249,3 +249,14 @@ Conviction: Moderate
 Reasoning: This candidate shows a confirmed bounce in its recent price trend, along with a positive expected profit after tax of +18.25M coins. Crucially, it possesses both an active buy listing and instant sell liquidity, addressing key risk factors for this weak-signal batch, and a remaining discount of 17.0% provides good headroom above the market tax.
 ---
 ============================================================
+
+[2026-08-13 06:27:48] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Gervinho (111 OVR)
+Buy Price Target: 175.0M
+Sell Price Target: 235.0M
+Expected Profit After Tax: +36.5M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Gervinho presents a substantial expected profit of +36.5M coins with a confirmed price bounce and an active buy listing. Its low position in the fair-value band (14.3%) and strong remaining discount (24.3%) indicate a favorable entry point, making the liquidity risk potentially acceptable for such a high profit potential in a weak-signal cycle.
+---
+============================================================
