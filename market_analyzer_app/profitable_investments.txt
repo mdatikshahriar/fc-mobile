@@ -260,3 +260,14 @@ Conviction: Moderate
 Reasoning: Despite lacking instant sell liquidity, Gervinho presents a substantial expected profit of +36.5M coins with a confirmed price bounce and an active buy listing. Its low position in the fair-value band (14.3%) and strong remaining discount (24.3%) indicate a favorable entry point, making the liquidity risk potentially acceptable for such a high profit potential in a weak-signal cycle.
 ---
 ============================================================
+
+[2026-08-14 10:49:11] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Kuyt (110 OVR)
+Buy Price Target: 180.0M
+Sell Price Target: 214.83M
+Expected Profit After Tax: +13.35M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Kuyt presents a compelling opportunity with an active buy listing, a confirmed bounce in price, and is currently positioned at the absolute lowest end (0%) of its live fair-value band, suggesting strong undervaluation. The expected profit of +13.35M coins is substantial enough to warrant the risk associated with potential delays in selling.
+---
+============================================================
