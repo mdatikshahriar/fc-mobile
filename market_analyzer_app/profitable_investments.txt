@@ -271,3 +271,60 @@ Conviction: Moderate
 Reasoning: Despite lacking instant sell liquidity, Kuyt presents a compelling opportunity with an active buy listing, a confirmed bounce in price, and is currently positioned at the absolute lowest end (0%) of its live fair-value band, suggesting strong undervaluation. The expected profit of +13.35M coins is substantial enough to warrant the risk associated with potential delays in selling.
 ---
 ============================================================
+
+[2026-08-14 16:53:58] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Kuyt (110 OVR)
+Buy Price Target: 180.0M
+Sell Price Target: 214.8M
+Expected Profit After Tax: +13.35M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Kuyt presents a compelling asymmetric-risk opportunity due to a confirmed bounce and being significantly undervalued at -28.6% below the low end of the fair-value band, indicating a deep discount. The positive expected profit of +13.35M and an active buy listing further support this.
+---
+============================================================
+
+[2026-08-14 22:58:52] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Kuyt (110 OVR)
+Buy Price Target: 180.0M
+Sell Price Target: 214.8M
+Expected Profit After Tax: +13.4M coins
+Conviction: Low
+Reasoning: Despite lacking instant sell liquidity, Kuyt's buy price sits at a significant -28.6% of its fair value band, indicating a deep undervaluation with strong potential for price correction. This is supported by a confirmed bounce and a positive expected profit after tax of +13.4M coins, alongside an active buy listing.
+---
+============================================================
+
+[2026-08-15 05:04:05] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: King (110 OVR)
+Buy Price Target: 147.0M
+Sell Price Target: 181.5M
+Expected Profit After Tax: +16.35M coins
+Conviction: Moderate
+Reasoning: This candidate shows a solid expected profit and a strong remaining discount of 17.9% after tax. Despite lacking instant sell liquidity, it benefits from a confirmed bounce, an active buy listing, and a good entry point at the 20.0% mark of the fair value band, making it a viable asymmetric-risk opportunity.
+---
+Target Player: Kuyt (110 OVR)
+Buy Price Target: 180.0M
+Sell Price Target: 212.0M
+Expected Profit After Tax: +10.8M coins
+Conviction: Moderate
+Reasoning: Kuyt presents a positive expected profit and a 12.3% remaining discount, coupled with a confirmed bounce and an active buy listing. Crucially, its buy price is significantly below the fair-value band at -28.6%, suggesting a deep undervaluation that mitigates the risk from the current lack of instant sell liquidity.
+---
+============================================================
+
+[2026-08-15 11:08:42] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: King (110 OVR)
+Buy Price Target: 147.0M
+Sell Price Target: 181.5M
+Expected Profit After Tax: +16.35M coins
+Conviction: Moderate
+Reasoning: This player shows a solid expected profit of +16.35M coins and a confirmed bounce, with a favorable 17.9% remaining discount and a buy price positioned well at 20.0% within the fair value band. Despite the noted lack of instant sell liquidity, other metrics indicate a promising buying opportunity for this weak-signal cycle.
+---
+Target Player: Kuyt (110 OVR)
+Buy Price Target: 180.0M
+Sell Price Target: 212.0M
+Expected Profit After Tax: +10.8M coins
+Conviction: Moderate
+Reasoning: Kuyt presents an exceptionally low position in the fair value band (-28.6%), indicating significant undervaluation relative to RenderZ's live estimate. Combined with a confirmed bounce and an active buy listing, this suggests strong rebound potential that outweighs the risk of lacking instant sell liquidity.
+============================================================
