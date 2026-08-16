@@ -328,3 +328,35 @@ Expected Profit After Tax: +10.8M coins
 Conviction: Moderate
 Reasoning: Kuyt presents an exceptionally low position in the fair value band (-28.6%), indicating significant undervaluation relative to RenderZ's live estimate. Combined with a confirmed bounce and an active buy listing, this suggests strong rebound potential that outweighs the risk of lacking instant sell liquidity.
 ============================================================
+
+[2026-08-15 17:13:12] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Gervinho (111 OVR)
+Buy Price Target: 166.0M
+Sell Price Target: 233.0M
+Expected Profit After Tax: +43.7M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Gervinho presents a compelling opportunity with the highest expected profit of +43.7M coins and an exceptional undervaluation at -42.9% within the fair-value band. Coupled with a confirmed bounce and an active buy listing, the substantial discount and profit potential outweigh the liquidity risk for this weak-signal cycle.
+---
+============================================================
+
+[2026-08-15 23:19:00] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Gervinho (111 OVR)
+Buy Price Target: 166.0M
+Sell Price Target: 233.0M
+Expected Profit After Tax: +43.7M coins
+Conviction: Moderate
+Reasoning: Gervinho presents an exceptionally high expected profit after tax (+43.7M coins) and is trading significantly below its fair value band (-42.9%), with a confirmed price bounce and an active buy listing. While instant sell liquidity is not present, the substantial remaining discount (25.8% after tax) offers a compelling asymmetric-risk opportunity despite not clearing all normal deterministic checks.
+============================================================
+
+[2026-08-16 05:23:33] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Gervinho (111 OVR)
+Buy Price Target: 176.0M
+Sell Price Target: 228.0M
+Expected Profit After Tax: +29.2M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Gervinho presents a compelling opportunity with the highest expected profit of +29.2M coins, a significant 22.8% remaining discount after tax, and a confirmed price bounce, suggesting strong recovery potential that mitigates the liquidity concern in this weak-signal cycle.
+---
+============================================================
