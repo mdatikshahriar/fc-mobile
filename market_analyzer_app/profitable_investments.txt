@@ -360,3 +360,14 @@ Conviction: Moderate
 Reasoning: Despite lacking instant sell liquidity, Gervinho presents a compelling opportunity with the highest expected profit of +29.2M coins, a significant 22.8% remaining discount after tax, and a confirmed price bounce, suggesting strong recovery potential that mitigates the liquidity concern in this weak-signal cycle.
 ---
 ============================================================
+
+[2026-08-16 23:07:47] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: King (110 OVR)
+Buy Price Target: 143.0M
+Sell Price Target: 179.25M
+Expected Profit After Tax: +18.33M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, King offers a strong expected profit of +18.33M coins and a healthy 19.1% remaining discount above tax. The buy price is favorably positioned at 20% within the fair-value band, and there is an active listing to purchase the player.
+---
+============================================================
