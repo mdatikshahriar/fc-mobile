@@ -371,3 +371,14 @@ Conviction: Moderate
 Reasoning: Despite lacking instant sell liquidity, King offers a strong expected profit of +18.33M coins and a healthy 19.1% remaining discount above tax. The buy price is favorably positioned at 20% within the fair-value band, and there is an active listing to purchase the player.
 ---
 ============================================================
+
+[2026-08-18 23:30:36] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Beckham (109 OVR)
+Buy Price Target: 94.5M
+Sell Price Target: 112.75M
+Expected Profit After Tax: +6.975M coins
+Conviction: Moderate
+Reasoning: Despite lacking a confirmed bounce and instant sell liquidity, Beckham presents a worthwhile opportunity due to its positive expected profit after tax of +6.975M coins and a very low position in the fair-value band at 12.8%, indicating significant undervaluation. An active buy listing is also present, allowing for acquisition.
+---
+============================================================
