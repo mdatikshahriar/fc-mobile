@@ -382,3 +382,14 @@ Conviction: Moderate
 Reasoning: Despite lacking a confirmed bounce and instant sell liquidity, Beckham presents a worthwhile opportunity due to its positive expected profit after tax of +6.975M coins and a very low position in the fair-value band at 12.8%, indicating significant undervaluation. An active buy listing is also present, allowing for acquisition.
 ---
 ============================================================
+
+[2026-08-21 18:57:49] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: McManaman (112 OVR)
+Buy Price Target: 364.0M
+Sell Price Target: 424.0M
+Expected Profit After Tax: +17.6M coins
+Conviction: Moderate
+Reasoning: This candidate presents a strong positive expected profit of +17.6M coins, a confirmed price bounce, and an active buy listing, which are crucial signals in a weak-signal cycle. While lacking instant sell liquidity, the substantial profit potential and clear recovery indicators make it a compelling opportunity despite the associated risk.
+---
+============================================================
