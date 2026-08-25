@@ -393,3 +393,41 @@ Conviction: Moderate
 Reasoning: This candidate presents a strong positive expected profit of +17.6M coins, a confirmed price bounce, and an active buy listing, which are crucial signals in a weak-signal cycle. While lacking instant sell liquidity, the substantial profit potential and clear recovery indicators make it a compelling opportunity despite the associated risk.
 ---
 ============================================================
+
+[2026-08-24 21:28:28] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Keane (110 OVR)
+Buy Price Target: 141.0M
+Sell Price Target: 166.0M
+Expected Profit After Tax: +8.4M coins
+Conviction: Moderate
+Reasoning: Keane is the only candidate with an active buy listing, making it the sole actionable trade. Despite lacking a confirmed bounce, its buy price sits at 0.0% within the fair-value band, indicating significant undervaluation, and it offers instant sell liquidity with a positive expected profit.
+---
+============================================================
+
+[2026-08-25 03:33:00] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: King (110 OVR)
+Buy Price Target: 107.0M
+Sell Price Target: 159.0M
+Expected Profit After Tax: +36.1M coins
+Conviction: Moderate
+Reasoning: Despite lacking a confirmed bounce, this player offers a significant expected profit, has instant sell liquidity, and is currently at the absolute low end of the fair-value band (0.0%), indicating a deeply discounted entry point. The buy price is also below the last recorded price in the recent trend, suggesting a fresh dip.
+---
+Target Player: Bierhoff (110 OVR)
+Buy Price Target: 221.0M
+Sell Price Target: 283.0M
+Expected Profit After Tax: +33.7M coins
+Conviction: Low
+Reasoning: This player presents a good expected profit with instant sell liquidity. The buy price is slightly below the last recorded point in the recent price trend, indicating a recent, unconfirmed dip, and the position in the fair value band is reasonable at 33.3%.
+============================================================
+
+[2026-08-25 09:37:29] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Carles Puyol (108 OVR)
+Buy Price Target: 98.8M
+Sell Price Target: 122.0M
+Expected Profit After Tax: +11.0M coins
+Conviction: Low
+Reasoning: Despite lacking a confirmed bounce, Carles Puyol has active buy listings and instant sell liquidity. With an expected profit of +11.0M and a current buy price at the lowest point of its recent trend (98.8M), the RenderZ external data indicates a recent positive price change of +1.96%, suggesting a potential turnaround.
+============================================================
