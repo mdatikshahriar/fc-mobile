@@ -431,3 +431,58 @@ Expected Profit After Tax: +11.0M coins
 Conviction: Low
 Reasoning: Despite lacking a confirmed bounce, Carles Puyol has active buy listings and instant sell liquidity. With an expected profit of +11.0M and a current buy price at the lowest point of its recent trend (98.8M), the RenderZ external data indicates a recent positive price change of +1.96%, suggesting a potential turnaround.
 ============================================================
+
+[2026-08-26 05:09:08] BULK MARKET OPPORTUNITY DETECTED
+---
+Target Player: Bierhoff (110 OVR)
+Buy Price Target: 204.0M
+Sell Price Target: 282.5M
+Expected Profit After Tax: +50.3M coins
+Conviction: High
+Reasoning: The substantial `discount_pct_vs_baseline` of 27.4% follows a sustained downtrend, indicating a genuine market correction rather than an anomalous low. Despite the `recent_price_trend` showing only a single uptick from the trough, the moderate `volatility_cv` of 0.089 and the position at the 0.0% mark of the fair value band suggest this is a robust start to a price reversion.
+---
+============================================================
+
+[2026-08-26 11:13:34] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: King (110 OVR)
+Buy Price Target: 100.0M
+Sell Price Target: 157.5M
+Expected Profit After Tax: +41.75M coins
+Conviction: Moderate
+Reasoning: Despite lacking a confirmed bounce, King presents a compelling opportunity due to its extremely low position in the fair-value band at 2.4%, suggesting a strong buy point. The trade offers significant expected profit after tax (+41.75M coins) and has full liquidity for both buying and instant selling.
+---
+============================================================
+
+[2026-08-26 17:37:22] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Lizarazu (110 OVR)
+Buy Price Target: 160.0M
+Sell Price Target: 193.25M
+Expected Profit After Tax: +13.925M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Lizarazu presents a compelling opportunity due to a confirmed price bounce and an active buy listing. The buy price is very favorable at 14.3% within the fair-value band, supported by a positive RenderZ price trend, indicating strong potential for rebound.
+---
+============================================================
+
+[2026-08-26 23:42:50] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: King (110 OVR)
+Buy Price Target: 105.0M
+Sell Price Target: 157.5M
+Expected Profit After Tax: +36.75M coins
+Conviction: Moderate
+Reasoning: This candidate is unique in this batch for having a confirmed bounce and an active buy listing, which are critical pre-conditions for a viable trade. Despite the lack of instant sell liquidity, the confirmed price recovery and substantial expected profit of +36.75M coins offer a compelling asymmetric-risk opportunity, even at the 80% mark within the fair value band.
+---
+============================================================
+
+[2026-08-27 05:47:20] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: King (110 OVR)
+Buy Price Target: 105.0M
+Sell Price Target: 156.0M
+Expected Profit After Tax: +35.4M coins
+Conviction: Moderate
+Reasoning: King is the only candidate with a confirmed price bounce, an active listing to buy from, and instant sell liquidity, addressing the most critical operational requirements. Despite a mid-range position in the fair value band, the substantial expected profit after tax and clear recovery trend make this a viable opportunity in a weak-signal cycle.
+---
+============================================================
