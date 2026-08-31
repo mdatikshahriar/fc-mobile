@@ -486,3 +486,41 @@ Conviction: Moderate
 Reasoning: King is the only candidate with a confirmed price bounce, an active listing to buy from, and instant sell liquidity, addressing the most critical operational requirements. Despite a mid-range position in the fair value band, the substantial expected profit after tax and clear recovery trend make this a viable opportunity in a weak-signal cycle.
 ---
 ============================================================
+
+[2026-08-30 23:37:21] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Völler (110 OVR)
+Buy Price Target: 90.2M
+Sell Price Target: 179.75M
+Expected Profit After Tax: +71.58M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Völler presents an exceptionally high expected profit after tax of +71.58M coins, supported by a confirmed price bounce, active buy listing, and a favorable position (40.5%) within its fair-value band.
+---
+============================================================
+
+[2026-08-31 00:14:32] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Völler (110 OVR)
+Buy Price Target: 90.2M
+Sell Price Target: 179.5M
+Expected Profit After Tax: +71.35M coins
+Conviction: Moderate
+Reasoning: Völler presents the highest expected profit in this weak-signal batch (+71.35M), combined with a confirmed price bounce, an active buy listing, and a favorable position at the lower end of the fair-value band (40.5%). The primary risk is the lack of instant sell liquidity, meaning a sale might take time, but the substantial profit potential and strong underlying indicators make it a worthwhile asymmetric-risk opportunity despite this drawback.
+============================================================
+
+[2026-08-31 06:18:56] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Bierhoff (110 OVR)
+Buy Price Target: 183.0M
+Sell Price Target: 281.5M
+Expected Profit After Tax: +70.35M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Bierhoff presents a high expected profit after tax (+70.35M coins) from a confirmed bounce, and the buy price is favorably positioned after a recent dip. The substantial remaining discount (34.6%) provides a strong buffer, making this a worthwhile, albeit risky, opportunity.
+---
+Target Player: Lizarazu (110 OVR)
+Buy Price Target: 150.0M
+Sell Price Target: 191.0M
+Expected Profit After Tax: +21.9M coins
+Conviction: Moderate
+Reasoning: Lizarazu shows a confirmed bounce and is available at a very favorable position at the low end of its fair value band (28.6%). While instant sell liquidity is absent, the clear recovery signal and strong entry point make this a compelling, asymmetric-risk trade.
+============================================================
