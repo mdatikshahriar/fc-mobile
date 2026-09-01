@@ -524,3 +524,43 @@ Expected Profit After Tax: +21.9M coins
 Conviction: Moderate
 Reasoning: Lizarazu shows a confirmed bounce and is available at a very favorable position at the low end of its fair value band (28.6%). While instant sell liquidity is absent, the clear recovery signal and strong entry point make this a compelling, asymmetric-risk trade.
 ============================================================
+
+[2026-08-31 22:17:43] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Völler (110 OVR)
+Buy Price Target: 94.8M
+Sell Price Target: 179.5M
+Expected Profit After Tax: +66.75M coins
+Conviction: Moderate
+Reasoning: Völler presents a significant profit opportunity with a 46.2% remaining discount after tax and a position at the very low end (5.1%) of his current fair-value band. Despite lacking instant sell liquidity, the confirmed bounce and active buy listing, combined with a compelling expected profit, suggest a favorable asymmetric risk profile for this weak-signal cycle.
+---
+============================================================
+
+[2026-09-01 04:22:41] BULK MARKET OPPORTUNITY DETECTED
+---
+Target Player: Völler (110 OVR)
+Buy Price Target: 98.5M
+Sell Price Target: 178.75M
+Expected Profit After Tax: +62.375M coins
+Conviction: High
+Reasoning: The 53.3% discount from baseline appears to be a genuine dip followed by a robust, multi-tick recovery in the price trend, indicating a strong market rebound despite the low volatility of 0.04.
+---
+============================================================
+
+[2026-09-01 10:27:10] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Völler (110 OVR)
+Buy Price Target: 94.8M
+Sell Price Target: 178.75M
+Expected Profit After Tax: +66.075M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Völler presents an exceptionally high expected profit of +66.075M coins and a remaining discount of 47.1%, significantly surpassing the 10% tax, along with a confirmed bounce and active buy listing. This offers a compelling asymmetric risk opportunity.
+---
+Target Player: Hagi (110 OVR)
+Buy Price Target: 122.0M
+Sell Price Target: 182.375M
+Expected Profit After Tax: +42.1375M coins
+Conviction: Moderate
+Reasoning: Although a confirmed bounce is absent, Hagi's buy price sits at 0.0% within the fair-value band, indicating extreme undervaluation. This, combined with strong expected profit (+42.1375M coins), ample remaining discount (31.5%), and instant sell liquidity, makes it a worthwhile "bottom fishing" opportunity.
+---
+============================================================
