@@ -564,3 +564,25 @@ Conviction: Moderate
 Reasoning: Although a confirmed bounce is absent, Hagi's buy price sits at 0.0% within the fair-value band, indicating extreme undervaluation. This, combined with strong expected profit (+42.1375M coins), ample remaining discount (31.5%), and instant sell liquidity, makes it a worthwhile "bottom fishing" opportunity.
 ---
 ============================================================
+
+[2026-09-01 22:35:17] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Völler (110 OVR)
+Buy Price Target: 98.5M
+Sell Price Target: 178.75M
+Expected Profit After Tax: +62.375M coins
+Conviction: Moderate
+Reasoning: Despite the absence of instant sell liquidity, Völler presents the strongest asymmetric risk opportunity due to its high expected profit (+62.375M coins) and an excellent 46.0% remaining discount against its long-term baseline, supported by a confirmed price bounce and an active buy listing.
+---
+============================================================
+
+[2026-09-02 01:25:07] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Völler (110 OVR)
+Buy Price Target: 98.5M
+Sell Price Target: 178.0M
+Expected Profit After Tax: +61.7M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Völler presents a compelling opportunity due to its high expected profit, confirmed bounce, and exceptional undervaluation at 12.5% within the fair value band and a 53.1% discount against its baseline. The deep discount and positive price trend suggest strong recovery potential, justifying the liquidity risk.
+---
+============================================================
