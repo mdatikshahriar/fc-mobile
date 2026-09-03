@@ -586,3 +586,48 @@ Conviction: Moderate
 Reasoning: Despite lacking instant sell liquidity, Völler presents a compelling opportunity due to its high expected profit, confirmed bounce, and exceptional undervaluation at 12.5% within the fair value band and a 53.1% discount against its baseline. The deep discount and positive price trend suggest strong recovery potential, justifying the liquidity risk.
 ---
 ============================================================
+
+[2026-09-02 22:17:44] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Park Ji Sung (110 OVR)
+Buy Price Target: 161.0M
+Sell Price Target: 207.67M
+Expected Profit After Tax: +25.9M coins
+Conviction: Moderate
+Reasoning: This candidate is uniquely viable due to the combination of a confirmed bounce and an active buy listing with `has_instant_sell_liquidity: true`, which significantly mitigates the critical exit liquidity risk in this weak-signal cycle, offering a respectable +25.9M expected profit despite a higher fair value band position (71.4%).
+---
+============================================================
+
+[2026-09-03 04:22:51] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Völler (110 OVR)
+Buy Price Target: 98.5M
+Sell Price Target: 177.8M
+Expected Profit After Tax: +61.5M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Völler presents an exceptionally high expected profit (+61.5M coins) with a substantial remaining discount of 44.6%, providing a strong buffer against potential selling delays or price adjustments. The trade is supported by a confirmed bounce and an active buy listing.
+---
+Target Player: Schweinsteiger (110 OVR)
+Buy Price Target: 178.0M
+Sell Price Target: 255.8M
+Expected Profit After Tax: +52.2M coins
+Conviction: Moderate
+Reasoning: This candidate features a high expected profit and an excellent remaining discount (28.8%), coupled with an active buy listing and confirmed bounce. Crucially, its buy price is at the absolute low end of the fair-value band (0.0%), indicating a strong undervaluation that warrants the risk of lacking instant sell liquidity.
+---
+Target Player: King (110 OVR)
+Buy Price Target: 110.0M
+Sell Price Target: 154.0M
+Expected Profit After Tax: +28.6M coins
+Conviction: Moderate
+Reasoning: King shows a strong confirmed bounce and an active buy listing, with a good remaining discount (27.3%) and a favorable position within the fair-value band (20.0%). These factors, combined with a positive recent trend from RenderZ, suggest a worthwhile opportunity despite the absence of instant sell liquidity.
+============================================================
+
+[2026-09-03 10:27:31] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Völler (110 OVR)
+Buy Price Target: 98.5M
+Sell Price Target: 177.75M
+Expected Profit After Tax: +61.475M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Völler presents an exceptionally high expected profit of +61.475M coins and a significant remaining discount of 44.6%, coupled with a confirmed bounce and an active listing to buy from. This represents a strong asymmetric-risk opportunity where the considerable upside potential may outweigh the risk of slower exit liquidity.
+============================================================
