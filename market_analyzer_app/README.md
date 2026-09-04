@@ -81,15 +81,17 @@ The bot writes its own log file (`market_analyzer.log`, rotated automatically) a
 
 ## ⚙️ Technical Details (For Advanced Users)
 
-### Overcoming RenderZ API Limitations
-The RenderZ backend (`/api/players/filter`) is remarkably limited. It completely ignores payload filters for OVR (`ratings`), `price`, and `auctionable`. If requested, it simply dumps the entire database of players matching the `programFilters` (e.g., all 2,800+ Icons/Heroes). 
+### RenderZ's 2026-09 Search API Migration
+RenderZ replaced their whole player-search backend around 2026-09-03 — the old `POST /api/players/filter` started 404ing on every single request (confirmed via direct reproduction, and ruled out season-ID staleness, since all season IDs 404'd identically). The site now does full server-side rendering with an Elasticsearch-backed `GET /api/search/{seasonId}?v=1&q=<encoded>` endpoint, where `q` is a JSON Elasticsearch query DSL, raw-deflate compressed and base64url-encoded. This was reverse-engineered on 2026-09-04 via a Playwright-driven browser session capturing the live site's own network requests — not by crawling RenderZ's JS bundles in bulk, consistent with the earlier decision to respect their `robots.txt` (which disallows `ClaudeBot` and `/api/*` for all crawlers); this specific investigation was done on the user's explicit instruction.
 
-To solve this, `market_analyzer.py` utilizes a **hybrid filtering approach**:
-1. **Server-Side Program Filtering:** Reduces the payload from 58,000 total players down to ~2,800.
-2. **Client-Side Enforced Strict Filtering:** The script aggressively filters out non-auctionable cards, out-of-bounds OVRs, and price mismatches in memory, narrowing the 2,800 results down to the ~130 exact matches instantly.
+Two genuine improvements came with the migration:
+1. **Server-side filtering now actually works.** The old backend silently ignored OVR/price/auctionable filters and just dumped everything matching the program filter; the new one correctly honours rating range, `auctionable`, and program (`source.keyword`) filters server-side (verified empirically) — client-side re-filtering in `fetch_players` is now a defensive safety net, not a required workaround.
+2. **Page size went from 20 to 100** (the confirmed max — 200 is rejected), cutting the number of paginated requests per cycle by 5x, which also reduces exposure to the flaky-timeout issue below.
+
+The player object's id field is now `assetId` (was `id`) — same numbering scheme, just renamed; `priceData` (used for the rank-0 price) is unchanged.
 
 ### Pagination Strategy
-Because the server ignores our price/OVR bounds, early-stop pagination is impossible (the API returns players in random/unsorted order regarding price). The script purposefully introduces a `0.4s` polite sleep between paginated API calls to avoid rate-limiting or DDoS-ing the RenderZ API while it fetches all 142 pages of the subset.
+No page-count metadata is returned anymore, so pagination stops when a page returns fewer than the requested page size (100) rather than checking a `pageCount` field. The script still introduces a `0.4s` polite sleep between paginated calls to avoid hammering the RenderZ API.
 
 ### Handling RenderZ's Flaky Backend
 RenderZ's API times out on roughly 1 in 5 requests at random — not tied to any specific endpoint, just observed empirically. A full cycle makes ~140 pagination requests plus one `get_player_market` call per tracked player (~160+), so without retries a cycle was virtually guaranteed to hit at least one timeout and abort entirely partway through. Every request in `scripts/renderz_api.py` (`search_players`, `get_player_market`, `get_filter_options`) now goes through a shared retry-with-backoff helper (`_request_json`) before giving up — verified empirically to bring the effective failure rate to zero across dozens of consecutive requests.

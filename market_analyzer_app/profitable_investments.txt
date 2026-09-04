@@ -631,3 +631,25 @@ Expected Profit After Tax: +61.475M coins
 Conviction: Moderate
 Reasoning: Despite lacking instant sell liquidity, Völler presents an exceptionally high expected profit of +61.475M coins and a significant remaining discount of 44.6%, coupled with a confirmed bounce and an active listing to buy from. This represents a strong asymmetric-risk opportunity where the considerable upside potential may outweigh the risk of slower exit liquidity.
 ============================================================
+
+[2026-09-04 23:53:45] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Völler (110 OVR)
+Buy Price Target: 103.0M
+Sell Price Target: 177.5M
+Expected Profit After Tax: +56.75M coins
+Conviction: Moderate
+Reasoning: Völler is the only candidate with both a confirmed bounce and an active buy listing. Despite lacking instant sell liquidity, the substantial expected profit of +56.75M coins, excellent remaining discount of 40.8% vs. baseline, and a buy price at the low end of the fair value band (20.0%) provide a significant buffer against potential selling friction.
+---
+============================================================
+
+[2026-09-04 23:57:48] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Völler (110 OVR)
+Buy Price Target: 103.0M
+Sell Price Target: 177.5M
+Expected Profit After Tax: +56.75M coins
+Conviction: Moderate
+Reasoning: This candidate demonstrates a confirmed price bounce and an active buy listing, crucial signals for recovery. The buy price is also favorable, sitting at the low end of its fair-value band (20.0%), and offers a significant expected profit after tax (+56.75M coins), making it a worthwhile asymmetric opportunity despite lacking instant sell liquidity.
+---
+============================================================

@@ -34,7 +34,7 @@ if sys.stderr is not None:
 # Adjust sys.path to import renderz_api from scripts
 project_root = Path(__file__).resolve().parent.parent
 sys.path.append(str(project_root))
-from scripts.renderz_api import search_players, get_player_market
+from scripts.renderz_api import search_players, get_player_market, MAX_PAGE_SIZE
 
 logger = logging.getLogger("market_analyzer")
 
@@ -720,16 +720,21 @@ def run_analyzer(test_run=False):
 
     def fetch_players(filters: dict) -> list:
         """
-        Fetch players from RenderZ with smart pagination and server-side filtering.
+        Fetch players from RenderZ with pagination and server-side filtering.
 
         Key behaviours:
-          - 'programs' list is sent as 'programFilters' in the POST body, which the
-            server honours natively (discovered from the website URL). No need to loop
-            per-program — one request covers all programs at once.
-          - 'min_price' / 'max_price': applied client-side with early-stop pagination.
-            When sorted ASC by price, pagination stops the moment all players on a page
-            exceed max_price, avoiding scanning thousands of irrelevant pages.
+          - 'programs' list is sent as a "terms" query on "source.keyword" — the
+            correct server-side filter key for the current /api/search endpoint
+            (RenderZ migrated from POST /api/players/filter around 2026-09-03).
+          - Server-side rating/auctionable filtering is honoured correctly by the
+            current endpoint (verified empirically) — unlike the old endpoint, which
+            silently ignored these and required full client-side re-filtering. The
+            client-side checks below are now a defensive safety net, not a workaround.
+          - 'min_price' / 'max_price': still applied client-side — price range isn't
+            passed to the query at all, so this remains a filter over every fetched page.
           - 'position': stripped if null.
+          - Pagination: no page-count metadata is returned anymore, so a page returning
+            fewer than MAX_PAGE_SIZE players signals the last page.
         """
         programs  = filters.pop("programs",  None)
         position  = filters.pop("position",  None)
@@ -749,8 +754,6 @@ def run_analyzer(test_run=False):
                 page=page,
             )
             players_page = result.get("players", [])
-            page_data    = result.get("pageData", {})
-            total_pages  = page_data.get("pageCount", 1)
 
             if not players_page:
                 break
@@ -762,11 +765,12 @@ def run_analyzer(test_run=False):
                 ovr = p.get("rating", 0)
                 is_auctionable = p.get("auctionable", False)
 
-                # Client-side Auctionable filter
+                # Defensive client-side Auctionable filter (belt-and-suspenders; the
+                # server now honours this correctly, verified empirically).
                 if auctionable_only and not is_auctionable:
                     continue
 
-                # Client-side OVR filter (RenderZ backend ignores the ratings payload)
+                # Defensive client-side OVR filter (same — server now honours this too).
                 if min_rating is not None and ovr < min_rating:
                     continue
                 if max_rating is not None and ovr > max_rating:
@@ -776,17 +780,17 @@ def run_analyzer(test_run=False):
                 if price == 0:
                     continue
 
-                # Client-side Price filter
+                # Client-side Price filter (not supported server-side)
                 if min_price is not None and price < min_price:
                     continue
                 if max_price is not None and price > max_price:
                     continue
 
-                pid = str(p.get("id"))
+                pid = str(p.get("assetId"))
                 if pid not in seen_ids:
                     seen_ids[pid] = p
 
-            if page >= total_pages:
+            if len(players_page) < MAX_PAGE_SIZE:
                 break
 
             page += 1
@@ -807,7 +811,7 @@ def run_analyzer(test_run=False):
 
             # Update or create history entries for the fetched players
             for p in players:
-                pid = str(p.get("id"))
+                pid = str(p.get("assetId"))
                 name = p.get("cardName", p.get("commonName", "Unknown"))
                 ovr = p.get("rating", 0)
                 position = p.get("position", "Unknown")
@@ -832,7 +836,7 @@ def run_analyzer(test_run=False):
                 # market range, real buy/sell prices) — see get_player_market docstring.
                 # A failure here just means this poll's entry lacks the richer fields;
                 # it must never abort the whole cycle over one flaky request.
-                market_detail = get_player_market(p.get("id"))
+                market_detail = get_player_market(p.get("assetId"))
                 if market_detail:
                     price_point.update({
                         "current_value": market_detail.get("basePrice"),
