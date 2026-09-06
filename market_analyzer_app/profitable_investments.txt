@@ -653,3 +653,86 @@ Conviction: Moderate
 Reasoning: This candidate demonstrates a confirmed price bounce and an active buy listing, crucial signals for recovery. The buy price is also favorable, sitting at the low end of its fair-value band (20.0%), and offers a significant expected profit after tax (+56.75M coins), making it a worthwhile asymmetric opportunity despite lacking instant sell liquidity.
 ---
 ============================================================
+
+[2026-09-05 00:08:24] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Völler (110 OVR)
+Buy Price Target: 103.0M
+Sell Price Target: 176.8M
+Expected Profit After Tax: +56.1M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Völler presents a strong asymmetric opportunity with a high expected profit of +56.1M coins and a substantial 40.6% remaining discount. The confirmed bounce, active listing, and current buy price at the low end (20.0%) of its fair value band further support this potential.
+---
+============================================================
+
+[2026-09-05 06:10:09] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Hagi (110 OVR)
+Buy Price Target: 131.0M
+Sell Price Target: 179.5M
+Expected Profit After Tax: +30.55M coins
+Conviction: Moderate
+Reasoning: This candidate is compelling due to available active listings, a confirmed bounce signal, and crucial instant sell liquidity, combined with an ideal entry point at 0.0% of the fair-value band, offering an expected profit of +30.55M coins.
+---
+Target Player: Park Ji Sung (110 OVR)
+Buy Price Target: 164.0M
+Sell Price Target: 203.75M
+Expected Profit After Tax: +19.375M coins
+Conviction: Moderate
+Reasoning: Despite the weak-signal classification, this player presents a worthwhile opportunity with an active buy listing, confirmed bounce, and instant sell liquidity, alongside a favorable position in the fair-value band (28.6%) for an expected profit of +19.375M coins.
+============================================================
+
+[2026-09-05 12:11:56] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Park Ji Sung (110 OVR)
+Buy Price Target: 163.0M
+Sell Price Target: 203.75M
+Expected Profit After Tax: +20.375M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, this player shows a confirmed bounce and an active buy listing. Critically, the buy price is significantly below the low end of the fair-value band (-14.3%), indicating a strong undervaluation that should drive a future market correction and eventual liquidity.
+---
+============================================================
+
+[2026-09-05 18:05:16] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Hagi (110 OVR)
+Buy Price Target: 131.0M
+Sell Price Target: 179.5M
+Expected Profit After Tax: +30.55M coins
+Conviction: Moderate
+Reasoning: Hagi presents a compelling opportunity with a confirmed bounce and a favorable entry point at 0.0% within the fair-value band. Crucially, the player offers both instant sell liquidity and an active buy listing, significantly de-risking the trade despite this being a weak-signal cycle.
+---
+============================================================
+
+[2026-09-05 18:13:52] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Hagi (110 OVR)
+Buy Price Target: 131.0M
+Sell Price Target: 179.5M
+Expected Profit After Tax: +30.55M coins
+Conviction: Moderate
+Reasoning: Despite being a weak-signal cycle, Hagi presents a genuine opportunity with confirmed buy liquidity and instant sell liquidity, combined with a confirmed bounce and a buy price at the absolute low end (0.0%) of the fair value band. This unique confluence of factors mitigates the typical risks of a weak-signal candidate, offering a substantial potential profit.
+---
+============================================================
+
+[2026-09-05 21:23:03] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Bierhoff (110 OVR)
+Buy Price Target: 196.0M
+Sell Price Target: 273.8M
+Expected Profit After Tax: +50.5M coins
+Conviction: Low
+Reasoning: Bierhoff presents a compelling opportunity with a high expected profit of +50.5M coins, an active buy listing, and a confirmed price bounce, coupled with an excellent entry point at 28.6% of its fair-value band. While instant sell liquidity is absent, the significant potential upside justifies considering this trade as a longer-term hold.
+---
+============================================================
+
+[2026-09-06 09:27:46] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Schweinsteiger (110 OVR)
+Buy Price Target: 176.0M
+Sell Price Target: 249.0M
+Expected Profit After Tax: +48.1M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Schweinsteiger presents a significant expected profit of +48.1M coins, an active buy listing, and a confirmed strong price bounce with positive recent trend data. This combination offers a compelling risk-reward scenario for a weak-signal opportunity.
+---
+============================================================
