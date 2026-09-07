@@ -736,3 +736,70 @@ Conviction: Moderate
 Reasoning: Despite lacking instant sell liquidity, Schweinsteiger presents a significant expected profit of +48.1M coins, an active buy listing, and a confirmed strong price bounce with positive recent trend data. This combination offers a compelling risk-reward scenario for a weak-signal opportunity.
 ---
 ============================================================
+
+[2026-09-07 02:25:39] BULK MARKET OPPORTUNITY DETECTED
+---
+Target Player: Völler (110 OVR)
+Buy Price Target: 105.0M
+Sell Price Target: 176.0M
+Expected Profit After Tax: +53.4M coins
+Conviction: High
+Reasoning: The player shows a substantial 42.6% discount from baseline, with a clear multi-tick recovery observed from a sustained low of 101M to 107M. This strong recovery, coupled with a very low volatility_cv of 0.019, indicates a genuine market correction rather than transient noise.
+---
+============================================================
+
+[2026-09-07 03:52:19] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Owen (110 OVR)
+Buy Price Target: 176.0M
+Sell Price Target: 291.7M
+Expected Profit After Tax: +86.5M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Owen presents an exceptional expected profit of +86.5M coins with a confirmed bounce and active buy listing. The significant remaining discount of 39.7% post-tax suggests a strong potential upside, justifying the liquidity risk in a weak-signal cycle.
+---
+Target Player: Bierhoff (110 OVR)
+Buy Price Target: 192.0M
+Sell Price Target: 270.3M
+Expected Profit After Tax: +51.3M coins
+Conviction: Moderate
+Reasoning: Bierhoff shows strong undervaluation with its buy price sitting at -28.6% within the fair-value band, coupled with a confirmed bounce and active buy listing. This deep discount, alongside a healthy expected profit of +51.3M coins, makes a compelling case despite the lack of instant sell liquidity.
+---
+Target Player: Hagi (110 OVR)
+Buy Price Target: 126.0M
+Sell Price Target: 177.0M
+Expected Profit After Tax: +33.3M coins
+Conviction: Moderate
+Reasoning: Hagi is an appealing opportunity with its buy price at the low end (0.0%) of the fair-value band, indicating strong current undervaluation. With a confirmed bounce and active buy listing, the expected profit of +33.3M coins is worthwhile despite the absence of instant sell liquidity.
+---
+============================================================
+
+[2026-09-07 08:28:23] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Hagi (110 OVR)
+Buy Price Target: 126.0M
+Sell Price Target: 177.0M
+Expected Profit After Tax: +33.3M coins
+Conviction: Moderate
+Reasoning: Hagi presents a rare opportunity in this weak-signal batch with immediate sell liquidity (`has_instant_sell_liquidity: true`) and a buy price at the lowest end of the fair value band (`position_in_fair_value_band_pct: 0.0`), indicating strong undervaluation. This combination significantly mitigates common risks for a compelling expected profit, supported by a confirmed bounce and an active buy listing.
+============================================================
+
+[2026-09-07 09:55:00] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Owen (110 OVR)
+Buy Price Target: 172.0M
+Sell Price Target: 291.7M
+Expected Profit After Tax: +90.5M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Owen presents an exceptionally high expected profit of +90.5M coins with a deep remaining discount of 41.0%. The player has an active buy listing and a confirmed price bounce, making the significant profit potential an asymmetric-risk opportunity.
+============================================================
+
+[2026-09-07 12:16:29] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: King (110 OVR)
+Buy Price Target: 101.0M
+Sell Price Target: 149.5M
+Expected Profit After Tax: +33.55M coins
+Conviction: Moderate
+Reasoning: This player presents a compelling opportunity due to the presence of instant sell liquidity and an entry price at the absolute low end (0.0%) of the fair-value band, mitigating significant risks identified in other candidates. Despite not clearing all normal deterministic checks, these factors, combined with a confirmed bounce and active buy listing, make the expected positive profit genuinely attainable.
+---
+============================================================
