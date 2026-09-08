@@ -803,3 +803,14 @@ Conviction: Moderate
 Reasoning: This player presents a compelling opportunity due to the presence of instant sell liquidity and an entry price at the absolute low end (0.0%) of the fair-value band, mitigating significant risks identified in other candidates. Despite not clearing all normal deterministic checks, these factors, combined with a confirmed bounce and active buy listing, make the expected positive profit genuinely attainable.
 ---
 ============================================================
+
+[2026-09-07 18:19:04] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: King (110 OVR)
+Buy Price Target: 99.9M
+Sell Price Target: 149.5M
+Expected Profit After Tax: +34.65M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, King is an attractive opportunity due to a 0.0% position in the fair value band, indicating it's at the absolute low end of its current fair valuation, coupled with a confirmed bounce and substantial expected profit of +34.65M coins. This highly favorable entry price mitigates the risk of illiquidity by suggesting strong underlying value that should attract buyers, even if not instantly.
+---
+============================================================
