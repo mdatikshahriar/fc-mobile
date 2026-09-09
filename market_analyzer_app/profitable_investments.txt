@@ -814,3 +814,14 @@ Conviction: Moderate
 Reasoning: Despite lacking instant sell liquidity, King is an attractive opportunity due to a 0.0% position in the fair value band, indicating it's at the absolute low end of its current fair valuation, coupled with a confirmed bounce and substantial expected profit of +34.65M coins. This highly favorable entry price mitigates the risk of illiquidity by suggesting strong underlying value that should attract buyers, even if not instantly.
 ---
 ============================================================
+
+[2026-09-09 04:13:50] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Schweinsteiger (110 OVR)
+Buy Price Target: 191.0M
+Sell Price Target: 240.5M
+Expected Profit After Tax: +25.45M coins
+Conviction: Moderate
+Reasoning: This player has a confirmed upward price bounce and an active buy listing. Despite lacking instant sell liquidity, the recent price trend shows a strong and consistent recovery, indicating growing market interest that is likely to generate exit liquidity over time.
+---
+============================================================
