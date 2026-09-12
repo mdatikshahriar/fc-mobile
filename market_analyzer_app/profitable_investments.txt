@@ -904,3 +904,36 @@ Conviction: Moderate
 Reasoning: Despite lacking instant sell liquidity, Owen presents an exceptionally high expected profit of +125.56M coins, indicating a substantial asymmetric risk/reward profile. A confirmed bounce and a deep remaining discount of 53.9% against its long-term baseline suggest strong upside potential, justifying the risk of waiting for sell-side liquidity.
 ---
 ============================================================
+
+[2026-09-12 02:42:34] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Owen (110 OVR)
+Buy Price Target: 136.0M
+Sell Price Target: 290.0M
+Expected Profit After Tax: +125.0M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Owen presents an exceptionally high expected profit after tax (+125.0M coins) and a significant remaining discount (53.1%), making it an asymmetric-risk opportunity. The price trend shows a confirmed bounce, and an active listing is available to buy from.
+---
+============================================================
+
+[2026-09-12 04:16:40] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Hagi (110 OVR)
+Buy Price Target: 144.0M
+Sell Price Target: 170.7M
+Expected Profit After Tax: +9.6M coins
+Conviction: Moderate
+Reasoning: Hagi is the only candidate with an active buy listing, confirmed bounce, and instant sell liquidity. Coupled with a favorable entry point at 20% of the fair value band and a positive remaining discount after tax, this presents a worthwhile asymmetric risk opportunity.
+---
+============================================================
+
+[2026-09-12 22:03:09] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Owen (110 OVR)
+Buy Price Target: 145.0M
+Sell Price Target: 290.0M
+Expected Profit After Tax: +116.0M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Owen presents an exceptionally high expected profit of +116.0M coins and a 50.7% remaining discount, significantly above the market tax. The presence of a confirmed bounce and an active buy listing, alongside a strong recent price trend, indicates potential for a substantial long-term recovery.
+---
+============================================================
