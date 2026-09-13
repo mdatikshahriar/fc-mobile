@@ -937,3 +937,30 @@ Conviction: Moderate
 Reasoning: Despite lacking instant sell liquidity, Owen presents an exceptionally high expected profit of +116.0M coins and a 50.7% remaining discount, significantly above the market tax. The presence of a confirmed bounce and an active buy listing, alongside a strong recent price trend, indicates potential for a substantial long-term recovery.
 ---
 ============================================================
+
+[2026-09-13 04:05:39] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Owen (110 OVR)
+Buy Price Target: 147.0M
+Sell Price Target: 289.7M
+Expected Profit After Tax: +113.7M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity and being at the high end of the fair-value band (100%), Owen presents an exceptional expected profit of +113.7M coins and a remaining discount of 49.9%, far exceeding the 10% market tax. The presence of an active buy listing and a confirmed, consistent upward price trend makes this an asymmetric opportunity with significant upside potential.
+============================================================
+
+[2026-09-13 10:08:14] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Owen (110 OVR)
+Buy Price Target: 147.0M
+Sell Price Target: 289.7M
+Expected Profit After Tax: +113.7M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Owen shows an exceptionally high expected profit and remaining discount (49.3%), backed by a confirmed bounce and a clear recent upward price trend from 133M to 147M. This represents a significant asymmetric risk opportunity if sell-side liquidity returns.
+---
+Target Player: King (110 OVR)
+Buy Price Target: 115.0M
+Sell Price Target: 145.3M
+Expected Profit After Tax: +15.7M coins
+Conviction: Moderate
+Reasoning: King presents a strong opportunity with a confirmed bounce, excellent low position in the fair value band (20%), and a clear recent upward price trend. While instant sell liquidity is absent, the deep underlying value and positive price action suggest a high probability of market recovery and future liquidity.
+============================================================
