@@ -964,3 +964,35 @@ Expected Profit After Tax: +15.7M coins
 Conviction: Moderate
 Reasoning: King presents a strong opportunity with a confirmed bounce, excellent low position in the fair value band (20%), and a clear recent upward price trend. While instant sell liquidity is absent, the deep underlying value and positive price action suggest a high probability of market recovery and future liquidity.
 ============================================================
+
+[2026-09-13 21:03:15] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Owen (110 OVR)
+Buy Price Target: 151.0M
+Sell Price Target: 289.7M
+Expected Profit After Tax: +109.7M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Owen presents an exceptionally high expected profit of +109.7M coins with a strong 47.9% remaining discount and a confirmed upward price trend from 134M to 151M, alongside an active buy listing. This offers a compelling asymmetric-risk opportunity, with substantial buffer to absorb potential selling delays or minor price adjustments.
+---
+============================================================
+
+[2026-09-14 03:05:52] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: King (110 OVR)
+Buy Price Target: 113.0M
+Sell Price Target: 145.13M
+Expected Profit After Tax: +17.61M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, King shows a compelling opportunity with an active buy listing, a confirmed bounce, and a strong positive expected profit. Crucially, its buy_price sits at -20.0% within the fair-value band, indicating significant undervaluation that could drive a strong price recovery and attract liquidity.
+---
+============================================================
+
+[2026-09-14 09:08:31] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Owen (110 OVR)
+Buy Price Target: 154.0M
+Sell Price Target: 289.33M
+Expected Profit After Tax: +106.4M coins
+Conviction: Moderate
+Reasoning: Despite the absence of instant sell liquidity and a high position within the fair value band (85.7%), Owen offers an exceptional expected profit of +106.4M coins and a robust 47.5% remaining discount, supported by a confirmed price bounce, mitigating the liquidity risk.
+============================================================
