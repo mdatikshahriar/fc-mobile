@@ -996,3 +996,31 @@ Expected Profit After Tax: +106.4M coins
 Conviction: Moderate
 Reasoning: Despite the absence of instant sell liquidity and a high position within the fair value band (85.7%), Owen offers an exceptional expected profit of +106.4M coins and a robust 47.5% remaining discount, supported by a confirmed price bounce, mitigating the liquidity risk.
 ============================================================
+
+[2026-09-15 02:44:34] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Owen (110 OVR)
+Buy Price Target: 172.0M
+Sell Price Target: 288.3M
+Expected Profit After Tax: +87.5M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, the exceptionally high expected profit of +87.5M coins and a significant remaining discount of 40.3% present a compelling risk-reward profile for this weak-signal cycle, especially with a confirmed bounce and active buy listing. This substantial upside potential warrants consideration even with the increased holding risk.
+---
+Target Player: Völler (110 OVR)
+Buy Price Target: 125.0M
+Sell Price Target: 153.7M
+Expected Profit After Tax: +13.3M coins
+Conviction: Moderate
+Reasoning: This player stands out by having instant sell liquidity and an ideal buying position at 20.0% within the fair value band, significantly de-risking the trade. Combined with a confirmed bounce and an active listing, it offers a relatively solid profit opportunity despite not clearing all automated filters.
+============================================================
+
+[2026-09-15 08:47:09] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Owen (110 OVR)
+Buy Price Target: 173.0M
+Sell Price Target: 288.3M
+Expected Profit After Tax: +86.5M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Owen presents an exceptional expected profit after tax of +86.5M coins with a very strong remaining discount of 39.0%. This, combined with a confirmed bounce in recent price trend and a position at the low end of its fair value band (14.3%), makes it a compelling, asymmetric-risk opportunity.
+---
+============================================================
