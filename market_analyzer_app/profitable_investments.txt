@@ -1024,3 +1024,128 @@ Conviction: Moderate
 Reasoning: Despite lacking instant sell liquidity, Owen presents an exceptional expected profit after tax of +86.5M coins with a very strong remaining discount of 39.0%. This, combined with a confirmed bounce in recent price trend and a position at the low end of its fair value band (14.3%), makes it a compelling, asymmetric-risk opportunity.
 ---
 ============================================================
+
+[2026-09-16 05:20:17] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Owen (110 OVR)
+Buy Price Target: 173.0M
+Sell Price Target: 269.3M
+Expected Profit After Tax: +69.4M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Owen presents a very high expected profit of +69.4M coins and a substantial remaining discount of 35.0%, suggesting significant upside potential that outweighs the risk of delayed sale given a confirmed bounce and active buy listing.
+---
+Target Player: King (110 OVR)
+Buy Price Target: 113.0M
+Sell Price Target: 145.0M
+Expected Profit After Tax: +17.5M coins
+Conviction: Moderate
+Reasoning: King exhibits an exceptionally low position in the fair value band at -40.0%, indicating strong undervaluation and potential for price correction. This, combined with a confirmed bounce and positive expected profit of +17.5M, makes the lack of instant sell liquidity a worthwhile risk.
+============================================================
+
+[2026-09-16 23:42:42] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Owen (110 OVR)
+Buy Price Target: 182.0M
+Sell Price Target: 269.33M
+Expected Profit After Tax: +60.4M coins
+Conviction: Moderate
+Reasoning: This player presents a substantial expected profit of +60.4M coins and an exceptional remaining discount of 32.4% after tax, strongly indicating undervaluation. Despite the current lack of instant sell liquidity, the confirmed bounce and strong recent price trend suggest a high likelihood of buyer interest emerging, making the significant potential profit a justifiable risk.
+---
+============================================================
+
+[2026-09-17 05:45:06] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Owen (110 OVR)
+Buy Price Target: 188.0M
+Sell Price Target: 255.0M
+Expected Profit After Tax: +41.5M coins
+Conviction: Moderate
+Reasoning: Owen presents a compelling expected profit of 41.5M coins and a strong 26.3% remaining discount, significantly above the 10% market tax. This, combined with a confirmed price bounce and an active buy listing, makes it a worthwhile opportunity despite the absence of instant sell liquidity.
+---
+============================================================
+
+[2026-09-18 04:49:30] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Owen (110 OVR)
+Buy Price Target: 186.0M
+Sell Price Target: 245.7M
+Expected Profit After Tax: +35.1M coins
+Conviction: Moderate
+Reasoning: Despite the absence of instant sell liquidity, this candidate presents an exceptionally high expected profit of +35.1M coins and a strong remaining discount of 24.3% above the 10% market tax. Combined with a confirmed bounce and an active buy listing, these factors create a compelling, asymmetric-risk opportunity.
+---
+============================================================
+
+[2026-09-18 10:51:56] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Owen (110 OVR)
+Buy Price Target: 186.0M
+Sell Price Target: 245.7M
+Expected Profit After Tax: +35.1M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Owen presents an exceptionally high expected profit of +35.1M coins after tax, supported by a confirmed price bounce, an active buy listing, and a significant 38.1% discount against its long-term baseline, making the potential reward worth the liquidity risk.
+---
+============================================================
+
+[2026-09-18 16:54:25] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Owen (110 OVR)
+Buy Price Target: 188.0M
+Sell Price Target: 245.7M
+Expected Profit After Tax: +33.1M coins
+Conviction: Moderate
+Reasoning: Owen shows a substantial expected profit after tax (+33.1M) and a significant remaining discount (24.3%) from its long-term baseline. Crucially, it has confirmed liquidity with an active buy listing and instant sell liquidity, and a confirmed price bounce, mitigating key risks for a weak-signal candidate.
+============================================================
+
+[2026-09-18 22:56:59] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Owen (110 OVR)
+Buy Price Target: 188.0M
+Sell Price Target: 245.7M
+Expected Profit After Tax: +33.1M coins
+Conviction: Moderate
+Reasoning: Despite lacking instant sell liquidity, Owen presents a compelling opportunity with a significant expected profit of +33.1M coins and an exceptional remaining discount of 21.8% after tax, indicating substantial margin. The buy price is also at the absolute low end of the fair value band (0.0%) and shows a confirmed bounce with an active buy listing, mitigating other potential risks.
+============================================================
+
+[2026-09-19 04:59:32] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Owen (110 OVR)
+Buy Price Target: 188.0M
+Sell Price Target: 235.5M
+Expected Profit After Tax: +23.95M coins
+Conviction: Moderate
+Reasoning: This player is the only candidate presenting a positive expected profit after tax in this weak-signal batch, a significant differentiator. The buy price is at the lowest end of the fair-value band (0.0%), it has a confirmed bounce, and an active listing for purchase, suggesting a strong entry point despite the absence of instant sell liquidity.
+---
+============================================================
+
+[2026-09-19 11:04:31] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Owen (110 OVR)
+Buy Price Target: 195.0M
+Sell Price Target: 235.5M
+Expected Profit After Tax: +16.95M coins
+Conviction: Moderate
+Reasoning: This candidate demonstrates a confirmed price bounce and a substantial expected profit after tax of 16.95M, with an active listing available to buy. Although instant sell liquidity is currently unavailable, the significant profit margin and 17.2% remaining discount provide a strong buffer for this asymmetric-risk opportunity.
+---
+============================================================
+
+[2026-09-19 22:43:11] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Owen (110 OVR)
+Buy Price Target: 195.0M
+Sell Price Target: 235.5M
+Expected Profit After Tax: +16.95M coins
+Conviction: Moderate
+Reasoning: Despite the absence of instant sell liquidity, Owen presents the only clear opportunity with a substantial +16.95M expected profit after tax and a confirmed price bounce (recent trend: 183M -> 195M, then stabilized). An active buy listing and a healthy 17.2% remaining discount against the baseline support this asymmetric-risk investment.
+---
+============================================================
+
+[2026-09-20 04:45:37] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Owen (110 OVR)
+Buy Price Target: 195.0M
+Sell Price Target: 222.5M
+Expected Profit After Tax: +5.25M coins
+Conviction: Moderate
+Reasoning: Despite the absence of instant sell liquidity, Owen presents a worthwhile opportunity due to its positive expected profit of +5.25M coins, confirmed price bounce, and a favorable entry point at 14.3% within the fair value band. All other candidates failed critical pre-screening criteria.
+---
+============================================================
