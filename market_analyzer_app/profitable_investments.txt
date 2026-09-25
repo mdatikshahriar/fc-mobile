@@ -1149,3 +1149,25 @@ Conviction: Moderate
 Reasoning: Despite the absence of instant sell liquidity, Owen presents a worthwhile opportunity due to its positive expected profit of +5.25M coins, confirmed price bounce, and a favorable entry point at 14.3% within the fair value band. All other candidates failed critical pre-screening criteria.
 ---
 ============================================================
+
+[2026-09-24 23:37:51] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Owen (110 OVR)
+Buy Price Target: 195.0M
+Sell Price Target: 222.5M
+Expected Profit After Tax: +5.25M coins
+Conviction: Low
+Reasoning: Owen is the only candidate exhibiting a confirmed price bounce, coupled with a positive expected profit after tax and sufficient remaining discount (12.4%) to potentially cover market fees. However, the lack of definitive data on active buy listings and instant sell liquidity introduces notable risk.
+---
+============================================================
+
+[2026-09-25 05:50:42] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Shevchenko (112 OVR)
+Buy Price Target: 297.0M
+Sell Price Target: 341.0M
+Expected Profit After Tax: +9.9M coins
+Conviction: Moderate
+Reasoning: Despite being from a weak-signal cycle, Shevchenko is the only candidate with a confirmed bounce, active buy listing, and instant sell liquidity. Furthermore, its price is significantly undervalued at -30.8% within the fair-value band, presenting a compelling opportunity for recovery even with a tighter profit margin.
+---
+============================================================
