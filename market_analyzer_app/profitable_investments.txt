@@ -1171,3 +1171,45 @@ Conviction: Moderate
 Reasoning: Despite being from a weak-signal cycle, Shevchenko is the only candidate with a confirmed bounce, active buy listing, and instant sell liquidity. Furthermore, its price is significantly undervalued at -30.8% within the fair-value band, presenting a compelling opportunity for recovery even with a tighter profit margin.
 ---
 ============================================================
+
+[2026-09-30 09:30:31] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Šuker (112 OVR)
+Buy Price Target: 222.0M
+Sell Price Target: 289.33M
+Expected Profit After Tax: +38.4M coins
+Conviction: Moderate
+Reasoning: This player is the only candidate with a positive expected profit (+38.4M coins) that also has an active buy listing and a confirmed price bounce, crucial signals for a potential recovery. Despite lacking instant sell liquidity, the significant remaining discount of 23.3% provides a healthy buffer for profitability.
+---
+============================================================
+
+[2026-09-30 22:43:06] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Šuker (112 OVR)
+Buy Price Target: 222.0M
+Sell Price Target: 289.3M
+Expected Profit After Tax: +38.4M coins
+Conviction: Moderate
+Reasoning: This player shows a confirmed price bounce and has an active buy listing, crucial signals for a trading opportunity. Despite the lack of instant sell liquidity, the substantial expected profit of +38.4M coins and a remaining discount of 21.9% against the baseline, coupled with a favorable position at 11.1% within the fair-value band, make this an appealing asymmetric-risk opportunity.
+============================================================
+
+[2026-10-01 10:48:26] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Tévez (113 OVR)
+Buy Price Target: 399.0M
+Sell Price Target: 494.5M
+Expected Profit After Tax: +46.05M coins
+Conviction: Moderate
+Reasoning: Tévez presents a strong expected profit of over 46M coins and has both an active buy listing and a confirmed price bounce, crucial factors absent in most other candidates. While instant sell liquidity is not confirmed, the substantial profit and 19.3% remaining discount provide a buffer for potential slower exit.
+---
+============================================================
+
+[2026-10-02 12:09:37] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Tévez (113 OVR)
+Buy Price Target: 399.0M
+Sell Price Target: 492.0M
+Expected Profit After Tax: +43.8M coins
+Conviction: Moderate
+Reasoning: Tévez is the only candidate with an active buy listing and a confirmed bounce signal, crucial indicators of a potential price recovery. Furthermore, its buy price sits at a very favorable 11.8% within its fair value band, suggesting good undervaluation despite the lack of instant sell liquidity.
+============================================================
