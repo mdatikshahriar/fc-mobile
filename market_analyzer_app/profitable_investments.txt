@@ -1279,3 +1279,112 @@ Conviction: Moderate
 Reasoning: This candidate is the only one with a confirmed price bounce and an active buy listing, crucial indicators that most other candidates lack. Combined with a significant expected profit of +38.1M coins and being deeply undervalued at -11.1% within its fair value band, it presents a compelling buy opportunity despite the lack of instant sell liquidity.
 ---
 ============================================================
+
+[2026-10-14 00:09:03] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Buffon (107 OVR)
+Buy Price Target: 98.9M
+Sell Price Target: 150.0M
+Expected Profit After Tax: +36.1M coins
+Conviction: Moderate
+Reasoning: Despite lacking a confirmed bounce, Buffon presents a strong value opportunity with `position_in_fair_value_band_pct` at 0.0%, indicating it's at the low end of its live fair-value band. Both `has_active_buy_listing` and `has_instant_sell_liquidity` are true, mitigating key risks for this deep-value entry.
+============================================================
+
+[2026-10-14 06:11:05] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Buffon (107 OVR)
+Buy Price Target: 98.9M
+Sell Price Target: 150.0M
+Expected Profit After Tax: +36.1M coins
+Conviction: Moderate
+Reasoning: Despite lacking a confirmed bounce, Buffon presents a compelling opportunity due to its 0.0% position in the fair-value band, indicating a buy at the lowest estimated fair price, coupled with significant expected profit (+36.1M) and guaranteed instant buy/sell liquidity, mitigating immediate risks.
+---
+============================================================
+
+[2026-10-15 21:38:10] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Buffon (107 OVR)
+Buy Price Target: 98.9M
+Sell Price Target: 150.0M
+Expected Profit After Tax: +36.1M coins
+Conviction: Moderate
+Reasoning: Despite lacking a confirmed bounce, Buffon is currently available at the absolute low end of its fair-value band (0.0% position) with robust instant sell liquidity and an active buy listing. This indicates a deeply undervalued asset with clear exit paths, making it a compelling opportunity.
+---
+============================================================
+
+[2026-10-16 03:40:18] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Buffon (107 OVR)
+Buy Price Target: 98.9M
+Sell Price Target: 150.0M
+Expected Profit After Tax: +36.1M coins
+Conviction: Moderate
+Reasoning: Despite lacking a confirmed bounce, Buffon's buy price sits at 0.0% within the fair-value band, indicating it is at its absolute lowest fair value. This, combined with an active buy listing and instant sell liquidity, presents a compelling asymmetric-risk opportunity for a recovery.
+---
+============================================================
+
+[2026-10-16 09:42:22] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Fellaini (113 OVR)
+Buy Price Target: 384.0M
+Sell Price Target: 522.5M
+Expected Profit After Tax: +86.25M coins
+Conviction: Low
+Reasoning: Despite lacking instant sell liquidity, Fellaini is the only candidate showing a confirmed price bounce from 377M to 384M, combined with an active buy listing and a substantial expected profit of +86.25M coins.
+---
+============================================================
+
+[2026-10-16 15:44:22] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Buffon (107 OVR)
+Buy Price Target: 98.9M
+Sell Price Target: 150.0M
+Expected Profit After Tax: +36.1M coins
+Conviction: Moderate
+Reasoning: Despite lacking a confirmed bounce signal, Buffon's buy price is at the absolute low (0.0%) of RenderZ's live fair-value band, indicating significant undervaluation. Crucially, active buy listings and instant sell liquidity are present, offering a strong value opportunity with manageable exit risk.
+---
+============================================================
+
+[2026-10-16 21:46:23] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Buffon (107 OVR)
+Buy Price Target: 98.9M
+Sell Price Target: 150.0M
+Expected Profit After Tax: +36.1M coins
+Conviction: Moderate
+Reasoning: Despite lacking a confirmed bounce, Buffon presents a compelling opportunity with its price at the 0.0% position in the fair-value band and a substantial 32.7% remaining discount, indicating strong undervaluation and a clear entry point with active buy/sell liquidity.
+---
+============================================================
+
+[2026-10-17 10:59:20] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Buffon (107 OVR)
+Buy Price Target: 98.9M
+Sell Price Target: 150.0M
+Expected Profit After Tax: +36.1M coins
+Conviction: Moderate
+Reasoning: This candidate, despite lacking a confirmed bounce, presents a compelling opportunity due to its `position_in_fair_value_band_pct` of 0.0%, indicating it's at the absolute low end of its live fair value range. Combined with strong `expected_profit_after_tax` (+36.1M coins) and `has_instant_sell_liquidity: true`, it offers a high-discount entry point with viable exit.
+---
+============================================================
+
+[2026-10-17 17:01:53] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Buffon (107 OVR)
+Buy Price Target: 98.9M
+Sell Price Target: 150.0M
+Expected Profit After Tax: +36.1M coins
+Conviction: Moderate
+Reasoning: Despite lacking a confirmed bounce, Buffon is uniquely positioned at 0.0% within the RenderZ fair-value band, suggesting extreme undervaluation. Crucially, there is an active buy listing and instant sell liquidity, making this high-profit opportunity actionable.
+---
+============================================================
+
+[2026-10-17 23:03:44] BULK MARKET OPPORTUNITY DETECTED (weak-signal fallback batch)
+---
+Target Player: Buffon (107 OVR)
+Buy Price Target: 98.9M
+Sell Price Target: 150.0M
+Expected Profit After Tax: +36.1M coins
+Conviction: Moderate
+Reasoning: Despite `has_confirmed_bounce` being false, this candidate has an active buy listing and instant sell liquidity, which are critical for execution. The buy price is at 0.0% of the fair-value band, indicating a bottom-of-range entry, and the recent price trend shows it stabilizing at 101M before the current lower buy price.
+---
+============================================================
